@@ -1,0 +1,174 @@
+Make A Copy And Shred The Original
+
+by Scott McNair
+
+When SJ Games released the Assassins edition of INWO, it threw a few cards in to
+keep down the proliferation of "degenerate" decks, which rely on multiples of
+the same card. Arguably the most famous of these cards is Nevermore!, which
+"bans" repeats from play. However, in the spirit of INWO, we started looking for
+loopholes. Here's mine...
+Illuminati
+
+    UFOs
+
+Group Cards
+
+    Arms Dealers
+    Brazil
+    Cattle Mutilators
+    China
+    Copy Shops
+    N.S.A.
+    Nuclear Power Companies
+    Recycling Centers
+    Society for Creative Anarchism
+    Center for Weird Studies
+    Orbital Mind Control Lasers
+    Perpetual Motion Machine
+    Shroud of Turin
+
+Plot Cards
+
+    18-1/2 Minute Gap
+    Back to the Drawing Board x2
+    Embezzlement
+    Forgery
+    Go Fish x2
+    Go, Lemmings, Go!
+    Hoax
+    The Internet Worm x2
+    Let's You and Him Fight
+    March on Washington x3
+    Murphy's Law x2
+    Nevermore! x3
+    Power Grab x2
+    Sabotage!
+    Secrets Man Was Not Meant To Know x2
+    Security Leak x2
+    Voodoo Economics
+    Red NWO: Apathy
+    Goal: Corporate Masters
+    Goal: Criminal Overlords
+
+Beginning
+
+First, a note on how the deck's designed -- the idea is to Nevermore! as many of
+their plots as possible, while trying to use them yourself. In a typical turn,
+you'll want to expose their plots, use Copy Shops to duplicate and use the one
+most threatening to you, then Nevermore! it out of existence so that they can't
+use it. There are also handy "plot drainers" thrown in for good measure, just to
+make sure your opponent doesn't sneak one in on you.
+
+Your lead puppet should be the Cattle Mutilators, just to make sure that no one
+else gets them first. If it bounces, fine, put the Copy Shops out, which is just
+as important. It's doubtful that they'd bounce too. You'll want to get both
+groups in play as soon as possible; I pared down the group deck as much as I
+could to allow a greater chance of getting them in play faster. You have
+basically a 50-50 chance of having both groups available your first turn.
+
+As soon as you can get them in play, start picking on somebody, hopefully
+someone that all players find equally obnoxious -- expose their plots, find one
+that's threatening, and copy it and use it. The OMCLs help to make sure you have
+the proper alignments to use the card, but if not, try to use a March on
+Washington to use it. Then play a Nevermore! if you've got it. If you have the
+Center for Weird Studies in play, burn a useless card to action up your Copy
+Shops. If there's another plot you think is dangerous, copy/use/ban it as well.
+Use the UFO actions if possible to power the Nevermore!, but don't be afraid to
+burn cards if you feel like you'll need your actions.
+
+Or, if it looks like they have several cards which can threaten you, trade some
+useless cards for them with Arms Dealers. As the game progresses, you'll find
+that you have more and more cards that can't be used except as cannon fodder.
+But that's okay, so will they... ;)
+Midgame
+
+A combination you'll want to get out by the mid-point of the game is the SCA and
+the Recycling Centers, to burn one of their groups and put it in your hand.
+You'd be pushing it to win with only what's in your hand.
+
+Another sneaky trick in this game is the N.S.A./Go Fish combo. At the end of
+your turn, use the N.S.A.'s free move to look at their top three cards. When
+their turn comes around, right after they draw, Go Fish for a card you saw that
+you think you'll need/want.
+
+What if they Nevermore! you? Not a problem. Cancel their Illuminati action with
+the NPC (with Brazil and China linked up, they'll be able to do that and still
+have enough left over to defend you later). If they power the Nevermore! with
+plots, use Go, Lemmings, Go! to make them discard four plots instead of the
+initial two.
+
+Try to score a NWO: Apathy if you're worried about attacks against you; that
+way, they'll only be able to use one group. And be sure to save the NPC actions
+just in case they manage to break through with a powerhouse group. In a perfect
+game, you can have five actions on the NPCs (one for being them, two more for
+Brazil and China, one for the Perpetual Motion Machine if you haven't placed it
+elsewhere, and one that you can get on your turn from the Center for Weird
+Studies if you're empty).
+
+If someone manages to get through your defenses and play a plot card that could
+affect you adversely, try to use an 18-1/2 minute gap on them to steal it from
+them. Once that's done, you can use your Recycling Centers' action to put the
+discarded group into your hand, which actually makes 18-1/2 Minute Gap an
+infinitely more desirable card.
+Endgame
+
+By the end of the game, all of your plots will probably be Nevermore!-ed -- but
+that's okay, so will everybody else's. But at least you've been able to use
+their cards; they can't exactly say the same. You'll either win with your Goals
+or their Groups, or a combination of the two.
+Potential problems
+
+Here are some problems I ran into, with suggestions for how to get around them:
+
+Never use Copy Shop to get a plot canceller, because their first instinct will
+be to play their plot canceller on your copy, and the matter would probably end
+in a dice-off. Instead, steal it with Arms Dealers and THEN use it.
+
+If someone ATO's the Copy Shops before you can (which is doubtful, as it's
+rarely seen in play, at least in my gaming circle), you'll have to rely on the
+Arms Dealers, which is slightly less fun but almost as effective. Generally,
+most of the cards you'll be trading at that time will be useless anyway.
+
+If someone ATO's the NPCs, that could put a cramp in your style -- you'll have
+problems cancelling their Nevermore! actions, and they'll be able to cancel your
+Copy Shops/Arms Dealers tokens, which can be veeeeeery bad. In that case, you'll
+have to use the Center for Weird Studies and try again. Or they could use them
+to cancel your Nevermore! action. If you worry about that, use the discard
+option instead. Either way, plots will disappear very quickly, but hopefully not
+as fast as theirs are vanishing.
+
+If someone has a deck which isn't Plot-oriented, you could run into some major
+problems. Since this deck relies on Plots (preferably multiples) in their deck,
+a well-designed deck which isn't plot-dependent could hurt you. The Copy Shops
+are weak (1 Power, 4 Resistance) so defend them at all costs, especially since
+they're your key group. But whatever you do, don't tick everyone off! Go for the
+most despised power structure, whittle it down to nothing, then start on the
+second most despised power structure.
+Variants and Substitutions
+
+The group deck is pretty much immutable -- changing any of the groups is NOT
+recommended, as they're all pretty necessary for gameplay. However, if you wish,
+you could add some cards -- recommendations include Liquor Companies (to make
+sure you get to draw more from their groups than they do). Other groups that
+would be good are the I.R.S., for plot theft, and The Great Pyramid, for Go
+Fish. However, it's strongly urged not to increase the deck much at all, or else
+you won't be able to get the necessary combinations out fast enough.
+
+The plot deck is another story. The only truly necessary card is Nevermore!, for
+obvious reasons. Go Fish isn't necessary, but very nice indeed. Feel free to mix
+and match. I'd recommend plots that would either burn/expose their plots (George
+the Janitor, for example) or more plots such as Are We Having Fun Yet? or Let's
+You and Him Fight.
+
+The Illuminati can easily be changed -- the reason why I picked the UFOs was for
+the two action tokens needed to power the Nevermore! card. But any other
+Illuminati would do almost as well.
+
+Enjoy!
+
+Back to the Deck of the Week.
+
+First posted: September 4, 1997
+
+Last modified: September 4, 1997
+Ralph Melton ralph@cs.cmu.edu

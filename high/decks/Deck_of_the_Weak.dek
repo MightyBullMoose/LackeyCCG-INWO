@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Burschenschaften</name><set>German</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>California</name><set>Limited</set></card>
+		<card><name>Canada</name><set>Limited</set></card>
+		<card><name>Democrats</name><set>Limited</set></card>
+		<card><name>Finland</name><set>Limited</set></card>
+		<card><name>France</name><set>Limited</set></card>
+		<card><name>Hollywood</name><set>Limited</set></card>
+		<card><name>Italy</name><set>Limited</set></card>
+		<card><name>Triliberal Commission</name><set>Limited</set></card>
+		<card><name>USA</name><set>German</set></card>
+		<card><name>Autonome</name><set>German</set></card>
+		<card><name>Rogue Boomer</name><set>Limited</set></card>
+		<card><name>Screaming Meme</name><set>Assassins</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>Meteor Strike</name><set>Limited</set></card>
+		<card><name>Power to the People</name><set>Limited</set></card>
+		<card><name>Power to the People</name><set>Limited</set></card>
+		<card><name>Chicken in Every Pot</name><set>Limited</set></card>
+		<card><name>Chicken in Every Pot</name><set>Limited</set></card>
+		<card><name>Chicken in Every Pot</name><set>Limited</set></card>
+		<card><name>Law and Order</name><set>Limited</set></card>
+		<card><name>Censorship</name><set>Limited</set></card>
+		<card><name>Censorship</name><set>Limited</set></card>
+		<card><name>Fundie Money</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Seize the Time!</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+		<card><name>Interesting Times</name><set>Assassins</set></card>
+		<card><name>Interesting Times</name><set>Assassins</set></card>
+		<card><name>Interesting Times</name><set>Assassins</set></card>
+		<card><name>Apathy</name><set>Assassins</set></card>
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+		<card><name>Waiting Period</name><set>Assassins</set></card>
+	</superzone>
+</deck>

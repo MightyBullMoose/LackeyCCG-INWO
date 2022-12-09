@@ -1,0 +1,1674 @@
+https://www.sjgames.com/inwo/rules/subg.html
+
+SubGenius Rules
+
+INWO: SubGenius Rules, v1.01
+
+Cards and rules by
+Steve Jackson and Lynette R. F. Cowper
+
+Art direction by
+Reverend Ivan Stang and Steve Jackson
+
+Card illustrations by
+Rev. Ivan Stang, Le Mur, O Nenslo, Rev. Poindexter, Atom
+Funway Plastico, Paul Mavrides, Rev. Sternodox Keckhaver, Jim
+Vandewalker, Rev. Jan Arthur Johnson, St. Joe Riley, John
+Hagen-Brenner, "Babe" Huey, Leo Aman, IrRev. Friday Jones,
+Rev. Noah Stewart, Cuthulu, Dr. G. Gordon Gordon, Numen
+Remissionis, Dr. K'Taden Legume, Tommy Lopez, Michael
+Hinson, P. Wei R. Doe, RevvED, Dr. Chuckles
+Perdurabonobonanda, Tim Thomas.  See page 15 for full credits
+
+Card back designs by
+Derek Pearcy, from a painting by David Martin
+
+Graphic Design by
+Derek Pearcy and Jeff Koke (cards), Jack Elmy (rules)
+
+Playtesters and Rules Readers: Andrew "Bob" Aye, Glen "Greg-Bob" Barnett, The
+Rev. J.C. "Steve" Bevilacqua, Seth "Bob" Cohen, Aaron "Bob" Curtis, the Don
+Fnordlioni, Rev. Matt "Prof. Insanity" Fritts, Steve "Bob" Hatherly, Pôl "Bôb"
+Jackson, John "Bob" Karakash, Sam "Bob" Kington, Ralph "Bob" Melton, Rev. Nickie
+Michaud-Deathchick, Craig "Bob" O'Brien, Doug "Bob" Sheppard and Members of
+their play groups -- too numerous to mention individually, but their
+contributions were valuable.
+
+Incorporated.  INWO, Illuminati and the all-seeing pyramid are registered
+trademarks of Steve Jackson Games Incorporated.  All rights reserved.   This is
+a work of political and social satire.  Any resemblance to real persons, places,
+events or groups, living, dead or whatever, other than under license or with
+satirical intent, is coincidental.  "SubGenius" and the Divine Countenance of
+"Bob" are registered trademarks of the SubGenius Foundation, Inc., and used by
+permission.
+
+The Game for Superior Mutants . . .
+
+All right.  Listen up.  The world will end soon, destroyed by alien gods,
+monsters from the hollow earth, and the unspeakable NHGH.   The foolish Pinks,
+and the Conspiracy that pulls their strings, will fry in their own fat.  But the
+Xists in their flying saucers will save a chosen few humans (but only those
+descended from the ancient Yetis).   Their Earthly spokesman is J.R. "Bob"
+Dobbs, the grinning Saint of Sales.   His Church of the SubGenius is your last
+hope to find others like yourself, gain slack, and SAVE YOUR MISERABLE LIFE when
+X-Day comes.  Got it?
+
+ 
+Can You Repeat That More Slowly?
+
+No.  Pay closer attention.  This is a game for 2 to 4 players.  The INWO
+SubGenius set includes this rulebook and 100 brand-new cards.  This is not a
+collectible set; every box includes the same 100 cards.  Praise "Bob"!  No
+collecting!  You'll also need two 6-sided dice.  Each player also needs around
+15 "Action tokens" (glass pebbles are good) and a few pairs of distinctive
+markers for "links."
+
+You are the leader of one faction of the Church.  You battle against the other
+factions for SUPREMACY during the last days of Earth.   World leaders,
+multinational corporations, and entire nations are merely your pawns.  SLACK is
+yours for the taking.  Praise "Bob"!
+
+ 
+Is This Game Compatible With Standard INWO?
+
+Yes.  The rules presented here are a subset of the INWO rules, with a different
+setup.  The game mechanics are the same, simplified by the omission of duplicate
+cards and of several special card types.  Experienced players will find this set
+to be a good way to infect innocent minds with the INWO meme . . . err, to teach
+the game to new players.
+
+If you are already familiar with Standard INWO rules, you can flip to p. 15 for
+a quick look at the differences in SubGenius.
+
+All of the SubGenius cards can be used in a standard INWO game; they're all
+tournament legal.
+
+You can also bring cards (and Illuminati) from other INWO sets into a Subgenius
+game.  See p. 13 for more about this.
+
+ 
+Basic Rules
+Object of the Game
+
+The object of INWO is to control the world.  You start with a single Church of
+the SubGenius card, representing your own faction of the Church.  During the
+game, you take over other Group cards.  They are added to your Power Structure
+as your puppets -- unless a rival takes them from you.  You can use Plot cards
+to advance your own position or harass your opponents.
+
+You may win by controlling enough groups, or by fulfilling the special goal of
+your own Illuminati, or by meeting the objectives on a Goal card, or, of course,
+by crushing all of your rivals!  Thus, you prove that YOU are the True Church,
+and the others are deluded posers.
+
+ 
+Beginning the Game
+
+(1) Separate the Group cards (red backs, with a puppet) from the Plots (blue
+backs, with a hand).  Remove the four Church of the SubGenius cards from the
+Plot deck and give one to each player; set any extras aside.  Note:   Your
+"Church of the SubGenius" cards will usually be referred to as "Illuminati"
+cards in these rules.  Same thing, for purposes of this game.  This is to make
+the cards fully INWO-compatible.   See p. 15.  Fnord.
+
+Shuffle both decks.  All players will draw from them.   Discarded Plots will all
+go face up in a single stack beside the Plots deck; discarded Groups go face up
+in a single stack behind the Groups deck.  If either deck runs out, reshuffle
+the discards.
+
+(2) Deal three Groups and three Plots to each player.  After looking at his
+Plots, each player chooses one Group as a "lead" -- the first puppet of his
+Illuminati.  Resources (see p. 5) can also be leads; place them near your
+Illuminati.  All players place their leads on the table at the same time.
+
+(3) Each player holds his other two Groups in hand till the start of his first
+turn.  At this point, he puts his Groups, face-up, in the middle of the table. 
+This begins the "uncontrolled area" -- the Group cards that anyone can try to
+capture or destroy.
+
+(4) Each player rolls two dice.  The one with the highest roll goes first.
+
+At the beginning of the game, you may not do anything to a rival who has not yet
+completed his first turn!  You may not use Plot cards or special abilities on
+him, interfere with his attacks, or use any cards that injure him.  Exception:
+If someone attacks you or uses a plot card, Resource or special ability on you
+during his first turn, you are free to respond against that attack, plot,
+Resource or special ability use in any way you can.
+
+ 
+Turn Sequence
+
+Each turn has the following phases:
+Beginning of Turn:
+
+You may not spend any action tokens during the beginning of your turn except to
+buy cards, respond to rivals' actions, or power Plots and special abilities
+having to do with these phases of your turn.  You can use cards that don't
+require actions, though.
+
+1. Draw a Plot card for your hand.   If the Plot deck is ever used up, reshuffle
+the discarded Plots and then draw.
+
+2. Draw Groups.   If the uncontrolled area contains fewer than 8 cards, draw a
+card from the Group deck and place it in the uncontrolled area. (On your first
+turn, the two extra Group cards you were dealt should also be placed in the
+uncontrolled area.)  If you have any Action tokens on your groups, you may spend
+them now to draw more cards from either deck.   Each draw costs 2 tokens, or one
+Illuminati token.  Plots go into your hand; Group cards are placed in the
+uncontrolled area.
+
+3. Make an automatic takeover of any one Group or Resource that you placed in
+the uncontrolled area this turn, if you wish.  If you choose an automatic
+takeover, your Illuminati does not get a new token this turn.  A card with
+Control Arrows (see diagram, p. 4) is a regular Group.  Put it on any outgoing
+arrow of your Power Structure.  If a card has a Group back (red, with a puppet)
+but no Control Arrows, it is a Resource . . . put it beside your Power
+Structure.   (Regular groups have pink titles and text boxes; Resources have
+purple titles and text boxes.)
+
+4.  Place Action tokens.  Your Church of the SubGenius card gets one only if you
+did not make an automatic takeover.  It may accumulate any number of tokens from
+turn to turn.  These represent its SLACK, and each faction of the Church may
+gather as much SLACK as it can!
+
+Each of your other groups gets a token ONLY if it does not already have one on
+it.  No group can ever have more than one token unless a special ability,
+Resource, or Plot card specifically says it can.
+
+You can use any tokens you want -- we like glass stones -- but they should all
+be the same.
+Main Phase:
+
+5.   Attempt attacks or other actions, as explained below.  Each Action token
+allows one action -- you can attack, or use a special ability, or power a Plot
+card, or move groups, or draw more cards.  Plot cards may give you extra attacks
+or other actions.  Groups that don't act during your turn can use special
+abilities or Plot cards during the other players' turns!  When a group acts,
+remove its Action token.
+
+You may also take any "free moves" you want (see p. 6).   These don't count as
+actions, and can come before, between, or after your actions.
+End of Turn:
+
+6.  Has anyone won?   At this point, if you have achieved one or more of your
+Goals (see p. 10), you may declare victory and give other players a last chance
+to stop you by spending their actions or playing Plot cards.  Other players may
+also announce a victory in this phase.  If the victory can't be stopped, the
+game now ends.  Otherwise . . .
+
+7.  Knock.   Discard all plots whose effects lasted till the end of the turn, do
+any other "end of the turn" moves and rap on the table to alert the next player
+that you're finished.  An evil laugh is appropriate here.
+
+The next player now starts his turn.
+
+Play continues counterclockwise until someone wins -- see p. 10.  As play
+develops, your holdings might look like this:
+
+ 
+
+Your Illuminati card (1) is in front of you.   Connected to it are the groups
+that make up the rest of your Power Structure (2).  Beside it are your Resources
+(3) and any exposed Plots, face up (4).  Your destroyed pile (5) is to the side,
+face up.
+
+You will also be holding a hand of up to 5 Plot cards (some may be "exposed" and
+face up on the table in front of you).  You will never have Groups or Resources
+in your hand after your first turn.
+
+ 
+Plot Cards
+
+These cards are blue, with a hand on the back.  They represent Illuminated
+plots.  A Plot is kept on the table as a marker for its effect until it is no
+longer in effect, and is then discarded.
+
+Each Plot card tells when you can play it.  Follow the instructions on the card.
+Often a Plot will allow an exception to the rules.   The instructions on a card
+always take precedence over this rulebook, except for the Meta-Rules on p. 12.
+
+When you draw a Plot, place it in your hand.  It stays in your hand, "hidden,"
+until you play it or discard it, or until one of your rivals exposes it.  You
+may expose it yourself, but that's usually unwise.
+
+When one of your Plots is exposed, turn it face-up in front of you.  It stays
+face-up until it's hidden again (by a Plot or special ability), used, stolen, or
+discarded.  An exposed Plot is still considered part of your hand.
+
+You may show a hidden Plot to individual rivals, and then return it to your
+hand, hidden.  They can tell others what they saw, of course.  Or they can lie.
+
+You must always show how many hidden Plots you have, if someone asks.
+
+Some Plots work automatically; others require a die roll.  Some require a
+specific group to use an action; others are free.  Follow the instructions on
+the card.  Unless a card specifies otherwise, it can only be "powered" by
+actions or discards from the player who uses the card.
+How to Get Plot Cards
+
+You always draw one Plot at the beginning of each turn.
+
+Spending Tokens for Plots:  You may spend one Action token from your Illuminati,
+or two tokens from any other groups you control, to draw one Plot card.  You may
+do this at any time.
+
+If you have tokens on your groups at the beginning of your turn, you may spend
+these tokens to draw extra Plots immediately, before you place new tokens on
+your groups!
+Limit on Number of Plot Cards
+
+You may have any number of Plot cards in your hand during your turn.
+
+At any time except during your own turn, whenever you have more than 5 Plot
+cards, you must immediately get rid of the extra(s) . . . by using Plots, giving
+them away, or discarding them.
+
+Both your unplayed hidden and exposed Plots count toward your limit.   But some
+Plots stay on the table when used, as a reminder or "link" for the effect they
+create.  Once you've played them, they do not count against your limit and are
+not considered to be in hand.
+Discards
+
+All discarded Plots go face-up in one discard pile.
+
+Trading / Giving Away Plot Cards
+
+Plot cards not yet used may be given away at any time.   See Gifts and Trades,
+p. 9.
+
+ 
+Group Cards
+
+Groups are the cards that make up your Power Structure.  Groups (except for
+Illuminati) have red backs with puppets.  The name and text box are pink.
+
+The group's name(1) is at the top.  Below the picture are its description and
+special abilities (2).  The large numbers are its Power and Resistance (3).  At
+the bottom left are its Alignments (4).   At the bottom right are any Attributes
+(5) that it has.  At the edges are the gold control arrows (6).&nbs; The
+Illuminati have four outgoing arrows.   Each other group has one incoming arrow,
+and 0 to 3 outgoing arrows.
+Sample Group Card
+
+You may spend one Action token from your Illuminati, or two tokens from any
+other groups you control, to draw one Group card and place it in the
+uncontrolled area.  You may do this at any time, regardless of how many groups
+are already in the uncontrolled area.
+
+When you capture a Group, place it on any open outgoing arrow of your Power
+Structure, so its incoming arrow lines up with that outgoing arrow.
+
+Some cards in the Group deck have purple names and text boxes, and no Control
+Arrows.  These are Resources.  When you take control of a Resource, put it
+beside your Power Structure.
+
+Types of Groups
+
+There are four types of Groups:
+
+Illuminati: the Masters.  Each player has only one Illuminati group, at the
+center of his Power Structure.  These have a horizontal design, rather than
+vertical.  The backs show a hand, like Plots, rather than a puppet like the
+other groups.  (In this game, all four Illuminati are the Church of the
+SubGenius, but other sets have other Illuminati.)
+
+Places: Groups tied to a single physical location.
+
+Personalities: Influential individuals, and their loyal henchmen and
+possessions.
+
+Organizations: All other groups.  The card represents the "inner circle"
+wielding the true power.  Control them and the rest of the organization follows.
+
+Alignment
+
+There are ten different alignments.  They are shown at the bottom left of Group
+cards.  Some groups have one alignment, some have several, and a few have none. 
+It is easier for a group to control groups with similar alignments, and to
+destroy those of opposite alignments.
+
+Meanings of the alignments in INWO:
+
+Government -- An arm of any government; its opposite is Corporate.  (Note: There
+are no Government groups in the Church of the SubGenius set.  It is mentioned
+here for completeness.)
+
+Corporate -- A business or coalition of businesses; its opposite is Government.
+
+Liberal -- Politically "left," whatever that means; its opposite is
+Conservative.
+
+Conservative -- Usually mad at the Liberals; its opposite is Liberal.
+
+Peaceful -- Philosophically opposed to the use of force; its opposite is
+Violent.
+
+Violent -- Armed and/or dangerous; not necessarily vicious; its opposite is
+Peaceful.
+
+Straight -- Socially middle-of-the-road; Joe Sixpack; its opposite is Weird.
+
+Weird -- Peculiar, offbeat, not like the neighbors; its opposite is Straight.
+
+Criminal -- Extorting money from citizens through force, fraud or threat, and/or
+committing notorious crimes.  There is no opposite.
+
+Fanatic -- Holding to a limited system of beliefs in defiance of all others. 
+Any two Fanatic groups are considered "opposite" to each other.
+
+Changing Alignments
+
+Some cards can change the alignments of groups, either for a limited time or
+permanently.
+
+A group can never have two alignments that are opposite; if it is Violent, for
+instance, and something makes it Peaceful, it is no longer Violent.   Likewise,
+a group cannot have "double alignments."  If it is Violent and something happens
+to make it Violent again, there is no further effect.
+
+Illuminati cards never have alignments.
+
+Attributes
+
+Certain "attributes," in italic, may appear at the bottom right of a Group card.
+These define which cards can be affected by certain Plots or special abilities. 
+For instance, Church is an attribute.   A card that affects "all Church groups"
+affects only those cards with Church at the lower right.
+
+Attributes have no automatic effect on each other.  A Church card has no special
+effect on other Church cards, unless the card itself says it does.
+
+Illuminati cards never have attributes.
+
+You will notice a few attributes on some cards (Space, for instance) that don't
+seem to affect the game.  Ignore them for now.  They'll come into play if you
+use these cards with other INWO sets.   Please note: this is also true of the
+Secret attribute, which is special in standard INWO but has no special effect in
+SubGenius.
+
+The SubGenius Attribute
+
+This is a new attribute for this set.  It indicates those groups that are
+officially connected with the Church of the SubGenius.  Many are Weird, but not
+all.  Some are even Straight; a SubGenius can be Straight if he feels like it!
+
+Power
+
+A group's Power is a measure of its ability to dominate other groups.  The
+higher the number, the better.  Some groups have two Power numbers -- for
+example, 7/4.  The first number is regular Power, which is used when the group
+makes a direct attack on any card, or aids an attack on or defense of a group of
+appropriate alignment.  The second number is Global Power, which can be used to
+aid attacks and defenses even if there are no alignments in common (see p. 7).
+
+When something changes a group's Power, the new Power is effective for all
+purposes unless a card specifies otherwise.  But note that temporary attack
+bonuses (from +10 Plot cards, for instance) don't count toward Goals.  See p.
+10.
+
+Increases in Power do not change Global Power unless the card making the change
+specifies Global Power.  But if a group's Power is decreased to below its Global
+Power, then its Global Power must be reduced to equal the new Power.
+
+A group with a printed Power of 0 gets an Action token unless its card says
+otherwise, but if a group's Power is reduced to 0, it loses its token.   It
+cannot act until its Power is increased and it does not receive tokens during
+the Token Placement phase.  No group's Power can be reduced below 0.
+
+Resistance
+
+This is the group's ability to resist domination.  High Resistance makes a group
+harder to take over . . . and easier to defend, once you control it.
+
+Illuminati cards never have Resistance, because they cannot be attacked
+directly.
+
+Control Arrows
+
+Illuminati cards have four outgoing control arrows.   Each of these can be used
+to control one group.
+
+ 
+
+Other groups have one incoming arrow, and 0 to 3 outgoing arrows.  A group's
+incoming arrow must be placed next to an outgoing arrow of its master, the group
+that controls it.
+
+Special Abilities
+
+Every Group has a special ability -- often something that goes outside the
+normal rules, or even breaks them!  See p. 12 for a glossary of terms used in
+defining these abilities.
+
+ 
+
+Resources
+
+Resource cards represent Illuminated secrets . . . hidden knowledge, weird
+artifacts, ultra-tech devices and other tools of world domination.
+
+Resource cards have purple titles, and the same back design as Groups.  They
+come from the Groups deck and count as "Group cards."   To take over an
+uncontrolled Resource on your turn, spend one Slack (that is, one Illuminati
+token) at any time during your main phase.  You may get only one Resource per
+turn in this way.
+
+Resources have no alignments or Control Arrows, and don't go into your Power
+Structure.  They are placed beside it.  There is no normal way to attack an
+enemy Resource, but some Plot cards and special abilities can affect them.
+
+All Resources belong directly to your Illuminati unless they are linked to
+another group (see p. 10).  A Resource can only be linked to a single Group at a
+time.  Some Resources must be linked to a certain type of Group.  If you don't
+have that type of Group you may still control the Resource (it remains the
+property of your Illuminati) but you do not benefit from its effect.
+
+If a group is captured or returned to the uncontrolled area, its linked
+Resources go with it.  If a group is destroyed, its linked Resources are also
+destroyed.  Remove them permanently from play.
+
+ 
+
+Action Resources
+
+Some Resources from other sets have the word Action at the bottom, to show that
+they get Action tokens.  They follow the same Action rules that groups do, but
+their tokens cannot be traded for Plot or Group card draws.
+
+ 
+
+Actions
+
+A group "acts" when it spends its Action token.
+
+There are two main types of action: attacking, and moving a group.  Each of
+these actions must be completed before another begins.
+
+Aiding an attack (or defending) is also an action, requiring an Action token.
+
+Some groups also have special actions, unique to them.   These are described on
+their cards.  Other than trading tokens for cards, anything that requires an
+Action token is an action.
+
+Also, many Plot cards can only be used if a group spends an action.   Unless a
+card specifies otherwise, it may only be "powered" by actions from the player
+who uses the card!
+
+Normally, each group may act only once per turn, since most have only one Action
+token.  When a group acts, remove the Action token on the card.
+
+Remember: Action tokens can also be spent to draw Plot cards, or bring out new
+Groups!  See p. 2.  Or you may always just remove an Action token, if for some
+reason you want to.
+
+In phase 4 of your turn, your groups get their actions back -- replace all
+missing Action tokens.  Groups which still have a token do not get another one,
+unless they are one of the few groups that normally have more than one action!
+
+ 
+
+Illuminati Actions
+
+The tokens(s) on your Illuminati are especially useful, even aside from their
+raw Power.  Spend them wisely.  Some Plots can only be powered by an Illuminati
+action.  An Illuminati action can also let you take over a Resource (see p. 5). 
+And, on the Church of the SubGenius card, an Action token represents Slack,
+which can help win the game!
+
+ 
+
+Free Moves
+
+Some things don't count as "actions."  Using a Plot card is an action only if
+the card says it is!  Free moves include:
+
+Giving away a card from your hand -- you can do this any time, not just during
+your turn.
+
+Discarding a card from your hand, removing it from play.   There will be times
+when you want to do this, or even when you have to -- for instance, when you
+have one Goal card, and draw another one.  You may do this at almost any time
+(see p. 3).
+
+Creating a link (see p. 10) is a free move unless a card says otherwise.
+
+Buying a card with Action tokens.
+
+ 
+
+Attacks
+
+In an attack, a group spends its Action to use its Power, trying to control or
+to destroy another group.  The success of the attack is determined by rolling
+two dice. 
+
+Illuminati groups can attack, but cannot be attacked!  The only way to hurt the
+Illuminati is to take away all of the groups they control.
+
+Attacks come after you place action tokens, and, unlike the automatic takeover,
+require a die roll.  Note that Resources are not groups and cannot normally be
+attacked.
+
+Announcing an Attack
+
+You may either pick a Group from the uncontrolled area to attack, or attack a
+card in someone else's power structure.
+
+You must announce who is attacking, who is aiding, the type of attack, and the
+target.  (Example: "St. Janor, aided by the Nazi Hell Creatures, will attempt to
+control the Good Sex for Mutants Dating League.")
+
+You may attack any group, regardless of alignment.  Alignment determines who can
+aid your attack, but not what group can start the attack.  However, it's much
+easier to control a group if its alignments are similar to the attacker's -- see
+below.
+
+Calling Off an Attack
+
+After you announce an attack, you can change your mind and call it off -- until
+you actually play a Plot card or remove an Action token.   At that point, your
+attack is committed.  You must use whatever Plots or Actions you have committed,
+and roll the dice.  Once the attack is committed, any tokens your rivals play
+are also committed, unless you let them take something back.
+
+If rivals use cards or tokens to aid either side, but you call off your attack
+before it's committed, they get their cards or tokens back.
+
+If you call off an attack on a card in the uncontrolled area, it remains in the
+uncontrolled area.
+
+Note that if an attack requires a Plot card to play, then making the attack is
+the same as playing a Plot card, and it cannot be called off.
+
+No Duplicates in the Same Attack!
+
+A group which has two or more Action tokens may not use more than one in the
+same attack unless it's defending itself.
+
+The same Plot card may not be used more than once by the same player in the same
+attack.
+
+ 
+
+Attack to Control
+
+This is an attempt to take over an uncontrolled group . . . or to steal a group
+from another player. 
+
+To make an Attack to Control, your attacking group must have at least one
+outward-pointing arrow free.  If a group has no outgoing arrow (either because
+all are being used or some are blocked), it cannot try to control another group.
+
+The strength of the attack is the attacker's Power minus the defender's
+Resistance.  You must roll that number or less, on two dice.  So roll low!  You
+must get your attack's strength to at least 2, because that is the lowest number
+you can roll on two dice.  An attack with a lower strength fails automatically
+and the dice are not rolled.
+
+Example: If a Power of 6 attacks a Resistance of 2, it succeeds only on a roll
+of 4 or less.  If a Power of 10 attacks that same Resistance of 2, it succeeds
+on an 8 or less . . . a much better chance.
+
+Rival Illuminati bonus.  You have a +5 on any attack against a group owned by a
+rival.  In a SubGenius game with no other Illuminati groups, everyone is a rival
+Illuminati!
+
+Defense and Interference.  Other groups, both your own and those of other
+players, can get involved in the attack.   This is described below.
+
+Automatic Failure.  A roll or 11 or 12 always means the attack failed, no matter
+how much Power was involved.
+
+Alignments
+
+The alignments of the attacking and defending groups are very important. 
+Identical alignments make control easier . . . opposed alignments make it
+harder.
+
+If the groups have any identical alignments, add 4 to the attacker's effective
+Power for each one.  Then subtract 4 from Power for each opposite alignment. 
+(Remember, all Fanatic groups are opposites!)   Example: A Weird, Peaceful group
+is trying to control a Straight, Violent one.  There are two sets of opposite
+alignments, so subtract 8 from the attacker's effective Power!  Maybe this
+attack is a bad idea!
+
+Attributes.  These words (in italics, in the bottom right corner) are not the
+same as alignments.  Attributes don't affect an attack unless a special ability
+specifically refers to them.
+
+Whoops! If you forgot to declare a bonus during an attack, whether it's for
+attack or defense, you lose it.  When the dice are rolled, it's over.
+
+Aiding Attacks
+
+If a group has not yet acted, it may use its power to aid an attack made by
+another group.  This is an action!  Take an Action token from each group that
+aids the attack.
+
+Any number of groups may aid one attack, adding their Power to the Power of the
+original attacker.  Example: A group with a Power of 6 is aided by two other
+groups, each with a Power of 4.  The total power of the attack is 14.
+
+Suppose you start an attack, and meet unexpectedly heavy opposition from your
+foes.  You may throw other groups into the battle, as long as those groups have
+not yet used their actions.
+
+Alignment is very important when aiding an attack.  A group may aid an Attack to
+Control only if it has at least one alignment in common with the target, or uses
+Global Power!  A group may oppose an Attack to Control (that is, defend the
+target) only if it has an alignment in common with the target, or if it is the
+target's master or the target's puppet, or uses Global Power.
+
+However, aiding groups do not get bonuses and penalties for similar or opposed
+alignment.  That applies only to the group that is leading the attack.
+
+Aiding Attacks With Global Power
+
+Some groups have a second Power number -- Global Power.   For instance, if a
+group's power is 5/2, the 2 is its Global Power.  This represents power that
+crosses all boundaries . . . real power.
+
+If a group's alignments don't let it use its normal Power in an attack, it can
+still use its Global Power.  Thus, groups with Global Power are more flexible.
+
+Resistance to Control
+
+Every group has a Resistance to control.  Subtract this from the attacker's
+Power in any attack, as described above.
+
+Controlling Alignment.  A group is more loyal if it agrees with its masters'
+ideals.  When calculating an attack, a group gets a +4 bonus to its Resistance
+for every alignment that is the same as that of its master.   Opposing
+alignments don't matter (and remember, Fanatic is the opposite of Fanatic).
+
+Power Structure Position.  Groups which are controlled by a player become harder
+to attack if they're near the center of their owner's Power Structure (see
+diagram).  A group which is directly controlled by the Illuminati gets a +10 to
+Resistance!  If it is one group away, it gets a +5.  If it's farther away, it
+gets no bonus.
+
+Note that nothing can multiply this bonus.
+
+Special Abilities.  Some group's special abilities (shown on the card) increase
+their resistance against certain attacks.
+
+Defense
+
+When one of your groups is attacked, you may use your Action tokens to defend
+it.  Each token has a value equal to the Power of its group.  If the target of
+the attack spends a token in its own defense, it gets a bonus equal to its
+permanent Power in addition to the Power for the token.  And if the target
+happens to have more than one token, it can spend them all, and they each give
+this bonus!
+
+Regardless of alignments, a group can always use its action to defend itself, or
+its master, or its puppets.  The Illuminati can defend any group.
+
+Other groups can defend the target only if they have at least one alignment in
+common with it, or if they have Global Power (see p. 7).
+
+Example: A group with a Power of 6, aided by other groups with a total Power of
+9, attacks a group with a Resistance of 4.  The base strength of the attack is
+15 minus 4, or 11. 
+
+But the target still has an Action token of its own.  Its permanent Power is 2. 
+With the self-defense bonus, this is 4, so spending the token reduces the attack
+to a 7.  And the group's master also spends a token.  Its power is 5, which
+reduces the attack to a 2!
+
+Now the attacker can spend more tokens (if he has them) or ask other players for
+help -- see Interference, p. 9.
+
+The final strength of the attack is not settled until no players are willing to
+commit any more tokens, Plot cards, or special abilities.  At that point, the
+attacker rolls the dice!  Unless, of course, the attack strength is less than 2.
+In that case, the dice are not rolled and the attack fails automatically.
+
+Results of an Attack to Control
+
+If Your Attack Failed: then, if the defending group belonged to another player,
+it stays where it was.
+
+If it came from the uncontrolled area, it remains there.  You may, of course,
+try again if you have any actions left.
+
+If Your Attack Succeeded: the target group is captured!   It becomes part of
+your Power Structure.  Put it next to the group that captured it, with its
+incoming arrow touching any outgoing arrow of its new master.  It does not
+matter if a card is upside-down or sideways, as long as the arrows line up
+properly.
+
+If it controlled any puppets, they are also captured!  When placed in your Power
+Structure, they should keep the same position, relative to their master, that
+they had originally.  If that makes some cards overlap, you may rearrange any
+new cards that overlap, as long as they keep the same master.   Those which
+still cannot fit must be discarded!
+
+And if any Resources were linked to it, they go with it!
+
+A newly-captured group may not act on the turn you capture it.  If it had an
+Action token, remove it.  It cannot get an action that turn except from a card
+that explicitly gives an action to a newly-captured group, like Blitzkrieg from
+the standard set.  (Groups controlled by your automatic takeover at the start of
+your turn do get an Action token on that same turn.)
+
+ 
+
+Attack to Destroy
+
+You may also try to destroy any group in play except an Illuminati . . . even
+one of your own groups.  An attack to destroy works like an attack to control,
+except:
+
+1.  Instead of rolling "Power minus Resistance," roll "Power minus Power."  That
+is, the target defends with its Power rather than its Resistance.  Its closeness
+to the Illuminati (p. 7) still counts for defense, unless you're destroying one
+of your own groups.  Alignments in common with its master do not help!
+
+2.  Unlike groups destroy each other more easily.  An Attack to Destroy gets a
++4 bonus for every opposite alignment, and a -4 for every identical alignment.
+
+3.  A group may only aid an Attack to Destroy if it has at least one alignment
+opposite from the target's, unless it is using its Global power.  A group may
+oppose an Attack to Destroy if it has at least one alignment the same as the
+target's, or if it is the target's master, or its puppet, or is using its Global
+power.
+
+4.  A group does not need an open control arrow to attack to destroy!
+
+5.  If your attack succeeds, the target group is not placed in the discard pile.
+It goes to your own separate "destroyed pile."   This lets you keep track of
+what groups you have destroyed if (for instance) you become the Anti "Bob". 
+(Note that in other INWO sets you will find cards that return destroyed groups
+to play . . .)
+
+6.  Its puppets are not destroyed -- they lose their tokens and become
+uncontrolled.
+
+7.  You may try to destroy a group that you already control.  But no group may
+attack itself, or aid an attack on itself!
+
+8.  You cannot make an attack to destroy of any sort on a group that you cannot
+destroy.  If you are prevented from making an attack to destroy on a particular
+group or type of groups you may still aid an attack to destroy that group.
+
+ 
+
+Interference
+
+If one of your rivals attacks another, you may still get involved in the attack.
+This is called Interference.  Time for some negotiation and backstabbing!
+
+(1) You can use the Power of any of your groups to aid either the attacker or
+the defender.  This is your group's action, and costs its Action token.   To be
+eligible to interfere, it must have at least one alignment that matches the
+target's (or one that is opposite, to help destroy the target) or it must have
+Global Power!
+
+(2) You can use a Plot card or special ability.
+
+ 
+
+Timing
+
+In general, cards take effect in the order they are played.   Later cards can
+modify earlier ones.
+
+A player might announce an attack with Group A; then a rival uses Resource B to
+change Group A in a way that makes the attack impossible or pointless; then
+another rival plays Plot C to destroy Resource B, so that Group A's attack
+continues.
+
+Thus, you can use a Plot or special ability to make a rival's just-announced
+action unprofitable, or even illegal (see p. 11).  But you can never announce a
+play that is illegal at the moment it is made, even if the play (if allowed)
+would render itself legal.  Example: Citizens for Normalcy can spend their token
+and an Illuminati token to cancel a Plot.  A rival plays False Slack, to remove
+the action tokens from the Citizens for Normalcy and their puppets.  Can the
+Citizens use their special ability to cancel the False Slack?   No.  The
+Citizens' token is already gone and they cannot step back in time to make
+themselves eligible to cancel the False Slack.
+
+If an action or Plot is canceled, all its effects are also canceled.
+
+Throwing Away Cards: If a rival uses a card or special ability to look at (or
+steal) your cards, you may not spend or discard any cards to keep him from
+getting them or to control which one he gets.  But if you (or an ally) can use a
+card or special ability to cancel whatever it was that gave him access to your
+cards, you may do so.  That's all you can do about it.
+
+Speed Play
+
+A player may not "speed-play" to pre-empt his rivals' reactions.  You can't
+announce an attack, for instance, and instantly roll the dice.   You must give
+other players a chance to react to your play.  There is not one type of card
+that "trumps" other types and can be speed-played.  Be courteous.
+
+The only time that speed of play matters is when cards or tokens for special
+abilities doing the same thing (or mutually exclusive things) are played at the
+same time -- for instance, one player plays Give Me Slack, or Give Me Food while
+another player spends the token from MWOWM to grab the same card.  In that case,
+the first one played is the one that works.  If they're really simultaneous,
+roll two dice; the high roll wins.  Plot cards and special abilities can affect
+these die rolls as though they were "attacks"!
+
+Note that saying you might play a card, or making a threat, is not the same as
+playing the card.  When in doubt, ask "Are you doing it, or just threatening?"
+
+Your opponent can then put up or shut up.
+
+ 
+
+Moving Groups
+
+On your turn, you may change your Power Structure by moving your groups.  You
+may move any group you control to any vacant arrow on any group in play, even
+one controlled by another player (if he wants it).  Any puppets of the group
+being moved, and their puppets, and so on, move with it, keeping the same
+position relative to their master.
+
+Moving a group costs one action.  This may be from the group being moved, or its
+former master, or its new master, or your Illuminati!  Your choice. 
+
+You may give a group to another player during his turn, if he wants it.  This
+still costs an action, as above.
+
+Groups in your Power Structure may never overlap.  If moving a group would cause
+some of its puppets (or their puppets) to overlap, any of them may be moved to
+different control arrows, as long as they keep the same master.   Any group that
+cannot be prevented from overlapping is lost.  It, and any puppets it has, go to
+the uncontrolled area.
+
+ 
+
+Gifts and Trades
+
+Cards in your hand, including exposed Plots, may be traded or given away at any
+time.  Cards from your hand must go into the hand of the player who gets them. 
+Exposed plots remain exposed.
+
+You may not give away undrawn cards from the decks!
+
+Cards in your Power Structure may be given away -- see Moving Groups, above.
+
+You may also give away a Resource card you have already in play -- see Moving
+Links, p. 10.
+
+A trade is just an exchange of gifts.  If two players agree to a trade, the deal
+is binding if they make the exchange immediately.  A deal is not binding if it
+involves a promise of something in the future.
+
+Example: If you say, "If you give me the Speakers in Tongues now, I'll give you
+a Plot card," and the other player gives you the Speakers in Tongues, you must
+give him a Plot.  But if you say, "If you give me the Speakers in Tongues now,
+I'll give you a Plot card next turn," and he hands them over, you can break your
+promise next turn if you want!
+
+ 
+
+The Endgame
+
+Eliminating a Player
+
+A player is eliminated if, at any time after his third complete turn, his
+Illuminati has no puppets.  His sect of the Church (that is, his Illuminati
+card) vanishes.  The player who stole or destroyed his last puppet absorbs the
+tattered remnants, taking his Plot hand and his Resources.
+
+If a player leaves the game before he is eliminated, his SubGenius card is
+discarded, and all his other cards go to the discard pile.  However, someone who
+tries to quit just to keep another player from getting his cards has
+demonstrated his Pinkness and should be mocked.
+
+ 
+
+Winning the Game
+
+If you destroy all your rivals, you win.
+
+Otherwise, the game ends when, at the end of a turn (his own, or someone
+else's), a player meets one or more of his Goals.  The winner can't claim
+victory until his rivals acknowledge that they can't stop him.
+
+No one may win during the first round.  The first time anyone can claim a
+victory is at the end of the first player's second turn.  If two or more players
+both meet a Goal at the same time, neither one wins -- the game continues.
+
+ 
+
+You Can Meet Your Goals in Three Ways:
+
+Basic Goal: This is the same for all players.  Control ten groups, including
+your Illuminati . . . or 12, in a 2-player game.  You may change these numbers
+by agreement at the beginning of the game; the more groups, the longer the game.
+
+ 
+
+Special Goal: For the SubGenius, the Special Goal is the ability to count Slack
+(that is, Illuminati tokens) toward the total number of groups controlled.
+
+For instance, if you are playing to 10 groups, you win if, at the end of any
+turn, you have 9 groups and 1 Slack, or 8 groups and 2 Slack, or 7 groups and 3
+Slack.  (Only up to three Slack may count toward this goal.)
+
+If you bring in Illuminati groups from other INWO sets, they will have their own
+special goals, printed on the cards.
+
+ 
+
+Goal Cards: These are special Plots.  If you have a Goal card in your hand,
+achieving that goal will give you victory.  Any time a foe has even one hidden
+Plot, it might be a secret goal.
+
+If a foe exposes a Goal card in your hand, it is still a valid Goal -- but now
+your enemies know about it.  Likewise, if you reveal a Goal to claim a victory,
+and someone keeps you from winning, the Goal is exposed and can be used for a
+win on a later turn.
+
+However, no player may have more than one Goal card in his hand.   If you have
+one Goal and draw another, you must immediately discard one.
+
+When you win with a Goal card, you must expose all your Plots, to show that you
+had no other Goal cards!  And if a player's Plots are exposed at any time and he
+has more than one Goal card, without some special card or power that allows it,
+he's out of the game.
+
+Some Goal cards just modify the basic goal -- certain kinds of groups count
+double for victory.  Not group can ever count more than double, and no more than
+three groups can ever count double.
+
+ 
+
+Note that a Goal card is never actually "played."   When a player reveals it and
+says "I win!", you cannot cancel or steal the Goal card.  Of course, if a Goal
+is exposed before its owner can win with it, any card that affects exposed Plots
+can affect it before the victory attempt.
+
+Changing Groups to Meet Goals
+
+If you change a group's abilities, the changes (usually) count for your Goals.
+
+Some changes are permanent (see Glossary, p. 13).  Permanent changes always
+count for goals.  For instance, if you play a card that turns a group SubGenius,
+it counts as SubGenius for your goals!
+
+Temporary Power changes (from Plot cards that give +10, for instance) do not
+count for Goals.  The same is true for anything that gives a bonus to Power
+effective only for specific actions.
+
+Temporary Attribute or Alignment changes (such as from the Attitude Mutation
+card) do count for Goals . . . but only while they're in effect!  They are good
+only for a victory declared at the end of that turn.  For instance, if Attitude
+Mutation makes a group Weird, it only counts as Weird for that turn . . . even
+if it is destroyed while Weird, it does not count that way after the turn is
+over.
+
+ 
+
+Links
+
+A link is a connection between two cards.  Two show that cards are linked, put
+identical tokens (like buttons) on both -- or put one under the other, with both
+names showing.  Examples of Linked cards include:
+
+    A Resource linked to some group other than your Illuminati.   This means the
+Resource belongs to that group.
+    A Plot that changes the abilities of a specific group, linked to that group
+to show the connection.
+
+Moving Links
+
+When a linked Plot changes the alignment, attributes, Power, Global Power or
+resistance of a specific group, the link is permanent -- no one may move or
+remove it without using another Plot card.  (A permanent link is removed if it
+becomes permanently illegal . . . see below.)
+
+Other Links can be changed from card to card, but you may move or remove such a
+Link only on your own turn, and only once per turn.  If you give a Resource to
+another player, it becomes the property of his Illuminati; he may not link it to
+another group until his turn.  If a link provides a bonus Action token, card,
+etc., it may not be moved (or the card given away) after it gives its benefit
+that turn.
+
+Canceled Actions, Alignment Changes and Other Surprises
+
+Many Plots and special abilities can work only with a Group of a certain
+alignment, attribute, power level, etc.  Other cards can change a group's
+alignment, etc., or cancel an action after it's announced.  This can lead to
+interesting situations -- for instance, when one player announces an action, and
+a foe changes an alignment to make that action illegal or take away a bonus.
+
+Many Plot cards and special abilities cannot be used in the middle of an attack!
+But some can.  Read the cards.
+
+If a permanent Link to a Plot or Resource becomes temporarily illegal (due to an
+alignment change, for instance), the Plot or Resource is not lost, but it has no
+effect until it becomes legal again.  It may not be linked elsewhere in the
+meantime!  It will apply to the Group again when the link is again legal, no
+matter who controls it.
+
+If a permanent Link to a Plot becomes permanently illegal, the Plot is
+discarded.  This can happen, for instance, if a group changes ownership and the
+new owner already has an identical Plot in play.
+
+If a Link to a Resource becomes permanently illegal, the link is lost.  The
+Resource remains the same player's property and may be re-linked elsewhere on
+his next turn.
+
+If a group's announced use of a Plot card during an attack becomes illegal
+before the dice are rolled, the Plot returns to the owner's hand and is Exposed.
+
+If the action of the attacking group is canceled or made illegal, the attack
+does not happen.  Plots used by the attacking group are lost, and its token is
+spent.  Any groups which aided either side get their tokens back.  Plots played
+on aiding groups are returned to hand, exposed.
+
+If the action of an aiding group is canceled, the attack goes on, even if it is
+now doomed to failure.
+
+If an action is used to "power" a Plot card, and the action is canceled, the
+Plot is lost . . . discard it.  Exception: If several actions are used together
+to power a Plot, and one is canceled, another group's action may be used to
+replace the lost Power.  If this can't be done, the Plot is lost and the other
+actions are wasted.
+
+If a special ability is used, and that use is then made illegal or impossible,
+the token(s) or discards used to power the special ability are lost.
+
+If a Plot is canceled, any Actions, discards, or other costs used to power it
+are spent.
+
+ 
+
+Some specific examples:
+
+    A Straight group tries to control another Straight group (+4 bonus).  
+Before the dice are rolled, the owner of the target Straight group uses Attitude
+Mutation to reverse the alignment of the target, making it Weird (-4 penalty).  
+Heh, heh, heh.
+    The Rogue Subgenii make an attack, using the Devival Plot (+10 bonus). 
+Before the dice are rolled, a rival uses the Mediocretinism card to make the
+Rogues (temporarily) no longer SubGenius!  They are now ineligible to use that
+Plot.  No link was involved, though -- the plot is Exposed, but not lost.
+    St. Janor is linked to Nental Ife, giving him Global Power equal to his
+regular Power.  He aids an attack.  Before the dice are rolled, a rival uses
+Mediocretinism on St. Janor, making him not SubGenius until the end of the turn!
+This is only a temporary change, so the linked Nental Ife card is not discarded
+. . . but St. Janor loses its benefits for the rest of the turn.
+    The Speakers in Tongues (a Weird group) are controlled by Overman Philo
+Drummond.  This makes them SubGenius, because all Philo's Weird puppets
+automatically become SubGenius.  And their owner has linked 13013 to them,
+increasing their Power to 6!  Now, suppose someone else steals the Speakers
+away.  They are (permanently) no longer SubGenius, so the 13013 is discarded.
+
+The Cards Remember . . .
+
+A permanent Link to a group is not lost just because the Group leaves a Power
+Structure.  If the card goes to another player or to the uncontrolled area, the
+link goes with it (unless it's illegal there) and is still in effect.
+
+In general, cards "remember" any changes in their status, until something
+explicitly changes them back.  For instance, a Personality who becomes a False
+OverMan will keep those changes even if he is returned to the uncontrolled area.
+(But if a group is actually destroyed, it loses any special status it had, and
+will have only its printed values if something returns it to play.)
+
+These things will rarely happen often enough to cause arguments, but keep notes
+if necessary!
+
+ 
+
+Strategy
+
+When someone leaves the room, conspire against him.  There is always a way to
+make your position a little bit better and his a little bit worse. 
+
+Negotiate with everyone.  your foes are less likely to attack you if they think
+you might help them win.
+
+To avoid being attacked, you should look strong enough to defend yourself, but
+not so strong that you are a threat.
+
+What your rivals constantly; keep track of how close they are to their Goals. 
+The more Plots they have, the more likely they are to play some fiendish trick
+and win in one turn.  Don't count on others to warn you of danger . . . they may
+have made a private deal!
+
+ 
+
+Balanced Power Structures
+
+If a group controls many puppets, you must protect it -- losing such a key group
+really hurts.  If all your groups branch from one Illuminati control arrow, you
+can be wiped out in one attack. 
+
+But if one of your rivals makes this mistake, you can win by taking several
+groups in one attack!
+
+ 
+
+Threats and Negotiations
+
+Any agreement between players, secret or otherwise, is permitted, if it does not
+actually violate the rules.  In particular, you can always try to change an
+opponent's mind, by promises, bribes or threats, about an action that he plans
+or announces.
+
+Deals can be made openly or secretly.  The possibilities are limited only by
+your own duplicity.
+
+ 
+
+Meta-Rules
+
+These rules take precedence even over what's printed on the cards.
+
+    When two Plots conflict, the last one played is the one that rules.   If
+card B is played to cancel card A, and then card C is immediately played to
+cancel card B, then card A is once again effective.
+    Many cards change groups' Power or Resistance.  When several cards take
+effect, changes to a specific number come first, then cards that multiply or
+divide, and then additions or subtractions.  So if one Plot card increases the
+Power of your Local Clenches to 6, another one doubles it, and then a Plot gives
+them +2 Power, you first increase it to 6, then double it to 12, and then add
+the +2.  The final Power is 14!
+    You may never use two multiplying cards to increase the same attribute of
+one group -- for instance, to double its Power and then double it again.   No
+matter what the cards say, you may use only the single highest "multiply"
+effect.
+    If a card specifically says something cannot happen to it, this takes
+precedence over a card that (supposedly) does that thing to other cards.  But:
+if Card A specifically mentions Card B by name, then A's ability takes
+precedence over any defense or immunity B may have.
+    Impossible die-rolls cannot happen.  For instance, MWOWM calls for the
+player to roll one die.  One die gives a result from 1 to 6.  Any card that
+would increase the result to more than 6 is treated as a 6; anything that would
+decrease the result to less than 1 is treated as a 1.
+    Illuminati groups (that is, the Church of the SubGenius) never have
+alignments or attributes.  They can never be destroyed, except by losing all
+their puppets.
+
+ 
+
+Glossary of Terms
+
+"Any attempt" abilities give your whole power structure a bonus on some type of
+attack.  Any such attack by any of your groups receives the bonus.  If you
+control Dobbstown, for instance, ANY of your groups gets a +5 bonus when
+attacking any SubGenius Personality.  You gain this ability the moment that you
+take over Dobbstown, and lose it as soon as you lose them.
+
+Any Time: Many Plots and Special Abilities can be used at any time, during your
+own turn or someone else's.  Restrictions, however, apply to phases 1-4 of your
+own turn (p. 2) and during a rival's first turn (p. 2).  You still may not use
+or discard a card to keep someone else from looking at it or stealing it.
+
+Automatic Failure:   This can wreck a player's attack after he commits actions
+and Plot cards and rolls the dice.  The attack fails, and all the actions and
+cards are gone.   life is cruel.  See Failed Attacks, p. 13.
+
+Cancel: Some cards can cancel a group's action after it is announced.  An action
+is also canceled if it is made illegal (due to an alignment change which
+conflicts with a special ability, for instance).
+
+The canceled action, and any token(s) used to power it, are lost.   If an attack
+is canceled, any Plots used by the attacking group are lost, but tokens and
+Plots spent by aiding and opposing groups are returned.   See p. 6.
+
+If a Plot is canceled, the token(s) or discard(s) that powered it are lost.
+
+A Plot or action cannot be canceled after the dice are rolled or any other
+irreversible action (such as looking at an opponent's hand) taken!
+
+"Cancel" does not mean "remove an Action token before it is used."  That is an
+entirely different power.
+
+Direct attacks are those made by the group itself.  For instance, the Church of
+the SubGenius and other SubGenius groups in its Power Structure has a +2 for
+direct control of any SubGenius group.  This means you get a +2 bonus when
+trying to take over a SubGenius group with that card.  If you attack a SubGenius
+group with another card, even if the Church or one of its SubGenius groups aids
+the attack, this +2 bonus does not help you.
+
+Discard: Cards may be discarded for several reasons.  A plot is discarded if
+played, unless it remains on the table with a Link.  That type of card is
+considered "discarded" only if the Link is permanently invalidated.
+
+Note that you cannot discard (or give away, or use) a card to keep someone from
+taking it or looking at it, if they have already played the card that gives them
+the right to take it or look at it!
+
+Discards are all face-up unless a card specifically says to make that discard
+face-down or without looking.
+
+When a card requires a discard, discard from your hand unless the card specifies
+otherwise.
+
+Draw and Choose: "Draw" means take the top card from the deck.  "Choose" lets
+you go through the deck or an opponent's hand, as specified on the card.
+
+Failed Attacks: An attack fails when the number rolled is greater than the
+attack strength, OR an 11 or 12 is rolled, OR no die roll can be made.  An
+attack that is cancelled, made illegal, or called off isn't a failure.
+
+Hand: The Plot cards that you have drawn and not yet played.  you can look at
+them at any time.  They are not considered "in play."
+
+In Play: already controlled groups or resources and those in the uncontrolled
+area.  Exception: a group in the uncontrolled area is not considered in play for
+purposes of Goals.   A Plot is in play while it remains on the table to mark its
+effect.
+
+Master and Puppet: If group A controls group B directly, then A is the master
+and B is the puppet.
+
+Move: To take a puppet and place it under a different outgoing control arrow. 
+This costs an Action; see p. 6.
+
+Natural die roll: The actual number shown on the die or dice, disregarding any
+modifications from cards (such as Bulldada).  If something causes the die or
+dice to be re-rolled, the new roll is considered the natural die roll and the
+old roll is forgotten.
+
+Owner: A group's owner is the player controlling that group, not the card's
+real-life owner.
+
+Permanent Change: Any change to a group's Power, Global Power, Resistance,
+attributes or alignments that does not have a specific built-in time limit. 
+Note that "permanent" changes can still be undone by another Plot or special
+ability!
+
+Permanent Power: The group's Power disregarding any temporary changes.
+
+Power Structure: Your Illuminati, plus all the groups that it controls, both
+directly and through its puppets.
+
+Printed Power: The actual number for Power printed on the card.
+
+Slack: An Illuminati Action token.
+
+Special Ability: Anything in the text box that is generally beneficial to the
+group having the ability or to its owner.  All other text is flavor text
+(usually italicized) or other features of the card (usually limiting its
+usefulness) and instructions, variable statements, etc.  Under certain
+circumstances, usually when a player is attacking his own Power Structure, some
+special abilities are not beneficial and some limiting features become
+beneficial.  This does not change their definitions.
+
+Temporary Change: Any change to a group's Power, Global Power, Resistance,
+attributes or alignments that has a specific built-in time limit, such as "for
+the next action," or "to the end of the turn."
+
+Turn: When a card says it does something "each turn," that means each time its
+owner takes a turn!  Bonuses are granted at the appropriate turn phase; extra
+Action tokens come when you get your regular tokens, and so on.
+
+Uncontrolled: Any Group or Resource in the uncontrolled area.
+
+Uncontrolled Area: The Groups and Resources placed in the middle of the table
+that are not in any Power Structure and available for anyone to attempt to
+capture.
+
+ 
+
+Adding Cards to a SubGenius Game
+
+These rules assume that you are playing with a single SubGenius set with no
+additions from outside the set.  But what if you decide to play with two sets,
+or want to add cards from other INWO sets?  Then some additional rules may be
+needed:
+
+ 
+
+Duplicate Cards
+
+For the most part, these rules are similar to the rules for duplicates in
+standard INWO, taking into account that there no groups in your hand.
+
+Plots
+
+No player may use duplicates of the same Plot card in a single attack, or to
+defend against a single attack, either with the same or for different groups. 
+(This usually matters only if you are using multiple decks.)
+
+Groups
+
+Only one copy of a particular Group may be in anyone's Power Structure at any
+one time.  If you have multiple decks and therefore duplicate Group cards, this
+has three effects.
+
+Initial Lead: Two different players may choose the same Group for their Initial
+lead.  Since duplicates of the same Group cannot be in anyone's Power Structure,
+the leads are said to have bounced -- neither player gets that Group as their
+initial Group.  Instead, the players of the duplicates should set the bounced
+leads aside, draw another Group card each and make an alternate choice.  This
+procedure is followed until there are no duplicate leads.  The bounced cards are
+then shuffled back into the Groups deck.
+
+Agents: You cannot attack or make an automatic takeover of a group in the
+uncontrolled area that duplicates a group already in someone's Power Structure. 
+However, if you turn over such a duplicate, it is not useless, as it represents
+hidden agents within the controlled Group.   you may use your "agents" card
+during the turn that you first turn it over whenever that group is attacked . .
+. to aid that attack, or to fight it.
+
+Only one "agents" card can be used in any one attack.   The owner of the real
+group cannot play an "agents" card.   Once used, the duplicate is discarded,
+whether the attack succeeds or fails.
+
+Playing an "agents" card gives +10 to aid an attack, either to control or
+destroy, and commits you to the attack, just as playing a Plot card would.  It
+can be used to oppose an attack, too, but it gives only -6 to oppose.
+
+If you choose not to use an "agents" card on the turn you turn it over, it stays
+in the uncontrolled area and may be controlled or destroyed if the controlled
+group is ever discarded.  It's generally a good idea to place a marker on it to
+remind yourself that a duplicate is in play.
+
+Destroyed Groups: You may not take over or attack a Group that has been
+destroyed unless you have a Plot or special ability that returns destroyed
+Groups to play.  if you turn over such a card into the uncontrolled area, leave
+it there, but place a marker on it so you know it cannot be taken or attacked
+until someone uses a Plot or special ability to return it to play.
+
+Resources
+
+Some Resources are Unique -- only one can be in play.   Whoever takes it first
+has it.  You may not play a duplicate.  Even if the original is destroyed, a
+duplicate may not be put into play unless a Plot card allows it!  If you turn
+over a duplicate of a unique Resource, place it in the uncontrolled area, marked
+as you would a duplicate of an already controlled group.
+
+ 
+
+Other Illuminati
+
+The rules assume everyone is using the same Illuminati -- the Church of the
+SubGenius.  If you choose to add Illuminati from other sets, this has two
+effects on the game.  Well two that we're allowed to tell you about fnord.  
+Anyway . . .
+
+Attacks
+
+The +5 bonus to attack a rival's Power Structure only applies if that rival is
+playing the same Illuminati.  If he is playing a different Illuminati, you get
+do not get this bonus to attack him.  For example: Players A and B are both
+playing the Church of the SubGenius, while Player C has The Discordian Society. 
+Player A has +5 to attack any group in Player B's Power Structure, but no rival
+Illuminati bonus for attacking groups in Player C's.  Player B, likewise, has
+the same bonus against Player A, but not against Player C.  Player C has no
+rival Illuminati bonus against either of his opponents -- a disadvantage -- but
+his opponents don't have the bonus to attack him, either -- a definite
+advantage.
+
+Victory
+
+Players who are playing the same Illuminati (except Shangri-La) cannot share a
+victory.  If they meet their goals at the same time, neither wins.  This is the
+usal state of affairs in SubGenius, as everyone is playing a faction of the
+Church.  However, if two or more players meet their Goals at the same time, and
+they are playing different Illuminati, they share the victory, dividing the
+world between them.
+
+ 
+
+Game Support
+
+We will answer questions about this game if they're sent, along with a stamped,
+self-addressed envelope, to: INWO Questions, Steve Jackson Games, PO Box 18957,
+Austin, TX 78760.  We cannot answer questions by phone or e-mail.
+
+For a current errata sheet and INWO card list, giving rarities for those cards
+which are collectible, send a SASE to the address above.
+
+ 
+
+On The Net
+
+SJ Games maintains an active web site at www.sjgames.com; the INWO pages will be
+found at www.sjgames.com/inwo.   Our online magazine, Pyramid, is at
+www.sjgames.com/pyramid/.   Also check out the Church itself at
+www.subgenius.com, and our own incredible SubGenius Rant Generator at
+www.sjgames.com/inwo/SubGenius/rant.html.
+
+We also have INWO net-reps on all the major online services and
+rec.games.trading-cards.misc.
+
+ 
+
+Tournaments
+
+We support INWO tournaments at local game conventions -- contact us at the
+address above, or send e-mail to sjgames@io.com, for more information.
+
+ 
+
+Differences Between This Game and Standard INWO
+
+This is basically a subset of INWO, using a common deck and a modified setup. 
+Changes include:
+
+    There are no duplicate cards, except for the Church of the SubGenius itself.
+    The initial Group setup is different.  Draw 3, choose a lead (which can be a
+Resource), keep the other two in hand.  Place these two in the uncontrolled area
+with the group(s) you draw on your first turn.
+    Your hand contains only Plots -- nothing else; Groups go into an
+"uncontrolled area."
+    You do not get a free Group card draw at the beginning of you turn if there
+are 8 or more Group cards in the uncontrolled area.
+    You may make an automatic takeover of any of the groups you have played in
+the uncontrolled area this turn (including your initial two on turn 1) at the
+cost of not getting an Illuminati Action token during the token placement phase.
+    The Secret attribute has no special significance in SubGenius.   However,
+plots or special abilities that add or take away the Secret attribute or give
+bonuses against Secret groups will still do so!
+    You can spend tokens to draw Groups -- as you can with plots -- and place
+them in the uncontrolled area.
+    When Plots are discarded, they go to a separate discard pile.   You cannot
+discard Plots back to the Plot deck.  When the Plot deck is all gone, reshuffle
+the discards.
+    Play to 10 groups by default in a multiplayer game.
+    There are no Disasters, Assassinations, or NWOs.  In a set of 100 cards, it
+would have been hard to include more than a couple of each type.  So we didn't. 
+Feel free to add cards of these types -- you'll just have to refer to your
+original INWO set if you need the rules.
+    There are also no cards concerning privileged attacks or immunity.   if you
+bring in cards having to do with privilege or immunity, be sure to bring your
+standard INWO rules to cover them!
+    Victories cannot be shared without use of Arise!
+    If you eliminate a rival, you get his Plot hand as well as his Resources.
+    The rules are no different for two-player games.
+    And, of course, the attribute SubGenius is added.
+
+Why is the Church an "Illuminati" Group?
+
+All good SubGenii know that "Bob" has been fighting the Illuminati for 20 years.
+Where do we get off, calling the Church an Illuminati group?
+
+Two reasons.
+
+(1) Sorry . . . but when the mortals who run the Church start playing heavy-duty
+power games, taking over puppets around the world, making deals with the Nazi
+Hell Creatures for God's sake . . . then they have become what they fought. 
+They may not be evil Illuminati, but they sure are Illuminati.   Only "Bob"
+himself remains gloriously corrupted by the fray without losing his essential
+nature, and it is "Bob" who will redeem the winner of the battle.
+
+(2) Because this is based on a game called Illuminati, and the central group in
+the game has been called the "Illuminati" for more than 15 years, and changing
+it would confuse a lot of people.  Including me.  Cut me some slack, OK?
+
+-- Steve Jackson
+
+Card illustrations by
+
+The SubGenii who bring you alt.binaries.slack and www.subgenius.com
+
+REV. IVAN STANG: 13013, Bulldada, Church 4, Devival, Dobbstown, Dokstok,
+EternalSalv.**, Frop, Glorps, Head, NHGH, Overman Philo, Pinks, Prairie Squid,
+Prescriptures, Saucer Landing, SPUTUM, St. Janor, Stark Fist, True Pipe**,
+3-Fisted, Time Control, World Ends Tomorrow, X-Day; LE MUR: Arise, Cast Out,
+Cor-Phrenologists**, Drs. 4 "Bob"*, False Overman*, Good Sex, League-O-Decency,
+Luck Plane, Mediocretinism, MoreSlack**, Dallas, Pinks, Random Jesii, Stencil**,
+www.subgenius.com, Yetis*; O NENSLO: Advanced HellCreatures, Middle America,
+Phlegm, PsychicPstench, Rant!, Rev. Stang*, Robo"Bob", TapeRuns Out, They-Pink*,
+Time Control, Xists, Yacatisma; REV. POINDEXTER: Bobbies, Comet, Decency,
+Excremeditation, Give Me Slack, Official Excuse, OrKillMe, Repent!, Rogue,
+Saint-o-Sales, Science Cannot*, Shordurpersav, 13th Apostle; ATOM FUNWAY
+PLASTICO: DXF saucers, Citizens, Connie, False Slack, Jesus bg, Kill "Bob",
+LocalClench, OverMan, S.C.A.M.*, Schizm, Tongues*, The Brag; PAUL MAVRIDES:
+Mediocretinism, Icons, Janor Device, Color Dobbshead #1; REV. STERNODOX
+KECKHAVER: Anti"Bob", AntiSlack, Church 1, Nental Ife, Science Cannot*,
+Slackfusion; JIM VANDEWALKER: Attitude, Cast Out (Dobbshead), GiveMeSlack,
+Martyr Meter, Official Excuse; REV. JAN ARTHUR JOHNSON, The ZONTAR Group: MWOWM,
+Secret and SubGenius FisTemples; St. JOE RILEY and JOHN HAGEN-BRENNER: NHGH,
+Dobbs masks, icons; Kryptopope St. Kennoid Human (aka K.R. "Babe" Huey): Church
+2; LEO AMAN: Inherently Bogus, Hour-o-Slack; IrREV. FRIDAY JONES: 13013, You'd
+Pay; Rev. NOAH STEWART: Fake Healing, Sultan of Slack; CUTHULU: Divine Mail
+Order, S.L.A.K., SPUTUM; Dr. G. GORDON GORDON: False Prophets; NUMEN REMISSINIS:
+JHVJ-1, S.L.A.K.; Dr. K'TADEN LEGUME: Dr. Legume*; TOMMY LOPEZ: Jesus photo;
+MICHAEL HINSON: Sacred Jests; P. WEI R. DOE: Legume photo; RevvED: Smite Them;
+Rev. Dr. Chuckles Perdurabonobonanda: Drs. for "Bob" bg*; Tim Thomas (WebBoy):
+Manifestations
+
+*    Heavily mutated for this game with graphic processing by Rev. Ivan Stang.
+
+**    Heavily mutated for this game with graphic processing by NENSLO.
+
+ 
+
+INDEX
+
+Action tokens, 2, 3, 4, 6.
+Actions, 2, 6; canceled, 11.
+Aiding attacks, 7.
+Agents, 14.
+Alignment, 4; changing, 4, 11; in attacks, 7; in defense, 7.
+Any time, 12.
+Attacks, 3, 6; aiding, 7; direct, 12; to control, 7; to destroy, 8.
+Attributes, 5, 7.
+Automatic failure, 7, 12.
+Automatic takeover, 3.
+Canceled actions, 11.
+Captured groups, 8.
+Choose a card, 13.
+Control arrows, 4, 5.
+Control (attack), 7.
+Deals and negotiations, 12.
+Decks, 2.
+Defense, 7-8.
+Destroy (attack), 8.
+Destroyed groups, 8, 14.
+Die rolls, 7, 12, 13.
+Direct attack, 12.
+Discards, 3, 6, 13.
+Draw a card, 13.
+Duplicates, 6, 13-14; in attack, 6
+Eliminating a player, 10, 15.
+Free moves, 3, 6.
+Gifts, 9.
+Global Power, 7.
+Goals, 10; Goal cards, 10.
+Groups, 4; captured, 8; duplicate, 6, 13-14; moving, 9.
+Hand, 3, 15.
+Hidden (plots), 3.
+Illuminati, 2, 14, 15; actions, 6, 13, 14; duplicate, 14.
+Interference, 9.
+Knock, 3.
+Lead (puppet or Resource), 2, 14.
+Links, 3, 10-11.
+Master, 5, 13.
+Meta-rules, 12.
+Moving groups, 9.
+Organizations, 5.
+Permanent change, 13.
+Personalities, 5.
+Places, 5.
+Plot cards, 3; discarded, 3, 4;duplicate, 6, 13; exposed, 3.
+Power structure, 7, 13.
+Power, 5.
+Puppets, 5, 9, 13; of destroyed group, 8.
+Resistance, 5.
+Resources, 5-6; duplicate, 14; extra takeover, 5.
+Secret groups, 15.
+Shuffle, 2.
+Special abilities, 4, 13.
+Speed play, 9.
+Strategy, 12.
+Temporary change, 13.
+Threats, 12.
+Timing, 9.
+Tournaments, 14.
+Turn, 2-3, 13.
+Trades, 9.
+Two-player rules, 15.
+Whoops!, 7.
+Winning, 10, 15.
+WWW, 14.
+
+Are You Different?
+
+Then you are probably BETTER than everyone else.  If you are a superior mutant
+who wants to throw off the shackles of the Conspiracy and recapture your Slack,
+if you want to learn to surf the Luck Plane and find your true Yeti Mate, if you
+want to be on the saucers of the Sex-Goddesses on X-Day, then it's time you got
+right with "Bob" . . .
+
+Become an ordained minister of the Church of the SubGenius!
+
+Your life time membership includes: wallet-sized minister card, Doktorate of the
+Forbidden Sciences, Divine All-Inclusive Excuse, 4 issues of The Stark Fist
+(official SubGenius newsletter), and much more.
+
+Eternal Salvation or triple your money back!
+Only $30
+
+payable to:
+
+The SubGenius Foundation, Inc.
+PO Box 140306 Dallas TX 75214
+
+Or get ordained by phone using a credit card toll free
+1 (888) 669-2323
+www.subgenius.com
+
+It's time to take over the world . . .
+FOR REAL.
+
+    Disclaimer.  Steve Jackson Games is not affiliated with The SubGenius
+Foundation Inc. and can not be held responsible for any damages that may occur
+from membership in the Church.  The views and opinions of the SubGenius are not
+necessarily those of the staff or management of Steve Jackson Games, although
+they should be because our ways are superior to all others.
+
+BUT WAIT!  THERE'S MORE!
+
+If you liked this game, we'll give you a SPECIAL DEAL on other INWO stuff.  But
+you have to order FAST, because "Bob" tells us that the world will end SOON.
+
+        The INWO FACTORY SET is $29.95.  403 different Plots and Groups . . . 3
+cards each for 9 different kinds of Illuminati . . . and 20 blanks to make up
+your OWN cards!
+
+        INWO ASSASSINS was the first supplement to INWO.  It comes in packs of 8
+random cards - $1.40 a pack.  There are 125 different ASSASSINS cards, but you
+DON'T HAVE TO collect them all.
+
+    And we want to sell them to you before July 5, 1998, because that's when the
+WORLD ends.
+
+    Until that date, the phrase HAIL "BOB"! -- spoken to our Illuminated mail
+order department at 512-447-7866, or typed exactly into our web catalog at
+www.warehouse23.com -- will get you FREE SHIPPING on any order that includes
+either the Factory Set, or at least five Assassins packs . . . NO MATTER how
+much OTHER stuff you order along with it.
+
+    And while you're at it, point your web browser to
+www.sjgames.com/inwo/SubGenius/rant.html, and BASK in the pure light of
+AUTOMATICALLY GENERATED yet FULLY CORRECT prophecy and dogma.
+
+    We love you.  We love "Bob."   "Bob" wants your money.  We want your money. 
+Hail "Bob"!
+
+    STEVE JACKSON GAMES
+    www.sjgames.com

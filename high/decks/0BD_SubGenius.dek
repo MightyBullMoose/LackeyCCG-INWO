@@ -1,0 +1,111 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Church of the SubGenius 1</name><set>Subgenius</set></card>
+		<card><name>Church of the SubGenius 2</name><set>Subgenius</set></card>
+		<card><name>Church of the SubGenius 3</name><set>Subgenius</set></card>
+		<card><name>Church of the SubGenius 4</name><set>Subgenius</set></card>
+	</superzone>	
+	<superzone name="Shared Groups">	
+		<card><name>Advanced Supersonic Aluminum Nazi Hell Creatures from Beneath the Hollow Earth</name><set>Subgenius</set></card>
+		<card><name>Bobbies</name><set>Subgenius</set></card>
+		<card><name>Church of Middle America</name><set>Subgenius</set></card>
+		<card><name>Citizens for Normalcy</name><set>Subgenius</set></card>
+		<card><name>Connie Dobbs</name><set>Subgenius</set></card>
+		<card><name>Corrective Phrenologists</name><set>Subgenius</set></card>
+		<card><name>Dallas Catacombs</name><set>Subgenius</set></card>
+		<card><name>Divine Mail Order</name><set>Subgenius</set></card>
+		<card><name>Dobbstown</name><set>Subgenius</set></card>
+		<card><name>Dokstok</name><set>Subgenius</set></card>
+		<card><name>Dr. K'Taden Legume</name><set>Subgenius</set></card>
+		<card><name>Drs. for "Bob"</name><set>Subgenius</set></card>
+		<card><name>False Prophets</name><set>Subgenius</set></card>
+		<card><name>'Frop Farm</name><set>Subgenius</set></card>
+		<card><name>Glorps</name><set>Subgenius</set></card>
+		<card><name>Good Sex for Mutants Dating League</name><set>Subgenius</set></card>
+		<card><name>Jesus B.</name><set>Subgenius</set></card>
+		<card><name>League for Obvious Decency</name><set>Subgenius</set></card>
+		<card><name>Local Clenches</name><set>Subgenius</set></card>
+		<card><name>MWOWM</name><set>Subgenius</set></card>
+		<card><name>NHGH</name><set>Subgenius</set></card>
+		<card><name>OverMan Philo Drummond</name><set>Subgenius</set></card>
+		<card><name>Phlegm Elementals</name><set>Subgenius</set></card>
+		<card><name>Pinks</name><set>Subgenius</set></card>
+		<card><name>Reverend Ivan Stang</name><set>Subgenius</set></card>
+		<card><name>Rogue SubGenii</name><set>Subgenius</set></card>
+		<card><name>Saucer Landing Strip</name><set>Subgenius</set></card>
+		<card><name>Secret FisTemple</name><set>Subgenius</set></card>
+		<card><name>S.L.A.K.</name><set>Subgenius</set></card>
+		<card><name>Speakers in Tongues</name><set>Subgenius</set></card>
+		<card><name>S.P.U.T.U.M.</name><set>Subgenius</set></card>
+		<card><name>St. Janor Hypercleats</name><set>Subgenius</set></card>
+		<card><name>SubGenius FisTemples</name><set>Subgenius</set></card>
+		<card><name>The Hour of Slack</name><set>Subgenius</set></card>
+		<card><name>www.subgenius.com</name><set>Subgenius</set></card>
+		<card><name>Xists</name><set>Subgenius</set></card>
+		<card><name>Yetis</name><set>Subgenius</set></card>
+		<card><name>Janor Device</name><set>Subgenius</set></card>
+		<card><name>Martyr Meter</name><set>Subgenius</set></card>
+		<card><name>Sacred Stencil</name><set>Subgenius</set></card>
+		<card><name>The Prescriptures</name><set>Subgenius</set></card>
+		<card><name>The True Pipe</name><set>Subgenius</set></card>
+		<card><name>Three-Fisted Tales of "Bob"</name><set>Subgenius</set></card>
+	</superzone>	
+	<superzone name="Shared Plots">	
+		<card><name>Arise!</name><set>Subgenius</set></card>
+		<card><name>Brag of the SubGenius</name><set>Subgenius</set></card>
+		<card><name>Cast Out False Prophets!</name><set>Subgenius</set></card>
+		<card><name>Science Cannot Remove the Terror of the Gods!</name><set>Subgenius</set></card>
+		<card><name>The Anti"Bob"</name><set>Subgenius</set></card>
+		<card><name>13013</name><set>Subgenius</set></card>
+		<card><name>Anti-Slack</name><set>Subgenius</set></card>
+		<card><name>Attitude Mutation</name><set>Subgenius</set></card>
+		<card><name>Bulldada</name><set>Subgenius</set></card>
+		<card><name>Comet Hail-Bob</name><set>Subgenius</set></card>
+		<card><name>Decency is OK!</name><set>Subgenius</set></card>
+		<card><name>Devival</name><set>Subgenius</set></card>
+		<card><name>Eternal Salvation or Triple your Money Back</name><set>Subgenius</set></card>
+		<card><name>Excremeditation</name><set>Subgenius</set></card>
+		<card><name>Fake Healing</name><set>Subgenius</set></card>
+		<card><name>False Overman</name><set>Subgenius</set></card>
+		<card><name>False Slack</name><set>Subgenius</set></card>
+		<card><name>Give Me Slack, Or Give Me Food</name><set>Subgenius</set></card>
+		<card><name>Head Launching</name><set>Subgenius</set></card>
+		<card><name>Inherently Bogus</name><set>Subgenius</set></card>
+		<card><name>JHVH-1</name><set>Subgenius</set></card>
+		<card><name>Kill "Bob"!</name><set>Subgenius</set></card>
+		<card><name>Luck Plane</name><set>Subgenius</set></card>
+		<card><name>Mediocretinism</name><set>Subgenius</set></card>
+		<card><name>Miraculous Manifestation</name><set>Subgenius</set></card>
+		<card><name>More Slack</name><set>Subgenius</set></card>
+		<card><name>Nental Ife</name><set>Subgenius</set></card>
+		<card><name>Official, all Inclusive, Divine Excuse</name><set>Subgenius</set></card>
+		<card><name>. . . Or Kill Me!</name><set>Subgenius</set></card>
+		<card><name>OverMan</name><set>Subgenius</set></card>
+		<card><name>Psychic Pstench</name><set>Subgenius</set></card>
+		<card><name>Rain of Prairie Squid</name><set>Subgenius</set></card>
+		<card><name>Random Jesii</name><set>Subgenius</set></card>
+		<card><name>Rant!</name><set>Subgenius</set></card>
+		<card><name>Repent!</name><set>Subgenius</set></card>
+		<card><name>Robo "Bob"</name><set>Subgenius</set></card>
+		<card><name>Sacred Jests</name><set>Subgenius</set></card>
+		<card><name>Saint of Sales</name><set>Subgenius</set></card>
+		<card><name>S.C.A.M.</name><set>Subgenius</set></card>
+		<card><name>Schizm</name><set>Subgenius</set></card>
+		<card><name>Shordurpersav</name><set>Subgenius</set></card>
+		<card><name>Slackfusion</name><set>Subgenius</set></card>
+		<card><name>Smite Them All!</name><set>Subgenius</set></card>
+		<card><name>Stark Fist of Removal</name><set>Subgenius</set></card>
+		<card><name>Sultan of Slack</name><set>Subgenius</set></card>
+		<card><name>Tape Runs Out...</name><set>Subgenius</set></card>
+		<card><name>The 13th Apostle</name><set>Subgenius</set></card>
+		<card><name>The World Ends Tomorrow and You May Die!</name><set>Subgenius</set></card>
+		<card><name>They May Be Pink. . .</name><set>Subgenius</set></card>
+		<card><name>Time Control</name><set>Subgenius</set></card>
+		<card><name>X-Day</name><set>Subgenius</set></card>
+		<card><name>Yacatisma</name><set>Subgenius</set></card>
+		<card><name>You'd Pay to Know What You Really Think!</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

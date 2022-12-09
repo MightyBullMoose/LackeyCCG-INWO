@@ -1,0 +1,193 @@
+The Adepts of Herpes
+
+by Don Fnordlioni
+Section I: The Deck
+
+Herpes is a horrible, incurable social disease, often contracted during
+consensual play, and like its viral counterpart -- its constant stream of ATOs
+lets it grow without check, and it's hard to get rid of once you've come in
+contact with it.
+
+What a bunch of baloney. I just like the pun.
+Illuminati
+
+    Adepts of Hermes 
+
+Group Cards
+
+    Cattle Mutilators
+    Count Dracula
+    Reformed Church of Satan
+    Rosicrucians
+    Stonehenge
+    Templars
+    Vampires
+    W.I.T.C.H.
+    Book of Kells
+    Crystal Skull
+    Death Mask
+    Flying Saucer x2
+    Holy Grail
+    Necronomicon
+    Soulburner 
+
+Plot Cards
+
+    Albino Alligators
+    Backmasquerade
+    Blitzkrieg
+    Cover of Darkness x2
+    Crop Circles
+    Forgery x3
+    Harmonica Virgins x3
+    Jake Day
+    Messiah
+    New Blood x2
+    Power Grab
+    Privileged Attack
+    Savings and Loan Scam
+    Secrets Man Was Not Meant to Know
+    The Stars are Right
+    The Weak Link
+    Unlucky 13
+    NWO: Apathy (Red)
+    NWO: Solidarity (Red)
+    NWO: World Hunger (Blue)
+    NWO: Energy Crisis (Blue)
+    GOAL: Hail Eris 
+
+Section II: Strategy
+
+Weenie Adepts decks tend to grow rapidly, and rely very little on the dice. This
+one in particular typifies the standard isolationist Adepts strategy: Hoard
+Resources, protect them, and cruise on to victory. Winning with Resources is
+particularly difficult to stop, because of the difficulty inherent in getting
+rid of Resources.
+
+The simple overview is this: Get out one of your Flying Saucers as soon as
+possible! Every turn, then, you can ATO a group, use the Flying Saucer to take
+over a Resource, spend an Illuminati action for another Resource, and knock with
+most of your action tokens left. Don't make attacks out of your hand -- rely on
+ATOs, a Power Grab, and a Seize the Time. If you get attacked, use the +10s for
+defense, but half of your groups are Secret, which is an excellent defense in
+itself.
+
+But rather than go into a detailed beginning-middle-end strategy, I'll be going
+over some card combinations and tricks this deck is particularly good at. It's
+more interesting anyway, and should help a newbie shape his own style of play.
+Also, it's pretty pointless to dictate what should happen when -- your Group
+deck is huge (16), so there's a good chance some cards (as many as 3) might not
+even surface during the course of a normal 3-4 player game.
+Section III: Tricks and Ploys
+"The Grail Family"
+
+This gambit revolves around ownership of the Grail, and maximizing its
+protective abilities. The idea is to control the Holy Grail, Stonehenge and
+Dracula, with Stonehenge as the secret location of the Grail, and Dracula linked
+to the Grail. This creates a very handy ring of protection: Dracula protects the
+Grail from ever being destroyed or stolen, the Grail protects Stonehenge from
+ever being destroyed, and Stonehenge protects Dracula from ever being destroyed.
+Now, all you have to do is worry about (non-Magic) attacks to control...
+"The Lestat Effect"
+
+If you're familiar with Anne Rice books, the vampire Lestat becomes ridiculously
+powerful over the course of 4 books. With some luck, Dracula can do the same.
+First off, it only makes sense that Dracula gets New Blood at some point (the
+ironic plot name alone is worth the play). If you also link the Necronomicon and
+Book of Kells to him, control the Church of Satan, and play Messiah, Dracula
+becomes a whopping Power 18/18, Resistance 13 monster with two tokens a turn,
+whose protected Resources count for your goals and are never in danger of
+getting nuked. For added fun, link him to the Death Mask so he can interfere
+with nearly attack (with his Global power) after the dice are rolled.
+
+As an aside, you might notice that with the Book of Kells, Dracula can't make
+any attack to destroy. This is a Good Thing -- never, never, ever let Dracula
+roll the dice, because every time he does, he has a 1 in 12 chance of getting
+eaten by the Necronomicon, losing his Resources in the processes. This would be
+devastating, to say the least.
+"The Old Templars-Mutilators combo"
+
+This might be one of the oldest group-card combinations ever used, but it's
+still pretty devastating. Just in case you've been living under a rock for the
+last 3 years, you use the Cattle Mutilators to expose a rival's entire hand, and
+the Templars to discard the ones which are most useful to said rival (like
+Goals). Giving one or the other the Book of Kells makes the gambit even more
+painful -- and injecting a Seize the Time in there will make your rival wish he
+had MI-5. Use the Cattle Mutilators to expose someone's hand, use two Templar
+tokens to discard two Plots, Seize the Time, and do it again. Boom.
+"Hidden Agendas"
+
+If you're chugging along nicely, other players may start to get panicky about
+your Resources and Groups controlled. For this very reason, you are packing an
+extra Goal, which will allow you to win with even fewer Groups controlled. Hail
+Eris is good for W.I.T.C.H. (which counts naturally), and the Reformed Church of
+Satan (which counts after a decent powerboost, from, say, the Necronomicon[1]).
+Jake Day can supply the last Power => 3 group -- if you've paid a lot of
+attention to Dracula, he's a good candidate. (Jakeing him will also give him an
+extra +4 to get the Vampires, adding to your already huge +16 bonus).
+
+Personally, though, I wouldn't try to get three Weird groups to count double, at
+least not until I'm about to declare victory -- it pretty much spells out what
+you're going to do, and hurts the element of surprise.
+"Magic Hoarding"
+
+By the middle (or even better, the end) you're actually not too bad at stealing
+other people's Magic Groups -- and if they're linked to Magic Resources, all the
+better for you. Don't ignore that +6 any attempt bonus, -- it makes attacking
+your own groups out of hand worthwhile, if you feel like it -- and if you fail,
+it's not all that awful. You spent a token, and everyone else knows its in your
+hand, but that's all you lose. Such attacks, even if they're only at a 5 or 6
+target number, might mean the difference between a loss and a shared victory.
+
+As for Resource hoarding, you're pretty good at stealing other people's
+property, what with your three Forgeries or a Weak Link/Cover of Darkness combo
+-- However, I'd save the Covers of Darkness for defense, to make sure nobody
+else tries to blast your stuff. Finally, The Stars Are Right might let you leap
+up from starting a turn 4 groups behind to declaring a quick win.
+"Masque of the Red Death"
+
+The Red Death, for you, is The Magic Goes Away. This is extremely, extremely bad
+for you. No ATOs, your Resources don't work anymore, and your Magic groups all
+lose a point of Power. Boy, does it suck. For this reason, you are packing two
+Red NWOs, which suck for everyone else BUT you -- Solidarity and Apathy make
+attacks on other players pretty darn difficult, which shouldn't bother you,
+because you have very little reason to attack anything or anyone.
+
+Also inconvenient is Peace in Our Time, since a few of your groups are Violent
+or Criminal (Dracula, W.I.T.C.H., Cattle Mutilators), but it doesn't hold a
+candle to The Magic Goes Away.
+"Magic for Magic's sake"
+
+Access to cool Magic plots and abilities is the best reason, in my opinion, for
+playing an Adepts deck to begin with. Unlucky 13 is annoying as hell (especially
+after you deplete your victim's hand with the Templars/Mutilators),
+Backmasquerade lets you shrug of irksome Zaps (most notably, Lab Explosion), and
+Crop Circles / Rosicrucians can let you pick exactly the plot you need at the
+moment (such as a Red NWO, a Forgery, Stars are Right, whatever).
+Section IV: Substitutions
+
+The deck construction is open to lots of manipulation, depending on what you
+like to play with. You could throw away all the Magic groups, for all I care,
+except for Dracula. None of the other ones deal directly with Resource
+acquisition. As for Plots you might like to include some plot-stealing cards, in
+order to fuel the Flying Saucer, but as the deck stands, there's very little in
+there that you can't stand losing yourself, save for the Red NWOs, the Goal, and
+maybe the Forgeries. In short, this isn't the only Adepts deck you can play --
+I'm of a firm belief that the Adepts are a pretty versatile Illuminati, more so
+than some people will have you believe.
+Section V: Rules Problems.
+
+[1] -- Can you, the owner of Dracula, voluntarily relink a Magic Artifact to
+another group you control? The relevant text is, "No Magic Artifact linked to
+him may be lost by him or taken away by any means..." I'm just not sure of the
+word choice, here. If you give someone your car keys, you're not really "losing"
+them, and nobody's "taking them away" -- you're just lending them out. But, it's
+something to think about -- if you can't relink his stuff, then don't give him
+the Necronomicon to begin with, if you plan on winning with the Hail Eris. Leave
+it for the Church of Satan. It's less dangerous, anyway.
+Back to the Classic Decks.
+
+First posted: July 28, 1997
+
+Last modified: july 28, 1997
+Ralph Melton ralph@cs.cmu.edu

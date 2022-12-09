@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Discordian Society</name><set>Limited</set></card>
+		<card><name>Bill Clinton</name><set>Limited</set></card>
+		<card><name>Feminists</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Big Media</name><set>Limited</set></card>
+		<card><name>Black Activists</name><set>Limited</set></card>
+		<card><name>California</name><set>Limited</set></card>
+		<card><name>France</name><set>Limited</set></card>
+		<card><name>Gay Activists</name><set>Limited</set></card>
+		<card><name>Intellectuals</name><set>Limited</set></card>
+		<card><name>Italy</name><set>Limited</set></card>
+		<card><name>Secular Humanists</name><set>Limited</set></card>
+		<card><name>Shock Jocks</name><set>Assassins</set></card>
+		<card><name>Swingers</name><set>Assassins</set></card>
+		<card><name>Triliberal Commission</name><set>Limited</set></card>
+		<card><name>Teddy Kennedy</name><set>Assassins</set></card>
+		<card><name>Center for Weird Studies</name><set>Limited</set></card>
+		<card><name>Shroud of Turin</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Sniper</name><set>Limited</set></card>
+		<card><name>Power to the People</name><set>Limited</set></card>
+		<card><name>Power to the People</name><set>Limited</set></card>
+		<card><name>Chicken in Every Pot</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Military-Industrial Complex</name><set>Limited</set></card>
+		<card><name>Albino Alligators</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>Fnord!</name><set>Limited</set></card>
+		<card><name>Freaking the Mundanes</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Jake Day</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Mothers' March</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Nationalization</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+		<card><name>Talisman of Ahrimanes</name><set>Limited</set></card>
+		<card><name>The Second Bullet</name><set>Limited</set></card>
+		<card><name>The Weird Turn Pro</name><set>Limited</set></card>
+		<card><name>Beach Party</name><set>Assassins</set></card>
+		<card><name>Crackdown on Crime</name><set>Assassins</set></card>
+		<card><name>Every Year Is Worse</name><set>Assassins</set></card>
+		<card><name>Exorcism</name><set>Assassins</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+	</superzone>
+</deck>

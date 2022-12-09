@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>New York</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>American Autoduel Association</name><set>Limited</set></card>
+		<card><name>Cattle Mutilators</name><set>Limited</set></card>
+		<card><name>Flat Earthers</name><set>Limited</set></card>
+		<card><name>Goldfish Fanciers</name><set>Limited</set></card>
+		<card><name>Gun Lobby</name><set>Limited</set></card>
+		<card><name>International Cocaine Smugglers</name><set>Limited</set></card>
+		<card><name>Jimmy Hoffa</name><set>Limited</set></card>
+		<card><name>Loan Sharks</name><set>Limited</set></card>
+		<card><name>The Mafia</name><set>Limited</set></card>
+		<card><name>Ninjas</name><set>Limited</set></card>
+		<card><name>Ollie North</name><set>Limited</set></card>
+		<card><name>Paranoids</name><set>Limited</set></card>
+		<card><name>S.M.O.F.</name><set>Limited</set></card>
+		<card><name>Science Fiction Fans</name><set>Limited</set></card>
+		<card><name>Survivalists</name><set>Limited</set></card>
+		<card><name>Texas</name><set>Limited</set></card>
+		<card><name>Trading Card Games</name><set>Limited</set></card>
+		<card><name>Trekkies</name><set>Limited</set></card>
+		<card><name>Wargamers</name><set>Limited</set></card>
+		<card><name>Crystal Skull</name><set>Limited</set></card>
+		<card><name>Cyborg Soldiers</name><set>Limited</set></card>
+		<card><name>Midas Mill</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>The Big Score</name><set>Limited</set></card>
+		<card><name>The First Thing We Do, Let's Kill All The Lawyers</name><set>Limited</set></card>
+		<card><name>Gang War</name><set>Limited</set></card>
+		<card><name>Hex</name><set>Limited</set></card>
+		<card><name>Hidden Influence</name><set>Limited</set></card>
+		<card><name>I Lied</name><set>Limited</set></card>
+		<card><name>Let's You and Him Fight</name><set>Limited</set></card>
+		<card><name>Mob Influence</name><set>Limited</set></card>
+		<card><name>Opportunity Knocks</name><set>Limited</set></card>
+		<card><name>Power Corrupts</name><set>Limited</set></card>
+		<card><name>Reach Out . . .</name><set>Limited</set></card>
+		<card><name>Red Scare</name><set>Limited</set></card>
+		<card><name>Reorganization</name><set>Limited</set></card>
+		<card><name>Swiss Bank Account</name><set>Limited</set></card>
+		<card><name>Voodoo Economics</name><set>Limited</set></card>
+		<card><name>Criminal Overlords</name><set>Limited</set></card>
+		<card><name>Fratricide</name><set>Limited</set></card>
+		<card><name>Hail Eris!</name><set>Limited</set></card>
+		<card><name>The Hand of Madness</name><set>Limited</set></card>
+		<card><name>Energy Crisis</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>Clone Arrangers</name><set>Limited</set></card>
+		<card><name>Vampires</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>A.M.A.</name><set>Limited</set></card>
+		<card><name>Crystal Skull</name><set>Limited</set></card>
+		<card><name>Dan Quayle</name><set>Limited</set></card>
+		<card><name>Empty Vee</name><set>Limited</set></card>
+		<card><name>Flying Saucer</name><set>Limited</set></card>
+		<card><name>George Bush</name><set>Limited</set></card>
+		<card><name>Margaret Thatcher</name><set>Limited</set></card>
+		<card><name>Nancy Reagan</name><set>Limited</set></card>
+		<card><name>Perpetual Motion Machine</name><set>Limited</set></card>
+		<card><name>Professional Sports</name><set>Limited</set></card>
+		<card><name>Punk Rockers</name><set>Limited</set></card>
+		<card><name>Ronald Reagan</name><set>Limited</set></card>
+		<card><name>Ross Perot</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Atomic Monster</name><set>Limited</set></card>
+		<card><name>Bodyguard</name><set>Limited</set></card>
+		<card><name>Car Bomb</name><set>Limited</set></card>
+		<card><name>Censorship</name><set>Limited</set></card>
+		<card><name>Citizenship Award</name><set>Limited</set></card>
+		<card><name>Counterspell</name><set>Limited</set></card>
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Grassroots Support</name><set>Limited</set></card>
+		<card><name>Hidden Influence</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Logic Bomb</name><set>Limited</set></card>
+		<card><name>March on Washington</name><set>Limited</set></card>
+		<card><name>Mass Murder</name><set>Limited</set></card>
+		<card><name>Miracle Diet Plan</name><set>Limited</set></card>
+		<card><name>Read My Lips</name><set>Limited</set></card>
+		<card><name>Scandal</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Straighten Up</name><set>Limited</set></card>
+		<card><name>Sweeping Reforms</name><set>Limited</set></card>
+		<card><name>Unmasked!</name><set>Limited</set></card>
+		<card><name>Volcano</name><set>Limited</set></card>
+		<card><name>Voodoo Economics</name><set>Limited</set></card>
+		<card><name>Fratricide</name><set>Limited</set></card>
+		<card><name>Let Them Eat Cake!</name><set>Limited</set></card>
+		<card><name>Bigger Business</name><set>Limited</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Law and Order</name><set>Limited</set></card>
+	</superzone>
+</deck>

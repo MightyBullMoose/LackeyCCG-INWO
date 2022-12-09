@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>The Network</name><set>Limited</set></card>
+		<card><name>Germany</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Center for Disease Control</name><set>Limited</set></card>
+		<card><name>Dinosaur Park</name><set>Limited</set></card>
+		<card><name>Evil Geniuses for a Better Tomorrow</name><set>Limited</set></card>
+		<card><name>Finland</name><set>Limited</set></card>
+		<card><name>International Weather Organization</name><set>Limited</set></card>
+		<card><name>L-4 Society</name><set>Limited</set></card>
+		<card><name>Moonbase</name><set>Limited</set></card>
+		<card><name>NASA</name><set>Limited</set></card>
+		<card><name>Orbit One</name><set>Limited</set></card>
+		<card><name>Phone Company</name><set>Limited</set></card>
+		<card><name>Phone Phreaks</name><set>Limited</set></card>
+		<card><name>Robot Sea Monsters</name><set>Limited</set></card>
+		<card><name>Silicon Valley</name><set>Limited</set></card>
+		<card><name>South American Nazis</name><set>Limited</set></card>
+		<card><name>Video Games</name><set>Limited</set></card>
+		<card><name>Eliza</name><set>Limited</set></card>
+		<card><name>The Library at Alexandria</name><set>Limited</set></card>
+		<card><name>Perpetual Motion Machine</name><set>Limited</set></card>
+		<card><name>Rogue Boomer</name><set>Limited</set></card>
+		<card><name>Weather Satellite</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>The Auditor from Hell</name><set>Limited</set></card>
+		<card><name>The Big Sellout</name><set>Limited</set></card>
+		<card><name>Blitzkrieg</name><set>Limited</set></card>
+		<card><name>Cold Fusion</name><set>Limited</set></card>
+		<card><name>Computer Security</name><set>Limited</set></card>
+		<card><name>Computer Virus</name><set>Limited</set></card>
+		<card><name>Deasil Engine</name><set>Limited</set></card>
+		<card><name>Dictatorship</name><set>Limited</set></card>
+		<card><name>Early Warning</name><set>Limited</set></card>
+		<card><name>Earth Magic</name><set>Limited</set></card>
+		<card><name>Gremlins</name><set>Limited</set></card>
+		<card><name>Hurricane</name><set>Limited</set></card>
+		<card><name>Infobahn</name><set>Limited</set></card>
+		<card><name>The Internet Worm</name><set>Limited</set></card>
+		<card><name>Market Manipulation</name><set>Limited</set></card>
+		<card><name>Mothers' March</name><set>Limited</set></card>
+		<card><name>Rain of Frogs</name><set>Limited</set></card>
+		<card><name>Tornado</name><set>Limited</set></card>
+		<card><name>Volunteer Aid</name><set>Limited</set></card>
+		<card><name>Vultures</name><set>Limited</set></card>
+		<card><name>The Weak Link</name><set>Limited</set></card>
+		<card><name>World Cup Victory</name><set>Limited</set></card>
+		<card><name>World War 3</name><set>Limited</set></card>
+	</superzone>
+</deck>

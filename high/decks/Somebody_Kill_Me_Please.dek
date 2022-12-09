@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>Madison Avenue</name><set>Limited</set></card>
+		<card><name>Divine Mail Order</name><set>Subgenius</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Center for Disease Control</name><set>Limited</set></card>
+		<card><name>Center for Disease Control</name><set>Limited</set></card>
+		<card><name>China</name><set>Limited</set></card>
+		<card><name>Druids</name><set>Limited</set></card>
+		<card><name>Elders of Zion</name><set>Limited</set></card>
+		<card><name>Reverend Ivan Stang</name><set>Subgenius</set></card>
+		<card><name>Yetis</name><set>Subgenius</set></card>
+		<card><name>Crystal Skull</name><set>Limited</set></card>
+		<card><name>The Holy Grail</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Blood, Toil, Tears and Sweat</name><set>Limited</set></card>
+		<card><name>Blood, Toil, Tears and Sweat</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Let's Get Organized</name><set>Limited</set></card>
+		<card><name>Media Blitz</name><set>Limited</set></card>
+		<card><name>Monopoly</name><set>Limited</set></card>
+		<card><name>Mothers' March</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Pulitzer Prize</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Voodoo Economics</name><set>Limited</set></card>
+		<card><name>Global Warming</name><set>Assassins</set></card>
+		<card><name>Global Warming</name><set>Assassins</set></card>
+		<card><name>Apathy</name><set>Assassins</set></card>
+		<card><name>Apathy</name><set>Assassins</set></card>
+		<card><name>Antitrust Legislation</name><set>Assassins</set></card>
+		<card><name>Antitrust Legislation</name><set>Assassins</set></card>
+		<card><name>Antitrust Legislation</name><set>Assassins</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+		<card><name>Sudden European Vacation</name><set>Assassins</set></card>
+		<card><name>This Was Only A Test</name><set>Assassins</set></card>
+		<card><name>Arise!</name><set>Subgenius</set></card>
+		<card><name>Arise!</name><set>Subgenius</set></card>
+		<card><name>Arise!</name><set>Subgenius</set></card>
+		<card><name>13013</name><set>Subgenius</set></card>
+		<card><name>Tape Runs Out...</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Adepts of Hermes</name><set>Limited</set></card>
+		<card><name>St. Janor Hypercleats</name><set>Subgenius</set></card>
+		<card><name>W.I.T.C.H.</name><set>Limited</set></card>
+		<card><name>Count Dracula</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Cattle Mutilators</name><set>Limited</set></card>
+		<card><name>Druids</name><set>Limited</set></card>
+		<card><name>Junk Mail</name><set>Limited</set></card>
+		<card><name>Rosicrucians</name><set>Limited</set></card>
+		<card><name>Templars</name><set>Limited</set></card>
+		<card><name>Vampires</name><set>Limited</set></card>
+		<card><name>Center for Weird Studies</name><set>Limited</set></card>
+		<card><name>Necronomicon</name><set>Limited</set></card>
+		<card><name>The Nine Unknown Men</name><set>Virtual</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Hail Eris!</name><set>Limited</set></card>
+		<card><name>Hail Eris!</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Don't Forget to Smash the State</name><set>Limited</set></card>
+		<card><name>Gremlins</name><set>Limited</set></card>
+		<card><name>Harmonica Virgins</name><set>Limited</set></card>
+		<card><name>Harmonica Virgins</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Save the Whales</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Seize the Time!</name><set>Limited</set></card>
+		<card><name>Global Warming</name><set>Assassins</set></card>
+		<card><name>Global Warming</name><set>Assassins</set></card>
+		<card><name>Let the Sunshine In</name><set>Assassins</set></card>
+		<card><name>Let the Sunshine In</name><set>Assassins</set></card>
+		<card><name>School Prayer</name><set>Assassins</set></card>
+		<card><name>Secret Master</name><set>Assassins</set></card>
+		<card><name>Sorry, Wrong Number</name><set>Assassins</set></card>
+		<card><name>Sudden European Vacation</name><set>Assassins</set></card>
+		<card><name>Waiting Period</name><set>Assassins</set></card>
+		<card><name>Miraculous Manifestation</name><set>Subgenius</set></card>
+		<card><name>More Slack</name><set>Subgenius</set></card>
+		<card><name>Official, all Inclusive, Divine Excuse</name><set>Subgenius</set></card>
+		<card><name>Official, all Inclusive, Divine Excuse</name><set>Subgenius</set></card>
+		<card><name>. . . Or Kill Me!</name><set>Subgenius</set></card>
+		<card><name>Overman</name><set>Subgenius</set></card>
+		<card><name>Overman</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

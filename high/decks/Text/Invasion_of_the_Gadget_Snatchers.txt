@@ -1,0 +1,277 @@
+INWO Deck - Invasion of the Gadget Snatchers
+by Aaron Curtis
+
+Introduction
+
+This deck is decended from Double Predator, a deck I wrote which can be found on
+the DotW archive at predator.html The key concept to Double Predator is to use
+die-roll-adjusting cards like Murphy's Law, Computer Virus and WITCH to make Las
+Vegas and Suicide Squad succeed every time, and prey on your opponents' plots
+and resources. The Predator concept is the only idea that links the two deck,
+though: This one preys on your opponents' *group* decks, a method previously
+unavailable...
+
+The Deck
+Illuminati
+
+    Discordian Society 
+
+Groups
+
+    Comic Books
+    Evil Geniuses for a Better Tommorrow
+    General Disorder
+    L-4 Society
+    Recycling Centers x 2
+    Society for Creative Anarchism
+    South American Nazis
+    WITCH 
+
+Resources
+
+    Flying Saucer
+    Killer Satellite
+    Orbital Mind Control Lasers
+    Perpetual Motion Machine
+    Principia Discordia
+    X-Ray Specs 
+
+Plots
+
+    18 1/2 Minute Gap
+    Albino Allegators x 2
+    The Big Sellout
+    Cold Fusion
+    Computer Virus x 2
+    Deasil Engine
+    Fnord!
+    Forgery x 2
+    Freaking the Mundanes
+    Grave Robbers
+    Jake Day x 3
+    Media Blitz
+    New Blood
+    NWO Interesting Times (blue)
+    NWO Don't Forget to Smash the State (yellow)
+    NWO Apathy (red) x 2
+    NWO The Magic Goes Away (red)
+    NWO Solidarity (red)
+    Power Grab
+    Reverse Whammy
+    Seize the Time!
+    Terrorist Nuke
+    Upheaval! 
+
+Evil Schemes
+The most important tricks in this deck involve Recycling Centers, which is why
+there are two in the deck.
+
+Recycling Centers have the incredibly useful ability to spend their action token
+to salvage any Gadget Resource or Group which is discarded. This is the only way
+to get group cards from your enemies, and the best way to steal Resources.
+Specifically:
+
+1. Whenever someone fails to take over a group from his hand, and discards it,
+RC can take the card into your hand, just like Vultures.
+
+2. Whenever someone uses a group card as Agents, whether they succeed or fail,
+one copy of that card will be discarded. Just salvage it and use it as an Agent
+when it's your turn!
+
+3. You can FORCE YOUR OPPONENT TO DISCARD A GROUP CARD by using the Society for
+Creative Anarchism's action, then salvage it with RC. This is a deadly combo,
+and can really piss some people off.
+
+4. When you play a plot that requires you to discard group cards from your deck
+(Fnord!, Reverse Whammy, The Big Sellout and 18 1/2 Minute Gap), you can salvage
+your own card into your hand with RC.
+
+5. You can destroy your opponents' Gadget Resources with Killer Satellite or
+Deasil Engine, then salvage it with RC.
+
+6. When someone uses Forgery to steal a Unique Gadget Resource, you can salvage
+the "fake" with RC, then use your own Forgery to take it!
+
+Needless to say, Recycling Centers are the single most important card in this
+deck. Everything else is designed to either protect them or make use of their
+unique power. As it turns out, the Discordian Society and Weird Science do this
+very well. More schemes are listed below.
+
+Lead
+If you have NWO Solidarity in your initial plot draw, lead with Comic Books. In
+almost all cases, however, you want to lead with South American Nazis, as they
+can control any Weird Science group from your hand on a 10 or less, and one of
+these is almost guarenteed to be in your inital draw.
+
+Growth
+Comic Books can control any Weird group from your hand on a 9 or less, and any
+Weird Violent group get +12 to control another from your hand, thanks to
+Discordia's special ability. SA Nazis also do well, as mentioned aboved.
+
+For taking over Resources, there are several options. Grave Robbers can take
+Flying Saucer, Perpetual Motion Machine or Principia Discordia into play
+directly from your deck! Use it to take Flying Saucer if possible, as that
+allows you to take over an extra Resource each turn for the cost of a plot card,
+and you have lots of Resources to take. Evil Geniuses for a Better Tomorrow can
+spend their action to take any Gadget Resource, but it has to remain linked to
+them forever. This is good for X-Ray Specs, Killer Satellite and Orbital Mind
+Control Lasers, and many Gadgets you can steal from your opponents: Cyborg
+Soldiers, Earthquake Projector, Soulburner, Weather Satellite, Spy Satellite,
+and Blivit! If all else fails, you can use your Illuminati token or ATO to take
+a Resource, but this is to be avoided if possible.
+
+Slowing the Pace
+One difficulty with playing a Weird deck is the lack of raw power and quick
+growth seen in some other decks. A powerful counter to these decks is to slow
+the pace of growth so as to give you more time to act. The NWOs in the deck are
+the key cards to do this with:
+
+Solidarity: Doubles the resistance of all groups. With Comic Books, twice
+nothin' is nothin', but your opponents will have difficulty taking groups out of
+their hand. This is even more effective against a Secret deck.
+
+The Magic Goes Away: Everyone loses their automatic takeover, among other
+things. Play this *after* your ATO, with another red NWO in your hand. When the
+play gets around to the person before you, play the other red NWO *after* he
+places action tokens. Ta-da, you've stalled your opponents one group each!
+
+Apathy: Groups may not aid any attack. This is best played after someone has
+attacked you and aided with several groups, as it makes all the aiding actions
+illegal. [Note: As of 2-22-96, it is not clear whether these actions are lost or
+returned. Stay tuned.] Apathy makes it very difficult to attack groups out of
+hand, and nearly impossible to attack rivals. Meanwhile, SA Nazis and Comic
+Books can still attack out of your hand on a 10 or less all by themselves.
+
+Don't Forget to Smash the State: It's too easy to build a Bavarian Government
+powerhouse deck, and this hurts those decks a lot.
+
+Interesting Times: It's best to save this NWO until after someone else has
+claimed victory, as it not only gives you a second chance, but if they claimed
+victory with a goal card, it gets exposed!
+
+Also, these NWOs can be used to replace other NWOs that help your opponents too
+much, such as Fear & Loathing, Political Correctness, Gun Control, Bigger
+Business and Law & Order.
+
+The last method this deck has to slow down opponents is with Upheaval! Bring
+General Disorder into play first, then play Upheaval! at the first opportunity.
+When you discard General Disorder, you get him back a turn later! You can
+salvage one of your opponents' discards with Recycling Centers, but remember
+that the group is considered destroyed, so either use Media Blitz to revive it
+or use it as fodder for The Big Sellout later. Note that if Cthulhu is in the
+game, or if someone brings out Hitler's Brain, get General Disorder out sooner
+rather than later, in case they have an Upheaval! up their sleeve.
+
+Editor's note: The ruling on Upheaval! has been changed so that the affected
+cards are destroyed, not discarded. If you discard General Disorder due to
+Upheaval!, you do not get him back. Caveat player. RLM 1/24/97
+Defense!
+Your first line of defense, of course, is Discordia's immunity to Government and
+Straight groups. Never forget this! It's the reason why you don't need to worry
+too much about a Green deck stealing Recycling Centers from you, as the key
+cards Canada and Al Gore are both Government.
+
+Unless your opponents are unaware of the power of Recycling Centers' ability,
+wait until you have a Jake Day in your hand before you bring them out, and play
+it on them immediately. Otherwise, you'll have nothing to defend them with
+except your Illuminati and a few weak points of Global Power. South American
+Nazis also become more defensible if you play Jake Day on them, but this is less
+necessary as several of your groups are Violent and thus able to defend them.
+Making your groups Weird with Jake day becomes much more effective when you have
+Principia Discordia to boost their Resistance.
+
+The +10 cards (Cold Fusion, Albino Allegators and Terrorist Nuke) are there more
+for defense than offense, especially against attacks to destroy: five out of the
+eight groups in this deck have power 1.
+
+Reverse Whammy, 18 1/2 Minute Gap and Computer Virus are also useful defensive
+cards. Remember to salvage the group card from your deck when you play RW, 18
+1/2 MG, or Fnord!
+
+Media Blitz can be used to revive Recycling Centers if your opponents manage to
+destroy it, or to revive a group which was destroyed (say, by Upheaval!) and
+salvaged.
+
+Offending Your Foes
+There are still plenty of opportunities for attacking your opponents, using
+guile rather than brute strength. The first involves making your target enemy
+group Weird using Jake Day or OMCL. If it's Science, the SA Nazis have at least
+a power of 14 to take it, plus alignment bonuses, plus 4 more if you have L-4
+Society. Even better, if Comic Books participate in the attack, the target's
+Resistance is reduced to 0! This is a very good way to steal someone's Nuclear
+Power Companies when they least expect it.
+
+Use X-Ray Specs to view your opponents' group decks so that you can spend the
+Society for Creative Anarchism's token to discard a group you really want, or
+really don't want them to have. Their also useful for looking at your own decks.
+Be sure to take notes when looking six cards deep.
+
+Use Killer Satellite to destroy an enemy Spy, Power or Weather Satellite, and
+use WITCH and/or Computer Virus to guarentee the result. Or use Deasil Engine to
+destroy the Gadget of your choice. Be sure to salvage!
+
+The Endgame
+As much fun as you're having, it's easy to forget that the goal is to win and
+not just frustrate your opponents. This deck makes no pretentions: win with
+Discordia's special goal. Well, almost. If you take one or two Science groups
+from your opponents you can pretend to have Blinded by Science in your plot
+deck, and this might distract them. Fortunately, there are several ways to get
+Weird groups with power 3 or more. First, there's WITCH. Second, Jake Day can be
+used on SA Nazis, or some other group that you stole from an opponent. Third,
+any Weird Science puppet of S Am Nazis gets +3 power. Finally, New Blood can
+bring one violent group to power 6. By the time you have enough groups you
+should have no problem getting at least three with a power of 3 or more.
+
+About New Blood: If you can steal some Cyborg Soldiers from an opponent, play it
+on the Evil Geniuses for a power of 12. Otherwise, it's best played on Comic
+Books or General Disorder.
+
+In the reach for victory, or if you're needing some help in the midgame, there
+are three cards in this deck to get you going. Freaking the Mundanes will reload
+your Weird groups, up to a total power of 5, for the cost of an illuminati
+token. This should be good for about 3 tokens, preferably Comic Books, SCA and a
+Jake Day'ed Recycling Centers, and is best used earlier rather than later, if
+possible. Seize the Time! is a classic and needs no introduction. One suprise
+use of either of these cards is to play it after you've used the tokens from SCA
+and RC, and want to feed again. The third powercard is The Big Sellout. You can
+use it to turn the useless group cards you've been amassing into action tokens,
+and you can spend group cards from your deck for action tokens as well, and then
+use RC to salvage the ones you want to keep. Only The Big Sellout allows you to
+put tokens on groups that already have one, including your Illuminati. It is
+best saved until you plan to win.
+
+Substitutions
+This is a very tight deck, and too many substitutions will weaken it severely,
+perhaps fatally. The vital groups are Recycling Centers, Society for Creative
+Anarchism, SA Nazis, Evil Geniuses, and Comic Books, and at least one other
+Weird Science group. The vital Resources are Principia Discordia, OMCL, and
+Flying Saucer. Of the NWOs, Interesting Times can be replaced with A Thousand
+Points of Light, Don't Forget to Smash the State can be replaced with
+Military-Industrial Complex or Antitrust Legislation, and The Magic Goes Away
+and Apathy can be replaced with one or more Solidarity; just be sure to have at
+least four red NWO to slow your opponents down with.
+
+The plot deck needs the multiple Jake Day, Forgery, Computer Virus and +10 cards
+in order to be effective. The rest can be substituted, although at least two of
+the three powercards mentioned in The Endgame should be kept. Note that Voodoo
+Economics is *not* a good substitute for The Big Sellout.
+
+Cards I had to cull in order to reduce this to 45 cards:
+
+    Let's You and Him Fight
+    Cover of Darkness
+    Faction Fight
+    The Weak Link
+    Reload!
+    Let's Get REALLY Organized
+    Commitment
+    Annual Convention
+    Blivit
+    Suicide Squad
+    Lama Ramadingdong
+    SMOF
+    Trading Card Games
+    More Jake Day, Forgery, Computer Virus, Solidarity and +10 cards. 
+
+Last modified: January 24, 1997
+Back to the Deck of the Week.

@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Bavarian Illuminati</name><set>Limited</set></card>
+		<card><name>I.R.S.</name><set>Limited</set></card>
+		<card><name>Bill Clinton</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>A.M.A.</name><set>Limited</set></card>
+		<card><name>B.A.T.F.</name><set>Limited</set></card>
+		<card><name>C.I.A.</name><set>Limited</set></card>
+		<card><name>Center For Weird Studies</name><set>Limited</set></card>
+		<card><name>CFL-AIO</name><set>Limited</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Cyborg Soldiers</name><set>Limited</set></card>
+		<card><name>EPA</name><set>Assassins</set></card>
+		<card><name>F.B.I.</name><set>Limited</set></card>
+		<card><name>MI-5</name><set>Limited</set></card>
+		<card><name>N.S.A.</name><set>Limited</set></card>
+		<card><name>NASA</name><set>Limited</set></card>
+		<card><name>Orbital Mind Control Lasers</name><set>Limited</set></card>
+		<card><name>Perpetual Motion Machine</name><set>Limited</set></card>
+		<card><name>W.I.T.C.H.</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Anarchists Unite!</name><set>Assassins</set></card>
+		<card><name>Anarchists Unite!</name><set>Assassins</set></card>
+		<card><name>Antitrust Legislation</name><set>Assassins</set></card>
+		<card><name>Antitrust Legislation</name><set>Assassins</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Blitzkrieg</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Exorcism</name><set>Assassins</set></card>
+		<card><name>Exorcism</name><set>Assassins</set></card>
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Market Manipulation</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Nevermore!</name><set>Assassins</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Seize The Time!</name><set>Limited</set></card>
+		<card><name>Senate Investigating Committee</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Sorry, Wrong Number</name><set>Assassins</set></card>
+		<card><name>Sorry, Wrong Number</name><set>Assassins</set></card>
+		<card><name>Unmasked!</name><set>Limited</set></card>
+	</superzone>
+</deck>

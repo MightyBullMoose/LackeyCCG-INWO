@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Bavarian Illuminati</name><set>Limited</set></card>
+		<card><name>The Green Party</name><set>Assassins</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Anti-Nuclear Activists</name><set>Limited</set></card>
+		<card><name>CFL-AIO</name><set>Limited</set></card>
+		<card><name>Feminists</name><set>Limited</set></card>
+		<card><name>Al Gore</name><set>Limited</set></card>
+		<card><name>California</name><set>Limited</set></card>
+		<card><name>Canada</name><set>Limited</set></card>
+		<card><name>Canada</name><set>Limited</set></card>
+		<card><name>France</name><set>Limited</set></card>
+		<card><name>Bigfoot</name><set>Limited</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Loch Ness Monster</name><set>Limited</set></card>
+		<card><name>Dittoheads</name><set>Assassins</set></card>
+		<card><name>Recycling Centers</name><set>Assassins</set></card>
+		<card><name>Lama Ramadingdong</name><set>Assassins</set></card>
+		<card><name>Lama Ramadingdong</name><set>Assassins</set></card>
+		<card><name>Teddy Kennedy</name><set>Assassins</set></card>
+		<card><name>Blivit</name><set>Assassins</set></card>
+		<card><name>Orgone Grinder</name><set>Assassins</set></card>
+		<card><name>Power Satellite</name><set>Assassins</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Alien Abduction</name><set>Assassins</set></card>
+		<card><name>Antitrust Legislation</name><set>Assassins</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Clone</name><set>Limited</set></card>
+		<card><name>Deasil Engine</name><set>Limited</set></card>
+		<card><name>Defection</name><set>Assassins</set></card>
+		<card><name>Dictatorship</name><set>Limited</set></card>
+		<card><name>Earth First!</name><set>Assassins</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Global Warming</name><set>Assassins</set></card>
+		<card><name>Global Warming</name><set>Assassins</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+		<card><name>Oil Spill</name><set>Assassins</set></card>
+		<card><name>Partition</name><set>Assassins</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Read My Lips</name><set>Limited</set></card>
+		<card><name>Reverse Whammy</name><set>Assassins</set></card>
+		<card><name>Save the Whales</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+		<card><name>Sniper</name><set>Limited</set></card>
+		<card><name>Sorry, Wrong Number</name><set>Assassins</set></card>
+	</superzone>
+</deck>

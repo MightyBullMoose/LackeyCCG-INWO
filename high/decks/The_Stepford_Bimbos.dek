@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Discordian Society</name><set>Limited</set></card>
+		<card><name>Savings and Loans</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Congressional Wives</name><set>Limited</set></card>
+		<card><name>Feminists</name><set>Limited</set></card>
+		<card><name>Girlie Magazines</name><set>Limited</set></card>
+		<card><name>Phone Phreaks</name><set>Limited</set></card>
+		<card><name>Princess Di</name><set>Limited</set></card>
+		<card><name>Professional Sports</name><set>Limited</set></card>
+		<card><name>United Nations</name><set>Limited</set></card>
+		<card><name>Center for Weird Studies</name><set>Limited</set></card>
+		<card><name>Crystal Skull</name><set>Limited</set></card>
+		<card><name>Orbital Mind Control Lasers</name><set>Limited</set></card>
+		<card><name>Orbital Mind Control Lasers</name><set>Limited</set></card>
+		<card><name>Rogue Boomer</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Law and Order</name><set>Limited</set></card>
+		<card><name>Law and Order</name><set>Limited</set></card>
+		<card><name>Military-Industrial Complex</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Censorship</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Grassroots Support</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Liberal Agenda</name><set>Limited</set></card>
+		<card><name>Liberal Agenda</name><set>Limited</set></card>
+		<card><name>Nationalization</name><set>Limited</set></card>
+		<card><name>Nationalization</name><set>Limited</set></card>
+		<card><name>Privileged Attack</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+		<card><name>Straighten Up</name><set>Limited</set></card>
+		<card><name>Straighten Up</name><set>Limited</set></card>
+		<card><name>Interesting Times</name><set>Assassins</set></card>
+	</superzone>
+</deck>

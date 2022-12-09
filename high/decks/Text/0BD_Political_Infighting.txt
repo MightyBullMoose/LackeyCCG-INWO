@@ -1,0 +1,275 @@
+Political Infighting
+by Steve Brinich
+
+
+Theme
+This is a back-to-basics representation of the familiar political players,
+hot-potato issues, and influence peddlers on the American political scene.
+
+Card Selection Notes
+The Groups are selected to fit the theme. A cross-section of power levels,
+attributes, and alignments is provided insofar as it is consistent with this
+objective (e.g. the theme precludes Magic, Secret, and SubGenius groups).
+
+Resources are avoided partly for simplicity, and partly because the one that
+most obviously fits the theme (the Clipper Chip) seems likely to damage game
+balance.
+
+Plots are selected to include the alignment-based +10s, Power-boosts, and
+Paralyzes, plus a cross-section of other useful Plots. After rethinking the
+issue a bit in view of the objectives of the contest (create a manageable One
+Big Deck for ensnaring, er, attracting new players), I've eliminated
+Assassinations and Disasters (redefining the CIA and Red Cross special abilities
+accordingly).
+
+Illuminati
+Adepts of Hermes: This deck has no Resources or Magic Groups. Don't play Hermes
+unless you are an expert player up against a newbie.
+
+Bavarian Illuminati: This deck includes plenty of heavy hitters (15 Groups with
+printed Power 5 or better). OTOH, you'll have to fight for them (especially the
+ones that count double for somebody else), and many of them are Straight or
+Government (Discordia is immune, the Religious Reich can break your Privilege)..
+
+Bermuda Triangle: This deck includes a good mix of alignments (the rarest,
+Fanatic, appears 6 times).
+
+Church Of The SubGenius: This deck includes no SubGenius Groups. However, the
+SubGenius ability to accumulate Slack (Illuminati actions) and count up to three
+Slack as Groups should still make them competitive. Praise Bob!
+
+Discordian Society: This deck includes 7 Weird groups -- 2 of them count double
+for you as is, and the Swingers count double if you get two other Liberal
+groups. You are immune to most (but not all) of the powerful Groups in this
+deck. If the high-power Weird Groups don't come out, you'll need the right Plots
+(Frankenfood, Jake Day, The Weird Turn Pro) or The Gay Activists (there are many
+powerful Straight groups in this deck -- but The Gay Activists will be targeted
+about as intensely as the I.R.S. or Nuclear Power Companies).
+
+Gnomes of Zurich: This deck includes 8 Corporate groups (6 of them count double
+for you) and 4 Banks (3 of them count double for you). OTOH, some of these
+Groups are particularly vulnerable to the Antinuclear Activists, BATF, CFL-AIO,
+EPA, Lawyers, and Underground Newspapers.
+
+The Network: This deck includes 7 Computer groups (4 of them count double for
+you). Drawing two Plot cards per turn is especially useful in a One Big Deck
+game. OTOH, you're likely to be in trouble if somebody else gets Japan or the
+Phone Phreaks before you do.
+
+Servants of Cthulhu: This deck includes a wide range of Groups with bonuses to
+destroy (none of them are universal bonueses to destroy, but if you get a few of
+them you should be always be able to find some applicable target). The
+Underground Newspapers give extra Plot draws for a wide range of victims.
+
+Shangri-La: This deck includes 8 Peaceful Groups with 24 total Power.
+Shangri-La's special goal is reduced to 20 Peaceful Power in play, which will
+probably require hanging on until most of the Groups deck is played, drawing the
+right Plots (Frankenfood, Nobel Peace Prize, or Kinder and Gentler), or getting
+The Gay Activists (*keeping* them, even with your defensive bonus, is another
+matter). Alternatively, you can simply turtle, take your groups where you can
+get them, and go for a regular victory.
+
+Society of Assassins: The Assassins are the other odd man out -- this deck
+includes no Secret groups, and few Fanatic groups (half of which already have
+Global Power).
+
+UFOs: This deck doesn't use Goal cards. If some substitute is used for the UFO
+special ability (e.g. the UFOs secretly select another Illuminati goal, as in
+Classic Illuminati), they should be competitive (under SubGenius rules, they
+would presumably get one Illuminati action if they took an automatic takeover or
+two Illuminati actions if they passed up the ATO).
+
+The Deck (140 cards)
+The cards in the deck are listed below. Listings with an asterisk have
+modifications listed under "Card Notes".
+
+Groups (70)
+Al Gore
+AMA
+Antinuclear Activists
+Antiwar Activists
+BATF
+Big Media
+Bill Clinton
+Black Activists
+California
+Canada
+CFL-AIO
+China
+CIA*
+Congressional Wives
+Conspiracy Theorists
+Dan Quayle
+Democrats
+Dittoheads
+EFF
+EPA
+FBI
+Federal Reserve
+Feminists
+Fnord Motor Company
+Gay Activists
+Girlie Magazines
+The Green Party
+Gun Lobby
+Hackers
+Hawaii
+Hillary Clinton
+Hollywood*
+Intellectuals
+IRS*
+Japan
+Lawyers
+Libertarians
+Liquor Companies
+Local Police Departments
+The Mafia
+Moral Minority
+Multinational Oil Companies
+NATO
+New York
+Newt Gingrich
+Nuclear Power Companies
+Pentagon
+Phone Company
+Phone Phreaks
+Red Cross*
+Religious Reich
+Republicans
+Russia
+Saddam Hussein
+Savings And Loans
+Science Alarmists
+Secular Humanists
+Shock Jocks
+Silicon Valley
+Supreme Court
+Swingers
+Teddy Kennedy
+Texas
+Tobacco Companies
+Triliberal Commission
+TV Preachers
+Underground Newspapers
+United Nations
+Vatican City
+Wall Street
+Resources (0)
+Plots (70)
+Agent In Place
+Albino Alligators
+Are We Having Fun Yet?
+Assertiveness Training
+Backlash
+Benefit Concert
+The Big Score
+Bimbo At Eleven
+Bribery*
+Cat Juggling
+Censorship
+Chain Letter
+Charismatic Leader
+Citizenship Award
+Commitment
+Contract On America
+Crackdown on Crime
+Death To All Fanatics
+Deep Agent
+Emergency Powers
+Every Year Is Worse
+Fnord!*
+Frankenfood
+Fundie Money
+Good Polls
+Grassroots Support
+Hat Trick
+Hoax*
+Interference
+Jake Day
+Jihad
+Just Say No
+Ketchup Is A Vegetable
+Kinder And Gentler
+Let's Get Organized
+Let's Get REALLY Organized
+Liberal Agenda
+March On Washington*
+Martial Law
+Martyrs
+Metric System
+Mob Influence
+Monopoly
+Murphy's Law*
+Nationalization
+New Blood
+Nobel Peace Prize
+Power Corrupts
+Privatization
+Privileged Attack
+Read My Lips
+Reorganization
+Savings & Loan Scam
+School Prayer
+The Second Bullet
+Secrets Man Was Not Meant To Know*
+Self-Esteem
+Slush Fund
+Stealing The Plans
+Stock Split
+Straighten Up
+Supreme Court Nomination
+Swiss Bank Account
+Terrorist Nuke
+Vile Secretions
+Waiting Period
+The Weird Turn Pro
+Whispering Campaign
+Whistle Blowers
+You Are What You Eat
+Card Notes -- Groups
+CIA: When the CIA attempts to destroy a Personality, instead of "...may choose
+to make it an Assassination", they "...may choose to make it a privileged
+attack."
+
+Hollywood: Change text to "The Power of Hollywood (both regular and Global) is
+increased by 1 for each Personality in your Power Structure."
+
+IRS: Change the text to "At the beginning of your turn, you may 'tax' any one
+rival for a randomly selected Plot card from his hand. This is *not* an action
+for the IRS."
+
+Red Cross: Replace the first sentence with "The Red Cross gives all Places in
+your Power Structure +3 against any Attack to Destroy."
+
+CARD NOTES -- PLOTS
+Bribery: Change the cost to "To use this card, you must spend *all* action
+tokens on your Illuminati (minimum of 1) *or* discard three other Plot cards
+from your hand."
+
+Fnord: Change the cost to "To use this card, you must spend an Illuminati action
+or discard three other Plot cards from your hand."
+
+Hoax: Change the cost to "Use of this card requires action(s) by group(s) with a
+total power of at least 6. You must also discard two other Plot cards from your
+hand."
+
+March On Washington: Change the cost to "However, you must discard two other
+Plot cards from your hand."
+
+Murphy's Law: Change the cost to "To use this card, you must spend *all* action
+tokens on your Illuminati (minimum of 1) *or* discard three other Plot cards
+from your hand."
+
+Secrets Man Was Not Meant To Know: Change the cost to "To use this card, you
+must spend *all* action tokens on your Illuminati (minimum of 1) *or* discard
+three other Plot cards from your hand."
+
+Deck Variations
+If Assassins cards are not available: Add SMOF and Tabloids* to make up for the
+disproportionate loss of Weird groups (Shock Jocks and Swingers), and add a set
+of Alignment-based Reloads to replace the lost Paralyzes and other Assassins
+plots.
+
+*The extra bonus for SMOF to control certain named groups not found in this deck
+and special ability of the Tabloids will be irrelevant -- just ignore
+them.

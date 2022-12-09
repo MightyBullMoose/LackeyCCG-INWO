@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>Japan</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>A.M.A.</name><set>Limited</set></card>
+		<card><name>Center For Disease Control</name><set>Limited</set></card>
+		<card><name>F.B.I.</name><set>Limited</set></card>
+		<card><name>International Weather Organization</name><set>Limited</set></card>
+		<card><name>Newt Gingrich</name><set>Assassins</set></card>
+		<card><name>Nuclear Power Companies</name><set>Limited</set></card>
+		<card><name>Orbit One</name><set>Limited</set></card>
+		<card><name>Phone Company</name><set>Limited</set></card>
+		<card><name>Phone Phreaks</name><set>Limited</set></card>
+		<card><name>Vatican City</name><set>Limited</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>The Library at Alexandria</name><set>Limited</set></card>
+		<card><name>Orbital Mind Control Lasers</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Kill For Peace!</name><set>Limited</set></card>
+		<card><name>Let Them Eat Cake!</name><set>Limited</set></card>
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>Chicken In Every Pot</name><set>Limited</set></card>
+		<card><name>Peace In Our Time</name><set>Limited</set></card>
+		<card><name>Bigger Business</name><set>Limited</set></card>
+		<card><name>Citizenship Award</name><set>Limited</set></card>
+		<card><name>Cold Fusion</name><set>Limited</set></card>
+		<card><name>Cold Fusion</name><set>Limited</set></card>
+		<card><name>Deasil Engine</name><set>Limited</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>Infobahn</name><set>Limited</set></card>
+		<card><name>Infobahn</name><set>Limited</set></card>
+		<card><name>Kinder And Gentler</name><set>Limited</set></card>
+		<card><name>Kinder And Gentler</name><set>Limited</set></card>
+		<card><name>Liberal Agenda</name><set>Limited</set></card>
+		<card><name>Liberal Agenda</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Nobel Peace Prize</name><set>Limited</set></card>
+		<card><name>Rewriting History</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>The Weak Link</name><set>Limited</set></card>
+		<card><name>Unmasked!</name><set>Limited</set></card>
+		<card><name>Blinded By Science</name><set>Assassins</set></card>
+	</superzone>
+</deck>

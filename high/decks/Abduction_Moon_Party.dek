@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>Al Gore</name><set>Limited</set></card>
+		<card><name>Ross Perot</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Moonbase</name><set>Limited</set></card>
+		<card><name>Crystal Skull</name><set>Limited</set></card>
+		<card><name>Dan Quayle</name><set>Limited</set></card>
+		<card><name>Fidel Castro</name><set>Limited</set></card>
+		<card><name>George Bush</name><set>Limited</set></card>
+		<card><name>Gordo Remora</name><set>Limited</set></card>
+		<card><name>Hillary Clinton</name><set>Limited</set></card>
+		<card><name>Margaret Thatcher</name><set>Limited</set></card>
+		<card><name>Moonbase</name><set>Limited</set></card>
+		<card><name>Ollie North</name><set>Limited</set></card>
+		<card><name>Princess Di</name><set>Limited</set></card>
+		<card><name>Ronald Reagan</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Sniper</name><set>Limited</set></card>
+		<card><name>18 1/2-Minute Gap</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Bodyguard</name><set>Limited</set></card>
+		<card><name>Bodyguard</name><set>Limited</set></card>
+		<card><name>Combined Disasters</name><set>Limited</set></card>
+		<card><name>Earthquake</name><set>Limited</set></card>
+		<card><name>Earthquake</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Impostor</name><set>Limited</set></card>
+		<card><name>Let Them Eat Cake!</name><set>Limited</set></card>
+		<card><name>Let Them Eat Cake!</name><set>Limited</set></card>
+		<card><name>Let's Get REALLY Organized</name><set>Limited</set></card>
+		<card><name>Meteor Strike</name><set>Limited</set></card>
+		<card><name>Meteor Strike</name><set>Limited</set></card>
+		<card><name>Meteor Strike</name><set>Limited</set></card>
+		<card><name>Meteor Strike</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Power to the People</name><set>Limited</set></card>
+		<card><name>Power to the People</name><set>Limited</set></card>
+		<card><name>Rewriting History</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Seize The Time!</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Solidarity</name><set>Limited</set></card>
+		<card><name>Unmasked!</name><set>Limited</set></card>
+	</superzone>
+</deck>

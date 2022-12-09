@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Church of the SubGenius 1</name><set>Subgenius</set></card>
+		<card><name>Big Media</name><set>Limited</set></card>
+		<card><name>Madison Avenue</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>California</name><set>Limited</set></card>
+		<card><name>Drs. for &quot;Bob&quot;</name><set>Subgenius</set></card>
+		<card><name>Divine Mail Order</name><set>Subgenius</set></card>
+		<card><name>Dobbstown</name><set>Subgenius</set></card>
+		<card><name>Empty Vee</name><set>Limited</set></card>
+		<card><name>Good Sex for Mutants Dating League</name><set>Subgenius</set></card>
+		<card><name>The Hour of Slack</name><set>Subgenius</set></card>
+		<card><name>Jesus B.</name><set>Subgenius</set></card>
+		<card><name>Junk Mail</name><set>Limited</set></card>
+		<card><name>Punk Rockers</name><set>Limited</set></card>
+		<card><name>Recording Industry</name><set>Limited</set></card>
+		<card><name>Reverend Ivan Stang</name><set>Subgenius</set></card>
+		<card><name>Subliminals</name><set>Limited</set></card>
+		<card><name>Tabloids</name><set>Limited</set></card>
+		<card><name>Sacred Stencil</name><set>Subgenius</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Hail Eris!</name><set>Limited</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Blood, Toil, Tears and Sweat</name><set>Limited</set></card>
+		<card><name>Eat The Rich!</name><set>Limited</set></card>
+		<card><name>Foiled!</name><set>Limited</set></card>
+		<card><name>Media Connections</name><set>Limited</set></card>
+		<card><name>Pulitzer Prize</name><set>Limited</set></card>
+		<card><name>Pulitzer Prize</name><set>Limited</set></card>
+		<card><name>Pulitzer Prize</name><set>Limited</set></card>
+		<card><name>Scandal</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+		<card><name>Sweeping Reforms</name><set>Limited</set></card>
+		<card><name>The Weird Turn Pro</name><set>Limited</set></card>
+		<card><name>Apathy</name><set>Assassins</set></card>
+		<card><name>Don&apos;t Touch That Dial!</name><set>Assassins</set></card>
+		<card><name>Don&apos;t Touch That Dial!</name><set>Assassins</set></card>
+		<card><name>13013</name><set>Subgenius</set></card>
+		<card><name>Devival</name><set>Subgenius</set></card>
+		<card><name>Eternal Salvation or Triple your Money Back</name><set>Subgenius</set></card>
+		<card><name>Give Me Slack, Or Give Me Food</name><set>Subgenius</set></card>
+		<card><name>More Slack</name><set>Subgenius</set></card>
+		<card><name>Repent!</name><set>Subgenius</set></card>
+		<card><name>Shordurpersav</name><set>Subgenius</set></card>
+		<card><name>Sultan of Slack</name><set>Subgenius</set></card>
+		<card><name>Tape Runs Out...</name><set>Subgenius</set></card>
+		<card><name>Time Control</name><set>Subgenius</set></card>
+		<card><name>You'd Pay to Know What You Really Think!</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

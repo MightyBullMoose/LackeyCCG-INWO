@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Church of the Subgenius 2</name><set>Subgenius</set></card>
+		<card><name>S.L.A.K.</name><set>Subgenius</set></card>
+		<card><name>The Mafia</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>C.I.A.</name><set>Limited</set></card>
+		<card><name>Clone Arrangers</name><set>Limited</set></card>
+		<card><name>International Cocaine Smugglers</name><set>Limited</set></card>
+		<card><name>Loan Sharks</name><set>Limited</set></card>
+		<card><name>New York</name><set>Limited</set></card>
+		<card><name>NHGH</name><set>Subgenius</set></card>
+		<card><name>Pentagon</name><set>Limited</set></card>
+		<card><name>Texas</name><set>Limited</set></card>
+		<card><name>www.subgenius.com</name><set>Subgenius</set></card>
+		<card><name>The Big Prawn</name><set>Assassins</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Cyborg Soldiers</name><set>Limited</set></card>
+		<card><name>Cyborg Soldiers</name><set>Limited</set></card>
+		<card><name>Flying Saucer</name><set>Limited</set></card>
+		<card><name>Necronomicon</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>13013</name><set>Subgenius</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+		<card><name>Bulldada</name><set>Subgenius</set></card>
+		<card><name>Devival</name><set>Subgenius</set></card>
+		<card><name>Eternal Salvation or Triple Your Money Back</name><set>Subgenius</set></card>
+		<card><name>Give Me Slack, or Give Me Food</name><set>Subgenius</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Jihad</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Miraculous Manifestation</name><set>Subgenius</set></card>
+		<card><name>Mob Influence</name><set>Limited</set></card>
+		<card><name>More Slack</name><set>Subgenius</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Repent!</name><set>Subgenius</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Sultan of Slack</name><set>Subgenius</set></card>
+		<card><name>Tape Runs Out...</name><set>Subgenius</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>The World Ends Tomorrow and You May Die!</name><set>Subgenius</set></card>
+		<card><name>The Anti"Bob"</name><set>Subgenius</set></card>
+		<card><name>Antitrust Legislation</name><set>Assassins</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+	</superzone>
+</deck>

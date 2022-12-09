@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Shangri-la</name><set>Limited</set></card>
+		<card><name>Vatican City</name><set>Limited</set></card>
+		<card><name>Japan</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>A.M.A.</name><set>Limited</set></card>
+		<card><name>Angel's Feather</name><set>Limited</set></card>
+		<card><name>Antiwar Activists</name><set>Limited</set></card>
+		<card><name>Bjorne</name><set>Limited</set></card>
+		<card><name>Canada</name><set>Limited</set></card>
+		<card><name>Empty Vee</name><set>Limited</set></card>
+		<card><name>Fnord Motor Company</name><set>Limited</set></card>
+		<card><name>Goldfish Fanciers</name><set>Limited</set></card>
+		<card><name>Moonies</name><set>Limited</set></card>
+		<card><name>Orbital Mind Control Lasers</name><set>Limited</set></card>
+		<card><name>Recording Industry</name><set>Limited</set></card>
+		<card><name>Red Cross</name><set>Limited</set></card>
+		<card><name>The Bronze Head</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Charismatic Leader</name><set>Limited</set></card>
+		<card><name>Chicken in Every Pot</name><set>Limited</set></card>
+		<card><name>Citizenship Award</name><set>Limited</set></card>
+		<card><name>Clone</name><set>Limited</set></card>
+		<card><name>Early Warning</name><set>Limited</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Kill For Peace!</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>Let's Get REALLY Organized</name><set>Limited</set></card>
+		<card><name>Let's Get REALLY Organized</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Messiah</name><set>Limited</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>Peace in Our Time</name><set>Limited</set></card>
+		<card><name>Peace in Our Time</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Reorganization</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Solidarity</name><set>Limited</set></card>
+		<card><name>Talisman of Ahrimanes</name><set>Limited</set></card>
+		<card><name>Volunteer Aid</name><set>Limited</set></card>
+		<card><name>World Cup Victory</name><set>Limited</set></card>
+	</superzone>
+</deck>

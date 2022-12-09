@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Adepts of Hermes</name><set>Limited</set></card>
+		<card><name>Count Dracula</name><set>Limited</set></card>
+		<card><name>Fraternal Orders</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Cattle Mutilators</name><set>Limited</set></card>
+		<card><name>Angel's Feather</name><set>Limited</set></card>
+		<card><name>Ark of the Covenant</name><set>Limited</set></card>
+		<card><name>Book of Kells</name><set>Limited</set></card>
+		<card><name>Crystal Skull</name><set>Limited</set></card>
+		<card><name>Flying Saucer</name><set>Limited</set></card>
+		<card><name>Necronomicon</name><set>Limited</set></card>
+		<card><name>Shroud of Turin</name><set>Limited</set></card>
+		<card><name>Soulburner</name><set>Limited</set></card>
+		<card><name>Stonehenge</name><set>Limited</set></card>
+		<card><name>Templars</name><set>Limited</set></card>
+		<card><name>The Holy Grail</name><set>Limited</set></card>
+		<card><name>Warehouse 23</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Don't Forget to Smash the State</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Cover of Darkness</name><set>Limited</set></card>
+		<card><name>Cover of Darkness</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Don't Forget to Smash the State</name><set>Limited</set></card>
+		<card><name>Energy Crisis</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>George the Janitor</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Harmonica Virgins</name><set>Limited</set></card>
+		<card><name>Harmonica Virgins</name><set>Limited</set></card>
+		<card><name>Hat Trick</name><set>Limited</set></card>
+		<card><name>Hat Trick</name><set>Limited</set></card>
+		<card><name>Hat Trick</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Read My Lips</name><set>Limited</set></card>
+		<card><name>Read My Lips</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>The Stars Are Right</name><set>Limited</set></card>
+		<card><name>The Stars Are Right</name><set>Limited</set></card>
+		<card><name>The Weak Link</name><set>Limited</set></card>
+		<card><name>Voodoo Economics</name><set>Limited</set></card>
+		<card><name>Withering Curse</name><set>Limited</set></card>
+		<card><name>World Hunger</name><set>Limited</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Adepts of Hermes</name><set>Limited</set></card>
+		<card><name>St. Janor Hypercleats</name><set>Subgenius</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Ark of the Covenant</name><set>Limited</set></card>
+		<card><name>Book of Kells</name><set>Limited</set></card>
+		<card><name>Crystal Skull</name><set>Limited</set></card>
+		<card><name>Flying Saucer</name><set>Limited</set></card>
+		<card><name>Immortality Serum</name><set>Limited</set></card>
+		<card><name>Necronomicon</name><set>Limited</set></card>
+		<card><name>Shroud of Turin</name><set>Limited</set></card>
+		<card><name>The Frog God</name><set>Limited</set></card>
+		<card><name>The Frog God</name><set>Limited</set></card>
+		<card><name>The Frog God</name><set>Limited</set></card>
+		<card><name>The Frog God</name><set>Limited</set></card>
+		<card><name>Warehouse 23</name><set>Limited</set></card>
+		<card><name>Warehouse 23</name><set>Limited</set></card>
+		<card><name>Dittoheads</name><set>Assassins</set></card>
+		<card><name>Dittoheads</name><set>Assassins</set></card>
+		<card><name>Jesus B.</name><set>Subgenius</set></card>
+		<card><name>Overman Philo Drummond</name><set>Subgenius</set></card>
+		<card><name>Reverend Ivan Stang</name><set>Subgenius</set></card>
+		<card><name>www.subgenius.com</name><set>Subgenius</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>Hail Eris!</name><set>Limited</set></card>
+		<card><name>Hail Eris!</name><set>Limited</set></card>
+		<card><name>A Thousand Points of Light</name><set>Limited</set></card>
+		<card><name>Alternate Goals</name><set>Limited</set></card>
+		<card><name>Cover of Darkness</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>March on Washington</name><set>Limited</set></card>
+		<card><name>March on Washington</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>The Stars Are Right</name><set>Limited</set></card>
+		<card><name>The Stars Are Right</name><set>Limited</set></card>
+		<card><name>Arise!</name><set>Subgenius</set></card>
+		<card><name>Arise!</name><set>Subgenius</set></card>
+		<card><name>Eternal Salvation or Triple your Money Back</name><set>Subgenius</set></card>
+		<card><name>Miraculous Manifestation</name><set>Subgenius</set></card>
+		<card><name>More Slack</name><set>Subgenius</set></card>
+		<card><name>. . . Or Kill Me!</name><set>Subgenius</set></card>
+		<card><name>Rain of Prairie Squid</name><set>Subgenius</set></card>
+		<card><name>Rant!</name><set>Subgenius</set></card>
+		<card><name>Rant!</name><set>Subgenius</set></card>
+		<card><name>Saint of Sales</name><set>Subgenius</set></card>
+		<card><name>Saint of Sales</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

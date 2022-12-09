@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Bermuda Triangle</name><set>Limited</set></card>
+		<card><name>Madison Avenue</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Bjorne</name><set>Limited</set></card>
+		<card><name>California</name><set>Limited</set></card>
+		<card><name>Hollywood</name><set>Limited</set></card>
+		<card><name>Immortality Serum</name><set>Limited</set></card>
+		<card><name>Orbital Mind Control Lasers</name><set>Limited</set></card>
+		<card><name>Professional Sports</name><set>Limited</set></card>
+		<card><name>Recording Industry</name><set>Limited</set></card>
+		<card><name>Reformed Church of Satan</name><set>Limited</set></card>
+		<card><name>Ronald Reagan</name><set>Limited</set></card>
+		<card><name>Savings and Loans</name><set>Limited</set></card>
+		<card><name>Subliminals</name><set>Limited</set></card>
+		<card><name>Telephone Psychics</name><set>Limited</set></card>
+		<card><name>Texas</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>A Thousand Points of Light</name><set>Limited</set></card>
+		<card><name>Albino Alligators</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+		<card><name>Blood, Toil, Tears and Sweat</name><set>Limited</set></card>
+		<card><name>Bodyguard</name><set>Limited</set></card>
+		<card><name>Bribery</name><set>Limited</set></card>
+		<card><name>Celebrity Spokesman</name><set>Limited</set></card>
+		<card><name>Charismatic Leader</name><set>Limited</set></card>
+		<card><name>Commitment</name><set>Limited</set></card>
+		<card><name>Cover of Darkness</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Early Warning</name><set>Limited</set></card>
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Media Connections</name><set>Limited</set></card>
+		<card><name>Messiah</name><set>Limited</set></card>
+		<card><name>Nobel Peace Prize</name><set>Limited</set></card>
+		<card><name>Nuclear Accident</name><set>Limited</set></card>
+		<card><name>Pulitzer Prize</name><set>Limited</set></card>
+		<card><name>Read My Lips</name><set>Limited</set></card>
+		<card><name>Scandal</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Sweeping Reforms</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>Voodoo Economics</name><set>Limited</set></card>
+		<card><name>Whispering Campaign</name><set>Limited</set></card>
+	</superzone>
+</deck>

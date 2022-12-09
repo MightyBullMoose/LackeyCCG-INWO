@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Bermuda Triangle</name><set>Limited</set></card>
+		<card><name>Canada</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Al Gore</name><set>Limited</set></card>
+		<card><name>Anti-Nuclear Activists</name><set>Limited</set></card>
+		<card><name>Antiwar Activists</name><set>Limited</set></card>
+		<card><name>Black Activists</name><set>Limited</set></card>
+		<card><name>Eco-Guerrillas</name><set>Limited</set></card>
+		<card><name>Feminists</name><set>Limited</set></card>
+		<card><name>Fidel Castro</name><set>Limited</set></card>
+		<card><name>Fiendish Fluoridators</name><set>Limited</set></card>
+		<card><name>France</name><set>Limited</set></card>
+		<card><name>Gay Activists</name><set>Limited</set></card>
+		<card><name>International Communist Conspiracy</name><set>Limited</set></card>
+		<card><name>Libertarians</name><set>Limited</set></card>
+		<card><name>Rifkinites</name><set>Limited</set></card>
+		<card><name>Semiconscious Liberation Army</name><set>Limited</set></card>
+		<card><name>Society for Creative Anarchism</name><set>Limited</set></card>
+		<card><name>Underground Newspapers</name><set>Limited</set></card>
+		<card><name>Bigfoot</name><set>Limited</set></card>
+		<card><name>EPA</name><set>Assassins</set></card>
+		<card><name>The Green Party</name><set>Assassins</set></card>
+		<card><name>Lama Ramadingdong</name><set>Assassins</set></card>
+		<card><name>Lenin's Body</name><set>Assassins</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Backlash</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Commitment</name><set>Limited</set></card>
+		<card><name>Double-Cross</name><set>Limited</set></card>
+		<card><name>Embezzlement</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Liberal Agenda</name><set>Limited</set></card>
+		<card><name>March On Washington</name><set>Limited</set></card>
+		<card><name>Pledge Drive</name><set>Limited</set></card>
+		<card><name>Rewriting History</name><set>Limited</set></card>
+		<card><name>Save the Whales</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+		<card><name>The Second Bullet</name><set>Limited</set></card>
+		<card><name>Power To The People</name><set>Limited</set></card>
+		<card><name>A Thousand Points of Light</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Alternate Goals</name><set>Limited</set></card>
+		<card><name>Oil Spill</name><set>Assassins</set></card>
+		<card><name>Earth First!</name><set>Assassins</set></card>
+		<card><name>Global Warming</name><set>Assassins</set></card>
+		<card><name>Watermelons</name><set>Assassins</set></card>
+		<card><name>May Day</name><set>Assassins</set></card>
+	</superzone>
+</deck>

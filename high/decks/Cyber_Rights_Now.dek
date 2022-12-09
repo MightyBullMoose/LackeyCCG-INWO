@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>The Network</name><set>Limited</set></card>
+		<card><name>Phone Phreaks</name><set>Limited</set></card>
+		<card><name>Video Games</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Big Media</name><set>Limited</set></card>
+		<card><name>Black Activists</name><set>Limited</set></card>
+		<card><name>EFF</name><set>Limited</set></card>
+		<card><name>Finland</name><set>Limited</set></card>
+		<card><name>France</name><set>Limited</set></card>
+		<card><name>France</name><set>Limited</set></card>
+		<card><name>Hackers</name><set>Limited</set></card>
+		<card><name>International Weather Organization</name><set>Limited</set></card>
+		<card><name>Orbit One</name><set>Limited</set></card>
+		<card><name>Perpetual Motion Machine</name><set>Limited</set></card>
+		<card><name>Phone Company</name><set>Limited</set></card>
+		<card><name>Silicon Valley</name><set>Limited</set></card>
+		<card><name>The Library at Alexandria</name><set>Limited</set></card>
+		<card><name>Video Games</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Backlash</name><set>Limited</set></card>
+		<card><name>Bavarian Illuminati</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Chicken in every Pot</name><set>Limited</set></card>
+		<card><name>Cold Fusion</name><set>Limited</set></card>
+		<card><name>Computer Security</name><set>Limited</set></card>
+		<card><name>Double-Cross</name><set>Limited</set></card>
+		<card><name>Early Warning</name><set>Limited</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>George the Janitor</name><set>Limited</set></card>
+		<card><name>Hidden Influence</name><set>Limited</set></card>
+		<card><name>Infobahn</name><set>Limited</set></card>
+		<card><name>Infobahn</name><set>Limited</set></card>
+		<card><name>Liberal Agenda</name><set>Limited</set></card>
+		<card><name>Liberal Agenda</name><set>Limited</set></card>
+		<card><name>Market Manipulation</name><set>Limited</set></card>
+		<card><name>Meteor Strike</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Nuclear Accident</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Power To The People</name><set>Limited</set></card>
+		<card><name>Power To The People</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+		<card><name>The Auditor from Hell</name><set>Limited</set></card>
+		<card><name>The Weak Link</name><set>Limited</set></card>
+		<card><name>Unmasked!</name><set>Limited</set></card>
+	</superzone>
+</deck>

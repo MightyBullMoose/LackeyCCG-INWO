@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Republicans</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Cable TV</name><set>Limited</set></card>
+		<card><name>Gun Lobby</name><set>Limited</set></card>
+		<card><name>Junk Mail</name><set>Limited</set></card>
+		<card><name>Local Police Departments</name><set>Limited</set></card>
+		<card><name>Madison Avenue</name><set>Limited</set></card>
+		<card><name>Mossad</name><set>Limited</set></card>
+		<card><name>Newt Gingrich</name><set>Assassins</set></card>
+		<card><name>Pentagon</name><set>Limited</set></card>
+		<card><name>Saturday Morning Cartoons</name><set>Limited</set></card>
+		<card><name>Survivalists</name><set>Limited</set></card>
+		<card><name>Cyborg Soldiers</name><set>Limited</set></card>
+		<card><name>Shroud of Turin</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Sniper</name><set>Limited</set></card>
+		<card><name>Atomic Monster</name><set>Limited</set></card>
+		<card><name>Criminal Overlords</name><set>Limited</set></card>
+		<card><name>Criminal Overlords</name><set>Limited</set></card>
+		<card><name>World Hunger</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Blood, Toil, Tears and Sweat</name><set>Limited</set></card>
+		<card><name>Blood, Toil, Tears and Sweat</name><set>Limited</set></card>
+		<card><name>Censorship</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Fundie Money</name><set>Limited</set></card>
+		<card><name>March On Washington</name><set>Limited</set></card>
+		<card><name>Media Connections</name><set>Limited</set></card>
+		<card><name>Mob Influence</name><set>Limited</set></card>
+		<card><name>Monopoly</name><set>Limited</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>Power Corrupts</name><set>Limited</set></card>
+		<card><name>Privatization</name><set>Limited</set></card>
+		<card><name>Pulitzer Prize</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Sweeping Reforms</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>Whispering Campaign</name><set>Limited</set></card>
+		<card><name>Antitrust Legislation</name><set>Assassins</set></card>
+		<card><name>Antitrust Legislation</name><set>Assassins</set></card>
+		<card><name>Alien Abduction</name><set>Assassins</set></card>
+	</superzone>
+</deck>

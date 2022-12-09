@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Adepts of Hermes</name><set>Limited</set></card>
+		<card><name>C.I.A.</name><set>Limited</set></card>
+		<card><name>Comic Books</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Cattle Mutilators</name><set>Limited</set></card>
+		<card><name>Count Dracula</name><set>Limited</set></card>
+		<card><name>Evil Geniuses for a Better Tomorrow</name><set>Limited</set></card>
+		<card><name>Hackers</name><set>Limited</set></card>
+		<card><name>Psychiatrists</name><set>Limited</set></card>
+		<card><name>Reformed Church of Satan</name><set>Limited</set></card>
+		<card><name>S.M.O.F.</name><set>Limited</set></card>
+		<card><name>South American Nazis</name><set>Limited</set></card>
+		<card><name>W.I.T.C.H.</name><set>Limited</set></card>
+		<card><name>Book of Kells</name><set>Limited</set></card>
+		<card><name>The Library at Alexandria</name><set>Limited</set></card>
+		<card><name>Necronomicon</name><set>Limited</set></card>
+		<card><name>Soulburner</name><set>Limited</set></card>
+		<card><name>Wargamers</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>18 1/2-Minute Gap</name><set>Limited</set></card>
+		<card><name>Angst</name><set>Limited</set></card>
+		<card><name>Albino Alligators</name><set>Limited</set></card>
+		<card><name>Annual Convention</name><set>Limited</set></card>
+		<card><name>Celebrity Spokesman</name><set>Limited</set></card>
+		<card><name>Charismatic Leader</name><set>Limited</set></card>
+		<card><name>Computer Virus</name><set>Limited</set></card>
+		<card><name>Cover of Darkness</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Full Moon</name><set>Limited</set></card>
+		<card><name>Harmonica Virgins</name><set>Limited</set></card>
+		<card><name>Hat Trick</name><set>Limited</set></card>
+		<card><name>Hex</name><set>Limited</set></card>
+		<card><name>Jake Day</name><set>Limited</set></card>
+		<card><name>Let's Get Organized</name><set>Limited</set></card>
+		<card><name>Mutual Betrayal</name><set>Limited</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>Plague of Demons</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>The Stars are Right</name><set>Limited</set></card>
+		<card><name>The Weak Link</name><set>Limited</set></card>
+		<card><name>The Weird Turn Pro</name><set>Limited</set></card>
+		<card><name>Unlucky 13</name><set>Limited</set></card>
+		<card><name>Withering Curse</name><set>Limited</set></card>
+		<card><name>Up Against the Wall!</name><set>Limited</set></card>
+		<card><name>Don't Forget to Smash the State</name><set>Limited</set></card>
+		<card><name>Solidarity</name><set>Limited</set></card>
+		<card><name>World Hunger</name><set>Limited</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,179 @@
+Fusion Seppuku
+
+"Fusion Seppuku" is the name I've given to a deck theme for Illuminati: New
+World Order, a trading-card game from Steve Jackson Games. The name comes from
+an rpg story told by a friend of mine, Scott "Stormy" Whitney, roleplayer and
+cast-iron tcg-phobe. Naming the deck in his honor is a bit of irony he fails to
+appreciate.
+
+The deck revolves around the careful use of the World War Three card in a
+Servants of Cthulhu deck. If you read the card with an illuminated eye, you'll
+notice that if WW3 is in play, and one of your Nations attacks another of your
+Nations, no matter which way the dice fall, a group will be destroyed and it
+will count towards your victory conditions. Thus, once there are eight Nations
+in play, you can, in one turn, destroy them all and win.
+
+The text of the major cards:
+Servants of Cthulhu PictureServants of Cthulhu
+
+Power 9/9
+Goal: For every group you destroy, reduce by 1 the number of groups you need to
+control in order to win. You may also count rival Illuminati which you destroy
+by removing their last group. If you destroy 8 groups, you win, regardless of
+how many you control!
+Ability: You have a +4 on any attempt to destroy, even with Disasters and
+Assassinations. Draw a Plot card whenever you destroy a group!
+World War Three
+
+New World Order Plot Card
+
+Any Nation making a direct Attack to Destroy against another Nation has tripled
+power. If it succeeds, the attacking Nation gets a Plot card and another Action
+token immediately! If it fails, the attacker is destroyed, and counts toward the
+victory conditions of the defending player.
+This card replaces any Yellow NWO card in play.
+The Deck
+
+This is what I have in my current Fusion Seppuku deck:
+Illuminati
+
+    Servants of Cthulhu
+
+Groups
+
+    Brazil
+    Canada
+    China
+    England
+    Finland
+    France
+    Germany
+    Israel
+    Italy
+    Japan
+    Russia
+    Switzerland
+    Vatican City
+
+Resources
+
+    Rogue Boomer
+
+Plots
+
+    18 1/2-Minute Gap
+    Agent in Place
+    Blitzkrieg
+    Bribery
+    Dictatorship
+    Early Warning × 2
+    Emergency Powers
+    Fnord!
+    Good Polls
+    Hat Trick
+    Hoax
+    Martial Law × 2
+    Murphy's Law
+    New Federal Budget
+    NWO: Chicken In Every Pot
+    NWO: World War Three × 2
+    Power Grab
+    Revolution!
+    Savings & Loan Scam
+    Secrets Man Was Not Meant to Know
+    Seize the Time!
+    Senate Investigating Committee
+    Swiss Bank Account
+    Volunteer Aid
+    Voodoo Economics
+    World Cup Victory × 2
+
+Hints & Questions
+Lead
+
+Your lead should probably be Japan. It's a strong card, and it's also a popular
+lead, so you stand a good chance of screwing one of your opponents' openings. If
+you do, Vatican City is your fall-back lead.
+
+Why the Rogue Boomer? Why not NATO or the UN?
+
+Well, one of the weaknesses of this deck is that you may need to have eight
+Nations out in order to destroy them and win. In a 10-group-goal game, 8 Nations
++ your Illuminati + NATO = you've already won. Obviously, your opponents aren't
+going to let you get that far. The Rogue Boomer, however, doesn't count toward
+the basic goal, but nevertheless gives you a +5 to control any Nation, and a +10
+to destroy one, once. (You should also probably try to use the Fusion Seppuku
+deck mostly in games where the basic goal is 12 or 11.)
+
+Combinations
+
+Russia has a +4 to control China. Japan and Finland each have a +6 to control
+the other. Germany and England are token factories, and France has "virtual"
+tokens. Remember that China is at -20 to be destroyed! It's best to launch a
+doomed attack from there, and let WW3 destroy it. It has been suggested that I
+add the Ark of the Covenant to my deck; it would let the destruction go twice as
+fast! Tricky and tempting; we'll see...
+
+The Endgame
+
+When you're ready to go for the win, hunker down and play World War Three. The
+best place to run the attack from is Vatican City; it's the only Nation that
+doesn't have the Government alignment (which would give you a -4 on the attack
+roll). Start by going after Violent or Liberal Nations. The Vatican's modified
+Power in such attacks is (4 x 3 (WW3)) + 4 (opposed alignments) + 4 (Servants
+bonus) = 20. If the Vatican has any puppets, go after them early; sooner or
+later you're going to roll an 11 or 12, and you don't want juicy targets being
+returned to your hand when the Vatican loses a fight.
+
+When you succeed in an attack, you get to place a new token on the attacker, and
+draw two Plot cards (thanks to WW3 and the Servants). If you should happen to
+fail, the attacker is destroyed, but you still get to draw one Plot.
+
+After the fourth or fifth group, your opponent may start to freak out a little.
+By this time you should have over 10 Plot cards in your hand, so you'll have
+defenses against whatever he may try.
+
+Strengths & Weaknesses
+
+Your whole deck is built around the Attribute of "Nation". In addition, all of
+these Nations are Places, most are Government, and a lot are Coastal. The
+strength is that you have a homogenous structure; the weakness is that you have
+a big sign on your butt saying "Disaster Target!". Be prepared with your Early
+Warnings and such.
+
+The biggest strength is that it is so unexpected. In a normal game, it doesn't
+pay for the Servants to destroy their own groups; they might as well count
+towards the basic goal, ne? WW3, however, lets you optimize for
+self-destruction, and steal the victory out of a fallout-blackened sky.
+
+Jim Jarrett posted to rec.games.trading-cards.misc with his experience with the
+deck:
+
+    From: jarrett@pixel.kodak.com (Jim Jarrett)
+    Newsgroups: rec.games.trading-cards.misc
+    Subject: INWO: Fusion Seppuku Trial
+    Date: Tue, 02 May 1995 16:54:42 -0400
+
+    Well, I got to try the Fusion Seppuku variation this weekend. I had to try
+to build the deck from memory and got the groups & WW III ok...I had thought I
+had saved some notes that described good cards to aid in that.
+    The first time I played, my opponents said, "Gee, you've got an awful lot of
+places...." but did nothing about it. Someone else won because I couldn't get to
+WW III and was also trying to privatize Germany and link Brazil, Hawaii, China,
+and Perpetual Motion to it, just for evil grins.
+    Second time, "Gee, you still have an awful lot of groups [places]..." but
+still no disasters. I had to destroy a couple of groups from other players, so I
+had 2 down. Got WW III out, and started the Orgy of Destruction. I had stacked
+my deck with lots of New Federal Budgets, which worked juicily. I actually only
+needed to destroy something like 3 of my own groups, plus the two already
+destroyed, left me with enough groups + destroyed to win. My opponents didn't
+appreciate the subtlety and schemingness of the deck.
+    I want to try it one more time (since my opponents never seemed to catch on
+to loading up with disasters!) and build it for a 2-turn win. A Sieze the time,
+Crystal Skull, Rosicrusions (sp), and some more Hoax/Secrets Man Was Not Meant
+To Know will round it out.
+    Thanks for the idea, Jonathan Woodward!
+
+Card text and art is copyright Steve Jackson Games, and no threat to that
+copyright is
+intended.

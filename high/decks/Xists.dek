@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>Orbit One</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Moonbase</name><set>Limited</set></card>
+		<card><name>Silicon Valley</name><set>Limited</set></card>
+		<card><name>Stonehenge</name><set>Limited</set></card>
+		<card><name>Warehouse 23</name><set>Limited</set></card>
+		<card><name>Nutrition Nazis</name><set>Assassins</set></card>
+		<card><name>Power Satellite</name><set>Assassins</set></card>
+		<card><name>Power Satellite</name><set>Assassins</set></card>
+		<card><name>MWOWM</name><set>Subgenius</set></card>
+		<card><name>Overman Philo Drummond</name><set>Subgenius</set></card>
+		<card><name>Reverend Ivan Stang</name><set>Subgenius</set></card>
+		<card><name>Saucer Landing Strip</name><set>Subgenius</set></card>
+		<card><name>www.subgenius.com</name><set>Subgenius</set></card>
+		<card><name>Xists</name><set>Subgenius</set></card>
+		<card><name>Sacred Stencil</name><set>Subgenius</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>World Hunger</name><set>Limited</set></card>
+		<card><name>World Hunger</name><set>Limited</set></card>
+		<card><name>Peace in Our Time</name><set>Limited</set></card>
+		<card><name>Don't Forget to Smash the State</name><set>Limited</set></card>
+		<card><name>Don't Forget to Smash the State</name><set>Limited</set></card>
+		<card><name>Cold Fusion</name><set>Limited</set></card>
+		<card><name>Deasil Engine</name><set>Limited</set></card>
+		<card><name>Hidden Influence</name><set>Limited</set></card>
+		<card><name>Mothers' March</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Privileged Attack</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>The Auditor from Hell</name><set>Limited</set></card>
+		<card><name>The Auditor from Hell</name><set>Limited</set></card>
+		<card><name>Alien Abduction</name><set>Assassins</set></card>
+		<card><name>Alien Abduction</name><set>Assassins</set></card>
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+		<card><name>Supernova</name><set>Assassins</set></card>
+		<card><name>Brag of the SubGenius</name><set>Subgenius</set></card>
+		<card><name>Brag of the SubGenius</name><set>Subgenius</set></card>
+		<card><name>13013</name><set>Subgenius</set></card>
+		<card><name>Devival</name><set>Subgenius</set></card>
+		<card><name>Head Launching</name><set>Subgenius</set></card>
+		<card><name>Tape Runs Out...</name><set>Subgenius</set></card>
+		<card><name>Yacatisma</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

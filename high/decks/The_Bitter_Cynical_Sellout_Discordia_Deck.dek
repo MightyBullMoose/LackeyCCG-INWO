@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Discordian Society</name><set>Limited</set></card>
+		<card><name>Bill Clinton</name><set>Limited</set></card>
+		<card><name>Fraternal Orders</name><set>Limited</set></card>
+		<card><name>Tobacco Companies</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Australia</name><set>Assassins</set></card>
+		<card><name>Bank of England</name><set>Limited</set></card>
+		<card><name>Black Helicopters</name><set>Assassins</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Deprogrammers</name><set>Limited</set></card>
+		<card><name>England</name><set>Limited</set></card>
+		<card><name>F.B.I.</name><set>Limited</set></card>
+		<card><name>Fast Food Chains</name><set>Limited</set></card>
+		<card><name>Margaret Thatcher</name><set>Limited</set></card>
+		<card><name>NASA</name><set>Limited</set></card>
+		<card><name>Pentagon</name><set>Limited</set></card>
+		<card><name>Ross Perot</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Power for its Own Sake</name><set>Limited</set></card>
+		<card><name>The Corporate Masters</name><set>Limited</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Law and Order</name><set>Limited</set></card>
+		<card><name>Military-Industrial Complex</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Censorship</name><set>Limited</set></card>
+		<card><name>Dictatorship</name><set>Limited</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Grassroots Support</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Nationalization</name><set>Limited</set></card>
+		<card><name>Nationalization</name><set>Limited</set></card>
+		<card><name>Read My Lips</name><set>Limited</set></card>
+		<card><name>The Big Sellout</name><set>Limited</set></card>
+		<card><name>Australian Rules</name><set>Assassins</set></card>
+		<card><name>The Magic Goes Away</name><set>Assassins</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+		<card><name>Supreme Court Nomination</name><set>Assassins</set></card>
+		<card><name>Official, all Inclusive, Divine Excuse</name><set>Subgenius</set></card>
+		<card><name>Citizens for Normalcy</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

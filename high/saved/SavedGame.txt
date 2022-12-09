@@ -1,0 +1,13 @@
+<save>
+<player>
+<name>ericbsmith42</name>
+<seat>0</seat>
+</player>
+<player>
+<name>Test Dummy</name>
+<seat>1</seat>
+</player>
+<table>
+<card><id>368</id><owner>ericbsmith42</owner><rotation>1</rotation><x>-0.48</x><y>-0.54</y><White>1</White><Red>3</Red><Yellow>3</Yellow></card>
+</table>
+</save>

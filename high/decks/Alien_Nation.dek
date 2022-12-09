@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>Gun Lobby</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Australia</name><set>Assassins</set></card>
+		<card><name>England</name><set>Limited</set></card>
+		<card><name>Germany</name><set>Limited</set></card>
+		<card><name>Israel</name><set>Limited</set></card>
+		<card><name>NATO</name><set>Limited</set></card>
+		<card><name>New York</name><set>Limited</set></card>
+		<card><name>Pentagon</name><set>Limited</set></card>
+		<card><name>Russia</name><set>Limited</set></card>
+		<card><name>Switzerland</name><set>Limited</set></card>
+		<card><name>Texas</name><set>Limited</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Crystal Skull</name><set>Limited</set></card>
+		<card><name>Rogue Boomer</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Nuclear Accident</name><set>Limited</set></card>
+		<card><name>Tidal Wave</name><set>Limited</set></card>
+		<card><name>Up Against the Wall!</name><set>Limited</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>World War 3</name><set>Limited</set></card>
+		<card><name>World War 3</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Blitzkrieg</name><set>Limited</set></card>
+		<card><name>Dictatorship</name><set>Limited</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Ketchup is a Vegetable</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>World Cup Victory</name><set>Limited</set></card>
+		<card><name>World Cup Victory</name><set>Limited</set></card>
+		<card><name>No Beer!</name><set>Assassins</set></card>
+		<card><name>Population Reduction</name><set>Assassins</set></card>
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Beach Party</name><set>Assassins</set></card>
+		<card><name>Beach Party</name><set>Assassins</set></card>
+		<card><name>Beach Party</name><set>Assassins</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+	</superzone>
+</deck>

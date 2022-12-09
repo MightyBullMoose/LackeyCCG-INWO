@@ -1,0 +1,331 @@
+Tokens From Heaven
+
+by Brian Davidson
+Illuminati
+
+    Bermuda Triangle 
+
+Group Cards
+
+    Bank of England
+    Brazil
+    China
+    England
+    Germany
+    Hawaii
+    NASA
+    NATO
+    United Nations
+    Big Prawn
+    Center for Weird Studies
+    Clipper Chip
+    Crystal Skull
+    Orbital Mind Control Lasers 
+
+Plot Cards
+
+    Alternate Goals
+    Attitude Mutation
+    Are We Having Fun Yet?
+    Back to the Salt Mines
+    Beach Party
+    Blitzkrieg
+    Dictatorship
+    Early Warning
+    Emergency Powers
+    Forgery
+    Good Polls
+    Hoax!
+    Let's Get REALLY Organized
+    Martial Law
+    Mass Murder
+    Monopoly
+    Mothers' March
+    Nuclear Accident
+    Privatization x2
+    Privileged Attack
+    Secrets Man Was Not Meant to Know
+    Sniper 
+
+The Goals
+
+This deck is designed to generate lots of hand-picked Plots, by creating loads
+of tokens which are exchanged for cards. Once you have all the Plots you need in
+hand, it should be relatively easy to make either the PfiOS Goal, or the
+Corporate Masters. Basic Goal is not too hard, either, if it's 12 or less, but
+it might take a turn or two longer, unless it is as low as 10, because you will
+need to steal a couple.
+
+Your token generator is NASA. Protect it at all costs! If you lose NASA, the jig
+is up. It's not impossible to win without it, but highly unlikely unless your
+rivals are foolish enough to let you sneak a Basic Goal win past them.
+Fortunately, you have lots of Government Groups with decent power to help
+defend, and NASA should never move away from the +10 proximity region.
+
+Make use of Bermuda's Special Ability at the end of every turn! You must clear
+Germany's and England's control arrows so that they can make more attacks to
+control. A detailed listing of what each card is for follows after the Strategy
+section.
+The Strategy
+Lead
+
+Lead Bank of England, or the UN if they bounce.
+First ATO
+
+UN or NATO. If neither is in hand, go for Germany.
+Opening
+
+Try to get the Bank of England out as quickly as possible, if it bounced as a
+lead. It is the key to your deck, along with NASA, which must follow soon after.
+You will probably need to get a Nation out first, to attack the B of E with.
+Germany is better earlier, so it can start building up tokens, but England is
+all right, too. Get out whichever of NATO/UN you don't already have. As soon as
+you get NASA, use Blitzkrieg on it, then give the token to Germany or England to
+use for another attack. Don't play many power boosters or alignment changers
+early on; it will make your strategy too obvious. Play it cool until you have
+NASA and at least two or three Nations on the board. Get the Center for Weird
+Studies out if you draw it, but it can wait for a bit. You'll probably need an
+ATO for Hawaii later, as it doesn't have Alignment bonuses for you, but it does
+have low Resistance and won't be needed quite yet, so use your ATOs on
+Resources, especially the Big Prawn and Crystal Skull.
+
+Do NOT play your Clipper Chip or the OMCLs yet!
+Midgame
+
+At about turn three, the fun starts. Use Germany and/or England to bring out the
+token-spawning pair of Brazil and China. Drop Let's Get REALLY Organized! on
+NASA, use Privatization to make it Corporate, and move them over to it, using
+Bermuda's reorganization ability at the end of the turn. Now is also the time to
+start powering up, but don't go all out just yet. Boost England with the Big
+Prawn (adding anything, whatever will bring confusion to the enemy!), and use
+Dictatorship and Emergency Powers if you have them. You should have at least one
+if you've been using the B of E and Crystal Skull correctly. This will make
+England a target, but with 14 power out of nowhere, it'll be hard to attack
+successfully. People will start worrying, but not a lot can hurt you directly,
+except the NPCs, and they can only stop one action or ability per turn, unless
+they somehow get extra tokens. Once you get Hawaii out there and hanging off of
+NASA, they'll get four tokens per turn. Even if China, Brazil or Hawaii get hit
+by a Disaster!, they can and will still help you as long as they are not totally
+destroyed, and you should be able to give them relief quickly if they are
+devastated.
+
+Here's where it gets really cute. Use the Bank of England's token to draw two
+plots, and use the Crystal Skull to search for the ones you want. Pull one you
+don't need, and discard it using the Center for Weird Studies to get another
+token, which can be used by B of E to draw two more Plots! It's sort of a "Buy
+two, get one free" situation. Then have NASA give the B of E another token.
+Lather. Rinse. Repeat. The Center can only be used once per turn, but it's
+really just a bonus here. You'll already be drawing lots of Plots. Now it is
+time for a decision.
+Endgame
+
+Time for powering up! Get out your Clipper Chip and all of the other power
+boosters you have left. Do you go for the PfiOS, Corporate Masters, or try and
+steal some from a rival to make the Basic Goal? PFioS will be obvious to most
+good players, since you're heavily Government, but Corporate Masters should take
+them by surprise. A lot of folks forget that Hawaii is Corporate, and with
+Chicken in Every Pot and Bigger Business in play, it counts double for this
+Goal! Play the NWOs you need and start cashing in! If you don't have enough to
+manage PfiOS, then steal the OMCLs from a rival with Forgery, so he can't stop
+you, and go for Corporate Masters by Privatizing or Attitude Mutation-ing any
+one of the non-Corporate Groups you have. NATO if probably your best choice
+here, as they suffer from Chicken in Every Pot, but would gain more from Bigger
+Business. It may cost some tokens, but you should have plenty to spare.
+
+If you can't make the victory bid quite yet, you can also use the OMCLs with the
+Center for Weird Studies on your next turn to change TWO Alignments, and set up
+a devastating control attack on a suddenly vulnerable rival, to win with the
+Basic Goal.
+
+In a game with no ATOs, this will be a little harder, especially getting the
+Resources out. I don't recommend this deck for a two-player game. Still, it's
+not impossible if you go purely for the Corporate Masters Goal. Suggestions for
+replacements are below, after the cards.
+Potential problems
+
+Blue and Yellow NWOS are troublesome, especially Anti-trust Legislation, which
+will force you to move the token-feeders. You can move them back, though, using
+Bermuda's Special Ability once it's gone. For Blue, use Fear and Loathing to
+replace them early on, then shift to Chicken in Every Pot at the end. Bigger
+Business can be held to counter any Yellow peril. Losing the NWOs might make
+PfiOS unreachable, but you should still be able to manage the Corporate Masters
+Goal, which should be something of a surprise in such a Government oriented
+deck.
+
+Several Media Groups and Plots, and a few odd others, can hurt you. Not much you
+can do about some of them, but you have plenty of power to defend yourself.
+There's always SMWNMTK and AWHFY, and Beach Party if you are devastated by a
+Disaster!. Plot cancellers are somewhat annoying, but that's why you have a
+couple, as well. Turnabout is fair play, right?
+
+Kill the NPCs' token with Nuclear Accident before you go all out. Use it on
+England if you have to hit one of your own Places, but it's likely someone else
+will have at least one out on the table. Even if Discordia has the NPCs, this
+will protect you from them. Discordia can be problematic in other ways, though,
+as you very nearly can't touch them at all.
+What the Cards are For
+
+Bank of England
+    two Plots for one token is outstanding, especially if you keep feeding them
+NASA's extra tokens. You could conceivably end up drawing 10, 12, or more Plot
+cards PER TURN! 
+Brazil
+    A token maker for NASA, once the latter becomes Corporate. 
+China
+    ditto. 
+Hawaii
+    double ditto. 
+Germany
+    This is where many of your attacks to control from hand will originate, so
+keep feeding it a token or two each turn. With the Clipper Chip, Bigger Business
+and Chicken in Every Pot in play, it has a Power of 10, more if you use
+Emergency Powers or the Big Prawn here instead of on England. 
+England
+    With Emergency Powers, it has two power 6 tokens, great for attacks and
+defense. It gets even better when you throw in the Big Prawn and Dictatorship. 
+NATO and United Nations
+    big bonuses to control Nations, plus great Disaster! relief. 
+The Big Prawn
+    Use on Germany or England to boost their power. If used on England, along
+with Dictatorship and Emergency Powers, they get two power 14 (!) tokens per
+turn, 16 after the Clipper Chip is out, 17 with Chicken in Every Pot. 
+Clipper Chip
+    boost Government power, which is a lot for you. 
+Center for Weird Studies
+    More tokens! Draw two plots from B of E, trade one in for a token, then do
+it again! 
+Orbital Mind Control Lasers
+    obvious, but don't bring them out until the endgame! Can also be used to
+make NASA Corporate if you can't find your Privatizations, but if you need it
+that early, watch out for Forgery! 
+NWO: Fear and Loathing
+    Will help with your many Government takeovers, but makes you vulnerable to
+certain attacks, too. 
+NWO: Chicken in Every Pot
+    Boost power for all of your Places, and the B of E, but even more, to
+replace those other pesky Blue NWOs like World Hunger and Energy Crisis. 
+NWO: Political Correctness
+    Boosts the UN. Only beneficial Red NWO. 
+NWO: Bigger Business
+    Helps Germany and Hawaii, and NASA after Privatization, but mostly because
+you need a Yellow NWO to get rid of such nuisances as Don't Forget to Smash the
+State and World War Three. 
+GOAL: PfiOS
+    You'll need to spring this in a rush, playing power boosters and NWOs all at
+once, if you hope to succeed with it, but it certainly can work, if you pull the
+right cards when you're ready. 
+GOAL: Corporate Masters
+    NASA, Hawaii with a boost, and any one other Privatized Group (NATO) will
+all count double for you with this. The really sneaky win for this deck. 
+Alternate Goals
+    Because you'll want to have both GOAL cards in hand when you make your bid.
+If one is foiled, chances are the other will still work, so you can use it right
+then. 
+Attitude Mutation
+    For the Endgame, when you need that third Corporate Group. It's easier to
+power than the Orbital Mind Control Lasers. 
+AWHFY?
+    Just because. 
+Back to the Salt Mines
+    Use early, to help get your Places out. Being re-usable makes this card more
+valuable than a +10 for offense. It can help later with defense, too. 
+Beach Party
+    for relief, just in case something gets through, and NATO and the UN aren't
+able to. It's also faster. 
+Blitzkrieg
+    For NASA when first taken, to give away the token! 
+Dictatorship
+    Bye-bye Parliament! England's power rises again. 
+Early Warning
+    Disaster! protection. 
+Emergency Powers
+    For England, as noted above. Could be used on others in a pinch, but a pair
+of power 14+ tokens is hard to resist. 
+Forgery
+    Mostly for the OMCLs at the endgame, but you might need it for other
+Resources, too. Too bad it won't work on the Prawn. 
+Good Polls
+    For defense of Government groups, especially your Places. Hold it off as
+long as you can, though. You *will* need it later. 
+Hoax!
+    you'll need Plot cancellers, so one of each. 
+Let's Get REALLY Organized
+    For NASA, of course, so they can control all three token givers once
+Privatized. 
+Martial Law
+    +10 for your many Government Groups. 
+Mass Murder
+    For cancelling Media actions and plots, especially Sweeping Reforms, which
+could foil your bid for victory in one shot. 
+Monopoly
+    possibly for NASA, after they are Privatized, or Hawaii if needed for
+Corporate Masters. Hold it until the victory bid to see where it will help most.
+Mothers' March
+    Just in case you lose a critical Group. 
+Nuclear Accident
+    Don't you just hate those NPCs? 
+Privatization
+    For NASA, to make it Corporate so it can benefit from the token-feeders,
+China, Brazil and Hawaii. 
+Privileged Attack
+    For that massive attack on the enemy, if you go for a Basic win. 
+Secrets Man Was Not Meant to Know
+    if you don't know, play checkers instead. 
+Sniper
+    Government-aided Assassination. England could add as much as 16 points of
+power, making 26. Pretty hefty. 
+
+Variants and Substitutions
+
+You can live without Blitzkrieg, but it's so nice to use with NASA.
+
+If you do drop these, you may want to add another Disaster! or maybe another
+Assassination!. Extra Secrets or Hoax!es would be useful, too. Place defense
+cards like Air Magic and Earth Magic are always helpful. I thought about the
+Druids, too, but they're not of any other use than defense to this deck. A
+Censorship would be nice if you expect to face Media-heavy decks.
+
+I had considered using a Suicide Squad and Cover of Darkness to get the OMCLs
+away from someone else, but eventually chose the Forgery option. You might
+prefer the other way; it's two cards either way, one Plot and one Resource.
+
+I also thought about throwing in the Holy Grail and a Midas Mill for Germany,
+but decided the deck was too Group/Resource-heavy already. The State Lotteries
+were a possibility as a Group, too, but they'd probably have to replace one of
+the token-givers. I don't want to sacrifice any of the existing Groups; they
+work too well together. I suppose you could drop England and use the boosters I
+assigned to it for Germany instead.
+
+Replacement Groups might include the Supreme Court, or maybe even another Place
+and the Flat Earthers, if you really want to go for extra Plots. If you're going
+to do this, consider Al Amarja for the Place. It's defensive benefits are
+tremendous. Other Resources to consider are the Perpetual Motion Machine for
+more NASA or B of E tokens, and Holy Grail/Midas Mill as noted above.
+
+For a two-player, or other no-ATO type game, you might want to consider some
+situational Groups, depending on what you expect to be facing. If it's going to
+be another Government-heavy deck, try the Tobacco Companies or Wall Street. The
+Eco-Guerillas will be useful against Corporate decks, as will the EPA if the
+NPCs are out there. Discordia really doesn't hurt you all that much, as you
+probably won't need to attack them at all.
+
+There's always Bill Clinton or the Congressional Wives for bonuses to take over
+your Government Groups, but they are pretty obvious. A bit more subtle is the
+Federal Reserve. With the Bank of England also in play, people may be expecting
+you to Unmask as the Gnomes of Zurich. Let them. Smile knowingly and wink. Of
+course, you could do it anyway, by adding an Unmasked and a Gnomes Illuminati.
+This might be useful if you expect to face a Gnomes deck.
+
+You might also consider Unmasking as Bavaria, as it gives you a few extra points
+of power for their Goal, as opposed to using PfIOS, but since you have a
+potential 81 points if all of the proper NWOs and Clipper Chip are out, an extra
+two points is kind of trivial.
+
+Above all, concentrate on token generation and misdirection. There's plenty of
+opportunity for both with this deck.
+Back to the Deck of the Week.
+
+First posted: May 22, 1998
+
+Last modified: Fri Jun 19 14:14:23 EDT 1998
+Ralph Melton ralph@cs.cmu.edu

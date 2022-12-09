@@ -1,0 +1,407 @@
+War is peace.
+Freedom is slavery.
+Ignorance is strength.
+--George Orwell, 1984
+Ignorance is Strength
+
+by Ralph Melton, Aaron Curtis, and Glen Barnett
+
+Recall the novel 1984, by George Orwell. In particular, remember the Ministry of
+Truth, the government agency responsible for controlling the media, controlling
+the minds of the citizenry through rewriting history and censorship.
+
+    The Ministry of Truth--Minitrue, in Newspeak--was startlingly different from
+any other object in sight. It was an enormous pyramidal structure of glittering
+white concrete, soaring up, terrace after terrace, three hundred meters into the
+air.
+    1984 (emphasis mine) 
+
+You are Minitrue. Your control of the Media gives you the edge you use to win
+over your rivals. The ignorance of the citizenry is your strength.
+
+This deck preys on other decks that revolve around a specific alignment, but it
+does not depend on having a rival of a specific alignment. As such, it offers a
+new insight on how to subvert boring isolationist decks.
+Illuminati
+
+    Bavarian Illuminati 
+
+Group Cards
+
+    Bank of England
+    Big Media
+    Cable TV
+    California
+    Comic Books
+    Empty Vee
+    Intellectuals
+    Junk Mail
+    Madison Avenue
+    Subliminals
+    TV Preachers
+    Center for Weird Studies
+    Orbital Mind Control Lasers
+    Perpetual Motion Machine 
+
+Plot Cards
+
+    Censorship x4
+    Cover of Darkness
+    Don't Touch That Dial
+    Forgery
+    Giant Kudzu
+    Hat Trick
+    Martial Law
+    Media Connections x2
+    Nuclear Accident
+    Pulitzer Prize x3
+    Resistance is Useless!
+    Savings & Loan Scam x3
+    Scandal x2
+    Secrets Man Was Not Meant to Know x2
+    Strange Bedfellows
+    NWO: Interesting Times x3
+    NWO: Military-Industrial Complex
+    NWO: Solidarity 
+
+The Grand Scheme
+
+This is the Grand Scheme of Minitrue, not known even to the workers who toil
+changing the text of long-written books. It is presented first, instead of in
+the endgame, because you should have this in mind as you play the deck through
+the beginning and middle of the game.
+
+We assume that at least one player will be playing a deck with a theme of one
+particular alignment. We also assume that at some point in the endgame, they'll
+have an arm in their power structure that has at least three groups.
+
+When that happens, we will do the following things:
+
+    We will use a Scandal (and some alignment-bending on one of our Media
+Groups, if necessary) to strip the action tokens from the power structure of the
+target group.
+    Next, we will use Media Connections to make the group of the root of the
+large arm of the Power Structure Media.
+    Finally, we will use a Censorship to rip away that arm of the denuded power
+structure with a powerful Privileged Attack. 
+
+To make this plan achievable, we combine several things:
+
+    Lots of Media power, to power the Scandal and the Media Connections.
+    Alignment Control, to be able to play a Scandal on, Say, Government groups.
+    Straight, Conservative, and Government Groups to power Censorships.
+    Plot Control to get all the Plots we want together for the endgame ploy. 
+
+Beginning
+
+Lead with Madison Avenue, for its bonus to take over Media groups. If that
+bounces, be wary; you're probably going up against another Media deck. Your
+second lead should be Big Media, which will probably also bounce--but you want
+your opponent not to have Big Media. Your third choice should probably be a
+Straight group (to play Censorship when Big Media or Madison Avenue comes into
+your hand), either Bank of England (if Zurich isn't playing) or TV Preachers.
+California, which can also play Censorship, might be another possibility.
+
+Alternately: if you have a Censorship in your first three Plots, consider
+leading Big Media. If someone does lead Madison Avenue, you should be able to
+use Censorship to take Madison Avenue for yourself.
+Keeping your Rivals Ignorant
+
+As early as you can do so, bring out the Perpetual Motion Machine, then Center
+for Weird Studies. Not only are the extra tokens extremely useful, but the PMM
+acts as a lightning rod for your rivals' gadget-destroying plots. This will
+protect your OMCL somewhat when you bring them out later for your endgame ploy
+(see below).
+
+Now, Madison Avenue can attack to control most of your other Media groups on a
+10 or less, and all of them if you have Big Media. Use your free privileged
+attack every turn. This allows you to take an extra group into your power
+structure each turn at the cost of only one token. This allows you to keep your
+action tokens and +10 cards for defense, putting you in the best of situations:
+strong growth, high defenses, and if your defenses are enough to discourage your
+opponents from attacking you, lots of plot draws. Linking the PMM to Bavaria
+significantly improves this strategy: two 10/10 action tokens are daunting, and
+give you one plot each if unused.
+
+On most turns, this will be all you do. Unless your opponents work hard
+attacking you, you will run out of control arrows on Madison Avenue. Do spend
+action tokens to move groups away from Madison Avenue, unless you need those
+action tokens for defense. Try to end your turn with one or no puppets under
+Madison Avenue (to avoid making a target), unless they control the
+Intellectuals. Note also that it works well to put the Intellectuals on the side
+arrow of Madison Avenue, and then use the arrow opposite to the incoming arrow
+to take groups.
+
+Groups to bring out early: Big Media, Intellectuals, TV Preachers. (ATO the
+Intellectuals, since they are extremely helpful and you have no bonuses to take
+them over.) Once you have a few Media groups, ATO the Subliminals. Once you
+start feeling defensible, bring out Bank of England and California (with ATOs,
+probably). Control your other Media groups as needed for offense or defense.
+
+The Orbital Mind Control Lasers should be brought out late in the game, though
+early enough that you should have an action token on them by your end-game ploy.
+The reason for bringing them out late is to give your Perpetual Motion Machine
+bait some time to work, and to try to arrange it so that you can forge someone
+else's OMCLs instead of having them forging yours.
+
+During the midgame, you should be thinking ahead about likely victims for your
+endgame ploy. You should be trying to use your massive amounts of Global Power
+to influence your victim's growth; ideally, your victim should be growing large
+enough that you will be able to steal several groups when the time is right, but
+should be running short enough on action tokens that he can't rearrange his
+power structure into safer configurations.
+
+Don't be afraid to use a Censorship or two in the midgame; they'll look
+innocuous enough in a Media deck. Similarly, your Plot deck doesn't have many
+cards that should be terribly surprising, so you shouldn't be too worried about
+players looking at your deck or hand.
+
+It would be a good (though not wholly necessary) thing to have NWO:
+Military-Industrial Complex in play during the endgame, because that would allow
+Madison Avenue to power a Censorship itself for a +25 on an attack on a Media
+Group. Military-Industrial Complex also improves your defensibility and allows
+your Scandals to be doubly effective against Government or Corp decks. It would
+also be worthwhile to use NWO: Military-Industrial Complex to replace a yellow
+NWO that hurts you (NWO: End of the World, or NWO: Don't Forget to Smash the
+State).
+Interesting Times
+
+(We are at war with Eastasia. We have always been at war with Eastasia.)
+
+Your control of the Media allows you to easily change the worldview presented to
+the world. As the text of Interesting Times states, "No one, not even the Secret
+Masters, really knows what's going on." And this is exactly your plan.
+
+Save all your NWOs for later in the game (though still the midgame). Ideally,
+you will play Interesting Times to prevent a rival from winning, or to replace a
+NWO that is being used to hurt you. Choose option A, because option B will allow
+a rival to win with a cheesy Blinded by Science or Power For Its Own Sake goal.
+Once it's out, try to keep a Secrets or second Interesting Times in hand to
+prevent a rival from putting the game into Sudden Death Overtime.. The idea is
+to keep Interesting Times in play for the remainder of the game. This has
+several useful effects:
+
+    Nobody will care about how much power you have.
+    Nobody will spontaneously win by surprise (except you, in your endgame
+ploy).
+    The game will take longer. Since you've been going slow-and-steady, you're
+ready for a longer marathon.
+    Power structures will grow to eight, nine or even ten groups without anyone
+batting an eye. 
+
+It is the last which is most important for the endgame. You will be able to grow
+to within three groups of the Basic Goal, while your rivals will be encouraged
+to grow power structures that include arms with three groups on them.
+
+(We are at war with Eurasia. We have always been at war with Eurasia.)
+Endgame
+
+The endgame ploy has already been described: once you have enough groups to make
+a coup, and a large enough monochromatic target to enable you to win with your
+coup, you play Scandal to denude the target of action tokens, Media Connections
+to make a key group Media, and Censorship to make a Privileged Attack against
+that key group.
+
+Note, though, that this plan is very flexible; you do not need to assemble all
+the pieces to make it work. The intent of this deck is to be able to create coup
+opportunities when your opponents aren't giving them to you, but you should also
+be alert to the other coup opportunities that may come to you:
+
+    You don't have to have a monochrome rival: some players will nicely spend
+all (or nearly all) their tokens for you anyway, at some point in the endgame.
+You shouldn't ignore an opponent just because they aren't playing a monochrome
+deck. Scandal is the only part that requires a monochromatic rival, so if you
+can achieve the same result in other ways, why not? You may be able to aid
+someone in an attack that takes them close to victory, (especially if you have
+Interesting Times in hand) but leaves them just a little low on defense - either
+their structure will become unwieldy, or they will be spending yet more tokens
+to move it around. They are then ripe for the plucking.
+    You don't necessarily have to use the Media Connections/ Censorship combo.
+Perhaps another player will have a Media Group in a key position that you can
+play a Censorship on. (Aaron Curtis wrote of his experiences with an early
+version of this deck: "I was about to play Media Connections on my chosen target
+when I noticed that my target was Empty Vee!") If you haven't drawn a
+Censorship, you still have your Privileged attack from the Bavarian Illuminati;
+perhaps you'll be able to use one of your Groups as an Agent, use one or more of
+your +10 boosters, or use the Comic Books or the plot Resistance is Useless!,
+along with your large quantity of Global Power. to let you make an effective
+coup. 
+
+If you've got enough action tokens at the end of the turn of the player just
+before you, you can start the plan before you get new tokens. Things you can do
+to start the ploy: 1) Play Savings & Loan Scam to draw more Plots, 2) play the
+Scandal (with OMCLs or Strange Bedfellows to give your Media group the alignment
+it needs) to remove most of the tokens of another player's power structure; 3)
+play the Media Connections to make your target in someone else's power structure
+Media.
+
+Then, on your turn, use Madison Avenue and/or Censorship to make an overwhelming
+Privileged attack to control that takes out a large part of someone's power
+structure.
+
+A note of caution: When you plan your attack, make sure that you will be able to
+fit all the groups into your power structure! Ralph has had the unpleasant
+experience of taking over an arm, and then not being able to fit all the groups
+into his power structure, and having to discard some. This can happen
+particularly when making the attack from California, because it only has control
+arrows leading from the side.
+Potential problems
+Defense
+
+One problem is that this deck is light on defense. There is lots of global power
+for groups to defend each other, but most of the groups are low on Power and
+Resistance. This means that it's hard to look more defensive than you actually
+are; it's hard to harbor a Good Polls, for example, because it doesn't provide
+much defense to a group with the relatively low power and resistance of most
+Media Groups. This deck might well like to have a Commitment in reserve to
+protect against attacks to control, but attacks to destroy can be just as bad.
+
+Most of the +10 boosters should be used for defense, or for the end-game attack.
+
+The cards that provide the most general-purpose defense in this deck are
+probably the Perpetual Motion Machine and the Orbital Mind Control Lasers. The
+Perpetual Motion Machine allows you to keep an extra 10-point action token
+around to look defensively solid, and the Orbital Mind Control Lasers let you
+neutralize alignment bonuses that players may be using to attack you, or prevent
+players from using +10 boosters and so forth. Once you have Empty Vee, the OMCLs
+can also be used to turn an attacking group Straight to protect your Media
+Groups.
+The Discordian Society
+
+This version of this deck does not have a Group that can power Censorship that
+Discordia is not immune to. This makes the deck mostly ineffective against
+Discordian decks, although you should be able to take Comic Books and/or Punk
+Rockers away from them if NWO: Military-Industrial Complex isn't in play, and
+Strange Bedfellows can be used to reverse the alignments of Big Media or
+California to allow them to play Censorship as Conservatives. You could also use
+the OMCLs to turn Madison Avenue into a Conservative Corporate Group to let them
+power a Censorship on Discordia. Note that if the other players aren't playing
+Government/Straight decks, they can stop Discordia, and if they are, you can
+ignore Discordia and perform your Scandal/Media Connections/Censorship combo on
+them.
+
+If you expect to encounter Discordia decks, then you might consider including a
+Group that is Conservative but not Straight or Government. Good candidates might
+be the Fraternal Orders, the Republicans, OPEC, or the Vatican City.
+Secret Decks
+
+A power structure with Secret groups as puppets of the Illuminati (most likely
+in a Society of Assassins deck) may be a tough nut for you to crack. Your only
+Secret Group is Subliminals (which, however, should be able to acquire enough
+power to prevent the Assassins from counting more than one or two groups
+double). You also have Junk Mail, which can attack Secret groups but which
+cannot play Censorship without modification. (NWO: Military-Industrial Complex,
+Strange Bedfellows, or the Orbital Mind Control Lasers would allow Junk Mail to
+play a Censorship.)
+
+If you fear a Secret deck, you might include the Tabloids, which would let you
+make a Privileged Attack on a Secret Group with the full force of your Power
+Structure.
+Self-destructive Decks
+
+Some decks depend upon destroying their own groups to win in a final end-game
+orgy of self-inflicted violence. Usually, it's most desirable to thwart such a
+deck after it has destroyed most of its groups, but before the final bid for
+victory. However, with this deck, you would like to prevent such a deck from
+even starting its orgy of destruction. The reason is simple: if someone destroys
+most of their own groups, you can't take those groups from that player.
+
+The remedy, though, is already present in the deck: NWO: Interesting Times. Just
+be willing to play Interesting Times at the beginning of someone's
+self-destructive urge rather than at the end.
+Variants and Substitutions
+
+Other cards that might be useful in this deck:
+
+Phone Phreaks
+    Glen Barnett suggested including the Phone Phreaks to adjust another
+player's power structure to let you make a larger coup. Ralph liked the idea,
+but held off, because he couldn't find a way to defend the Phone Phreaks. 
+Pollsters
+    With your good alignment control with the Orbital Mind Control Lasers, you
+can use the Pollsters to good effect to meddle with other's alignment bonuses.
+You can increase the effectiveness of this even further with NWO: Fear and
+Loathing, but note that that does conflict with NWO: Interesting Times. 
+Tabloids
+    Useful against Secret Groups, as mentioned above. 
+Bill Clinton
+    Bill Clinton could be effective at taking over California and the Bank of
+England, and capable of making very powerful attacks against Government Groups,
+which tend to be popular groups to have at the basis of a power structure. And
+Bill Clinton can power Censorship. However, Bill is a popular group, and
+somewhat vulnerable. 
+Punk Rockers
+    Their special ability can be useful to stymie defense. But they don't have
+very much power. 
+
+Another card to vary: The choice of red NWO is far from clear. There's no Red
+NWO that increases the power of your groups, and it seems unwise to include an
+NWO that would probably benefit others more than you. Australian Rules seems
+like an invitation to other players to go against your weak defense. Solidarity
+and The Magic Goes Away would both slow down your opponents more than they would
+slow down you; normally, this would be a good thing, but in this case, it
+complicates your plan to exploit others' growth.
+
+One possibility would be to use NWO: Apathy, as a defensive measure. This
+shouldn't be too much of a problem for your endgame ploy, because you're
+expecting to be able to use a single Censorship to make an effective takeover.
+
+NWO: Solidarity seems preferable, though, even though it's not as effective
+defensively, for the following reasons: Under Apathy, any successful attack will
+use at most one action token; therefore, players will either not grow, or will
+grow with plenty of action tokens left to rearrange for defense. However, under
+Solidarity, players can still grow by using more action tokens than usual, so
+even though their growth will be somewhat stunted, they will be able to grow,
+but have more difficulty rearranging their power structures defensively.
+Isolationist Bavaria Variation
+
+One variation on this deck would be to take this deck in an isolationist
+direction. With ATOs, Censorship, and a free Privileged attack each turn from
+Madison Avenue, you could grow very quickly towards the Basic Goal.
+
+Note also that if you have Comic Books, Tabloids, and Intellectuals, you can
+make an automatic takeover of California and move the Intellectuals to the Comic
+Books, and suddenly have three groups that count double towards Goal: Hail Eris!
+
+Alternatively, with Media personalities and groups like Hollywood and Cable TV,
+you could make a fast growth towards 50 points of power from interacting power
+bonuses. (In an extreme case: With California, Subliminals, Hollywood, Cable TV,
+Recording Industry, and Empty Vee, each Media Sensation you take over
+contributes 9 to your total power.) NWO: Law and Order might also suit well for
+your Conservative/Straight side. Remember the words of O'Brien:
+
+    The Party seeks power entirely for its own sake. We are not interested in
+the good of others; we are interested solely in power. Not wealth or luxury or
+long life or happiness; only power, pure power. 
+
+Two-Player Play
+
+This deck works fairly well in a two-player game (or other game without ATOs).
+It is especially important to start the game with Madison Avenue, to start
+bringing in groups. Once you get off the ground, though, the large amount of
+Global Power makes midgame growth fairly easy. You can use your Privileged
+Attack to good effect, which will leave you with lots of action tokens (and
+Global Power) to use to defend yourself and slow down your opponent's growth.
+
+Your non-Media groups will be harder to take over than in a game with ATOs. Your
+best bet is to wait until the midgame, when you can apply lots of Global Power.
+The Subliminals will probably have to wait until you can use Junk Mail to attack
+them.
+
+The endgame ploy is still valid, and just as effective. You may even be able to
+make a winning coup without the combinations of this plan.
+Final Words
+
+In conclusion, we leave you with the words of "Emmanuel Goldstein", from his
+book within the book 1984:
+
+    ... it is the chance of seizing this or that fragment by a sudden stroke of
+treachery that dictates the endless changes of alignment. 
+
+Enjoy the possibilities that doublethink can provide.
+Back to the Deck of the Week.
+
+First posted: August 8, 1997
+
+Last modified: July 23, 1998
+Ralph Melton ralph@cs.cmu.edu

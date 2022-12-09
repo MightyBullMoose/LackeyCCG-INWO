@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Society of Assassins</name><set>Assassins</set></card>
+		<card><name>Big Media</name><set>Limited</set></card>
+		<card><name>Clone Arrangers</name><set>Limited</set></card>
+		<card><name>Junk Mail</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Cable TV</name><set>Limited</set></card>
+		<card><name>Dittoheads</name><set>Assassins</set></card>
+		<card><name>Hollywood</name><set>Limited</set></card>
+		<card><name>The Hour of Slack</name><set>Subgenius</set></card>
+		<card><name>Nancy Reagan</name><set>Limited</set></card>
+		<card><name>Recording Industry</name><set>Limited</set></card>
+		<card><name>Reverend Ivan Stang</name><set>Subgenius</set></card>
+		<card><name>Ronald Reagan</name><set>Limited</set></card>
+		<card><name>Rosicrucians</name><set>Limited</set></card>
+		<card><name>Subliminals</name><set>Limited</set></card>
+		<card><name>Subliminals</name><set>Limited</set></card>
+		<card><name>Tabloids</name><set>Limited</set></card>
+		<card><name>Templars</name><set>Limited</set></card>
+		<card><name>Blivit</name><set>Assassins</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Blood, Toil, Tears and Sweat</name><set>Limited</set></card>
+		<card><name>Clone</name><set>Limited</set></card>
+		<card><name>Cover-Up</name><set>Limited</set></card>
+		<card><name>Eat The Rich!</name><set>Limited</set></card>
+		<card><name>Exposed!</name><set>Limited</set></card>
+		<card><name>Exposed!</name><set>Limited</set></card>
+		<card><name>Hat Trick</name><set>Limited</set></card>
+		<card><name>Media Blitz</name><set>Limited</set></card>
+		<card><name>Monopoly</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Privileged Attack</name><set>Limited</set></card>
+		<card><name>Pulitzer Prize</name><set>Limited</set></card>
+		<card><name>Purge</name><set>Limited</set></card>
+		<card><name>Read My Lips</name><set>Limited</set></card>
+		<card><name>Rewriting History</name><set>Limited</set></card>
+		<card><name>Scandal</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Stock Split</name><set>Limited</set></card>
+		<card><name>Swiss Bank Account</name><set>Limited</set></card>
+		<card><name>Talisman of Ahrimanes</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+		<card><name>Whispering Campaign</name><set>Limited</set></card>
+		<card><name>Don't Touch That Dial!</name><set>Assassins</set></card>
+		<card><name>Supreme Court Nomination</name><set>Assassins</set></card>
+		<card><name>Rant!</name><set>Subgenius</set></card>
+		<card><name>S.C.A.M.</name><set>Subgenius</set></card>
+		<card><name>The World Ends Tomorrow And You May Die!</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Adepts of Hermes</name><set>Limited</set></card>
+		<card><name>Stonehenge</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Stonehenge</name><set>Limited</set></card>
+		<card><name>Cattle Mutilators</name><set>Limited</set></card>
+		<card><name>Clone Arrangers</name><set>Limited</set></card>
+		<card><name>Comic Books</name><set>Limited</set></card>
+		<card><name>Count Dracula</name><set>Limited</set></card>
+		<card><name>The Great Pyramid</name><set>Limited</set></card>
+		<card><name>I.R.S.</name><set>Limited</set></card>
+		<card><name>Rosicrucians</name><set>Limited</set></card>
+		<card><name>Reformed Church of Satan</name><set>Limited</set></card>
+		<card><name>Templars</name><set>Limited</set></card>
+		<card><name>W.I.T.C.H.</name><set>Limited</set></card>
+		<card><name>Vampires</name><set>Limited</set></card>
+		<card><name>The Library at Alexandria</name><set>Limited</set></card>
+		<card><name>The Holy Grail</name><set>Limited</set></card>
+		<card><name>The Library at Alexandria</name><set>Limited</set></card>
+		<card><name>Xanadu</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Jake Day</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>18 1/2-Minute Gap</name><set>Limited</set></card>
+		<card><name>Albino Alligators</name><set>Limited</set></card>
+		<card><name>An Offer You Can't Refuse</name><set>Limited</set></card>
+		<card><name>The Big Sellout</name><set>Limited</set></card>
+		<card><name>Commitment</name><set>Limited</set></card>
+		<card><name>Cover of Darkness</name><set>Limited</set></card>
+		<card><name>Cover-Up</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Early Warning</name><set>Limited</set></card>
+		<card><name>Embezzlement</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Harmonica Virgins</name><set>Limited</set></card>
+		<card><name>Jake Day</name><set>Limited</set></card>
+		<card><name>Media Blitz</name><set>Limited</set></card>
+		<card><name>Don't Forget to Smash the State</name><set>Limited</set></card>
+		<card><name>Energy Crisis</name><set>Limited</set></card>
+		<card><name>World Hunger</name><set>Limited</set></card>
+		<card><name>Sabotage</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Seize the Time!</name><set>Limited</set></card>
+		<card><name>The Stars Are Right</name><set>Limited</set></card>
+		<card><name>Unlucky 13</name><set>Limited</set></card>
+		<card><name>The Weak Link</name><set>Limited</set></card>
+		<card><name>The Weird Turn Pro</name><set>Limited</set></card>
+		<card><name>Hail Eris!</name><set>Limited</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>Connie Dobbs</name><set>Subgenius</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Dr. K'Taden Legume</name><set>Subgenius</set></card>
+		<card><name>Fraternal Orders</name><set>Limited</set></card>
+		<card><name>Jesus B.</name><set>Subgenius</set></card>
+		<card><name>Lama Ramadingdong</name><set>Assassins</set></card>
+		<card><name>Local Clenches</name><set>Subgenius</set></card>
+		<card><name>Newt Gingrich</name><set>Assassins</set></card>
+		<card><name>OverMan Philo Drummond</name><set>Subgenius</set></card>
+		<card><name>Reverend Ivan Stang</name><set>Subgenius</set></card>
+		<card><name>Secret FisTemple</name><set>Subgenius</set></card>
+		<card><name>St. Janor Hypercleats</name><set>Subgenius</set></card>
+		<card><name>Xists</name><set>Subgenius</set></card>
+		<card><name>Immortality Serum</name><set>Limited</set></card>
+		<card><name>Immortality Serum</name><set>Limited</set></card>
+		<card><name>NHGH</name><set>Subgenius</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>A Thousand Points of Light</name><set>Limited</set></card>
+		<card><name>World Hunger</name><set>Limited</set></card>
+		<card><name>World Hunger</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Deasil Engine</name><set>Limited</set></card>
+		<card><name>Deasil Engine</name><set>Limited</set></card>
+		<card><name>Read my Lips</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>The Magic Goes Away</name><set>Assassins</set></card>
+		<card><name>Alien Abduction</name><set>Assassins</set></card>
+		<card><name>Alien Abduction</name><set>Assassins</set></card>
+		<card><name>Alien Abduction</name><set>Assassins</set></card>
+		<card><name>Alien Abduction</name><set>Assassins</set></card>
+		<card><name>Alien Abduction</name><set>Assassins</set></card>
+		<card><name>Alien Abduction</name><set>Assassins</set></card>
+		<card><name>Brag of the SubGenius</name><set>Subgenius</set></card>
+		<card><name>Brag of the SubGenius</name><set>Subgenius</set></card>
+		<card><name>The Anti"Bob"</name><set>Subgenius</set></card>
+		<card><name>Eternal Salvation or Triple Your Money Back</name><set>Subgenius</set></card>
+		<card><name>Miraculous Manifestation</name><set>Subgenius</set></card>
+		<card><name>Miraculous Manifestation</name><set>Subgenius</set></card>
+		<card><name>Official, all Inclusive, Divine Excuse</name><set>Subgenius</set></card>
+		<card><name>Tape Runs Out...</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

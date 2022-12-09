@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>Vatican City</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Al Gore</name><set>Limited</set></card>
+		<card><name>Anti-Nuclear Activists</name><set>Limited</set></card>
+		<card><name>Canada</name><set>Limited</set></card>
+		<card><name>France</name><set>Limited</set></card>
+		<card><name>Immortality Serum</name><set>Limited</set></card>
+		<card><name>Lama Ramadingdong</name><set>Assassins</set></card>
+		<card><name>Orbital Mind Control Lasers</name><set>Limited</set></card>
+		<card><name>Perpetual Motion Machine</name><set>Limited</set></card>
+		<card><name>Princess Di</name><set>Limited</set></card>
+		<card><name>Red Cross</name><set>Limited</set></card>
+		<card><name>Swingers</name><set>Assassins</set></card>
+		<card><name>The Big Prawn</name><set>Assassins</set></card>
+		<card><name>The Green Party</name><set>Assassins</set></card>
+		<card><name>Underground Newspapers</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Cover of Darkness</name><set>Limited</set></card>
+		<card><name>Early Warning</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Global Warming</name><set>Assassins</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Hail Eris!</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>Liberal Agenda</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Messiah</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Nevermore!</name><set>Assassins</set></card>
+		<card><name>Nobel Peace Prize</name><set>Limited</set></card>
+		<card><name>Oil Spill</name><set>Assassins</set></card>
+		<card><name>Peace In Our Time</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Read My Lips</name><set>Limited</set></card>
+		<card><name>Save the Whales</name><set>Limited</set></card>
+		<card><name>Save the Whales</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Seize The Time!</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+	</superzone>
+</deck>

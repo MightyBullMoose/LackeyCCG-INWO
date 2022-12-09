@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Society of Assassins</name><set>Assassins</set></card>
+		<card><name>General Disorder</name><set>Assassins</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Moral Minority</name><set>Limited</set></card>
+		<card><name>Nephews of God</name><set>Limited</set></card>
+		<card><name>Professional Sports</name><set>Limited</set></card>
+		<card><name>Reformed Church of Satan</name><set>Limited</set></card>
+		<card><name>Religious Reich</name><set>Limited</set></card>
+		<card><name>Rosicrucians</name><set>Limited</set></card>
+		<card><name>South American Nazis</name><set>Limited</set></card>
+		<card><name>TV Preachers</name><set>Limited</set></card>
+		<card><name>Vatican City</name><set>Limited</set></card>
+		<card><name>Church of Violentology</name><set>Assassins</set></card>
+		<card><name>Dittoheads</name><set>Assassins</set></card>
+		<card><name>Orgone Grinder</name><set>Assassins</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Hit and Run</name><set>Limited</set></card>
+		<card><name>Volcano</name><set>Limited</set></card>
+		<card><name>Let Them Eat Cake!</name><set>Limited</set></card>
+		<card><name>World Hunger</name><set>Limited</set></card>
+		<card><name>Solidarity</name><set>Limited</set></card>
+		<card><name>Law and Order</name><set>Limited</set></card>
+		<card><name>Annual Convention</name><set>Limited</set></card>
+		<card><name>Charismatic Leader</name><set>Limited</set></card>
+		<card><name>Commitment</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Hat Trick</name><set>Limited</set></card>
+		<card><name>Jihad</name><set>Limited</set></card>
+		<card><name>Jihad</name><set>Limited</set></card>
+		<card><name>Messiah</name><set>Limited</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>Read My Lips</name><set>Limited</set></card>
+		<card><name>Read My Lips</name><set>Limited</set></card>
+		<card><name>Rewriting History</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Sucked Dry And Cast Aside!</name><set>Limited</set></card>
+		<card><name>Sucked Dry And Cast Aside!</name><set>Limited</set></card>
+		<card><name>Sucked Dry And Cast Aside!</name><set>Limited</set></card>
+		<card><name>Australian Rules</name><set>Assassins</set></card>
+		<card><name>End of the World</name><set>Assassins</set></card>
+		<card><name>Crusade</name><set>Assassins</set></card>
+		<card><name>Crusade</name><set>Assassins</set></card>
+		<card><name>Sudden European Vacation</name><set>Assassins</set></card>
+		<card><name>Truck Bomb</name><set>Assassins</set></card>
+		<card><name>You Are What You Eat</name><set>Assassins</set></card>
+	</superzone>
+</deck>

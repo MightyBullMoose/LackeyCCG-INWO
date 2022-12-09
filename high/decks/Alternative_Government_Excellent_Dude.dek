@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Society of Assassins</name><set>Assassins</set></card>
+		<card><name>Rosicrucians</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>C.I.A.</name><set>Limited</set></card>
+		<card><name>Clone Arrangers</name><set>Limited</set></card>
+		<card><name>Fiendish Fluoridators</name><set>Limited</set></card>
+		<card><name>Libertarians</name><set>Limited</set></card>
+		<card><name>N.S.A.</name><set>Limited</set></card>
+		<card><name>Nephews of God</name><set>Limited</set></card>
+		<card><name>W.I.T.C.H.</name><set>Limited</set></card>
+		<card><name>Texas</name><set>Limited</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Crystal Skull</name><set>Limited</set></card>
+		<card><name>Cyborg Soldiers</name><set>Limited</set></card>
+		<card><name>Cyborg Soldiers</name><set>Limited</set></card>
+		<card><name>Flying Saucer</name><set>Limited</set></card>
+		<card><name>Lyndon LaRouche</name><set>Assassins</set></card>
+		<card><name>Blivit</name><set>Assassins</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Power for its Own Sake</name><set>Limited</set></card>
+		<card><name>Chicken in Every Pot</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Assertiveness Training</name><set>Limited</set></card>
+		<card><name>Assertiveness Training</name><set>Limited</set></card>
+		<card><name>Backlash</name><set>Limited</set></card>
+		<card><name>Charismatic Leader</name><set>Limited</set></card>
+		<card><name>Deasil Engine</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Gremlins</name><set>Limited</set></card>
+		<card><name>Jihad</name><set>Limited</set></card>
+		<card><name>Jihad</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Swiss Bank Account</name><set>Limited</set></card>
+		<card><name>End of the World</name><set>Assassins</set></card>
+		<card><name>End of the World</name><set>Assassins</set></card>
+		<card><name>End of the World</name><set>Assassins</set></card>
+		<card><name>Brushfire War</name><set>Assassins</set></card>
+		<card><name>Brushfire War</name><set>Assassins</set></card>
+		<card><name>Frankenfood</name><set>Assassins</set></card>
+		<card><name>Frankenfood</name><set>Assassins</set></card>
+		<card><name>Reverse Whammy</name><set>Assassins</set></card>
+		<card><name>This Was Only A Test</name><set>Assassins</set></card>
+		<card><name>This Was Only A Test</name><set>Assassins</set></card>
+	</superzone>
+</deck>

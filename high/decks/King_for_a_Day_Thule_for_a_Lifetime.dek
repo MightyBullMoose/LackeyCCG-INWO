@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Adepts of Hermes</name><set>Limited</set></card>
+		<card><name>Bavarian Illuminati</name><set>Limited</set></card>
+		<card><name>Bermuda Triangle</name><set>Limited</set></card>
+		<card><name>Discordian Society</name><set>Limited</set></card>
+		<card><name>Gnomes of Zurich</name><set>Limited</set></card>
+		<card><name>The Network</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>Society of Assassins</name><set>Assassins</set></card>
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>The Thule Group</name><set>Assassins</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Bank of England</name><set>Limited</set></card>
+		<card><name>C.I.A.</name><set>Limited</set></card>
+		<card><name>California</name><set>Limited</set></card>
+		<card><name>Clone Arrangers</name><set>Limited</set></card>
+		<card><name>Democrats</name><set>Limited</set></card>
+		<card><name>Federal Reserve</name><set>Limited</set></card>
+		<card><name>Hackers</name><set>Limited</set></card>
+		<card><name>I.R.S.</name><set>Limited</set></card>
+		<card><name>Japan</name><set>Limited</set></card>
+		<card><name>Loan Sharks</name><set>Limited</set></card>
+		<card><name>The Mafia</name><set>Limited</set></card>
+		<card><name>N.S.A.</name><set>Limited</set></card>
+		<card><name>New York</name><set>Limited</set></card>
+		<card><name>Pentagon</name><set>Limited</set></card>
+		<card><name>Phone Company</name><set>Limited</set></card>
+		<card><name>Recycling Centers</name><set>Assassins</set></card>
+		<card><name>Templars</name><set>Limited</set></card>
+		<card><name>Texas</name><set>Limited</set></card>
+		<card><name>W.I.T.C.H.</name><set>Limited</set></card>
+		<card><name>Hitler's Brain</name><set>Limited</set></card>
+		<card><name>Perpetual Motion Machine</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>18 1/2-Minute Gap</name><set>Limited</set></card>
+		<card><name>Anarchists Unite!</name><set>Assassins</set></card>
+		<card><name>Atomic Monster</name><set>Limited</set></card>
+		<card><name>Bribery</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Criminal Overlords</name><set>Limited</set></card>
+		<card><name>Meteor Strike</name><set>Limited</set></card>
+		<card><name>Australian Rules</name><set>Assassins</set></card>
+		<card><name>Nuclear Accident</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Unmasked!</name><set>Limited</set></card>
+		<card><name>Unmasked!</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+	</superzone>
+</deck>

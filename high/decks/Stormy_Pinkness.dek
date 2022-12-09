@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>Gun Lobby</name><set>Limited</set></card>
+		<card><name>Religious Reich</name><set>Limited</set></card>
+		<card><name>Ross Perot</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Moral Minority</name><set>Limited</set></card>
+		<card><name>Ninjas</name><set>Limited</set></card>
+		<card><name>Center for Weird Studies</name><set>Limited</set></card>
+		<card><name>Church of Middle America</name><set>Subgenius</set></card>
+		<card><name>Pinks</name><set>Subgenius</set></card>
+		<card><name>Sacred Stencil</name><set>Subgenius</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Peace in Our Time</name><set>Limited</set></card>
+		<card><name>Law and Order</name><set>Limited</set></card>
+		<card><name>Law and Order</name><set>Limited</set></card>
+		<card><name>Law and Order</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Charismatic Leader</name><set>Limited</set></card>
+		<card><name>Citizenship Award</name><set>Limited</set></card>
+		<card><name>Double-Cross</name><set>Limited</set></card>
+		<card><name>Double-Cross</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Grassroots Support</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>March on Washington</name><set>Limited</set></card>
+		<card><name>Messiah</name><set>Limited</set></card>
+		<card><name>Nobel Peace Prize</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Straighten Up</name><set>Limited</set></card>
+		<card><name>The Anti"Bob"</name><set>Subgenius</set></card>
+		<card><name>Attitude Mutation</name><set>Subgenius</set></card>
+		<card><name>Give Me Slack, or Give Me Food</name><set>Subgenius</set></card>
+		<card><name>Tape Runs Out...</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

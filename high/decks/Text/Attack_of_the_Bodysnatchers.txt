@@ -1,0 +1,247 @@
+Attack of the Bodysnatchers
+by Martin Lærkes
+
+The aliens' plan was as brilliant as it was insidious. They would seize power by
+killing key personal and replacing them with duplicates controlled by the aliens
+themselves. The manlings would not suspect that more and more of their brethren
+were in fact alien invaders until it was too late......
+Card Data
+Illuminati:
+
+    UFOs
+
+Groups:
+
+    Citizens for Normalcy
+    Divine Mail Order x2
+    Fnord Motor Companies
+    Liquor Companies
+    Multinational Oil Companies
+    Nuclear Power Companies
+    Pentagon
+    The Thule Group
+
+Resources:
+
+    The Holy Grail
+    Perpetual Motion Machine
+    Warehouse 23
+
+Plots:
+
+    Agent in Place x2
+    Comet Hail-Bob x2
+    Goal: Cast Out False Prophets
+    NWO: Interesting Times x2
+    NWO: Solidarity
+    Power Grab x2
+    Sabotage x4
+    Seize the Time
+    Senate Investigating Committee x2
+    Tape Runs Out x2
+    Unmasked x2
+    Upheaval x3
+    Adepts of Hermes
+    Bermuda Triangle
+    Church of the Subgenius
+    Gnomes of Zurich
+    The Network
+    Servants of Cthulhu
+    Shangri-La
+    Society of Assassins
+
+Strategy
+The Plan
+
+    Since DotW submissions are currently few and far between, I might as well
+use the opportunity to feature some neglected cards and strategies. Therefore
+I've decided to create a deck revolving around of each the SubGenius goals. The
+first one was deck #79 - the fun'damentalist deck, using Science Can Not Remove
+the Terror of the Gods.
+
+    This time I'm focusing on arguably the hardest of the 5 SubGenius goals:
+Cast Out False Prophets (CoFP). CoFP can serve as a decent plan b in an
+destructive deck, but using it as your main objective entails a few problems:
+Managing to eliminate a rival from the game is not an easy task, eliminating the
+right one is even harder - and that's assuming that the right illuminati is even
+out there in the first place! To do this your deck must be built for this one
+purpose - so (moderate) degeneracy and plentiful ruthlessness is required.
+
+    Your plan is as simple as it is mean. Choose a rival and then pick on him
+from the get go. Keep blasting him with the meanest plots and groups in the
+game, never allowing him to grow beyond 2 puppets. Hopefully your remaining
+rivals will assume that you're just being a spiteful git when you finish him
+off, never thinking what you could be up to. Put his illuminati in your
+destroyed pile, unmask as whatever he was playing, reveal Cast Out False
+Prophets and laugh evilly.
+
+Opening Game
+
+    Lead with Pentagon, because you need a source of extra plot draws. If
+Pentagon bounces, then Divine Mail Order is your best back-up. On your first
+turn, bring out Divine Mail Order as a puppet of Pentagon if possible - or
+either Liquor Companies or Multinational Oil Companies if it isn't.
+
+    Other than that, you have 2 priorities: By the time that your victim is
+about to begin his second turn, you must have an ATO-stopper (Comet Hail-Bob,
+Sabotage, Senate Investigating Committee - or Upheaval in an emergency) on hand,
+as well as the means to power it. You also need to protect Pentagon with the
+Holy Grail. Power Grab if you can, because you need your tokens for picking on
+your victim, and you need a strong start to really dominate.
+
+    Apart from these objectives, you also need to figure out which rival to pick
+on. Choosing the most vulnerable player is a big part of winning with this deck,
+so consider the following:
+        Picking on a player who is later in the turn order than yourself will
+give you the huge advantage of having an extra turn to set up your arsenal.
+        Attacking a UFO player will mean that you won't have to unmask but might
+also alert your rivals to what you're up to.
+        Leave Bavaria and Discordia alone. Bavaria can use its privilege to
+outgrow you, and Discordia is very hard to attack, so your deck can't unmask as
+these two.
+        Look at your rivals leads and first ATOs. Your victim shouldn't have too
+many matching alignments or other slurp bonuses - and definitely shouldn't have
+managed an extra group takeover on the first turn.
+        An adepts player focusing on resources may have a weak group
+composition, a Bermuda player may have a problem with alignments, and Cthulhu
+may be too destruction oriented to recover from your pre-emptive attack.
+        If any rival's first ATO is a resource - smite him!
+
+Midgame
+
+    When your victim's second turn starts, it is time to get dirty. You need to
+block his every ATO, (and attack to control) from here on out. The first time
+you do it, downplay it. Your rivals don't yet know that you're going to do this
+repeatedly, so you may well get help with it early on. Besides, everybody likes
+to see someone else lose a group. In fact, as long as the remaining players
+haven't figured out what you're up to, they should be happy to see you ruining
+it for someone else, while not really progressing yourself. If someone decides
+to interfere, kindly tell them that your nasty plots and groups could be used
+against them instead. If your rivals start pestering you about why you're being
+so mean, either say "because I can", or bring up a past situation where your
+victim has wronged you - whether real or imagined.
+
+    Regarding your ATO-stopping plots: Remember that Sabotage can potentially be
+powered by Pentagon or the Multinational Oil Companies instead of the UFOs and
+that Senate Investigating Committee stops the turn cold. Comet Hail-Bob can be
+used to stop any attack to control, so don't use it on an ATO unless you have
+to.
+
+    After that first important turn, you need to keep knocking your victims ATOs
+down. Take your own ATOs, do what you can to get another ATO-stopper into your
+hand, and save the rest of your tokens for screwing over your victim. If you're
+in a position where you don't have to search for plots, then that is probably a
+good time to take over the Perpetual Motion Machine and linking it to the UFOs.
+
+    There are some quite nasty groups in your deck, and you should pick the
+order of your ATOs according to your plot hand and the opposition you expect to
+be facing. Multinational Oil Companies is big, and will keep a rival off your
+back once you close in for the kill. Fnord Motor Companies will save you from
+having your key attack ruined by a Murphy's Law or a bad roll. Liquor Companies
+can block his plot draws. Finally - the NPCs is a monster, but don't bring it
+out early if you think that it will antagonize the remaining players. Remember
+to make your corporate groups puppets of Pentagon for more plot draws.
+
+    You also need to consider when you're going to start picking off your rivals
+2 remaining groups. Ideally you can start doing this by turn 3 (when opponents
+can first be knocked out), but turn 4 (or even 5) may be more realistic.
+
+End Game
+
+    What you're doing isn't going to be easy. Hopefully you'll have the element
+of surprise on your side. Assuming that everything goes according to plan, your
+rival will have just 2 groups and his illuminati when you're ready to eliminate
+him. This is the proper time to ATO the Thule Group. Also, you'll most likely
+need one or more of your Upheavals.
+
+    Probably play the upheaval first, to deprive your opponent of a valuable
+defensive token. If the other players complain, make whatever deal you can. For
+the final attack, remember to use Multinational Oil Companies to shut out
+whichever rival can interfere with the most power, and use the Thule group along
+with all those illuminati groups to push home the attack. With a little luck
+you'll be able to take out your victim in one fell swoop.
+
+    If you fail, hopefully you can still block one more ATO, and then try again
+on your next turn. Or perhaps use your Seize the Time to get a second go with
+the Thule Group straight away - (you're not really playing any plots with the
+Thule Group, just discarding them).
+
+    If you do manage to knock out your victim, then it is time for the final
+step of your wicked plan. You probably need a turn to recuperate before
+completing your transformation and revealing your true self. On your final turn,
+the Citizens for Normalcy is your best ATO, because it can help strong-arming
+your Unmasked! through. On a technical note, remember that you don't have to
+reveal what you intend to unmask as until after your rivals have decided whether
+to cancel or not. So if they don't cancel then they can not take it back, and if
+they do cancel then you don't lose your illuminati agent. Once you've shed your
+skin then all you need to do is reveal your goal. 
+
+Potential Problems
+
+    This is not a powerful deck. Lots of things can go wrong, but fortunately
+you are not without contingency plans. If you manage to wear down your rival,
+and then someone else manages to finish him off before you do, then you're in
+trouble. In a 3 player game - see below. In a game with 4 or more players, you
+may be able to buy your way into a shared victory. The conditions are simple:
+You give the shrewd rival both your goal, the Unmasked! and the illuminati
+agent, in return for a huge chunk of his power structure, allowing you a basic
+goal win alongside his CoFP win.
+
+    If the whole thing falls apart, and you can't apply enough pressure to your
+victim, then you have to rely on Unmasked! for a conventional win. You have 2
+groups that will count double towards the Gnomes goal. Even better is the
+SubGenius goal: You'll have 2 illuminati tokens, or even 3 with the PPM, each
+counting towards the basic goal. Finally, should Shangri-La be in the game, you
+know you'll want to join him. Remember that if your original plan fails, all
+those nasty plots can be used to bring down the leader, buying you more time to
+set up your own contingency plan.
+
+Variants and Substitutions
+
+    The deck list above is just one way of creating a Bodysnatcher deck. But
+there are many more. When I designed this deck, a number of excellent cards
+didn't make the final cut. Jesus B. is an excellent corporate group that could
+supply you with an illuminati token when you need it the most, and the Black
+Helicopters is an easy way to claim privilege on your final eliminating attack.
+Crystal Skull is extremely powerful when it comes to finding the right plots,
+but it is often hotly contested.
+
+    As for plots, NWO: The Magic Goes Away looked promising because it can
+permanently jam your victims ATOs. Unfortunately it will also annoy everyone
+else, and will render the Thule Group tokenless. Fickle Finger of Fate is also
+wicked, because whether your victim uses his illuminati token to remove it or to
+get his free +10 for an attack, you can cancel him with the NPCs, stripping him
+of all his ATOs. The problem with any Zap! based solution is that if any 3rd
+part decides to intervene, then your Zap! goes down the drain.
+
+    Another variant of this deck could be based on government groups. Leading
+with Germany will ensure that you can make a massive attack on your final turn
+(perhaps with a Dictatorship and a Truckbomb), while Bank of England and NASA
+can generate plenty of plot draws. IRS will deprive your victim of potentially
+important plot cards, while you can either use them against him, or sacrifice
+them to the Center for Weird Studies. NWO: Don't Forget to Smash the State was
+what made the government version my runner-up choice, but the NWO could be
+countered with a Clipper Chip.
+
+    The greatest problem with either of these decks is that they require a
+handful of the rare Sabotage to work properly.
+
+Variant: Liquor Denial
+
+    One version that does not require 4 Sabotages is the Brown Bag Sandbag. For
+years I've tried to come up with a deck that can actually win through group
+denial, and CoFP has finally made this possible. Before CoFP, ruining the game
+for a single player was not a winning strategy, and attempting group denial on
+several players was hardly a realistic scenario.
+
+    Lead with Liquor Companies, and use it to block the group draws (not plot
+draws) of your chosen victim. Either the NPCs or a second Liquor token from
+China can block his attempts at extra draws. This means that beyond his lead and
+first ATO, he will only have a 6 card group hand - the rest of his groups will
+stay undrawn in his deck. Use Smite Them All!, and Let's you and Him Fight to
+remove further group cards from his hand, use Sabotage to block his ATO while
+you do it, and use Upheaval and Comet Hail-Bob to nail any successful ATO. Once
+you've removed his group hand, you can keep him out of the game by blocking his
+draws - and then eliminate him and unmask just like in the other versions.
+
+Back to Deck of the Week

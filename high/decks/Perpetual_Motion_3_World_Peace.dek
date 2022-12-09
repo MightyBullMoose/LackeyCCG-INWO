@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>NATO</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Bill Clinton</name><set>Limited</set></card>
+		<card><name>Ark of the Covenant</name><set>Limited</set></card>
+		<card><name>China</name><set>Limited</set></card>
+		<card><name>England</name><set>Limited</set></card>
+		<card><name>Finland</name><set>Limited</set></card>
+		<card><name>France</name><set>Limited</set></card>
+		<card><name>Gay Activists</name><set>Limited</set></card>
+		<card><name>Israel</name><set>Limited</set></card>
+		<card><name>Japan</name><set>Limited</set></card>
+		<card><name>Rogue Boomer</name><set>Limited</set></card>
+		<card><name>Russia</name><set>Limited</set></card>
+		<card><name>The Holy Grail</name><set>Limited</set></card>
+		<card><name>United Nations</name><set>Limited</set></card>
+		<card><name>Vatican City</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Air Magic</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Assertiveness Training</name><set>Limited</set></card>
+		<card><name>Deasil Engine</name><set>Limited</set></card>
+		<card><name>Dictatorship</name><set>Limited</set></card>
+		<card><name>Early Warning</name><set>Limited</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>Freaking the Mundanes</name><set>Limited</set></card>
+		<card><name>Gremlins</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Nobel Peace Prize</name><set>Limited</set></card>
+		<card><name>Reorganization</name><set>Limited</set></card>
+		<card><name>Revolution!</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Senate Investigating Committee</name><set>Limited</set></card>
+		<card><name>Sniper</name><set>Limited</set></card>
+		<card><name>Sweepstakes Prize</name><set>Limited</set></card>
+		<card><name>Talisman of Ahrimanes</name><set>Limited</set></card>
+		<card><name>The Auditor from Hell</name><set>Limited</set></card>
+		<card><name>Volunteer Aid</name><set>Limited</set></card>
+		<card><name>World Cup Victory</name><set>Limited</set></card>
+		<card><name>Kill for Peace!</name><set>Limited</set></card>
+		<card><name>Chicken in Every Pot</name><set>Limited</set></card>
+		<card><name>Energy Crisis</name><set>Limited</set></card>
+		<card><name>Military-Industrial Complex</name><set>Limited</set></card>
+		<card><name>Peace in Our Time</name><set>Limited</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,230 @@
+The Bermuda Crime-Angle
+
+by Carey Clevenger
+
+"When you've been stealing ships and airplanes as long as we have, it's only a
+matter of time before you start stealing everything else."
+
+And so begins the premise of the deck, at least poetically.
+
+From a more realistic standpoint, this deck sprung from my desire to build a
+deck that could actually win with Bermuda's special goal. Of course, there are
+huge problems with making the alignments work together; all of the opposition
+makes defense difficult, not to mention the problems you run into when you may
+want to assist an attack.
+
+The key to the special goal is, not surprisingly, the special goal itself (if
+this is a catastrophic revelation to you, perhaps you're not cut out for this
+World Domination thing). So let's take a look: "Control a total power of at
+least 35, counting Bermuda's own power, and at least one group of each
+alignment." The first part's easy: thirty-five power, I've had 50 or more
+playing Bavaria. The second part is a bit trickier: "One of each alignment." So
+I need all ten alignments, in a deck that will work together? Seems impossible,
+what with all of the opposite alignments (which are eight of the alignments),
+and Fanatic (which is always opposite). So it's just not feasible, right?
+
+That's what I thought. But the thing to keep in mind is that good ol' alignment
+number ten, Criminal, has no opposite.
+
+Let me rephrase that if you haven't caught on yet. You can build a deck of all
+Criminal groups, and since Criminal has no opposite, you won't be missing an
+alignment that would be its opposite.
+
+Once you figure that part out, the rest is easy. In fact, the deck is more or
+less eleven cards with some handy plots thrown in. You can flavor the deck for
+whatever sort of group you usually play against, but after you get past the
+"Essential" cards, the rest is just stuff I put into my deck. Feel free to
+change things to be as evil as possible for your playing style.
+Illuminati
+
+    Bermuda Triangle 
+
+Group Cards
+
+    Day Care Centers
+    Dittoheads
+    Junk Mail
+    Loan Sharks
+    Lyndon LaRouche
+    The Mafia
+    New York
+    Savings and Loans
+    Semiconscious Liberation Army
+    Telephone Psychics 
+
+As I said earlier, this is just a framework. It would be possible to accomplish
+Bermuda's special goal with only those cards. Of course, it would be a pretty
+boring game, and it would be way too easy; i.e., it wouldn't be INWO. So, here
+are my suggestions on the other 34 cards.
+The Other Stuff
+Resources
+
+    Cyborg Soldiers
+    Immortality Serum
+    Orbital Mind Control Lasers 
+
+Plot Cards
+
+    Alien Abduction
+    An Offer you Can't Refuse (Also fits the theme nicely, eh?)
+    Backlash
+    The Big Score (x3)
+    Blitzkrieg
+    Celebrity Spokesman
+    Cover of Darkness
+    Deasil Engine
+    Giant Kudzu
+    Good Polls
+    Murphy's Law
+    Privileged Attack
+    Secrets Man was not Meant to Know (x2)
+    Seize the Time!
+    Senate Investigating Committee
+    Sweepstakes Prize
+    Terrorist Nuke
+    Voodoo Economics
+    Goal: Criminal Overlords
+    Goal: Hail Eris!
+    Goal: Power for its Own Sake
+    NWO: A Thousand Points of Light (x2)
+    NWO: Fear and Loathing
+    NWo: Gun Control (x2)
+    NWO: Law and Order
+    One other Yellow NWO: Bigger Business, Military Industrial Complex, or Law
+and Order 
+
+Overview
+First of all, yes, the deck does work. Another great thing about this deck is
+how flexible it is: three goal cards, plus the special goal (which is
+obtainable), adds up to four ways to win. General advice is to keep working
+towards the special goal, and then adapt your strategy for the fastest win,
+depending on goal cards.
+Basic Principles
+
+Lead with New York or The Mafia; either are good choices. Link the Cyborg
+Soldiers to this group as soon as possible; you don't necessarily need the extra
+power for the win, but it makes things much easier. Once you've done this,
+either group will have a 14 power to take groups (without even counting
+alignment bonuses). If you chose New York, only two groups in your deck will
+have alignments opposed to it (the Peaceful Telephone Psychics, and the
+Corporate Junk Mail); for the Mafia, only one group (Telephone Psychics) has an
+opposed alignment. For all of the other groups in your hand, you're going to
+have *at least* a +4 alignment bonus, which gives you a total attacking power of
+18. This group is going to do most of your dirty work.
+
+Try to take powerful groups (with control arrows) as soon as possible. Try to
+get out either The Mafia or New York (whichever you didn't lead with, naturally)
+as soon as possible. It won't be hard to draw them; over half of your cards will
+be in your hand at the beginning of turn one, and another will be in your power
+structure, leaving only five to draw. With the Mafia in your power structure,
+you'll get an extra +2 to snag up those Criminal groups. Spend the first few
+turns picking up groups until you have New York, The Mafia, and possibly the
+Loan Sharks. New York and The Mafia should most definitely be directly
+controlled by Bermuda; at least for now.
+
+Attacks and defense are pretty straightforward: you attack a Criminal group, you
+can assist with Criminal groups. If you get attacked, you can defend with...you
+guessed it, your Criminal groups. Any time you think someone may try to
+interfere with your attacks, either play a "Big Score" right off or make it
+Privileged. Or just throw in lots of power.
+Specific Strategies
+
+The goal here is to grab groups up as quickly as possible, and your plots should
+help. New York and The Mafia in the same power structure make it a no-brainer;
+power isn't a concern. And since Loan Sharks get +1 power for each Criminal
+group you control, they're very quickly going to become your most powerful
+"unmodified" group (especially with New York giving them an additional +1). Of
+course, they'll be easy to overlook when your opponents see the 13 or 14 power
+group you have (thanks to the Cyborg Soldiers).
+
+Most of the groups are self explanatory: they provide alignments you need to
+fulfill your goal. At first glance, however, Lyndon LaRouche seems completely
+useless to your goal; and he is. Feel free to play up the "Oh no, his alignments
+don't count for goals!" or mock shock when you "Accidentally" count his
+alignments in and They point it out to you. While it may seem silly to put a
+card in that won't help your goals, he actually will; indirectly. Because once
+he controls the Dittoheads, they're going to gain all of his alignments.
+
+Day Care Centers is a fun card to use for this deck, because their special
+ability can help any of your goals. Assuming you have Gun Control in play, you
+can link the Day Care Centers up to whatever group you need to fulfill a goal.
+Power for its own Sake? Link it to New York. Hail Eris? Link it to Lyndon
+LaRouche. Criminal Overlords? Link it to New York, The Mafia, or Loan Sharks
+(worst case scenario that someone has offed one of the four Violent Criminal
+groups you started the game with). And being Bermuda, you can move your whole
+power structure around right before you declare a victory.
+
+Before you close in for the kill, try to keep a Big Score in reserve for
+defense, and play out your Good Polls if you need to. Try to pick an alignment
+you have a lot of for maximum defense. (That would be "Criminal" for those of
+you in the back.)
+Not-So-Obvious Tricks
+
+A lot of the plots in the suggested deck design are aimed at Lyndon LaRouche in
+some way. This is because taking the Dittoheads using him is going to be tough,
+and no one else can make that attack to control. Ideally, playing out Law and
+Order (or even Bigger Business) while Gun Control is in play, in a power
+structure with New York, will give ol' Lindy a 5 power. This isn't going to help
+much, however, because the Dittoheads and Lyndon are both Fanatic, so A Thousand
+Points of Light will be useful here. Alternatively, make Lyndon a Celebrity
+Spokesman, and/or give him a Sweepstakes Prize. Chances are that you're going to
+have to assist with your Bermuda token, or at the very least, play a Big Score.
+If you're playing with automatic takeovers, make the Dittoheads your choice as
+soon as you have Lyndon. Of course, worse comes to worse, you lose them: slide
+the Day Care centers over onto his control arrow, and steal his alignments that
+way. Their lack of initial alignment is a small obstacle compared to their low
+resistance: snag it with your "high power" group and move it where you want it
+at the end of your turn.
+
+Additionally, if you need power above all else, you can put Lyndon in control of
+New York and give him a 7 *printed* power. Then start adding the bonuses...don't
+forget that the Dittoheads give a +2, and how much fun NWO cards are going to be
+for him and his like-minded drones. Or even the +1 power from New York, or the
++1 power Loan Sharks get for each Criminal group. The mind reels...
+End Game
+
+Chances are, if you played your cards right (no pun intended), you'll be able to
+win in three or four turns; either by the special goal, or one of your goal
+cards. Keep New York, The Mafia, and Lyndon as direct Illuminati puppets. Move
+the rest of the groups around however you see fit. Making nifty patterns is a
+good choice, although providing maximum protection for the "One of a kind"
+alignments is certainly not a bad idea. If you've been able to keep the MCL's up
+towards the end, losing one alignment won't matter too much; you can just glue
+it on somewhere else.
+
+Make sure you have your lackeys send enough boats to carry your loot off.
+Suggestions from your friend and mine, Ralph Melton
+
+After I submitted the initial version of the deck (as you see above), Ralph had
+some good good suggestions. The only reason I didn't include them above is that
+I haven't tried them out yet.
+
+Ralph made the recommendation of using the Phone Phreaks instead of the SLA to
+get the Liberal Criminal group, because Bermuda getting the SLA seems a little
+too obvious (it always was in the original boardgame), and your opponents
+probably won't let you take them over that easily. This is a very valid point,
+and certainly something to keep in mind. I looked at the Phone Phreaks when I
+originally built this deck as an alternative, but I decided to go with the SLA;
+there was always one player in the group who always played with the Network, and
+through experience, I knew that my chances of getting the SLA were much better
+than trying to take the Phone Phreaks from my hand (or even from his power
+structure) as protective as he was of all the computer groups.
+
+Ralph also suggested a really good idea that I hadn't considered to alleviate
+the difficulties Lyndon has taking the Dittoheads: add Manuel Noriega, and use
+him to take the Dittoheads, but move them onto Lyndon at first chance. This is a
+really sneaking idea, because Manny's power is likely going to go through the
+roof under Gun Control, and every little bit counts. He also has that cool
+"Borrow my Alignments" trick.
+
+Another alternative Ralph suggests: Ollie North. While Ollie isn't terribly
+useful for his special ability, he *is* a Conservative Criminal Personality, and
+he could just as easily control the Dittoheads. In fact, if you went with Ollie
+and the Dittoheads, you wouldn't need to use Lyndon at all (provided you have
+the SLA to give you a Weird alignment).
+Back to the Deck of the Week.
+
+First posted: April 18, 1998
+
+Last modified: April 18, 1998
+Ralph Melton ralph@cs.cmu.edu

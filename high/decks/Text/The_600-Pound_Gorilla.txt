@@ -1,0 +1,281 @@
+The 600-Pound Gorilla
+
+by Ralph Melton
+
+"Where does a 600-pound Gorilla sit?" "Anywhere he wants." This is a
+hard-hitting Bavaria deck with lots and lots of power and a very tight
+Government Violent theme.
+Illuminati
+
+    Bavarian Illuminati 
+
+Group Cards
+
+    C.I.A.
+    Manuel Noriega
+    New York
+    Pentagon
+    Texas
+    Center for Weird Studies
+    Clipper Chip
+    Cyborg Soldiers x2 
+
+Plot Cards
+
+    Assertiveness Training
+    Backlash
+    Beach Party
+    The Big Score
+    Bribery
+    Censorship
+    Giant Kudzu
+    Good Polls x3
+    Hoax x2
+    Meteor Strike
+    Martial Law x4
+    Murphy's Law
+    Power Grab
+    Savings and Loan Scam
+    Secrets Man Was Not Meant to Know x2
+    Sniper
+    Swiss Bank Account
+    Terrorist Nuke x4
+    NWO: Fear and Loathing x2
+    NWO: Gun Control x3
+    NWO: Law and Order x2 
+
+Beginning
+
+You should lead with New York, since it has the highest power of any group in
+the game, and it has at least two common alignments with all your other groups,
+making it good for you, and it has a high Resistance, making it inconvenient in
+the hands of your opponents. However, if you bounce on the lead of New York, you
+shouldn't be too distressed; the C.I.A., Texas, or the Pentagon will also do as
+well.
+Midgame
+
+The midgame should be one of slow, steady growth. On each turn, you will
+probably make an Automatic Takeover of one group, spend an Illuminati action to
+take over a Resource, and make one Privileged attack to control from your hand,
+and spend an action when necessary to move a group next to the Illuminati.
+
+Your Resources are all roughly equally useful. The Cyborg Soldiers double the
+power of two of your Groups (one of the Cyborg Soldiers should almost certainly
+be on New York, of course), but the Clipper Chip adds to the power of all your
+Groups, so it is also very useful. The Center for Weird Studies' power to reload
+action tokens can also be very useful.
+
+With two common alignments, New York should have at least a 9 or less to take
+over any of the groups in your hand, or more once you've managed to get out a
+Cyborg Soldiers for New York, or a Clipper Chip. You should obviously bring out
+your higher-powered Groups first; Manuel Noriega is not as important as the
+other groups, for example.
+
+Remember to make your attacks Privileged! I an many other players I know tend to
+forget about Bavaria's special power; using your Privileged attack when you make
+attacks from your hand will greatly reduce the amount of meddling you get, and
+help you save your action tokens for defense.
+
+Feel free to use your NWOs to help your attacks, but do remember their uses in
+the endgame. NWO: Fear and Loathing is particularly valuable to you, because all
+your groups have two common alignments with each other.
+
+It is important to save your action tokens for defense, and for drawing plots.
+The reason is this: very quickly, you are going to start looming, and people are
+going to become nervous. You need to be well-defended, and as importantly, you
+need to look well-defended in order to deter attacks.
+
+On the other hand, while all your plots are nice, none of them are separately
+necessary. Therefore, it can be very useful to discard a plot to power the
+Center for Weird Studies. Two main ways you might want to use the CfWS:
+
+    The Center can provide an action token to let you move a newly-captured
+group next to the Illuminati.
+    The Center can replenish an Illuminati action used to bring out a Resource. 
+
+If you do get attacked, your best defense should be Good Polls; all of your
+groups have a high Power and Resistance, so they benefit greatly from Good
+Polls,and all of your groups can defend each other with their Good
+Polls-increased Power. Furthermore, Good Polls lasts until the beginning of your
+next turn, so a single Good Polls will defend you well until your next turn.
+
+Your +10 boosters are also more likely to be used defensively than offensively.
+
+The high power and proximity to the Illuminati of your three places will provide
+an adequate first line of defense against Disasters. The only Disasters that
+might be really effective would be something like Giant Kudzu--but there, you
+should have enough action tokens and defensive plots to thwart such a disaster.
+
+Above all, don't be too greedy in the midgame; do your conservative growth, and
+stand around looming in a way that says 'I'm too well-defended to be worth
+attacking.'
+Endgame
+
+This deck does not have a sharp delineation between the midgame and the endgame.
+The best way to express the turning point is this: The larger the leap to
+victory that you make in a single turn, the greater the chance that someone will
+be able to block your bid for victory. On the other hand, there comes a point
+when you've grown so large that the other players feel that they have to attack
+you or have no chance of fending off a victory. You should attempt to make your
+push for victory at your last opportunity before your opponents band together to
+bring you down. This point should certainly be influenced by your own
+experience, but a reasonable rule of thumb is to try this bid for victory when
+you have 37-41 points of power at the beginning of your turn, and you can see
+your way to getting 50 points in one turn.
+
+Your bid for victory will be like your other turns: an ATO, a resource takeover
+if you don't have one already, an attack or two from your hand, using your
+ability to make Privileged attacks, and the playing of one or more NWOs to boost
+your power.
+
+Your plan is to win by the amount of power you control. Period. You don't have
+enough groups to have a real chance at winning by number of Groups controlled.
+
+However, you shouldn't have too much trouble getting to 50 points of Power,
+because if you get all your Groups and your Power-boosting cards out, you would
+have 76 points of power. Practically, you shouldn't expect to get all of that
+out, but you should feel comfortable that you don't have to have everything go
+perfectly in order to win. As a rule of thumb, this deck is probably robust
+enough to be winnable with one major catastrophe, like someone else taking of
+destroying one of yoru groups, or playing NWO: Don't Forget to Smash the State.
+It probably can't handle much more.
+
+(A side note: if you have all your Resources and NWOs in play, then New York
+will have a base roll of 42 or less (!) to control Manuel Noriega, and Manuel
+will have a power of 8 after he's taken over. It is for these reasons that I
+included Manuel, who would otherwise be more puny than usual for a Bavaria
+deck.)
+Potential problems
+
+One obvious fact about this deck is that it uses an extremely small Group deck.
+This has the benefit that every Group card you draw is a really good Group card
+that will serve you well. The disadvantage is that if the game is prolonged, you
+will cease to be able to draw new Group cards.
+
+It should be noted, though, that this Group deck is actually small enough that
+it does not need to worry excessively about Group-deck menaces like the Society
+for Creative Anarchism. The reason is this: Unless you bounce on your lead
+puppet three times or more, you will draw your last Group card on your second
+turn. In order to use the SCA against you, someone would have to use the SCA as
+your lead puppet, use the SCA as their ATO on their first turn, or attack to
+control the SCA and use a Blitzkrieg. None of these combinations are very
+likely.
+
+Losing groups, though, is Bad News. An Upheaval! would be a major catastrophe
+for you, and would be well worth playing a Hoax or Secrets Mand Was Not Meant to
+Know if it happens. By the same token, it is well worth defending all your
+groups to the hilt.
+
+A deck design corollary of the small plot deck is that none of the Plot cards
+that require discarding Group cards to play were included in the Plot deck.
+
+Other things that can happen:
+Other People Bring Out Your Groups
+
+All of the high-powered groups that you have are reasonably popular. Other
+people may play them first.
+
+If that happens, wait for a time when the group appears to be sparsely defended,
+and make a deadly all-out Privileged attack to seize control, with multiple
+common alignments (ideally, doubled with NWO: Fearand Loathing), +10 boosters,
+and your Agents for the group. It will be a stiff fight, because the other
+player will have his own defenses, but you can probably succeed. This can be an
+excellent thing to do in the endgame, particularly if your target controls other
+groups.
+The Discordian Society
+
+As you have probably noticed, all your groups are Government. This means that
+the Discordian Society is almost entirely immune to you.
+
+Your best solution is just to outgrow the Discordian Society, while defending
+yourself from any attacks that he might make. You do have one Swiss Bank
+Account, which you can use to make a somewhat-effective attack on the Discordian
+Society.
+Shangri-La
+
+Shangri-La is most likely to inconvenience you by playing Kinder and Gentler on
+your Groups, with two effects:
+
+    Your newly groups will no longer be able to profit from NWO: Gun Control or
+Cyborg Soldiers.
+    Shangri-La will leap closer to their own victory. 
+
+To provide a chance of countering these, the deck includes a Backlash and an
+Assertiveness Training. Hoax and Secrets Man Was Not Meant to Know are also
+useful.
+NWO: Don't Forget to Smash the State
+
+This NWO will cut deeply into your total power. This is the major reason that
+two copies of NWO: Law and Order were added. NWO: Law and Order only adds four
+points to your total power, but the sheer inconvenience of NWO: Don't Forget to
+Smash the State makes it worthwhile to have a yellow New World Order to get rid
+of DFtStS.
+NWO: Interesting Times
+
+This blue NWO can thwart your victory by making only the basic goal count for
+victory. This is a great inconvenience, because you don't stand much of a chance
+of getting to the 10-12 groups of a basic victory. Your blue NWO: Fear and
+Loathing plots are effective for eliminating NWO: Interesting Times, as well as
+adding +8 to most of your attacks from your hand.
+
+There are also a few cards provided to let you thwart other players who seem to
+be getting uppity:
+
+Censorship
+    Lets any of your groups make a devastating attack on a Media group. 
+Sniper
+    Your pumped-up Government Groups should be able to provide a powerful enough
+Sniper to blast a personality who's right next to the Illuminati. If you really
+feear Discordia, you might replace this with a Car Bomb, since Discordia is
+immune to a New York-powered Sniper but not immune to a New York-powered Car
+Bomb. 
+    If someone else brings out Bill Clinton, Bill's bonuses to control your
+groups might be worrisome enough to suggest a Sniper. 
+Meteor Strike
+    This Disaster was included because it can be played on any place, even
+Moonbase and Orbit One. 
+Giant Kudzu
+    This Disaster was included because of its large power. It can either be used
+to drain a target of action tokens by playing it when that player has lots of
+action tokens, or to destroy a place when the owning player has very few action
+tokens with which to defend it. 
+
+Variants and Substitutions
+
+An obvious way to adjust this deck would be to add some more Group cards;
+frankly, this deck is fairly far out on the small-group-deck end of the
+spectrum.
+
+If you were going to add groups, Government groups (particularly Violent
+Government groups) would be ideal, because of your large bonuses to take them
+over and the power bonuses they get from the Clipper Chip and NWO: Gun Control.
+
+Some particularly attractive Groups might be:
+
+Bill Clinton
+    Bill has an excellent power to take over all your Government groups.
+Unfortunately, his Resistance isn't as good, and he's not Violent. 
+NASA
+    NASA's special power to give their token to one of your Government Groups is
+a useful way to recharge for another attack, to allow a group to be moved after
+being controlled, or to increase your defensive power. 
+
+I debated about whether to include the Perpetual Motion Machine or the Center
+for Weird Studies, or both. The extra action token that either can provide is
+extremely useful. The Perpetual Motion Machine, though, is a Rare card, and it
+is a Gadget, which means that it can be destroyed by a Deasil Engine or a Weak
+Link. It's also fairly popular in my play group, which means that you may not
+get to have it.
+
+I decided on the Center for Weird Studies because it's less popular, and once
+it's in play, the only way it can be torn from you is through Forgery. Its extra
+cost of requiring Plot discards is undesirable, because you won't be drawing
+many plots, but tolerable, because there are no Plot cards that are really
+crucial to you.
+
+Back to the Classic Decks.
+
+First posted: February 15, 1997
+
+Last modified: February 15, 1997
+Ralph Melton ralph@cs.cmu.edu

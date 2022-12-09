@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Atlantis</name><set>Virtual</set></card>
+		<card><name>England</name><set>Limited</set></card>
+		<card><name>China</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Cable TV</name><set>Limited</set></card>
+		<card><name>Congressional Wives</name><set>Limited</set></card>
+		<card><name>England</name><set>Limited</set></card>
+		<card><name>Israel</name><set>Limited</set></card>
+		<card><name>Local Police Departments</name><set>Limited</set></card>
+		<card><name>Madison Avenue</name><set>Limited</set></card>
+		<card><name>Multinational Oil Companies</name><set>Limited</set></card>
+		<card><name>NATO</name><set>Limited</set></card>
+		<card><name>Post Office</name><set>Limited</set></card>
+		<card><name>Republicans</name><set>Limited</set></card>
+		<card><name>Supreme Court</name><set>Limited</set></card>
+		<card><name>Templars</name><set>Limited</set></card>
+		<card><name>The Big Prawn</name><set>Assassins</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Cyborg Soldiers</name><set>Limited</set></card>
+		<card><name>Lenin's Body</name><set>Assassins</set></card>
+		<card><name>Midas Mill</name><set>Limited</set></card>
+		<card><name>Power Satellite</name><set>Assassins</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>Cover of Darkness</name><set>Limited</set></card>
+		<card><name>Dictatorship</name><set>Limited</set></card>
+		<card><name>Early Warning</name><set>Limited</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>The Corporate Masters</name><set>Limited</set></card>
+		<card><name>Power For Its Own Sake</name><set>Limited</set></card>
+		<card><name>Hat Trick</name><set>Limited</set></card>
+		<card><name>Hidden Influence</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>March on Washington</name><set>Limited</set></card>
+		<card><name>Media Blitz</name><set>Limited</set></card>
+		<card><name>Media Connections</name><set>Limited</set></card>
+		<card><name>Monopoly</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>Bigger Business</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Partition</name><set>Assassins</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>The Stars Are Right</name><set>Limited</set></card>
+		<card><name>Stealing the Plans</name><set>Limited</set></card>
+		<card><name>The Weak Link</name><set>Limited</set></card>
+	</superzone>
+</deck>

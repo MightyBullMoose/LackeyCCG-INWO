@@ -1,0 +1,22 @@
+!2d6!/rd6 2
+!1d6!/rd6 1
+Attack to Control Group from Hand             (attacktocontrolfromhand.wav)
+Attack to Control Group                       (attacktocontrol.wav)
+Attack to Destroy Group                       (attacktodestroy.wav)
+Fnord                                         (fnord.wav)
+(PoP?) Pass or Play?                          (passorplay.wav)
+Pass                                          (pass.wav)
+Proceed                                       (proceed.wav)
+Thinking...                                   (thinking.wav)
+Hold on...                                    (holdon.wav)
+(EoT) At end of turn...                       (atendofturn.wav)
+In response...                                (inresponse.wav)
+Mulligan.                                     (mulligan.wav)
+Your turn...                                  (yourturn.wav)
+Done.                                         (done.wav)
+Yay!                                          (yay.wav)
+/clear
+shucks                                        (shucks.wav)
+Good Game                                     (goodgame.wav)
+/mkupdate plugins/INWO/updatelist.txt
+/checksum plugins/INWO/version.txt

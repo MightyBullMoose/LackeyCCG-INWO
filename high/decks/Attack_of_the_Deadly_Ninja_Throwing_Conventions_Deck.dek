@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>C.I.A.</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Evil Geniuses for a Better Tomorrow</name><set>Limited</set></card>
+		<card><name>General Disorder</name><set>Assassins</set></card>
+		<card><name>Gun Lobby</name><set>Limited</set></card>
+		<card><name>Ninjas</name><set>Limited</set></card>
+		<card><name>South American Nazis</name><set>Limited</set></card>
+		<card><name>Survivalists</name><set>Limited</set></card>
+		<card><name>Texas</name><set>Limited</set></card>
+		<card><name>W.I.T.C.H.</name><set>Limited</set></card>
+		<card><name>Center for Weird Studies</name><set>Limited</set></card>
+		<card><name>Crystal Skull</name><set>Limited</set></card>
+		<card><name>Cyborg Soldiers</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>Hurricane</name><set>Limited</set></card>
+		<card><name>Hurricane</name><set>Limited</set></card>
+		<card><name>Hurricane</name><set>Limited</set></card>
+		<card><name>Hurricane</name><set>Limited</set></card>
+		<card><name>Hurricane</name><set>Limited</set></card>
+		<card><name>Hurricane</name><set>Limited</set></card>
+		<card><name>Hail Eris!</name><set>Limited</set></card>
+		<card><name>Annual Convention</name><set>Limited</set></card>
+		<card><name>Annual Convention</name><set>Limited</set></card>
+		<card><name>Annual Convention</name><set>Limited</set></card>
+		<card><name>Annual Convention</name><set>Limited</set></card>
+		<card><name>Annual Convention</name><set>Limited</set></card>
+		<card><name>Annual Convention</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>March on Washington</name><set>Limited</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>Global Warming</name><set>Assassins</set></card>
+		<card><name>Australian Rules</name><set>Assassins</set></card>
+		<card><name>Antitrust Legislation</name><set>Assassins</set></card>
+		<card><name>Beach Party</name><set>Assassins</set></card>
+		<card><name>Sorry, Wrong Number</name><set>Assassins</set></card>
+		<card><name>Sufficiently Advanced Technology</name><set>Assassins</set></card>
+		<card><name>Truck Bomb</name><set>Assassins</set></card>
+		<card><name>Truck Bomb</name><set>Assassins</set></card>
+	</superzone>
+</deck>

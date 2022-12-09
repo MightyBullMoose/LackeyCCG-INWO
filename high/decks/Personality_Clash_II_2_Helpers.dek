@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Adepts of Hermes</name><set>Limited</set></card>
+		<card><name>Rosicrucians</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Spear of Longinus</name><set>Limited</set></card>
+		<card><name>Soulburner</name><set>Limited</set></card>
+		<card><name>Shroud of Turin</name><set>Limited</set></card>
+		<card><name>Necronomicon</name><set>Limited</set></card>
+		<card><name>Death Mask</name><set>Limited</set></card>
+		<card><name>Book of Kells</name><set>Limited</set></card>
+		<card><name>Ark of the Covenant</name><set>Limited</set></card>
+		<card><name>W.I.T.C.H.</name><set>Limited</set></card>
+		<card><name>Triliberal Commission</name><set>Limited</set></card>
+		<card><name>Stonehenge</name><set>Limited</set></card>
+		<card><name>Red Cross</name><set>Limited</set></card>
+		<card><name>Psychiatrists</name><set>Limited</set></card>
+		<card><name>Lawyers</name><set>Limited</set></card>
+		<card><name>The Great Pyramid</name><set>Limited</set></card>
+		<card><name>Fraternal Orders</name><set>Limited</set></card>
+		<card><name>England</name><set>Limited</set></card>
+		<card><name>China</name><set>Limited</set></card>
+		<card><name>CFL-AIO</name><set>Limited</set></card>
+		<card><name>Boy Sprouts</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>18 1/2-Minute Gap</name><set>Limited</set></card>
+		<card><name>Air Magic</name><set>Limited</set></card>
+		<card><name>Bribery</name><set>Limited</set></card>
+		<card><name>Cover of Darkness</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Fnord!</name><set>Limited</set></card>
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Harmonica Virgins</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Plague of Demons</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Seize The Time!</name><set>Limited</set></card>
+		<card><name>The Stars are Right</name><set>Limited</set></card>
+		<card><name>Stealing The Plans</name><set>Limited</set></card>
+		<card><name>Unlucky 13</name><set>Limited</set></card>
+		<card><name>Solidarity</name><set>Limited</set></card>
+		<card><name>Grave Robbers</name><set>Assassins</set></card>
+		<card><name>Rain of Prairie Squid</name><set>Subgenius</set></card>
+		<card><name>Arise!</name><set>Subgenius</set></card>
+		<card><name>Repent!</name><set>Subgenius</set></card>
+		<card><name>Time Control</name><set>Subgenius</set></card>
+		<card><name>You'd Pay to Know What You Really Think!</name><set>Subgenius</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+	</superzone>
+</deck>

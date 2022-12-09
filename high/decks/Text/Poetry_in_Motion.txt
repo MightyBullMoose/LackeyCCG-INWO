@@ -1,0 +1,212 @@
+It's Poetry in Motion
+She turned her tender eyes to me
+The spheres are in commotion
+The elements in harmony
+She blinded me with science...
+Poetry in Motion
+Or, How to Dominate this Flat Old Earth
+by Sean McGuire
+with guest vocalist Ralph Melton on Tracks 2 and 3
+
+I'm a big Thomas Dolby fan. When I saw the 'Blinded by Science' goal, I knew I
+had to use it. I mean, the guy on the card even looks like Thomas Dolby.
+Unfortunately, someone in my gaming group (who will remain nameless, but his
+initials are Ralph Melton) beat me to it, and everyone was on guard against it
+for a long time afterwards.
+
+I've also been trying for months to build a deck that could conceivably win in
+three different ways, since, as Miles Vorkosigan (among others) says, no battle
+plan ever survives first contact with the enemy.
+
+Thomas Dolby's music is known for mixing things that just wouldn't seem to go
+together - acid guitar with big band backing, for instance. This, combined with
+the lyrics to "She Blinded Me with Science", made it obvious that the goal
+should be put in a Bermuda deck. Add in the fact that much of Dolby's music is
+based on synthesizers and computerized sounds, and you get something a lot like
+this:
+Illuminati:
+
+    Bermuda Triangle
+
+Groups and Resources:
+
+    AMA
+    Clone Arrangers
+    Evil Geniuses for a Better Tomorrow
+    F.B.I.
+    Finland
+    Hackers
+    International Weather Organization
+    Japan
+    Nuclear Power Companies
+    Phone Company
+    Phone Phreaks
+    Science Alarmists
+    Black Helicopters
+    Eliza
+    Library at Alexandria 
+
+Plots:
+
+    The Network
+    Annual Convention
+    Atomic Monster
+    Beach Party
+    Bribery
+    Cold Fusion x2
+    Computer Security x2 (but that's rare!)
+    Deasil Engine
+    Enough is Enough
+    Flesh Eating Bacteria (but that's ultra-rare!)
+    Frankenfood
+    Infobahn x2
+    Hoax
+    Martial Law x2
+    Martyrs x2
+    Murphy's Law
+    Near Miss
+    Savings & Loan Scam x3
+    Unmasked!
+    Goal: Blinded by Science x2
+    NWO: Apathy 
+
+Basic Strategy
+
+The big pain in the butt with the Bermuda special goal is growing fast enough.
+You have all these unlike alignments, which makes it tough to take things from
+your hand except through ATOs. This deck solves that problem by having huge
+bonuses to take over computer and science groups - which, you'll notice, pretty
+much everything is. While we're at it, we might as well have two other ways to
+win with these cards - by Unmasking as the Network, or Blinding everyone with
+Science.
+The Beginning
+
+The beginning: Lead with Japan, especially if someone else is playing Shangri-La
+or the Network. (If someone's playing the Network, you are probably in Big Big
+Trouble, but see below.) If that bounces, try Hackers. If Hackers then bounces,
+I'd recommend you go with Finland. The most important groups to have out early
+are Japan and Phone Phreaks - if that's all you've got, then you'll have a +12
+bonus to take over computer groups from Japan.
+Midgame
+
+Try to get Eliza and the Black Helicopters out, with the latter and possibly the
+former linked to Japan. (Linking the former makes it a bit obvious that you can
+make two near-certain privileged attacks to control every turn; you might want
+to link Eliza elsewhere for a while instead. Or, you might just want to make it
+obvious and take things over quickly - it'll depend on what'll look better to
+your gaming group.) Take things over with an eye towards increasing your
+bonuses, not towards increasing your power or number of alignments out - if you
+can look completely nonthreatening 'til the very end, all the better.
+
+This is fundamentally an isolationist deck. Try not to piss people off. Don't
+get involved in attacks unless a) you need to help prevent someone from winning,
+or b) you can gain a lot of favor by doing so - if you can pull off something
+like "I'd like to throw in sixteen points of power but I'd need the assurance of
+everyone that they'd leave me alone if I so weakened myself" (and the
+deal-makers will stick to it), it's probably worth it. Try not to bring out the
+Nuclear Power Companies unless you absolutely have to - even if you resist the
+temptation to use their special power, people will still want to kill you just
+because everyone (and I mean everyone, including my grandma, who doesn't even
+play INWO) hates the NPCs.
+
+You must protect Japan. That's what most of the +10 boosters, the Computer
+Securities, the Near Miss, the Beach Party, and the Annual Convention are for
+(Use Annual Convention as a stick to threaten people with, as long as you don't
+think they have Go Fishes hidden away...) International Weather Organization
+helps with protection as well. You might even want to substitute more
+anti-disaster cards for the +10 boosters and other duplicate cards. If you lose
+Japan, you can still make a go at it with Finland, but not nearly as easily.
+Atomic Monster is not in there so much for its use as a disaster as for defense
+against the Robot Sea Monsters.
+
+Never bring out the Science Alarmists. Their sole purpose for existence in this
+deck is as an Agents if someone else has them.
+Endgame
+
+Played properly, this deck can win three different ways: you can make Bermuda's
+goal of controlling one group of every alignment and a minimum of 35 points of
+power. Or, you can control six Science groups (AMA, Clone Arrangers, Evil
+Geniuses, FBI, International Weather Organization, Nuclear Power Companies,
+Phone Phreaks, and Phone Company are all Science). Or, you can Unmask as the
+Network, letting Japan, the Phone Company, and Hackers count double. Let your
+opponents think you're going for the Bermuda goal; early on in the game,
+complain loudly about not being able to get enough alignments out, and not
+having the right groups to get the power you need. (Later on, cut down on the
+complaining; after a few turns you may be in a position to make a bid for
+victory with the Bermuda goal, and it wouldn't do to draw your opponents'
+attention to this.) If they suggest that you might have Blinded by Science, or
+that you might plan to unmasked as Network, look surprised and say "huh. that's
+actually not a bad idea. Wish I'd thought of it." (My gaming group is always
+strictly honest, so I can't say the last part - I have a reputation for being
+good to my word that has kept me alive through many rough games - but even if
+you play with the same policy, you can say the last part, because I'm the one
+who thought of it...) In the worst case, you can say "okay, you've found me out.
+I had actually planned to [unmask as the Network / play Blinded by Science]. But
+I can see you're too clever for that, so it just won't work. Look, I'll discard
+the card that would let me do that, just because if I do that, I have a chance
+of being able to win, oh, five or six turns from now, whereas if I don't you'll
+just beat the crap out of me."
+Problems
+
+The primary problem with this deck is that it is very difficult to get to the
+plots you need when you want them. You could try adding Crystal Skull,
+Rosicrucians, or the Shroud of Turin, but they don't really fit in the deck, and
+in my gaming group they're far too popular to be relied upon. Make the best of
+what you get, and try to use negotiation whenever your plot cards aren't what
+you need. The Savings & Loan Scams are there to provide you with a quick way to
+move through the plot deck, but you can't rely on them - you could conceivably
+go through an entire game without ever seeing them.
+
+Making Bermuda's special goal can be tough. All alignments are represented at
+least twice in this set of cards except Fanatic; Hackers are your only Fanatic
+group. The Frankenfood is provided to make up one missing alignment; this is
+especially useful to replace the Fanatic alignment if the Hackers are
+eliminated. The Nuclear Power Companies are in there just to provide a backup
+for Corporate and Conservative; since the deck is isolationist in nature, I
+recommend you not play them unless necessary. You have enough Computer defense
+cards that you should have a fairly easy time defending most of your groups,
+though. If you do lose a group that is vital to the Bermuda goal, complain
+loudly about how stupid you were to include so few
+Conservative/Peaceful/Corporate/Fanatic groups and now you'll never be able to
+win. (Be sure to include the part about how stupid you are. People seem more
+willing to believe it if you add that part. Or maybe that's just me...)
+Meanwhile, change your focus to another goal.
+
+If you end up playing against the Network, I suggest you get him or her on your
+side as early in the game as possible. Tell him/her that you've probably got a
+lot of duplicate cards but that if you work together you can probably share a
+victory. As a negotiating tactic, this has the advantage of being true: you can
+pull a Blinded by Science win with only two cards which are likely to stick in
+Network's craw, Phone Company and Phone Phreaks. You can even deal with this
+without giving away your secrets - offer to just hand him/her a computer group
+(or two, or three) at some later point in the game if s/he'll help you get the
+alignments you need to make up for it.
+Duplicates and Substitutions
+
+You'll no doubt notice that there are several duplicates in this deck. If you
+have two Blinded by Sciences, you should definitely use them both - losing one
+(or discarding it as a show of good faith) is then not so painful. With the
+exception of Computer Security, and Savings and Loan Scam, the duplicates are
+Common. You can substitute things in for any of them; the best bet is to put in
+other good defensive cards. Savings and Loan Scam is just there to help you get
+through your plots when you need to. You can certainly play this deck without
+it.
+
+Flesh Eating Bacteria is in there just as a particularly nice disaster - if
+you're lucky, it becomes reusable. However, you could substitute another
+disaster.
+
+Groups are harder to deal with. None of the resources are absolutely necessary
+(although I can't think of anything as effective as the Eliza/Black Helicopters
+combination), but the groups have to satisfy multiple constraints: they have to
+help you fill out alignments and help you towards 35 points of power for your
+Bermuda goal, help you towards your Network goal, and help you towards the
+Blinded by Science goal, and make it easier to take over more groups in the
+future and defend the groups you have. Nothing really satisfies all of those
+constraints, but do the best you can.
+Back to the Deck of the Week
+
+First posted: 4/1/97
+
+Last modified: 4/1/97
+Ralph Melton ralph@cs.cmu.edu

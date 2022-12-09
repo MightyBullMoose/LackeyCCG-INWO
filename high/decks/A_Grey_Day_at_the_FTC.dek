@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>Multinational Oil Companies</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Big Media</name><set>Limited</set></card>
+		<card><name>CFL-AIO</name><set>Limited</set></card>
+		<card><name>Cable TV</name><set>Limited</set></card>
+		<card><name>Fast Food Chains</name><set>Limited</set></card>
+		<card><name>Fnord Motor Company</name><set>Limited</set></card>
+		<card><name>Gay Activists</name><set>Limited</set></card>
+		<card><name>I.R.S.</name><set>Limited</set></card>
+		<card><name>Las Vegas</name><set>Limited</set></card>
+		<card><name>Liquor Companies</name><set>Limited</set></card>
+		<card><name>Madison Avenue</name><set>Limited</set></card>
+		<card><name>N.S.A.</name><set>Limited</set></card>
+		<card><name>Wall Street</name><set>Limited</set></card>
+		<card><name>Center for Weird Studies</name><set>Limited</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Orbital Mind Control Lasers</name><set>Limited</set></card>
+		<card><name>Perpetual Motion Machine</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>Power for its Own Sake</name><set>Limited</set></card>
+		<card><name>The Corporate Masters</name><set>Limited</set></card>
+		<card><name>Bavarian Illuminati</name><set>Limited</set></card>
+		<card><name>Tax Reform</name><set>Limited</set></card>
+		<card><name>Bigger Business</name><set>Limited</set></card>
+		<card><name>Military-Industrial Complex</name><set>Limited</set></card>
+		<card><name>Military-Industrial Complex</name><set>Limited</set></card>
+		<card><name>Censorship</name><set>Limited</set></card>
+		<card><name>Cover of Darkness</name><set>Limited</set></card>
+		<card><name>Cover-Up</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>March on Washington</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Stock Split</name><set>Limited</set></card>
+		<card><name>Sweeping Reforms</name><set>Limited</set></card>
+		<card><name>Unmasked!</name><set>Limited</set></card>
+		<card><name>Voodoo Economics</name><set>Limited</set></card>
+		<card><name>Apathy</name><set>Assassins</set></card>
+		<card><name>Anarchists Unite!</name><set>Assassins</set></card>
+		<card><name>Bait and Switch</name><set>Assassins</set></card>
+	</superzone>
+</deck>

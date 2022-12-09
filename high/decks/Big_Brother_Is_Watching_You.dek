@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Bill Clinton</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>B.A.T.F.</name><set>Limited</set></card>
+		<card><name>C.I.A.</name><set>Limited</set></card>
+		<card><name>F.B.I.</name><set>Limited</set></card>
+		<card><name>Federal Reserve</name><set>Limited</set></card>
+		<card><name>I.R.S.</name><set>Limited</set></card>
+		<card><name>KKK</name><set>Limited</set></card>
+		<card><name>Mossad</name><set>Limited</set></card>
+		<card><name>N.S.A.</name><set>Limited</set></card>
+		<card><name>Secret Service</name><set>Limited</set></card>
+		<card><name>The Men in Black</name><set>Limited</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Cyborg Soldiers</name><set>Limited</set></card>
+		<card><name>Orbital Mind Control Lasers</name><set>Limited</set></card>
+		<card><name>Perpetual Motion Machine</name><set>Limited</set></card>
+		<card><name>Suicide Squad</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Assertiveness Training</name><set>Limited</set></card>
+		<card><name>Bribery</name><set>Limited</set></card>
+		<card><name>Cover of Darkness</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Let's Get Organized</name><set>Limited</set></card>
+		<card><name>Market Manipulation</name><set>Limited</set></card>
+		<card><name>Mass Murder</name><set>Limited</set></card>
+		<card><name>Seize the Time!</name><set>Limited</set></card>
+		<card><name>Senate Investigating Committee</name><set>Limited</set></card>
+		<card><name>The Second Bullet</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Law and Order</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Law and Order</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+	</superzone>
+</deck>

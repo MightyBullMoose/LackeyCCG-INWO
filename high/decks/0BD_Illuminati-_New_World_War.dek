@@ -1,0 +1,280 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Adepts of Hermes</name><set>Limited</set></card>
+		<card><name>Bavarian Illuminati</name><set>Limited</set></card>
+		<card><name>Bermuda Triangle</name><set>Limited</set></card>
+		<card><name>Discordian Society</name><set>Limited</set></card>
+		<card><name>Gnomes of Zurich</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>The Network</name><set>Limited</set></card>
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>Society of Assassins</name><set>Assassins</set></card>
+		<card><name>Church of the SubGenius 1</name><set>Subgenius</set></card>
+		<card><name>Church of the SubGenius 2</name><set>Subgenius</set></card>
+		<card><name>Church of the SubGenius 3</name><set>Subgenius</set></card>
+		<card><name>Church of the SubGenius 4</name><set>Subgenius</set></card>
+		<card><name>World War 3</name><set>Limited</set></card>
+		<card><name>World War 3</name><set>Limited</set></card>
+		<card><name>World War 3</name><set>Limited</set></card>
+		<card><name>World War 3</name><set>Limited</set></card>
+		<card><name>World War 3</name><set>Limited</set></card>
+		<card><name>World War 3</name><set>Limited</set></card>
+		<card><name>World War 3</name><set>Limited</set></card>
+		<card><name>World War 3</name><set>Limited</set></card>
+		<card><name>World War 3</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Shared Groups">	
+		<card><name>Al Amarja</name><set>Assassins</set></card>
+		<card><name>Australia</name><set>Assassins</set></card>
+		<card><name>The Big Prawn</name><set>Assassins</set></card>
+		<card><name>Bill Clinton</name><set>Limited</set></card>
+		<card><name>Boy Sprouts</name><set>Limited</set></card>
+		<card><name>Brazil</name><set>Limited</set></card>
+		<card><name>C.I.A.</name><set>Limited</set></card>
+		<card><name>Canada</name><set>Limited</set></card>
+		<card><name>Center for Disease Control</name><set>Limited</set></card>
+		<card><name>China</name><set>Limited</set></card>
+		<card><name>Earthquake Projector</name><set>Limited</set></card>
+		<card><name>England</name><set>Limited</set></card>
+		<card><name>Federal Reserve</name><set>Limited</set></card>
+		<card><name>Fidel Castro</name><set>Limited</set></card>
+		<card><name>Finland</name><set>Limited</set></card>
+		<card><name>France</name><set>Limited</set></card>
+		<card><name>Germany</name><set>Limited</set></card>
+		<card><name>Helmut Kohl</name><set>0</set></card>
+		<card><name>Hidden City</name><set>Limited</set></card>
+		<card><name>The Holy Grail</name><set>Limited</set></card>
+		<card><name>International Cocaine Smugglers</name><set>Limited</set></card>
+		<card><name>International Communist Conspiracy</name><set>Limited</set></card>
+		<card><name>International Weather Organization</name><set>Limited</set></card>
+		<card><name>Israel</name><set>Limited</set></card>
+		<card><name>Italy</name><set>Limited</set></card>
+		<card><name>Japan</name><set>Limited</set></card>
+		<card><name>Killer Satellite</name><set>Assassins</set></card>
+		<card><name>Loch Ness Monster</name><set>Limited</set></card>
+		<card><name>The Mafia</name><set>Limited</set></card>
+		<card><name>Manuel Noriega</name><set>Limited</set></card>
+		<card><name>Margaret Thatcher</name><set>Limited</set></card>
+		<card><name>MI-5</name><set>Limited</set></card>
+		<card><name>Midas Mill</name><set>Limited</set></card>
+		<card><name>Multinational Oil Companies</name><set>Limited</set></card>
+		<card><name>NATO</name><set>Limited</set></card>
+		<card><name>Offshore Banks</name><set>Limited</set></card>
+		<card><name>Orbital Mind Control Lasers</name><set>Limited</set></card>
+		<card><name>Power Satellite</name><set>Assassins</set></card>
+		<card><name>Red Cross</name><set>Limited</set></card>
+		<card><name>Rogue Boomer</name><set>Limited</set></card>
+		<card><name>Russia</name><set>Limited</set></card>
+		<card><name>Saddam Hussein</name><set>Limited</set></card>
+		<card><name>Spy Satellite</name><set>Assassins</set></card>
+		<card><name>Switzerland</name><set>Limited</set></card>
+		<card><name>United Nations</name><set>Limited</set></card>
+		<card><name>USA</name><set>0</set></card>
+		<card><name>Vatican City</name><set>Limited</set></card>
+		<card><name>Vladimir Zhirinovsky</name><set>Assassins</set></card>
+		<card><name>W.I.T.C.H.</name><set>Limited</set></card>
+		<card><name>Weather Satellite</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Shared Plots">	
+		<card><name>World War 3</name><set>Limited</set></card>
+		<card><name>World War 3</name><set>Limited</set></card>
+		<card><name>Hit and Run</name><set>Limited</set></card>
+		<card><name>Sniper</name><set>Limited</set></card>
+		<card><name>Atomic Monster</name><set>Limited</set></card>
+		<card><name>Earthquake</name><set>Limited</set></card>
+		<card><name>Epidemic</name><set>Limited</set></card>
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Hurricane</name><set>Limited</set></card>
+		<card><name>Meteor Strike</name><set>Limited</set></card>
+		<card><name>Nuclear Accident</name><set>Limited</set></card>
+		<card><name>Rain of Frogs</name><set>Limited</set></card>
+		<card><name>The Oregon Crud</name><set>Limited</set></card>
+		<card><name>Tidal Wave</name><set>Limited</set></card>
+		<card><name>Tornado</name><set>Limited</set></card>
+		<card><name>Volcano</name><set>Limited</set></card>
+		<card><name>Fratricide</name><set>Limited</set></card>
+		<card><name>Kill For Peace!</name><set>Limited</set></card>
+		<card><name>Let Them Eat Cake!</name><set>Limited</set></card>
+		<card><name>Power For Its Own Sake</name><set>Limited</set></card>
+		<card><name>Power To The People</name><set>Limited</set></card>
+		<card><name>The Hand of Madness</name><set>Limited</set></card>
+		<card><name>Up Against The Wall!</name><set>Limited</set></card>
+		<card><name>A Thousand Points of Light</name><set>Limited</set></card>
+		<card><name>Chicken In Every Pot</name><set>Limited</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>World Hunger</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Peace In Our Time</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Solidarity</name><set>Limited</set></card>
+		<card><name>Don't Forget To Smash The State</name><set>Limited</set></card>
+		<card><name>Law and Order</name><set>Limited</set></card>
+		<card><name>18 1/2-Minute Gap</name><set>Limited</set></card>
+		<card><name>Agent In Place</name><set>Limited</set></card>
+		<card><name>Alternate Goals</name><set>Limited</set></card>
+		<card><name>Annual Convention</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Assertiveness Training</name><set>Limited</set></card>
+		<card><name>Backlash</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Blitzkrieg</name><set>Limited</set></card>
+		<card><name>Bodyguard</name><set>Limited</set></card>
+		<card><name>Botched Contact</name><set>Limited</set></card>
+		<card><name>Bribery</name><set>Limited</set></card>
+		<card><name>Celebrity Spokesman</name><set>Limited</set></card>
+		<card><name>Citizenship Award</name><set>Limited</set></card>
+		<card><name>Clone</name><set>Limited</set></card>
+		<card><name>Combined Disasters</name><set>Limited</set></card>
+		<card><name>Commitment</name><set>Limited</set></card>
+		<card><name>Corruption</name><set>Limited</set></card>
+		<card><name>Counter-Revolution</name><set>Limited</set></card>
+		<card><name>Cover of Darkness</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Deasil Engine</name><set>Limited</set></card>
+		<card><name>Deep Agent</name><set>Limited</set></card>
+		<card><name>Dictatorship</name><set>Limited</set></card>
+		<card><name>Dollars for Decency</name><set>Limited</set></card>
+		<card><name>Double-Cross</name><set>Limited</set></card>
+		<card><name>Early Warning</name><set>Limited</set></card>
+		<card><name>Embezzlement</name><set>Limited</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>Faction Fight</name><set>Limited</set></card>
+		<card><name>Flower Power</name><set>Limited</set></card>
+		<card><name>Fnord!</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Fundie Money</name><set>Limited</set></card>
+		<card><name>George the Janitor</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Grassroots Support</name><set>Limited</set></card>
+		<card><name>Gremlins</name><set>Limited</set></card>
+		<card><name>Hat Trick</name><set>Limited</set></card>
+		<card><name>Head In A Jar</name><set>Limited</set></card>
+		<card><name>Hidden Influence</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>I Lied</name><set>Limited</set></card>
+		<card><name>Impostor</name><set>Limited</set></card>
+		<card><name>Interference</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Ketchup Is A Vegetable</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>Let's Get Organized</name><set>Limited</set></card>
+		<card><name>Let's Get REALLY Organized</name><set>Limited</set></card>
+		<card><name>Let's You and Him Fight</name><set>Limited</set></card>
+		<card><name>Liberal Agenda</name><set>Limited</set></card>
+		<card><name>Logic Bomb</name><set>Limited</set></card>
+		<card><name>March On Washington</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Media Blitz</name><set>Limited</set></card>
+		<card><name>Messiah</name><set>Limited</set></card>
+		<card><name>Mistaken Identity</name><set>Limited</set></card>
+		<card><name>Mothers' March</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Mutual Betrayal</name><set>Limited</set></card>
+		<card><name>Nationalization</name><set>Limited</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>New Federal Budget</name><set>Limited</set></card>
+		<card><name>Nice Idea. It's Mine Now.</name><set>Limited</set></card>
+		<card><name>Nobel Peace Prize</name><set>Limited</set></card>
+		<card><name>Opportunity Knocks</name><set>Limited</set></card>
+		<card><name>Payoff</name><set>Limited</set></card>
+		<card><name>Pledge Drive</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Privileged Attack</name><set>Limited</set></card>
+		<card><name>Purge</name><set>Limited</set></card>
+		<card><name>Reach Out . . .</name><set>Limited</set></card>
+		<card><name>Read My Lips</name><set>Limited</set></card>
+		<card><name>Red Scare</name><set>Limited</set></card>
+		<card><name>Reload!</name><set>Limited</set></card>
+		<card><name>Reorganization</name><set>Limited</set></card>
+		<card><name>Revolution!</name><set>Limited</set></card>
+		<card><name>Sabotage</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Seize The Time!</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+		<card><name>Senate Investigating Committee</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Spasm of Violence</name><set>Limited</set></card>
+		<card><name>Stealing The Plans</name><set>Limited</set></card>
+		<card><name>Straighten Up</name><set>Limited</set></card>
+		<card><name>Sucked Dry And Cast Aside!</name><set>Limited</set></card>
+		<card><name>Sweepstakes Prize</name><set>Limited</set></card>
+		<card><name>Swiss Bank Account</name><set>Limited</set></card>
+		<card><name>Talisman of Ahrimanes</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>The Big Sellout</name><set>Limited</set></card>
+		<card><name>The Second Bullet</name><set>Limited</set></card>
+		<card><name>The Weak Link</name><set>Limited</set></card>
+		<card><name>Time Warp</name><set>Limited</set></card>
+		<card><name>Unmasked!</name><set>Limited</set></card>
+		<card><name>Upheaval!</name><set>Limited</set></card>
+		<card><name>Volunteer Aid</name><set>Limited</set></card>
+		<card><name>Voodoo Economics</name><set>Limited</set></card>
+		<card><name>Vultures</name><set>Limited</set></card>
+		<card><name>World Cup Victory</name><set>Limited</set></card>
+		<card><name>Spontaneous Combustion</name><set>Assassins</set></card>
+		<card><name>Drought</name><set>Assassins</set></card>
+		<card><name>Flesh-Eating Bacteria</name><set>Assassins</set></card>
+		<card><name>No Beer!</name><set>Assassins</set></card>
+		<card><name>Oil Spill</name><set>Assassins</set></card>
+		<card><name>Population Reduction</name><set>Assassins</set></card>
+		<card><name>Society of Assassins</name><set>Assassins</set></card>
+		<card><name>Global Warming</name><set>Assassins</set></card>
+		<card><name>Interesting Times</name><set>Assassins</set></card>
+		<card><name>Apathy</name><set>Assassins</set></card>
+		<card><name>Australian Rules</name><set>Assassins</set></card>
+		<card><name>End of the World</name><set>Assassins</set></card>
+		<card><name>A Brief Attack of Conscience</name><set>Assassins</set></card>
+		<card><name>Alien Abduction</name><set>Assassins</set></card>
+		<card><name>Anarchists Unite!</name><set>Assassins</set></card>
+		<card><name>Anything Worth Doing Is Worth Overdoing</name><set>Assassins</set></card>
+		<card><name>Back to the Drawing Board</name><set>Assassins</set></card>
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Beach Party</name><set>Assassins</set></card>
+		<card><name>Brushfire War</name><set>Assassins</set></card>
+		<card><name>Cat Juggling</name><set>Assassins</set></card>
+		<card><name>Chain Letter</name><set>Assassins</set></card>
+		<card><name>Contract on America</name><set>Assassins</set></card>
+		<card><name>Enough is Enough</name><set>Assassins</set></card>
+		<card><name>Every Year is Worse</name><set>Assassins</set></card>
+		<card><name>Fickle Finger of Fate</name><set>Assassins</set></card>
+		<card><name>Five-Year Plan</name><set>Assassins</set></card>
+		<card><name>Go, Lemmings, Go!</name><set>Assassins</set></card>
+		<card><name>Hubble Trouble</name><set>Assassins</set></card>
+		<card><name>Lab Explosion</name><set>Assassins</set></card>
+		<card><name>May Day</name><set>Assassins</set></card>
+		<card><name>My Karma Ran Over Your Dogma</name><set>Assassins</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+		<card><name>Reverse Whammy</name><set>Assassins</set></card>
+		<card><name>School Prayer</name><set>Assassins</set></card>
+		<card><name>Secret Master</name><set>Assassins</set></card>
+		<card><name>Security Leak</name><set>Assassins</set></card>
+		<card><name>Sorry, Wrong Number</name><set>Assassins</set></card>
+		<card><name>Strange Bedfellows</name><set>Assassins</set></card>
+		<card><name>Sudden European Vacation</name><set>Assassins</set></card>
+		<card><name>Supreme Court Nomination</name><set>Assassins</set></card>
+		<card><name>TANSTAAFL</name><set>Assassins</set></card>
+		<card><name>The Irish Flu</name><set>Assassins</set></card>
+		<card><name>The Meek Shall Inherit</name><set>Assassins</set></card>
+		<card><name>This Was Only A Test</name><set>Assassins</set></card>
+		<card><name>Truck Bomb</name><set>Assassins</set></card>
+		<card><name>Waiting Period</name><set>Assassins</set></card>
+		<card><name>Whistle Blowers</name><set>Assassins</set></card>
+		<card><name>You Are What You Eat</name><set>Assassins</set></card>
+		<card><name>Miraculous Manifestation</name><set>Subgenius</set></card>
+		<card><name>Rant!</name><set>Subgenius</set></card>
+		<card><name>The 13th Apostle</name><set>Subgenius</set></card>
+		<card><name>Time Control</name><set>Subgenius</set></card>
+		<card><name>Official, all Inclusive, Divine Excuse</name><set>Subgenius</set></card>
+		<card><name>War Crimes Trials</name><set>Virtual</set></card>
+		<card><name>Isolationism</name><set>Virtual</set></card>
+		<card><name>Summit</name><set>Virtual</set></card>
+		<card><name>Foreign Aid</name><set>Virtual</set></card>
+		<card><name>Nuclear Capability</name><set>Virtual</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Society of Assassins</name><set>Assassins</set></card>
+		<card><name>S.L.A.K.</name><set>Subgenius</set></card>
+		<card><name>www.subgenius.com</name><set>Subgenius</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Bobbies</name><set>Subgenius</set></card>
+		<card><name>Church of Violentology</name><set>Assassins</set></card>
+		<card><name>Citizens for Normalcy</name><set>Subgenius</set></card>
+		<card><name>Connie Dobbs</name><set>Subgenius</set></card>
+		<card><name>False Prophets</name><set>Subgenius</set></card>
+		<card><name>Glorps</name><set>Subgenius</set></card>
+		<card><name>Moral Minority</name><set>Limited</set></card>
+		<card><name>Professional Sports</name><set>Limited</set></card>
+		<card><name>Reformed Church of Satan</name><set>Limited</set></card>
+		<card><name>Secret FisTemple</name><set>Subgenius</set></card>
+		<card><name>Speakers in Tongues</name><set>Subgenius</set></card>
+		<card><name>TV Preachers</name><set>Limited</set></card>
+		<card><name>Cyborg Soldiers</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Charismatic Leader</name><set>Limited</set></card>
+		<card><name>Deasil Engine</name><set>Limited</set></card>
+		<card><name>Full Moon</name><set>Limited</set></card>
+		<card><name>Full Moon</name><set>Limited</set></card>
+		<card><name>Full Moon</name><set>Limited</set></card>
+		<card><name>Grassroots Support</name><set>Limited</set></card>
+		<card><name>Hat Trick</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Jihad</name><set>Limited</set></card>
+		<card><name>Jihad</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Messiah</name><set>Limited</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Australian Rules</name><set>Assassins</set></card>
+		<card><name>Australian Rules</name><set>Assassins</set></card>
+		<card><name>End of the World</name><set>Assassins</set></card>
+		<card><name>End of the World</name><set>Assassins</set></card>
+		<card><name>End of the World</name><set>Assassins</set></card>
+		<card><name>Crusade</name><set>Assassins</set></card>
+		<card><name>Science Cannot Remove The Terror Of The Gods!</name><set>Subgenius</set></card>
+		<card><name>13013</name><set>Subgenius</set></card>
+		<card><name>Comet Hail-Bob</name><set>Subgenius</set></card>
+		<card><name>Eternal Salvation or Triple Your Money Back</name><set>Subgenius</set></card>
+		<card><name>Kill "Bob"!</name><set>Subgenius</set></card>
+		<card><name>More Slack</name><set>Subgenius</set></card>
+		<card><name>Tape Runs Out...</name><set>Subgenius</set></card>
+		<card><name>The World Ends Tomorrow and YOU MAY DIE!</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

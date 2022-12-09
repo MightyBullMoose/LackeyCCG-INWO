@@ -1,0 +1,55 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>Al Gore</name><set>Limited</set></card>
+		<card><name>The Green Party</name><set>Assassins</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Druids</name><set>Limited</set></card>
+		<card><name>Eco-Guerrillas</name><set>Limited</set></card>
+		<card><name>EPA</name><set>Assassins</set></card>
+		<card><name>Fred Birch Society</name><set>Limited</set></card>
+		<card><name>International Weather Organization</name><set>Limited</set></card>
+		<card><name>Nutrition Nazis</name><set>Assassins</set></card>
+		<card><name>Phone Phreaks</name><set>Limited</set></card>
+		<card><name>Science Alarmists</name><set>Assassins</set></card>
+		<card><name>Triliberal Commission</name><set>Limited</set></card>
+		<card><name>The Library at Alexandria</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>Power to the People</name><set>Limited</set></card>
+		<card><name>Power to the People</name><set>Limited</set></card>
+		<card><name>The Network</name><set>Limited</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Cold Fusion</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Rewriting History</name><set>Limited</set></card>
+		<card><name>Save The Whales</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Unmasked!</name><set>Limited</set></card>
+		<card><name>Oil Spill</name><set>Assassins</set></card>
+		<card><name>Blinded by Science</name><set>Assassins</set></card>
+		<card><name>Blinded by Science</name><set>Assassins</set></card>
+		<card><name>Earth First!</name><set>Assassins</set></card>
+		<card><name>Watermelons</name><set>Assassins</set></card>
+		<card><name>Apathy</name><set>Assassins</set></card>
+		<card><name>Antitrust Legislation</name><set>Assassins</set></card>
+		<card><name>Reverse Whammy</name><set>Assassins</set></card>
+		<card><name>Sorry, Wrong Number</name><set>Assassins</set></card>
+		<card><name>Sufficiently Advanced Technology</name><set>Assassins</set></card>
+		<card><name>Sufficiently Advanced Technology</name><set>Assassins</set></card>
+	</superzone>
+</deck>

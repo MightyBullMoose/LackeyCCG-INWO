@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>I.R.S.</name><set>Limited</set></card>
+		<card><name>Vatican City</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>A.M.A.</name><set>Limited</set></card>
+		<card><name>Angel's Feather</name><set>Limited</set></card>
+		<card><name>Center for Weird Studies</name><set>Limited</set></card>
+		<card><name>Clone Arrangers</name><set>Limited</set></card>
+		<card><name>Gay Activists</name><set>Limited</set></card>
+		<card><name>International Cocaine Smugglers</name><set>Limited</set></card>
+		<card><name>Japan</name><set>Limited</set></card>
+		<card><name>Lawyers</name><set>Limited</set></card>
+		<card><name>Loan Sharks</name><set>Limited</set></card>
+		<card><name>Manuel Noriega</name><set>Limited</set></card>
+		<card><name>New York</name><set>Limited</set></card>
+		<card><name>Telephone Psychics</name><set>Limited</set></card>
+		<card><name>Xanadu</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Assertiveness Training</name><set>Limited</set></card>
+		<card><name>Backlash</name><set>Limited</set></card>
+		<card><name>Commitment</name><set>Limited</set></card>
+		<card><name>Criminal Overlords</name><set>Limited</set></card>
+		<card><name>Criminal Overlords</name><set>Limited</set></card>
+		<card><name>Fnord!</name><set>Limited</set></card>
+		<card><name>Gang War</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>March on Washington</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Mob Influence</name><set>Limited</set></card>
+		<card><name>Mothers' March</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Nobel Peace Prize</name><set>Limited</set></card>
+		<card><name>Peace in Our Time</name><set>Limited</set></card>
+		<card><name>Peace in Our Time</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Seize the Time!</name><set>Limited</set></card>
+		<card><name>Stealing the Plans</name><set>Limited</set></card>
+		<card><name>Stealing the Plans</name><set>Limited</set></card>
+		<card><name>Swiss Bank Account</name><set>Limited</set></card>
+		<card><name>Tax Reform</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+	</superzone>
+</deck>

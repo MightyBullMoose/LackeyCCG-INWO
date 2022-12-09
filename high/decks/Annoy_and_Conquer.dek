@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Discordian Society</name><set>Limited</set></card>
+		<card><name>Clone Arrangers</name><set>Limited</set></card>
+		<card><name>Fraternal Orders</name><set>Limited</set></card>
+		<card><name>Loan Sharks</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Day Care Centers</name><set>Assassins</set></card>
+		<card><name>Gun Lobby</name><set>Limited</set></card>
+		<card><name>International Cocaine Smugglers</name><set>Limited</set></card>
+		<card><name>International Communist Conspiracy</name><set>Limited</set></card>
+		<card><name>KKK</name><set>Limited</set></card>
+		<card><name>Lawyers</name><set>Limited</set></card>
+		<card><name>Nephews of God</name><set>Limited</set></card>
+		<card><name>Offshore Banks</name><set>Limited</set></card>
+		<card><name>Vladimir Zhirinovsky</name><set>Assassins</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Criminal Overlords</name><set>Limited</set></card>
+		<card><name>Criminal Overlords</name><set>Limited</set></card>
+		<card><name>Energy Crisis</name><set>Limited</set></card>
+		<card><name>World Hunger</name><set>Limited</set></card>
+		<card><name>World Hunger</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Don't Forget to Smash the State</name><set>Limited</set></card>
+		<card><name>Don't Forget to Smash the State</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+		<card><name>Apathy</name><set>Assassins</set></card>
+		<card><name>The Magic Goes Away</name><set>Assassins</set></card>
+		<card><name>The Magic Goes Away</name><set>Assassins</set></card>
+		<card><name>End of the World</name><set>Assassins</set></card>
+		<card><name>End of the World</name><set>Assassins</set></card>
+		<card><name>Visualize Whirled Peas</name><set>Assassins</set></card>
+		<card><name>Go Fish</name><set>Assassins</set></card>
+		<card><name>Sorry, Wrong Number</name><set>Assassins</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>Rosicrucians</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Arms Dealers</name><set>Assassins</set></card>
+		<card><name>Bank of England</name><set>Limited</set></card>
+		<card><name>Cattle Mutilators</name><set>Limited</set></card>
+		<card><name>I.R.S.</name><set>Limited</set></card>
+		<card><name>The Great Pyramid</name><set>Limited</set></card>
+		<card><name>N.S.A.</name><set>Limited</set></card>
+		<card><name>Book of Kells</name><set>Limited</set></card>
+		<card><name>Mob Influence</name><set>Limited</set></card>
+		<card><name>Power For Its Own Sake</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>An Offer You Can't Refuse</name><set>Limited</set></card>
+		<card><name>Backlash</name><set>Limited</set></card>
+		<card><name>Bribery</name><set>Limited</set></card>
+		<card><name>Cover-Up</name><set>Limited</set></card>
+		<card><name>Embezzlement</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Harmonica Virgins</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Mutual Betrayal</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Seize the Time!</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>The Auditor From Hell</name><set>Limited</set></card>
+		<card><name>The Auditor From Hell</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+		<card><name>Apathy</name><set>Assassins</set></card>
+		<card><name>Apathy</name><set>Assassins</set></card>
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Go Fish</name><set>Assassins</set></card>
+		<card><name>Pizza for the Secret Meeting</name><set>Assassins</set></card>
+		<card><name>Sorry, Wrong Number</name><set>Assassins</set></card>
+		<card><name>Manuel Noriega</name><set>Limited</set></card>
+		<card><name>New York</name><set>Limited</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Cyborg Soldiers</name><set>Limited</set></card>
+	</superzone>
+</deck>

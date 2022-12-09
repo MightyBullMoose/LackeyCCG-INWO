@@ -1,0 +1,249 @@
+Something For Everyone
+by Steve Brinich
+
+
+OK, here's another attempt at creating a useful tool for brainwashing, er,
+recruiting INWO players.
+
+Theme
+This is a One Moderate-Sized Deck desinged to be balanced for any of the
+Illuminati.
+
+This deck is designed for play using INWO SubGenius rules.
+
+Card Selection Notes
+This deck can be built out of one INWO OWE set plus one SubGenius set. Groups
+are selected to include a wide cross-section of alignments (ranging from 8
+Fanatic groups to 11.5 Liberal groups) and attributes, particularly the
+attributes relevant to specific Illuminati (Computer, Secret, and SubGenius).
+
+Plots are selected to include all the available +10s, all the available
+alignment-changers, and a cross-section of other useful Plots. For simplicity,
+Assassinations and Disasters have been omitted.
+
+Illuminati
+Adepts of Hermes
+This deck has 5 Magic Resources and 5 Magic Groups.
+
+Under SubGenius rules, there are normally no Group hands. In order to use their
+special ability, the Adepts are an exception -- they have a Group hand, and if
+they attempt to take over a Group from their hand and fail, the Group returns to
+their hand. (If they fail to take over a Group from the uncontrolled area, it
+remains in the uncontrolled area, as usual.)
+
+To prevent this Group hand from becoming unwieldy, and to limit the Adepts'
+ability to keep certain Groups out of circulation, this Group hand is limited to
+5 cards, just like the Plot hand. The Adepts may have more than 5 Group cards in
+hand during their turn, but if they exceed this limit when it is not their turn
+they must immediately place the excess Group cards into the uncontrolled area
+(they may *not* discard them).
+
+Bavarian Illumianti
+This deck includes plenty of heavy hitters (13 Groups with printed Power 5 or
+better). OTOH, you'll have to fight for them (especially the ones that count
+double for somebody else), and many of them are Straight or Government (and so
+cannot be used against Discordia). Your privileged attack ability is powerful,
+but can be overcome by Deep Agent, Frog God, Interference, or The Moonies.
+
+Bermuda Triangle
+This deck includes a good mix of alignments (the rarest, Fanatic, appears 8
+times) and moderate-to-high power Groups.
+
+Church of the Subgenius
+This deck includes 6 SubGenius Groups. The SubGenius ability to accumulate Slack
+(Illuminati actions) and count up to three Slack as Groups is useful, but watch
+out for . . . Or Kill Me!
+
+Discordian Society
+This deck includes 11 Weird Groups (3 of them count double for you). You are
+immune to most (but not all) of the powerful Groups in this deck. Watch out for
+Gordo Remora and the Good Sex For Mutants Dating League.
+
+If the high-power Weird Groups don't come out, you'll need the right Plots
+(Attitude Mutation, Jake Day, The Weird Turn Pro) or The Gay Activists (there
+are many powerful Straight groups in this deck -- but The Gay Activists will be
+targeted about as intensely as the I.R.S. or Nuclear Power Companies).
+
+Gnomes of Zurich
+This deck includes 10 Corporate Groups and 5 Banks (7 of them count double for
+you). OTOH, there are many powerful Government groups that can destroy your
+Corporate Groups, and the CFL-AIO in enemy hands can ruin your whole day.
+
+The Network
+This deck includes 8 Computer groups (5 of them count double for you). Drawing
+two Plot cards per turn is especially useful in a One Big Deck game. OTOH,
+you're likely to be in trouble if somebody else gets Japan or the Phone Phreaks.
+
+Servants of Cthulhu
+This deck includes a wide range of Groups with assorted bonuses to destroy
+things. The Men In Black and Advanced... Nazi Hell Creatures... are the most
+generally useful, but try to get a variety of other more specialized ones as
+well.
+
+Shangri-La
+This deck includes 9 Peaceful Groups with 24 total Power. Shangri-La's special
+goal is reduced to 20 Peaceful Power in play (i.e. in somebody's Power
+Structure), which will probably require hanging on until most of the Groups deck
+is played, drawing the right Plots (Attitude Mutation, Nobel Peace Prize, or
+Kinder and Gentler), or getting The Gay Activists (*keeping* them, even with
+your defensive bonus, is another matter). Alternatively, you can simply turtle,
+take your groups where you can get them, and go for a regular victory.
+
+Society of Assassins
+This deck includes 5 Secret Groups and 8 Fanatic groups. The Fanatic groups are
+mostly weak, but the Libertarians and Moral Minority have the potential to
+become quite powerful.
+
+Note that Secrecy does not have its usual effects under SubGenius rules – it
+only matters in determining which groups count double for the SoA and for
+special abilities that mention Secret groups (e.g. Junk Mail).
+
+UFOs
+This deck doesn't use Goal cards. Instead, the UFOs secretly select the Goal of
+one other Illuminati, and reveal it when they declare victory. If the victory
+attempt fails, the Goal remains in effect (though now everybody knows what it
+is).
+
+The Deck (130 cards)
+The cards in the deck are listed below. Listings with an asterisk have
+modifications listed under "Card Notes".
+
+Groups (60)
+Advanced Supersonic Aluminum Nazi Hell Creatures...
+AMA
+Antinuclear Activists
+Antiwar Activists
+BATF
+Big Media
+Bill Clinton
+Cable TV
+California
+Canada
+CFL-AIO
+Citizens For Normalcy
+Clone Arrangers
+Congressional Wives
+Democrats
+Divine Mail Order
+Dokstok
+Druids
+EFF
+England
+FBI
+Federal Reserve
+Fiendish Flouridators
+Fnord Motor Company
+'Frop Farm
+Gay Activists
+Good Sex For Mutants Dating League
+Gordo Remora
+Gun Lobby
+Hackers
+IRS*
+Japan
+Junk Mail
+Libertarians
+Liquor Companies
+Local Police Departments
+Mafia
+The Men In Black
+Moonies
+Moral Minority
+New York
+Nuclear Power Companies
+Offshore Banks
+Pentagon
+Phone Company
+Phone Phreaks
+Reformed Church of Satan
+Republicans
+Savings & Loans
+Science Fiction Fans
+Silicon Valley
+SPUTUM
+St. Janor Hypercleats
+Stonehenge
+Texas
+Tobacco Companies
+Vatican City
+Wall Street
+WITCH
+www.subgenius.com
+RESOURCES (5)
+Book Of Kells
+Frog God
+Hammer of Thor
+Necronomicon
+Spear of Longinus
+Plots (65)
+Agent In Place
+Albino Alligators
+Assertiveness Training
+Attitude Mutation
+Backlash
+Benefit Concert
+The Big Score
+Bulldada
+Charismatic Leader
+Citizenship Award
+Cold Fusion
+Commitment*
+Deep Agent
+Devival
+Emergency Powers
+Fake Healing
+Fundie Money
+Give Me Slack, Or Give Me Food
+Good Polls
+Grassroots Support
+Harmonica Virgins
+Hat Trick
+Infobahn
+Interference
+Jake Day
+Jihad
+Just Say No
+Kinder And Gentler
+Let's Get Organized
+Let's Get REALLY Organized
+Liberal Agenda
+Luck Plane
+Martial Law
+Martyrs
+Miraculous Manifestation
+Mob Influence
+Monopoly
+Nationalization
+New Blood
+Nobel Peace Prize
+...Or Kill Me!
+Power Corrupts
+Privatization
+Privileged Attack
+Pulitzer Prize
+Rain of Prairie Squid
+Repent!
+Save The Whales
+Savings & Loan Scam
+Schizm
+The Second Bullet
+Self-Esteem
+Shordurpersav
+Slush Fund
+Smite Them All!
+Stealing The Plans
+Stock Split
+Straighten Up
+Swiss Bank Account
+Tape Runs Out...
+Terrorist Nuke
+Time Control
+The Weird Turn Pro
+The World Ends Tomorrow And You May Die!
+You'd PAY To Know What You REALLY Think!
+Card Notes:
+IRS: You collect a card from a rival's Plot hand. He chooses which one to give
+you.
+
+Commitment: You may play Commitment on a Group in the uncontrolled
+area.

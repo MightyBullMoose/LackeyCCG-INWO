@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Bavarian Illuminati</name><set>Limited</set></card>
+		<card><name>Bill Clinton</name><set>Limited</set></card>
+		<card><name>Connie Dobbs</name><set>Subgenius</set></card>
+		<card><name>Genschman</name><set>German</set></card>
+		<card><name>Reverend Ivan Stang</name><set>Subgenius</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Gordo Remora</name><set>Limited</set></card>
+		<card><name>Lyndon LaRouche</name><set>Assassins</set></card>
+		<card><name>NHGH</name><set>Subgenius</set></card>
+		<card><name>Overman Philo Drummond</name><set>Subgenius</set></card>
+		<card><name>Secret FisTemple</name><set>Subgenius</set></card>
+		<card><name>Showmaster</name><set>German</set></card>
+		<card><name>Janor Device</name><set>Subgenius</set></card>
+		<card><name>Martyr Meter</name><set>Subgenius</set></card>
+		<card><name>Sacred Stencil</name><set>Subgenius</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>Atomic Monster</name><set>Limited</set></card>
+		<card><name>Law and Order</name><set>Limited</set></card>
+		<card><name>Blood, Toil, Tears and Sweat</name><set>Limited</set></card>
+		<card><name>Blood, Toil, Tears and Sweat</name><set>Limited</set></card>
+		<card><name>Censorship</name><set>Limited</set></card>
+		<card><name>Grassroots Support</name><set>Limited</set></card>
+		<card><name>Hidden Influence</name><set>Limited</set></card>
+		<card><name>Jake Day</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Media Connections</name><set>Limited</set></card>
+		<card><name>Messiah</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Pulitzer Prize</name><set>Limited</set></card>
+		<card><name>Rewriting History</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Scandal</name><set>Limited</set></card>
+		<card><name>Secrets Man was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+		<card><name>Interesting Times</name><set>Assassins</set></card>
+		<card><name>Supreme Court Nomination</name><set>Assassins</set></card>
+		<card><name>The Anti"Bob"</name><set>Subgenius</set></card>
+		<card><name>13013</name><set>Subgenius</set></card>
+		<card><name>Decency is OK!</name><set>Subgenius</set></card>
+		<card><name>Devival</name><set>Subgenius</set></card>
+		<card><name>Eternal Salvation or Triple Your Money Back</name><set>Subgenius</set></card>
+		<card><name>Official, all Inclusive, Divine Excuse</name><set>Subgenius</set></card>
+		<card><name>Official, all Inclusive, Divine Excuse</name><set>Subgenius</set></card>
+		<card><name>Overman</name><set>Subgenius</set></card>
+		<card><name>Rant!</name><set>Subgenius</set></card>
+		<card><name>Shordurpersav</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

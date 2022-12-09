@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>Cattle Mutilators</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Arms Dealers</name><set>Assassins</set></card>
+		<card><name>Brazil</name><set>Limited</set></card>
+		<card><name>China</name><set>Limited</set></card>
+		<card><name>Copy Shops</name><set>Assassins</set></card>
+		<card><name>N.S.A.</name><set>Limited</set></card>
+		<card><name>Nuclear Power Companies</name><set>Limited</set></card>
+		<card><name>Recycling Centers</name><set>Assassins</set></card>
+		<card><name>Society for Creative Anarchism</name><set>Limited</set></card>
+		<card><name>Center for Weird Studies</name><set>Limited</set></card>
+		<card><name>Orbital Mind Control Lasers</name><set>Limited</set></card>
+		<card><name>Perpetual Motion Machine</name><set>Limited</set></card>
+		<card><name>Shroud of Turin</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Criminal Overlords</name><set>Limited</set></card>
+		<card><name>The Corporate Masters</name><set>Limited</set></card>
+		<card><name>18 1/2-Minute Gap</name><set>Limited</set></card>
+		<card><name>Embezzlement</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Let's You and Him Fight</name><set>Limited</set></card>
+		<card><name>March on Washington</name><set>Limited</set></card>
+		<card><name>March on Washington</name><set>Limited</set></card>
+		<card><name>March on Washington</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Sabotage</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>The Internet Worm</name><set>Limited</set></card>
+		<card><name>The Internet Worm</name><set>Limited</set></card>
+		<card><name>Voodoo Economics</name><set>Limited</set></card>
+		<card><name>Apathy</name><set>Assassins</set></card>
+		<card><name>Back to the Drawing Board</name><set>Assassins</set></card>
+		<card><name>Back to the Drawing Board</name><set>Assassins</set></card>
+		<card><name>Go Fish</name><set>Assassins</set></card>
+		<card><name>Go Fish</name><set>Assassins</set></card>
+		<card><name>Go, Lemmings, Go!</name><set>Assassins</set></card>
+		<card><name>Nevermore!</name><set>Assassins</set></card>
+		<card><name>Nevermore!</name><set>Assassins</set></card>
+		<card><name>Nevermore!</name><set>Assassins</set></card>
+		<card><name>Security Leak</name><set>Assassins</set></card>
+		<card><name>Security Leak</name><set>Assassins</set></card>
+	</superzone>
+</deck>

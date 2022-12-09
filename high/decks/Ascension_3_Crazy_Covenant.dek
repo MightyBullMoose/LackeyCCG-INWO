@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Ninjas</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Gun Lobby</name><set>Limited</set></card>
+		<card><name>Israel</name><set>Limited</set></card>
+		<card><name>Manuel Noriega</name><set>Limited</set></card>
+		<card><name>Mossad</name><set>Limited</set></card>
+		<card><name>New York</name><set>Limited</set></card>
+		<card><name>Saddam Hussein</name><set>Limited</set></card>
+		<card><name>Semiconscious Liberation army</name><set>Limited</set></card>
+		<card><name>Society for Creative Anarchism</name><set>Limited</set></card>
+		<card><name>The Mafia</name><set>Limited</set></card>
+		<card><name>W.I.T.C.H.</name><set>Limited</set></card>
+		<card><name>Ark of the Covenant</name><set>Limited</set></card>
+		<card><name>Book of Kells</name><set>Limited</set></card>
+		<card><name>Necronomicon</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Air Magic</name><set>Limited</set></card>
+		<card><name>Albino Alligators</name><set>Limited</set></card>
+		<card><name>Annual Convention</name><set>Limited</set></card>
+		<card><name>Backlash</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Dictatorship</name><set>Limited</set></card>
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Harmonica Virgins</name><set>Limited</set></card>
+		<card><name>Head in a Jar</name><set>Limited</set></card>
+		<card><name>Ketchup is a Vegetable</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>Market Manipulation</name><set>Limited</set></card>
+		<card><name>Messiah</name><set>Limited</set></card>
+		<card><name>Meteor Strike</name><set>Limited</set></card>
+		<card><name>Mob Influence</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>Plague of Demons</name><set>Limited</set></card>
+		<card><name>Read My Lips</name><set>Limited</set></card>
+		<card><name>Reload!</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Sweepstakes Prize</name><set>Limited</set></card>
+		<card><name>Talisman of Ahrimanes</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>The Second Bullet</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+		<card><name>Voodoo Economics</name><set>Limited</set></card>
+		<card><name>Withering Curse</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+	</superzone>
+</deck>

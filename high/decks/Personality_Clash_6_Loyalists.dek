@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>F.B.I.</name><set>Limited</set></card>
+		<card><name>Republicans</name><set>Limited</set></card>
+		<card><name>C.I.A.</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>B.A.T.F.</name><set>Limited</set></card>
+		<card><name>Bank of England</name><set>Limited</set></card>
+		<card><name>Congressional Wives</name><set>Limited</set></card>
+		<card><name>Dan Quayle</name><set>Limited</set></card>
+		<card><name>Dentists</name><set>Limited</set></card>
+		<card><name>Deprogrammers</name><set>Limited</set></card>
+		<card><name>Fast Food Chains</name><set>Limited</set></card>
+		<card><name>Fred Birch Society</name><set>Limited</set></card>
+		<card><name>Gordo Remora</name><set>Limited</set></card>
+		<card><name>Hitler's Brain</name><set>Limited</set></card>
+		<card><name>KKK</name><set>Limited</set></card>
+		<card><name>Local Police Departments</name><set>Limited</set></card>
+		<card><name>Moral Minority</name><set>Limited</set></card>
+		<card><name>Nancy Reagan</name><set>Limited</set></card>
+		<card><name>Professional Sports</name><set>Limited</set></card>
+		<card><name>Religious Reich</name><set>Limited</set></card>
+		<card><name>Savings and Loans</name><set>Limited</set></card>
+		<card><name>The Men in Black</name><set>Limited</set></card>
+		<card><name>Voudonistas</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Annual Convention</name><set>Limited</set></card>
+		<card><name>Atomic Monster</name><set>Limited</set></card>
+		<card><name>Citizenship Award</name><set>Limited</set></card>
+		<card><name>Combined Disasters</name><set>Limited</set></card>
+		<card><name>Dollars for Decency</name><set>Limited</set></card>
+		<card><name>Earthquake</name><set>Limited</set></card>
+		<card><name>Fundie Money</name><set>Limited</set></card>
+		<card><name>Grassroots Support</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Meteor Strike</name><set>Limited</set></card>
+		<card><name>The Oregon Crud</name><set>Limited</set></card>
+		<card><name>Poison</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Sniper</name><set>Limited</set></card>
+		<card><name>Spasm of Violence</name><set>Limited</set></card>
+		<card><name>Straighten Up</name><set>Limited</set></card>
+		<card><name>Tidal Wave</name><set>Limited</set></card>
+		<card><name>Volcano</name><set>Limited</set></card>
+		<card><name>Withering Curse</name><set>Limited</set></card>
+		<card><name>Let Them Eat Cake!</name><set>Limited</set></card>
+		<card><name>Law and Order</name><set>Limited</set></card>
+		<card><name>World Hunger</name><set>Limited</set></card>
+	</superzone>
+</deck>

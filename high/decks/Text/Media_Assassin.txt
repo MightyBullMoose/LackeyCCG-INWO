@@ -1,0 +1,353 @@
+I'm talking to my media assassin
+Harry Allen, I gotta ask him
+Yo Harry, are we that type?
+"Don't believe the hype."
+--Public Enemy, "Don't Believe the Hype."
+Media Assassin
+
+by Ralph Melton
+
+This is a deck that did not achieve its objectives. It was intended to prey on
+monochromatic weenie decks in an anti-isolationist way; it did not succeed at
+that. But it's an interesting effort, and worth publishing anyway--though not
+worth making a Deck of the Week.
+
+Since this is not a Deck of the Week, I'll talk more about the design of this
+deck than I normally would, in hopes that this will be illuminating to others.
+Illuminati
+
+    Bavarian Illuminati 
+
+Group Cards
+
+    Bank of England
+    Big Media
+    Bill Clinton
+    California
+    Comic Books
+    Fraternal Orders
+    Intellectuals
+    Junk Mail
+    Madison Avenue
+    Pollsters
+    Tabloids
+    TV Preachers
+    Center for Weird Studies
+    Orbital Mind Control Lasers
+    Perpetual Motion Machine 
+
+Plot Cards
+
+    Censorship x4
+    Forgery
+    Fundie Money
+    Giant Kudzu
+    Good Polls
+    Hat Trick
+    Hoax
+    Martial Law
+    Media Connections x2
+    Nuclear Accident
+    Pulitzer Prize x3
+    Resistance is Useless!
+    Savings & Loan Scam x3
+    Scandal x2
+    Secrets Man Was Not Meant to Know
+    Stock Split
+    Strange Bedfellows
+    NWO: Antitrust Legislation
+    NWO: Apathy
+    NWO: Fear and Loathing 
+
+The Schtick and Overall Deck Design
+
+Here's the Grand Scheme that this deck is working towards: We assume that at
+least one player will be playing a deck with a theme of one particular
+alignment. We also assume that at some point in the endgame, they'll have an arm
+in their power structure that has at least three groups.
+
+When that happens, we will do the following things:
+
+    We will use a Scandal (and some alignment-bending on one of our Media
+Groups, if necessary) to strip the action tokens from the power structure of the
+target group.
+    Next, we will use Media Connections to make the group of the root of the
+large arm of the Power Structure Media.
+    Finally, we will use a Censorship to rip away that arm of the denuded power
+structure with a powerful Privileged Attack. 
+
+Now, given this intended Master Plan, how do we build a deck to achieve that? We
+need several things:
+
+    Lots of Media power, to power the Scandal and the Media Connections.
+    Alignment Control, to be able to play a Scandal on, Say, Government groups.
+    Straight, Conservative, and Government Groups to power Censorships.
+    Plot Control to get all the Plots we want together for the endgame ploy. 
+
+Here's a brief outline of how the cards fit those plans:
+Media Power
+
+To develop lots of Media power, we're making the deck a mostly Media-themed
+deck. Key groups are Big Media and Madison Avenue, for their bonuses to control
+Media groups; California is also good for a Media power structure, and it is
+Government, so it can power a Censorship.
+
+Big Media and TV Preachers are Straight, so they will help power a Censorship.
+Pollsters, Tabloids, Comic Books, and Junk Mail are all Media Groups with useful
+special abilities. Pollsters is particularly useful with our plan to have plenty
+of alignment control. Comic Books could support an extra idea for our endgame
+scheme; we could turn our target group weird, and use the special power of the
+Comic Books to eliminate the Resistance from the target.
+
+Intellectuals will be useful to protect a Media Group. They'll be best taken
+over with an automatic takeover, because we probably won't have any good way to
+take them over.
+
+With this strong Media theme, we'll add some Media-related Plots. The Pulitzer
+Prizes help us in all the usual ways for +10 boosters; The Resistance is
+Useless! will be another possiblity for our potent attack. I also considered
+adding Blood, Toil, Tears and Sweat and Don't Touch That Dial.
+Alignment Control
+
+The key card for alignment control is the Orbital Mind Control Lasers. This is
+part of the reason that we won't play the Bermuda Triangle with this deck; savvy
+players do not let the Bermuda Triangle keep the Orbital Mind Control Lasers.
+
+We also include the Center for Weird Studies, because it is the only card that
+allows us to reload the Orbital Mind Control Lasers.
+
+Because we have two popular Resources, we include a Forgery in the deck.
+
+Strange Bedfellows also lets us change alignments in a pinch; we entertain
+notions of using Strange Bedfellows in conjunction with a Scandal, because the
+card art on the two cards fits so well together. Since I have only one Strange
+Bedfellows, we'll pack a Hat Trick; if we don't use it on the Strange
+Bedfellows, we'll find something else to use it with.
+
+Since we're building this deck on the assumption that we'll be able to maintain
+alignment control, we include a NWO: Fear and Loathing in the deck, to magnify
+the effects of our alignment control.
+Straight, Conservative, and Government Groups
+
+We've already decided to include Big Media, TV Preachers, and California in our
+'groups that can power Censorship'. section. We also include Bill Clinton, since
+his abilities to take over Government Groups are likely to be useful. Bank of
+England will help us with our Plot control needs, and fill the
+Straight/Government/Conservative role in a pinch
+
+We also include the Fraternal Orders because a) it would be good to have a
+Bavaria deck to which Discordia wasn't immune, so for our trick, we should have
+a group that is Conservative but not Straight or Government; and b) our Group
+deck has gotten big enough that some extra group-drawing oomph would be very
+handy.
+
+We also include a Fundie Money, so that we can turn one of our Groups
+Conservative. (We use Fundie Money instead of Straighten Up or Nationalization,
+because of Discordia's immunity.) The best target for the Fudie Money would be
+Madison Avenue, because a Madison-Avenue powered Censorship would have a bonus
+of +25.
+
+Note also that the OMCLs can be used to let a group power a Censorship if the
+OMCLs action isn't used for other purposes.
+Plot Control
+
+There are three usual approaches to Plot Control: 1) Rosicrucians (or Magic and
+Crop Circles), 2) Crystal Skull, or 3) drawing so many plots that you can get
+the ones you want, plus having duplicates of the most important plots. The
+Rosicrucians don't seem to fit very well into this deck, and we already have two
+popular resources committed, and I'd like to have the Perpetual Motion Machine
+as well, so it seems a bit presumptuous to add the Crystal Skull. So we'll
+choose the third approach.
+
+The Bank of England will let us draw a lot of Plots, as well as filling in as a
+Censorship-able group in a pinch. We also include several Savings & Loan Scams
+to be able to go through a lot of plots at need.
+
+With this summary of how the deck was designed, we'll turn to how the deck was
+meant to be played.
+Beginning
+
+Lead with Madison Avenue, for its bonus to take over Media groups.. If that
+bounces, be wary; you're probably going up against another Media deck. Your
+second lead should be Big Media, which will probably also bounce--but you want
+your opponent not to have Big Media. Your third choice should probably be
+Fraternal Orders, so that you can get through your Group deck quickly and get to
+Madison Avenue and Big Media before your opponent.
+Midgame
+
+You should be able to grow quickly by making ATOs and using your Privileged
+attack to take over Groups from your hand.
+
+Good groups to bring out with ATOs are the Fraternal Orders, Bill Clinton, and
+the Intellectuals, since you don't have bonuses to take over those groups. The
+Intellectuals are probably best as a puppet of Madison Avenue, to give them
+defense.
+
+Bring out the Perpetual Motion Machine early, if you can. The Perpetual Motion
+Machine is an extremely useful Resource, particularly when linked to the
+Bavarian Illuminati. However, it has an additional purpose: it is bait to get
+people to play resource-destroyers on the Perpetual Motion Machine, to let you
+get out the Orbital Mind Control Lasers unobstructed.
+
+The Orbital Mind Control Lasers should be brought out late in the game, though
+early enough that you should have an action token on them by your end-game ploy.
+The reason for bginging them out late is to give your Perpetual Motion Machine
+bait some time to work, and to try to arrange it so that you can forge someone
+else's OMCLs instead of having them forging yours.
+
+During the midgame, you should be thinking ahead about likely victims for your
+endgame ploy. You should be trying to use your massive amounts of Global Power
+to influence your victim's growth; ideally, your victim should be growing large
+enough that you will be able to steal several groups when the time is right, but
+should be running short enough on action tokens that he can't rearrange his
+power structure into safer configurations.
+
+Don't be afraid to use a Censorship or two in the midgame; they'll look
+innocuous enough in a Media deck. Similarly, your Plot deck doesn't have many
+cards that should be terribly surprising, so you shouldn't be too worried about
+players looking at your deck or hand.
+Endgame
+
+The endgame ploy has already been described. If you've got enough action tokens
+at the end of the previous player's turn, you can start the plot before you get
+new tokens. Things you can do to start the ploy: 1) play the Scandal (with OMCLs
+or Strange Bedfellows to give your Media group the alignment it needs) to remove
+most of the tokens of another player's power structure; 2) play the Media
+Connections to make your target in someone else's power structure Media.
+
+Then, on your turn, use Madison Avenue and Censorship to make a high-powered
+Privileged attack to make an overwhelming attack to control that takes out a
+large part of someone's power structure.
+
+A note of caution: When you plan your attack, make sure that you will be able to
+fit all the groups into your power structure! It has happened to me that I have
+taken over an arm, and then not been able to fit all the groups into my power
+structure, and had to discard some. This can happen particularly when making the
+attack from Bill Clinton, because only has control arrows leading from the side.
+Potential problems
+Defense
+
+One problem is that this deck is light on defense. There is lots of global power
+for groups to defend each other, but most of the groups are low on Power and
+Resistance. This means that it's hard to look more defensive than you actually
+are; it's hard to harbor a Good Polls, for example, because it doesn't provide
+much defense to a Power-1, Resistance-1 group. This deck might well like to have
+a Commitment in reserve to protect against attacks to control, but attacks to
+destroy can be just as bad.
+
+Most of the +10 boosters should be used for defense, or for the end-game attack.
+
+The NWO: Apathy is also provided for defense; note, though, that it may actually
+be a problem in the endgame.
+
+The cards that provide the most general-purpose defense in this deck are
+probably the Perpetual Motion Machine and the Orbital Mind Control Lasers. The
+Perpetual Motion Machine allows you to keep an extra 10-point action token
+around to loook defensively solid, and the Orbital Mind Control Lasers let you
+neutralize alignment bonuses that players may be using to attack you, or prevent
+players from using +10 boosters and so forth.
+Failure of Assumptions
+
+The critical failure of this deck, though, is that the assumption upon which it
+is based:
+
+    We assume that someone else will be playing a monochromatic deck (i.e., one
+alignment shared by most cards), and at some point they will build up an arm of
+their power structure with at least three groups. 
+
+The first assumption of a monochromatic deck is by no means guaranteed, of
+course. Still, it happens often enough that I consider it a worthwhile
+assumption, and I'm willing to accept that if that assumption isn't met, we
+won't be able to apply our scheme.
+
+The second assumption, though, of a three-group arm upon that power structure,
+turns out to be much more flawed.
+
+The reason is this: in a game to 12 groups, every Goal other than the Basic Goal
+allows you to win with fewer than 9 groups. Every Goal. And with 9 groups, you
+can arrange to have no more than two groups on any arm of your Illuminati--or if
+you have more, you do so only as part of your bid for victory.
+
+And it's hard to rip an arm of a power structure away from someone
+else--particularly if you're planning to rip an arm away when you build the
+deck, instead of simply chancing on a fortuitous lapse of defense on another
+player's part.
+
+And so, by my analysis, this major scheme of this deck, which this deck works so
+hard to achieve, is only really worthwhile if you can rip away at least three
+groups with the heroic coup.
+
+This is really quite a disappointment to me. I had worked hard on building a
+deck that was deliberately anti-isolationist, and it turned to be more
+worthwhile to be isolationist with it; it was much more reliable to apply those
+resources devoted towards the Master Coup towards taking groups from hand.
+Variants and Substitutions
+
+These are some ideas that might be able to improve the performance of this deck
+at its intended goal of a sudden coup. I haven't tried these ideas; if you try
+them, please do let me know how they work.
+
+NWO: Interesting Times
+    Aaron Curtis suggested that NWO: Interesting Times might be a good way to
+get people to take over more groups, thereby enabling you to make a coup for
+more groups. I liked the idea, but wasn't sure that I could keep my opponents
+from getting suspicious if I played Interesting Times and made only the Basic
+goal count for victory. 
+Phone Phreaks
+    Glen Barnett suggested including the Phone Phreaks to adjust another
+player's power structure to let you make a larger coup. I liked the idea, but I
+held off, because I couldn't find a way to defend them. 
+
+Another card to vary: also that there's not really any Red NWO that works well
+for this deck. There's no Red NWO that increases the power of your groups, and
+it seems unwise to include an NWO that would probably benefit others more than
+you. Australian Rules seems like an invitation to other players to go against
+your weak defense. Solidarity and The Magic Goes Away would both slow down your
+opponents more than they would slow down you; normally, this would be a good
+thing, but in this case, it complicates your plan to exploit others' growth.
+
+I included NWO: Apathy as a defensive measure; in retrospect, it seems to me
+that NWO: Solidarity might be a better red NWO, even though it's not as
+effective defensively, for the following reasons: Under Apathy, any successful
+attack will use at most one action token; therefore, players will either not
+grow, or will grow with plenty of action tokens left to rearrange for defense.
+However, under Solidarity, players can still grow by using more action tokens
+than usual, so even though their growth will be somewhat stunted, they will be
+able to grow, but have more difficulty rearranging their power structures
+defensively.
+Isolationist Bavaria Variation
+
+A variation that might be more successful would be to take this deck in an
+isolationist direction. With ATOs, Censorship, and a free Privileged attack each
+turn from Bill Clinton, you could grow very quickly towards the Basic Goal.
+
+Note also that if you have Comic Books, Tabloids, and Intellectuals, you can
+make an automatic takeover of California and move the Intellectuals to the Comic
+Books, and suddenly have three groups that count double towards Goal: Hail Eris!
+
+Alternatively, with Media personalities and groups like Hollywood and Cable TV,
+you could make a fast growth towards 50 points of power from interacting power
+bonuses. (In an extreme case: With California, Subliminals, Hollywood, Cable TV,
+Recording Industry, and Empty Vee, each Media Sensation you take over
+contributes 9 to your total power.) NWO: Law and Order might also suit well for
+your Conservative/Straight side.
+Bermuda Triangle Variation
+
+This deck includes every alignment except Peaceful. I deliberately decided not
+to include any Peaceful groups; people might start worrying that I intended to
+unmask as the Bermuda Triangle. But with a bit of tweaking, I think this deck
+could be modified into a deck that grows quickly by Madison Avenue, Bill
+Clinton, and Censorships towards a Bermuda Triangle victory.
+
+If you decide to go this route, note that the alignments Violent, Conservative,
+and Criminal are each only represented once, so replicating those alignments
+would probably be a good thing.
+
+Again, if you try this deck or any of its variations, I'd like to hear what
+you've tried and what success you have.
+Back to Ralph's INWO Page.
+
+[OPTIMIZED FnORd PINEAL WEB]
+
+Last Modified: April 24, 1997
+Ralph Melton <ralph+@cs.cmu.edu>

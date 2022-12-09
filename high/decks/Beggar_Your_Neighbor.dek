@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Gnomes of Zurich</name><set>Limited</set></card>
+		<card><name>Wall Street</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Liquor Companies</name><set>Limited</set></card>
+		<card><name>Liquor Companies</name><set>Limited</set></card>
+		<card><name>Brazil</name><set>Limited</set></card>
+		<card><name>Hawaii</name><set>Limited</set></card>
+		<card><name>China</name><set>Limited</set></card>
+		<card><name>Society for Creative Anarchism</name><set>Limited</set></card>
+		<card><name>I.R.S.</name><set>Limited</set></card>
+		<card><name>Madison Avenue</name><set>Limited</set></card>
+		<card><name>CFL-AIO</name><set>Limited</set></card>
+		<card><name>Texas</name><set>Limited</set></card>
+		<card><name>Nuclear Power Companies</name><set>Limited</set></card>
+		<card><name>Bank of England</name><set>Limited</set></card>
+		<card><name>Center For Weird Studies</name><set>Limited</set></card>
+		<card><name>Perpetual Motion Machine</name><set>Limited</set></card>
+		<card><name>Orbital Mind Control Lasers</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>18 1/2-Minute Gap</name><set>Limited</set></card>
+		<card><name>Atomic Monster</name><set>Limited</set></card>
+		<card><name>Bigger Business</name><set>Limited</set></card>
+		<card><name>Bigger Business</name><set>Limited</set></card>
+		<card><name>Bribery</name><set>Limited</set></card>
+		<card><name>Chicken In Every Pot</name><set>Limited</set></card>
+		<card><name>Commitment</name><set>Limited</set></card>
+		<card><name>Early Warning</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Hat Trick</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Let's Get Organized</name><set>Limited</set></card>
+		<card><name>Media Blitz</name><set>Limited</set></card>
+		<card><name>Monopoly</name><set>Limited</set></card>
+		<card><name>Mothers' March</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Privatization</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Seize The Time!</name><set>Limited</set></card>
+		<card><name>Sniper</name><set>Limited</set></card>
+		<card><name>Stock Split</name><set>Limited</set></card>
+		<card><name>Stock Split</name><set>Limited</set></card>
+		<card><name>Tax Breaks</name><set>Limited</set></card>
+		<card><name>Up Against The Wall!</name><set>Limited</set></card>
+		<card><name>Voodoo Economics</name><set>Limited</set></card>
+	</superzone>
+</deck>

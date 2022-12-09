@@ -1,0 +1,288 @@
+Attack of the Deadly Ninja Throwing Conventions Deck
+by Darrin Bright
+
+[Webmaster's Note: the Anti-Trust Legislation card has recently been changed.
+However, it should not significantly upset the balance of this deck. Please keep
+in mind that ATL now requires 3 Plot discards in order to completely reorganize
+your Power Structure. - SCM 8/29/2000 ]
+
+See what kind of trouble your offhand comments can get into once they leave your
+possession? Welcome to week two of CthulhuCon!
+
+Card Data
+Illuminati:
+
+    Servants of Cthulhu
+
+Groups:
+
+    CIA
+    Evil Geniuses for a Better Tomorrow
+    General Disorder
+    Gun Lobby
+    Ninjas
+    South American Nazis
+    Survivalists
+    Texas
+    WITCH
+
+Resources:
+
+    Center for Weird Studies
+    Crystal Skull
+    Cyborg Soldiers
+
+Plots:
+
+    Annual Convention x6
+    Beach Party
+    Crop Circles x2
+    Forgery
+    Good Polls
+    Hoax
+    Hurricane x6
+    March on Washington
+    New Blood x2
+    Savings & Loan Scam
+    Sorry, Wrong Number
+    Sufficiently Advanced Technology
+    Terrorist Nuke x2
+    Truck Bomb x2
+    NWO Yellow: Antitrust Legislation
+    NWO Red: Australian Rules
+    NWO Blue: Global Warming
+    Goal: Hail Eris!
+
+Strategy
+Overview
+
+    This deck took a long time to develop, so hopefully you'll forgive me if
+this overview is a bit long-winded. The original idea most likely belongs to
+Alex Yeager, who made an offhand comment about his infamous "Annual Convention"
+deck a long time ago... at least a year or two, I don't remember exactly. When I
+finally got around to asking him about it, he told me that he'd never actually
+developed a working Annual Convention deck, but he did send me a rough outline
+of how one might work... I think it might have been based on Christian Stenner's
+even more infamous Oil-Spill-laden Essen Deck. The problem with Alex's idea was
+that it depended rather heavily on the right balance of bonuses, and could
+easily be thrown out of whack when the wrong NWO comes out... If the power of
+your place gets too high, you're not as likely to devastate... too low and you
+run a good chance of destroying it.
+
+    He did say that Seth Cohen was working on one, and I asked Seth about it and
+he sent me a writeup for "No One Is Safe" (now DotW #73), and although that deck
+did use two copies of Annual Convention, it didn't really use them as
+effectively as I would have liked.
+
+    When I sat down to develop my own deck, I took my own approach to it, using
+Hurricanes instead of Oil Spills to avoid any chances of accidental
+destructions. Cthulhu was the obvious choice for Illuminati, but to get all
+those attacks off you need a good way to get a lot of plots in a hurry. My first
+inclination was to use one of my favorite DotW winner, Rudolf Gross' Lambs to
+the Slaughter.
+
+    Lambs to the Slaughter is a perfect example of what a DotW winner should be,
+partly because it's obscenely abusive but mostly because it takes a few
+lower-powered cards everybody overlooks and finds some very high-powered things
+you can do with them. All I needed was a Violent and/or Conservative coastal
+place that could be easily devastated with a hurricane. Israel seemed a perfect
+fit... it wasn't huge but had decent power, gave a nice bonus to control Mossad
+(good for plot control), and you could pump it up with Gun Control and still
+easily devastate it. On the first run through, though, there were several
+problems. First of all, a power 9 Annual Convention isn't all that impressive,
+and then I discovered Cthulhu doesn't get it's bonus to destroy since it isn't a
+disaster or an assassination (I know, I know, but that's the ruling... ugh). So
+to power up the Annual Convention, I had to put in the South American Nazis and
+a bunch of Weird Science groups. I like my group decks to be fairly light, and
+my Cthulhu decks even lighter, so there were too many groups and it took too
+long to get big Weird Science groups to do any real damage. Besides, since when
+is Israel known for it's hurricane season?
+
+    So I went back to the drawing board and started over, experimenting with the
+Gnomes, replacing Israel with two copies of Texas (Partition!) and a Bank of
+England/Nasa combo for plots. Same problem, though... by the time I had Texas,
+Bank of England, Nasa, and my Weird Science groups out, I was so close to the
+basic goal there was no point in destroying any groups with Annual Conventions.
+
+    Then I realized that Annual Convention lets weird science *and* magic groups
+aid... and the Ninjas were magic! I went back to the Lambs to the Slaughter idea
+and cleaned it up a bit. I'd forgotten that in the original Lambs to the
+Slaughter deck, you get New Blood and Cyborg Soldiers hooked up to the Ninjas as
+soon as possible. This is actually where the Lambs to the Slaughter deck stops,
+because it doesn't really give you anything interesting to do with all those
+power 12 Ninja tokens, but I think my deck answers that problem velry nicely...
+launch a bunch of power 21 Annual Conventions at your helpless opponents! I kept
+Texas because it's a natural hurricane magnet, and Cthulhu's bonus *did* apply
+to hurricanes so I could put in the Survivalists for easy relief and still get a
+10 or less on the roll to devastate. I left in the South American Nazis and a
+couple Weird Science groups, added the CIA for a little more oomph, the global
+power, and the assassination ability, since there wasn't much room in the plot
+deck for assassinations. What you don't get with the Annual Conventions you can
+mop up with the Truck Bombs. Anyway, thanks to Alex for the original idea, and
+thanks to Rudolf Gross for the basic design. Special thanks to Seth Cohen and
+Kevin Kennedy for sharing their own ideas and for constructive feedback.
+
+Beginning
+
+    Start off by leading with the CIA. Although this isn't really a violent
+government deck, it's got a nice bonus to take Texas. You don't exactly need the
+global power (all your groups are monochrome violent) but it's nice to have
+around. The CIA is a popular lead, especially if Bavaria is playing, so at the
+very least you want to make sure no one else gets it out. If the CIA bounces,
+your next best lead is the South American Nazis, which has at least a +8 to
+control over half your groups. If no one is playing any Cthulhu or
+disaster-happy decks, Texas is also a very strong lead. Otherwise, try WITCH.
+
+    If you've already got New Blood in hand and Cyborg Soldiers ready to go,
+feel free to ATO the Ninjas on turn one and hook them up to power 12 (subtlety
+isn't exactly one of the strong points of this deck). Otherwise ATO Texas and
+attack to control one of your Violent Conservative groups with it, preferably
+the Survivalists to help discourage rival disasters.
+
+    Bring out the Center for Weird Studies early, but be careful what you
+discard to power it. If you drew extra Hurricanes or Annual Conventions early,
+you can discard one to power the Center, March on Washington, or Hoax and still
+have a good chance of drawing more later. With only one Hoax and only one of
+each color NWO there isn't a lot of room for error when you have to discard
+plots. Whenever you have to discard from the top of the deck, make sure you
+discard from your hand first so you don't discard anything important.
+
+Midgame
+
+    Once you've got a turn or two under your belt, the first order of business
+is to get the Gun Lobby and Ninjas out. The rest of your game depends on playing
+New Blood on the Ninjas, so if it isn't in hand yet then you're going to have to
+go digging for it. The key focus of midgame (and to a certain extent endgame) is
+all about plot control. The Crystal Skull is the best way to get the plots you
+need out of your plot deck. Be careful of a rival Adepts player, though... he's
+probably got his own Crystal Skull he wants to bring out, so you may want to
+wait until he does and play Forgery on him. If it's still early in the game,
+don't be afraid to put Hurricanes and Annual Conventions at the bottom of your
+plot deck if you don't have room for them in your hand... if everything goes
+right, you can get enough plot draws in the endgame to draw your entire plot
+deck.
+
+    Use the Gun Lobby's special ability to get all those plot draws you need by
+launching failed attacks on the Ninjas, but be careful if your opponents have
+enough tokens to make the attack succeed... use your defensive plots to make
+sure the attack fails. If you can get away with attacking the Ninjas without
+announcing Cthulhu's +4 bonus to destroy, do so... once you roll the dice, you
+can invoke the Oops! rule. Crafty rivals probably won't fall for this more than
+once, though, and force you to take the bonus on subsequent attacks. Even so, a
+-6 penalty to any attack is almost as good as a -10. If you run out of tokens,
+dropping an extra hurricane on Texas as an easy way to get a plot via the Gun
+Lobby special ability.
+
+    If the Crystal Skull can't get you what you need, grab a Crop Circles. If
+you don't have any magic groups out yet, March on Washington or Sufficiently
+Advanced Technology can provide you with a magic token. Once you've got New
+Blood for your Ninjas, your next order of business is to get at least one
+Hurricane and one Annual Convention in hand. Unless something really juicy comes
+along that's too good to pass up (like a stray personality hanging out in the
+open), don't destroy anything until you're ready for the endgame. Although your
+rivals may have guessed what you're up to, you don't want to antagonize them
+into ganging up on you. And besides, it's just so much more impressive to
+destroy everything in one sweeping carnival of carnage. But your rivals don't
+necessarily have to know this... offer not to attack them if they'll do the same
+for you.
+
+Endgame
+
+    When you're ready to wipe the table clean, load up your Ninjas with tokens
+by attacking them with your own groups, starting with Texas and the
+Survivalists. If you've drawn Sorry, Wrong Number at this point, now is a good
+time to play it on that particular rival that has made things difficult for you.
+Play any other plots you need to put in play because once you start tossing
+around disasters, the Annual Conventions need to be played immediately
+afterwards.
+
+    Time for Hurricane season... drop a Hurricane on Texas, draw a plot, play
+Annual Convention, and (if successful) draw another plot. Rinse and repeat. When
+you run out of tokens on the Ninjas, launch a few more failed attacks. Save your
+WITCH and other magic tokens for powering a Crop Circles if you come up short on
+a Hurricane or Annual Convention. March on Washington can provide an extra token
+if you're short, or could even be used to attack the Ninjas (it's a power six
+action, right?). When you run out of Annual Conventions, drop a couple of Truck
+Bombs on anything left standing. Hang on to your Hoax to deal with any cancel
+plots and Global Warming to deal with Interesting Times.
+
+    Texas and its puppets won't count towards victory if they are devastated.
+You can either wait until the turn after yours and let the Survivalists
+automatically relieve Texas, or throw a Beach Party. If you're still short
+groups, use Hail Eris! to make WITCH and your Weird Science groups count double.
+
+Potential Problems
+
+    The two Illuminatis that can make your life most difficult are probably
+going to be the Adepts or Shangri-La. The Adepts have a +6 to control or destroy
+the Ninjas. If the Adepts come after you, and you already have all your key
+plots, try offering him the Crystal Skull to buy yourself a little breathing
+room. If the Adepts already have a lot of magic resources, you can then incite
+the other players to bring him down a notch or two by claiming he's now too
+close to victory.
+
+    The biggest threat from Shangri-La (other than the general inclination to
+destroy small Violent groups) is that he might play Kinder & Gentler on the
+Ninjas. If there's a strong possibility for this, try not to give him the
+opportunity by holding off on boosting the Ninja's power. He's more likely to
+K&G your bigger groups like CIA and Texas. Otherwise trade out your Cyborg
+Soldiers for the Necronomicon and the KKK for the Survivalists. Keep him on the
+defensive by hitting him with Sorry Wrong Number, lobbing Hurricanes at his
+coastal places, and Truck Bombing his other groups.
+
+    Discordia can also be a concern if he decides he wants any of your Weird
+groups, and he's harder to intimidate when he's immune to two of your largest
+groups. He makes a better ally than enemy (especially if he has more Weird
+science/magic groups to aid your Annual Conventions), so make a peace offering
+or find out which of the other players is annoying him most and work together.
+
+    Next to Shangri-La, the biggest threat to watch out for are alignment
+changers like the OMCLs. Unfortunately, I didn't put in any alignment-changers
+or resource-killers... this is probably one of the bigger blind spots in the
+deck, since the OMCLs tend to be rather popular. If you run into this problem,
+try substituting in a Weak Link, Deasil Engine, or Killer Satellite. Backlash
+would also be good here.
+
+    And finally, Nevermore and Interesting Times can really ruin your day
+(indeed, there are few decks that can't be stopped by these two cards). To make
+room for all those instant attack plots I could only fit in one Hoax and one
+blue NWO, so this deck is particularly vulnerable to either of these cards. If
+your play group likes to use them, take out a Hurricane and an Annual Convention
+for another Hoax and a Blue NWO like World Hunger or Global Warming.
+
+Substitutions
+
+    The hardest part of putting this deck together is finding enough Annual
+Conventions. If your play group is cool with proxies, that might be the best way
+to go. If not, load up on more Truck Bombs if they're more easily available, and
+do an all-Truck-Bomb deck. If you can't scrape up enough Instant Attack cards,
+just stick with normal attacks and put in an unhealthy supply of Terrorist Nukes
+and Harmonica Virgins.
+
+    If you don't have a Crystal Skull, the Shroud of Turin or Mossad can make a
+passable substitute.
+
+    I put in the Center for Weird Studies instead of the PMM because the Center
+is a little more flexible... with the PMM you have to decide which group gets
+the extra token at the beginning of your turn, whereas you're not linked to any
+particular group with the Center. If an attack unexpectedly fails or you need to
+move a group in a hurry, the Center can accomodate plans that suddenly change in
+the middle of the turn. Also, the PMM's popularity makes it difficult to hold on
+to, but your individual playing style may vary. The Book of Kells is another
+possibility... not quite as flexible but the extra magic token can be very
+useful.
+
+    The CIA is really only in the deck to help take over Texas, so it can be
+easily replaced with either the Republicans or another big Violent group.
+Congressional Wives would also work.
+
+    Any Conservative or Violent place can be used instead of Texas. Israel,
+Russia, or Switzerland would work... but really, none of those places are known
+for their trailer parks, are they?
+
+    The South American Nazis and rare Weird Science groups aren't an absolute
+necessity. Actually, a Violent Criminal angle using Criminal Overlords instead
+of Hail Eris might be more effective. Put in the Corrective Phrenologists and it
+could get downright ugly…
+
+Back to Deck of the Week

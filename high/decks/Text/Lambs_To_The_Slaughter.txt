@@ -1,0 +1,366 @@
+INWO Deck: Lambs To The Slaughter
+by Rudolf Gross
+
+I got the basic idea for this deck when I was reviewing seemingly "useless"
+cards. Too many games revolved around the IRS, New York and the other
+mumbo-jumbo big-hitter cards. But how should the feeble Urban or Cycle Gangs
+compete for world domination against sheer superpower? Suddenly Illumination
+struck when I reexamined two of the most despised and rarely played cards: The
+Ninjas and the Gun Lobby.
+
+The unique ability of the Ninjas to gain a token for every failed attack against
+them was the key. Who says that the attack must be commenced by another player?
+If one of your own groups attacks the Ninjas without success, it just
+_transfers_ its token to them. Power 1 and Resistance 7 tokens aren't all that
+useful, but the Ninjas are both violent and even magic. Give them New Blood and
+Cyborg Soldiers or the Necronomicon and you've got a bunch of monsters.
+
+Even better: The special ability of the Gun Lobby enables you not only to
+sacrifice any worthless group token of yours to boost the Ninja-killers with a
+fake 'attack', it also allows you to draw a plot card for every token-transfer
+(since the Ninjas are violent). Plainly said, with this combo you can pay a
+power-1 token and gain a power-12 token and a plot card in return. Pretty
+efficient. As often as you please.
+
+All those detested groups with minimum power, which give you these nice +x for
+any attack bonuses become highly playable this way, since their help doesn't
+require tokens. Keep their bonuses and sacrifice their to- kens to feed the
+Ninjas and draw lots of neat plots. Use the bucketloads of Ninja-Tokens to
+destroy lots of other players' groups - or your own groups, if you prefer to win
+this way.
+
+To visualize this playing style: You will have a queue of small fry to pay their
+sacrifices to their Ninja masters and Gun Lobby priests. And if the secret
+masters please, they will be led to their execution payed with their own tokens
+like lambs to the slaughter, hence the deck name. Beautiful. Cthulhu will be
+pleased.
+
+Initially I wanted to save this deck for the German Open tournament, but since I
+ended up as a referee, I decided to introduce it to the deck of the week
+contest. I wanted to demonstrate, that there are lots of cards which are still
+not played to the best of their abilities. Have a look at your black sheep cards
+once more. Win with them. Have fun.
+
+I want to describe this deck as a basic set of 40 fixed cards, and a couple of
+sideboard 5-cards-sets. Consider the type of game (or tournament) you are likely
+to enter and choose the extension you prefer.
+
+Basic Set:
+Illuminati
+
+    The Servants of Cthulhu 
+
+Groups
+
+    Bjorne
+    CIA
+    Clone Arrangers
+    Cycle Gangs
+    Gun Lobby
+    Japan
+    Ninjas 2x
+    Robot Sea Monsters
+    Rosicrucians 2x
+    Urban Gangs
+    Vatican City 
+
+Resources
+
+    Center for Weird Studies
+    Cyborg Soldiers (2x)
+    Orbital Mind Control Lasers
+    Perpetual Motion Machine 
+
+Plots
+
+    (NWO) Energy Crisis
+    (NWO) Solidarity
+    (Goal) The Hand of Madness
+    (Goal) Up Against The Wall
+    Shangri-La
+    Assertiveness Training
+    The Big Sellout
+    Cover-Up
+    Crop Circles
+    Double-Cross
+    Forgery
+    Harmonica Virgins
+    Murphy's Law
+    New Blood (2x)
+    Nuclear Accident
+    Reload
+    Secrets Man Was Not Meant To Know
+    Seize the Time!
+    Terrorist Nuke
+    Unmasked! 
+
+Strategy
+Lead
+First of all, have a look who is sitting at the table. If Shangri-La is in the
+game, lead with Vatican City no matter what. He is your worst enemy, and he can
+ruin your game if he starts to turn your key groups peaceful while Vatican City
+immunizes him against you. In the best case, you spoil his start and bounce, in
+the worst case you will be able to hurt him later. If the Network is in the
+game, make his day sour with Japan as lead. You didn't bounce ? Ask the others
+to help you destroy Japan a little later, which helps you keep a low profile at
+the start and denies a good card to both Network and Shangri-La (Keep in mind
+that Japan still counts for you as a destroyed - peaceful and government! -
+card, so your loss isn't great at all). If neither Shangri-La nor Network are in
+the game, lead with either Clone Arrangers or the CIA.
+
+Early in the Game
+Hold back. Complain that your draw is so bad. Try to get your token- generating
+Resources like the PPM and Center for Weird Studies out quick, and don't be shy
+using the Illuminati token for a second takeover, but _always_ stay shorter of
+groups than the rest of the pack, so that they don't concentrate on you. Here is
+the list of tasks you _must_ fulfill:
+
+    1) Bring out the Ninjas
+    2) Bring out Cyborg Soldiers or the Necronomicon
+    3) Bring out New Blood
+    4) Link New Blood and Cyborg Soldiers/Necronomicon to the Ninjas 
+
+Once you have completed these tasks, you are virtually unstoppable. In order to
+do that, two Rosicrucians and a Crop Circles have been added. Use the
+Rosicrucians to draw New Blood (and Crop Circles, if necessary). Use the Crop
+Circles to draw either Ninjas or Cyborg Sol- fiers, depending on what's missing.
+If your draw is really terrible, use the Illuminati tokens to draw additional
+group cards, but this isn't a necessity often. Experience shows that you rarely
+need more than 4 turns for completion, sometimes even 3 turns suffice.
+
+During all preparations, don't be aggressive! Join the pack against the actual
+leader and make sure that noone can break through, but don't attack enemy
+targets if there is the slightest possibility to draw their attention towards
+you. Save your tokens to draw additional plot cards rather than initiating
+combined attacks, no matter how tempting the targets may be. [Exception: If
+Shangri-La is in the game, see below] Finally, if you get The Big Sellout or
+Reload in your hand, you're set.
+
+Middle Game
+There is no middle game. You should have been able to take control of 4 or 5
+groups by now, and that's more than enough. Crush them now!
+
+The Big Punch
+You're going to finish the game in this very turn, with a giant leap. Take over
+your fifth group. Play The Big Sellout and discard your doubles of Ninjas and
+Rosicrucians prior to discarding from the group deck. Make sure that you gain as
+many tokens with this as possible.
+
+Announce that "I finally have to do something, if I still want to have a chance
+to win". Offer an attack to destroy on the leading player and push the others to
+help you. If they are reluctant, make clear to them in a friendly voice that
+otherwise you would be forced to attack some of their weaker groups, if you had
+to go alone, and that hurting the leader would help everyone. If you're reminded
+of your many tokens, don't forget to point out how "useless" they are for you
+(most tokens won't even have control arrows). In most cases, you should be able
+to get a handful of enemy tokens to help you kill your first group. After that,
+let the hell break loose...
+
+You should have about 3 of the Mini-Groups out by now (Urban/Cycle Gangs, Gun
+Lobby, Robot Sea Monsters, Bjorne). Make them deliver their first sacrifice to
+the Ninjas with a few attacks to destroy. You deliberately _refuse_ to claim
+your bonuses for attacks to destroy, so they don't have a chance at all (if
+hostile powerful peaceful groups spend their tokens to boost the attacks - fine.
+As soon as there is a chance of 2 or better, spend the Ninja's spare token,
+which counts twice. Stops any attack dead in its tracks). Don't forget your plot
+cards if you have the Gun Lobby out. Save the tokens on the Illuminati and the
+Rosicrucians and hold back potential tokens on the CIA, Clone Arran- gers and
+Japan for later, in case you need backup for bigger attacks.
+
+The Ninjas should have a couple of tokens by now, so let them do some- thing
+useful. If you have another Mini-Group in your hand, take it over from the
+Ninjas. After that, kill, kill, kill and kill. Here's the list of bonuses you
+_do_ claim now:
+
+	 Ninja Power:			 |  +12
+	 Ninja bonus to destroy:	 |  +2
+	 Cthulhu's bonus to destroy:	 |  +4
+	 Urban Gangs bonus to destroy:)  | (+2)
+	 Cycle Gangs bonus to destroy:)  | (+2)
+	 --------------------------------+------
+	 Ninjas' attack to destroy base: | +18 up to +22 per token.
+
+If you own the Robot Sea Monsters, you gain additional +4 against Cor- porate,
+Government or Coastal places. This alone should be enough to finish off most of
+the second- and third-line groups. You've got alot of tries, after all. Don't
+forget to draw additional plots for every group annihilated. Once your supply of
+Ninja tokens drops down to 1, cash in the rest of the Mini-Groups' tokens, draw
+plots, and try again.
+
+If they are sucked dry, shock your opponents by playing Reload (that's why
+power-1 groups are especially useful) and refueling up to 5 tokens. Sacrifice
+them in the usual fashion and continue. Still targets around ? You should have
+drawn a couple of +10 boosters by now. Start to cash in your bigger-groups'
+tokens and attack those enemy key groups you can finish off (don't forget
+possible agents like Japan).
+
+Finally, you should have only one or two Illuminati tokens left. If you play
+with the aggressive sideboard and have two tokens left, Reload again and
+continue the carnage. When you're down to 1 illuminati token, you should have
+won by Hand of Madness or Up the Wall by far. Claim victory. If this is foiled
+by any means, use your last token to Seize the Time (don't forget your automatic
+takeover) and finish the job. Killing your own groups will almost definitely
+give you the last few destroyed groups you need - cash in the token of each
+group to destroy it. Lambs to the Slaughter.
+
+Strengths
+The main advantages of this deck are its shock value and its speed. With
+relatively little preparation you can launch a powerful barrage without equal
+(it's not unusual at all to launch about 20 consecutive attacks to destroy with
+a base power of more than 18!). It's very flexible and can be adjusted to suit
+many different needs (see below). And it's an awful lot of fun to play it and
+enjoy the other player's faces. It's quite possible to over-fulfil your goal by
+5 or more groups.
+
+Weaknesses
+Your foes have three names: Shangri-La, Peace in our Times and Chicken in every
+Pot. Turning the Ninjas peaceful will hurt you badly (though this is what the
+Assertiveness Training and second New Blood are for). Both NWO's will lower the
+power of your violent groups to 0, making them lose their tokens. You lose a
+significant portion of your firepower this way, since you'll be unable to do the
+Reload trick, too. Plotkiller decks are nasty, too. But especially the defensive
+sideboard will give buy you enough time to get established and win. Except for
+that, this deck is pretty robust and absolutely Tournament-worthy.
+
+The Various Sideboards:
+Aggressive Sideboard
+
+    Reload
+    Terrorist Nuke (2x)
+    Harmonica Virgins (2x) 
+
+This is the most daring choice, since it leaves you vulnerable for massive
+NWO-counterfire by your foes (see below), but with its sheer firepower you can
+be absolutely sure that your attack will succeed. This is the choice for the
+do-or-die player type. If you have one specific player you hold a grudge
+against, this is your chance to wipe him off the board completely, while you
+enjoy the disbelieving look on his face.
+
+Defensive Sideboard
+
+    Hoax (2x)
+    Secrets Man Was Not Meant To Know (2x)
+    Upheaval! 
+
+Simply don't allow your opponents to thwart your plans with nifty plots, since
+you will refuse to let them enter the game. Another advantage is that you have
+more means to stop another player from winning while you're building up your
+setup. On the bad side, you might have problems finishing off tightly-connected
+power struc- tures with lots of alignment-matches and powerful groups. However,
+you should be able to compensate this with your global-power groups once the
+defense's tokens are gone, but this requires some experience and skill. All
+things considered, this is the best choice for tournaments (IMHO).
+
+Customized Sideboards (examples)
+So there's this stupid bloke always playing his generic fast-speed and
+high-power Gnome deck? Wanna teach him a lesson and still win?
+
+    Gnomes of Zurich
+    CFL-AIO
+    Rifkinites
+    Market Manipulation
+    Secrets Man Was Not Meant To Know 
+
+Once you are established, play the Gnomes agent, and blast him with +31 base for
+destroys against corporate groups to kingdom come.
+
+Going up against a Bavarian Government-Juggernaut? Want to see him break down
+and weep like a child? Here's the recipe:
+
+    The Bavarian Illuminati
+    Autonome
+    Fiendish Fluoridators
+    Don't Forget To Smash The State
+    Nuclear Disaster 
+
+Autonome is a German-only card: Power 3, Resistance 4, Liberal, Fanatic. Special
+ability: Gives +10 on any attempt to destroy a government group. Play the agent,
+have Autonome and Robot Sea Monsters in play, pester him with the DFTSTS NWO and
+enjoy the bombing cakewalk with a base of at least +37 per token. NY with Cyborg
+Soldiers under direct Illuminati control? So what?
+
+If you believe to know what one or two players are going to play, you can easily
+add in illuminati agents and other useful cards to give your assault a little
+more punch. However, this is a gamble. If your opponents don't play the
+Illuminati you prepared, you'll have alot of semi-useless cards hindering your
+buildup.
+
+Fun Sideboard
+
+    TV Preachers
+    Church of Elvis
+    Messiah
+    Nobel Peace Price
+    Terrorist Nuke 
+
+This sideboard is for fun only. Try to bring out the TV Preachers, the Church of
+Elvis, Vatican City and Bjorne. Award Bjorne the Nobel Peace Price. Hail him as
+the Messiah. Calculate his power to 16. Nuke him. Draw 18 plots.
+
+Some general hints and other tricky ideas
+Shangri-La
+Don't let your hostile feelings toward your archenemy cloud your judge- ment. If
+he managed to grab the PMM and Center of Weird Studies first and is spreading
+'Kinder and Gentler' around the world, don't waste your time trying to stop him.
+Use the Rosicrucians to get Unmasked and Shan- gri-La in your hand and unmask. A
+cowardly shared victory is much better than a brave total loss. If you managed
+to get established and if you are confident to steamroll your foes, commit
+yourself by playing Shangri-La as an agent card and smash him.
+
+Cyborg Soldiers or Necronomicon
+I'd still prefer the Cyborg Soldiers, since they are neither unique, nor do they
+kill their owner once an 11 or 12 is rolled. The Necronomicon's advantage to be
+magic-compatible doesn't help much, since once the Ninja's violence alignment is
+lost, their power is reduced to 1 anyway. However, since Cyborg Soldiers are
+both rare and valuable, the Necrono- micon might substitute for someone just
+playing with a factory set, with- out a second Cyborg Soldiers.
+
+NWOs
+The NWO cards you have are purely defensive. You cannot start your attack while
+your power-1 violent groups are out of play. Use the Rosicrucians to draw the
+corresponding NWO-color which is killing you. Play it _exactly_ before placing
+action tokens, and better have SMWNMTK ready to fend off reinforcement NWOs
+played by your foes. Cash in your power-1 tokens as quickly as possible, if
+you're afraid of more NWOs to follow.
+
+Goals
+Since most of your groups are violent, you just need 2 peaceful or government
+kills to be within reach ov victory. If really have prob- lems locating enemy
+groups, Bjorne/Japan/Vatican or Japan/CIA will do the job, but take this as a
+last resort.
+
+Assorted Plots
+Assertiveness Training should be seen as a insurance card in case your Ninjas
+became permanently peaceful. However, if you already started your assault, this
+is a nice card to play on the Rosicrucians, especi- ally if there's another
+Reload coming up.
+
+Cover-Up is a nice stopper especially while you get established. If someone
+managed to break through to get your Rosicrucians via agent, a Cover-Up makes
+sure you don't lose control the over your deck.
+
+Crop Circles allow you to scan through your group deck, so you can draw just the
+group or resource you need.
+
+Double-Cross is nice once you get close to winning by a goal card.
+
+New Blood is in the deck two times to give you a second chance if your Ninjas
+became peaceful, killing your previous New Blood.
+
+Nuclear Accident is neat for dealing with an annoying Stonehenge. But its
+primary use is to wipe the Nuclear Power Companies clean. Play it as soon as you
+can once you start your big assault.
+
+Secrets Man Was Not Meant To Know is your primary last resort defense,
+especially against poisonous NWOs. Unless you're playing the defensive
+sideboard, treasure this card and only play it if it would be the end of the
+world for you without its help.
+
+Comments from the Author
+I'm extremely interested in finetuning this deck even further. If you played
+Lambs to the Slaughter, I'd be very glad to hear from your game and your
+suggestions how to improve it even further. If you have any suggestions for
+changes, please contact me! I hope you enjoy this deck as much as I did! My
+email address: rg@armchair.ping.de
+
+Back to the Deck of the Week.

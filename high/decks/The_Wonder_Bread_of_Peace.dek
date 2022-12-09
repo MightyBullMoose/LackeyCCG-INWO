@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>Japan</name><set>Limited</set></card>
+		<card><name>Germany</name><set>Limited</set></card>
+		<card><name>Vatican City</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Australia</name><set>Assassins</set></card>
+		<card><name>Canada</name><set>Limited</set></card>
+		<card><name>Center For Disease Control</name><set>Limited</set></card>
+		<card><name>Center For Weird Studies</name><set>Limited</set></card>
+		<card><name>Flat Earthers</name><set>Limited</set></card>
+		<card><name>Flat Earthers</name><set>Limited</set></card>
+		<card><name>International Weather Organization</name><set>Limited</set></card>
+		<card><name>Moonbase</name><set>Limited</set></card>
+		<card><name>Orbit One</name><set>Limited</set></card>
+		<card><name>Power Satellite</name><set>Assassins</set></card>
+		<card><name>Red Cross</name><set>Limited</set></card>
+		<card><name>Rogue Boomer</name><set>Limited</set></card>
+		<card><name>The Big Prawn</name><set>Assassins</set></card>
+		<card><name>United Nations</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Chicken in Every Pot</name><set>Limited</set></card>
+		<card><name>Peace in Our Time</name><set>Limited</set></card>
+		<card><name>Citizenship Award</name><set>Limited</set></card>
+		<card><name>Cold Fusion</name><set>Limited</set></card>
+		<card><name>Computer Virus</name><set>Limited</set></card>
+		<card><name>Computer Virus</name><set>Limited</set></card>
+		<card><name>Computer Virus</name><set>Limited</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>Hat Trick</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Kinder And Gentler</name><set>Limited</set></card>
+		<card><name>Kinder And Gentler</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Nobel Peace Prize</name><set>Limited</set></card>
+		<card><name>Red Scare</name><set>Limited</set></card>
+		<card><name>A Brief Attack Of Conscience</name><set>Assassins</set></card>
+		<card><name>Back To The Salt Mines</name><set>Assassins</set></card>
+		<card><name>Back To The Salt Mines</name><set>Assassins</set></card>
+		<card><name>Floating Point Error</name><set>Assassins</set></card>
+		<card><name>Frankenfood</name><set>Assassins</set></card>
+		<card><name>Frankenfood</name><set>Assassins</set></card>
+		<card><name>Hubble Trouble</name><set>Assassins</set></card>
+		<card><name>Hubble Trouble</name><set>Assassins</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+		<card><name>Supernova</name><set>Assassins</set></card>
+		<card><name>Waiting Period</name><set>Assassins</set></card>
+	</superzone>
+</deck>

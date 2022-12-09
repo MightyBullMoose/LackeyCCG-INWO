@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Gnomes of Zurich</name><set>Limited</set></card>
+		<card><name>Federal Reserve</name><set>Limited</set></card>
+		<card><name>Savings and Loans</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Bank of England</name><set>Limited</set></card>
+		<card><name>Center for Weird Studies</name><set>Limited</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Fnord Motor Company</name><set>Limited</set></card>
+		<card><name>I.R.S.</name><set>Limited</set></card>
+		<card><name>Mossad</name><set>Limited</set></card>
+		<card><name>NASA</name><set>Limited</set></card>
+		<card><name>Nuclear Power Companies</name><set>Limited</set></card>
+		<card><name>Offshore Banks</name><set>Limited</set></card>
+		<card><name>Suicide Squad</name><set>Limited</set></card>
+		<card><name>Supreme Court</name><set>Limited</set></card>
+		<card><name>Wall Street</name><set>Limited</set></card>
+		<card><name>Xanadu</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Backlash</name><set>Limited</set></card>
+		<card><name>Currency Speculation</name><set>Limited</set></card>
+		<card><name>Currency Speculation</name><set>Limited</set></card>
+		<card><name>Deasil Engine</name><set>Limited</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Grassroots Support</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Lawyers</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Meteor Strike</name><set>Limited</set></card>
+		<card><name>Mob Influence</name><set>Limited</set></card>
+		<card><name>Nationalization</name><set>Limited</set></card>
+		<card><name>Chicken in Every Pot</name><set>Limited</set></card>
+		<card><name>Chicken in Every Pot</name><set>Limited</set></card>
+		<card><name>Military-Industrial Complex</name><set>Limited</set></card>
+		<card><name>Military-Industrial Complex</name><set>Limited</set></card>
+		<card><name>Power For Its Own Sake</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Senate Investigating Committee</name><set>Limited</set></card>
+		<card><name>Sniper</name><set>Limited</set></card>
+		<card><name>Straighten Up</name><set>Limited</set></card>
+		<card><name>The Auditor From Hell</name><set>Limited</set></card>
+		<card><name>The Auditor From Hell</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+	</superzone>
+</deck>

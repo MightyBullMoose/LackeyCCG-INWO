@@ -1,0 +1,182 @@
+The Superman Deck
+by Martin Lærkes
+
+Faster than a speeding bullet. More powerful than a locomotive. Able to leap to
+victory in a single bound.
+Card Data
+Illuminati:
+
+    Shangri-La
+
+Groups:
+
+    Church of Middle America
+    Dittoheads
+    Gay Activists
+    Japan
+    Lama Ramadingdong
+    New York
+    Princess Di
+
+Resources:
+
+    The Big Prawn
+    Center for Weird Studies
+    Orbital Mind Control Lasers
+
+Plots:
+
+    Attitude Mutation
+    Charismatic Leader x2
+    Citizenship Award x2
+    Forgery
+    Grassroots Support x2
+    Goal: Arise!
+    NWO: Chicken in Every Pot x3
+    NWO: Law and Order x3
+    NWO: Peace in Our Time x3
+    Monopoly x2
+    More Slack!
+    Nobel Peace Prize x3
+    Savings & Loans Scam x2
+    Self Esteem x2
+    X-Day
+    Beach Party
+    Good Polls
+    NWO: Kinder and Gentler x3
+
+Strategy
+The Plan
+
+    Shangri-La was my illuminati of choice back when I started playing INWO. At
+first, I thought it very hard to reach 30 power, because only 1 Nobel Peace
+Prize was allowed to be in play. Then my brother pointed out that any of the
+power-ups will do, as long as you're using peaceful groups with multiple
+alignments. If all your groups have power 6 (or more), then you can win with
+very few groups in play.
+
+    I believe that the goals that are independent of the basic goal ought to be
+changed, because goals that let you win with very few groups on the table are
+prone to abuse. It has been said in defence of these goals, that such 2-turn
+speed monsters are not flawless, and if they are foiled, they have no way of
+recovering.
+    That is mostly true - but not when it comes to Shangri-La.
+
+    The Superman deck can regularly achieve victory by turn 2. However, if this
+is foiled, the deck is able to come back several times before finally giving up.
+
+Opening Game
+
+    Check out your 3 plots - hopefully you have a power-up, maybe even 2. If you
+do have one, lead with a group that will be able to play that power-up. Your
+likely leads are Princess Di, Lama Ramadingdong and Church of Middle America. I
+prefer Di, then the Lama, because of the boost that they can get from
+Dittoheads. Look out for rival green decks though - they could turn the Lama
+into the top lead for you.
+
+    If you don't have a power-up, then Japan is probably your best lead. Don't
+bounce Japan! If there is a Network player present, who you know is likely to
+lead with Japan, then let him have Japan! Remember, that's 6 points of power for
+you right there in his power structure.
+
+Midgame
+
+    Your first ATO depends on your plot hand. Anything that can be boosted with
+a power-up, or anything that matches an NWO on your hand is preferable. If you
+have neither NWO or power-up, then Dittoheads aren't bad. They give a power
+increase to their master, and will have lots of alignments for future power-ups.
+
+    Play any power-ups that you have on your first turn, because at this point
+they can not be cancelled. You can do the same with your NWOs. Don't be afraid
+to spend your tokens playing power-ups this early. The power-ups will probably
+be worth more than your token when defending against attacks to destroy, and if
+somebody steals your groups - big deal!
+
+    Spend your illuminati action to ATO the Orbital Mind Control Lasers if you
+have them.
+
+    On your second turn, you should ATO New York, and then take over the Big
+Prawn, making it peaceful and doubling it's power. Then use your OMCL token to
+turn a rivals high-power group (Clone Arrangers, anyone?) peaceful. If you
+either New York or Big Prawn is the one card left in the group deck, then ATO a
+group and Center for Weird Studies, so that you can use the OMCLs twice.
+    At this point you'll probably have reached 30 peaceful power. And you've
+still got most of your tokens and perhaps some NWOs left.
+
+End Game/Potential Problems
+
+    OK, this deck is so fast that it's first shot at victory can hardly be
+called an endgame. Should something go wrong, then your real endgame begins. If
+you just don't get the right cards, then don't panic - reaching your goal on
+turn 3 isn't too shabby.
+    If someone else gets New York first, you should use the Big Prawn on Japan,
+and be satisfied to turn New York peaceful with the OMCLs, or perhaps a Kinder &
+Gentler. If somebody else has the Prawn, then Center for Weird Studies is also a
+magnificent long term resource, which will allow you to use the OMCLs twice on
+the same turn. Again, take comfort in the fact that a powerful Prawned place is
+an excellent target for your pacifying cards. Speaking of big groups with
+doubled power: Keep your eyes peeled for any magic group using the Necronomicon,
+since they will not lose power when turned peaceful.
+
+    Should OMCLs be destroyed, then Gay Activist may serve as a good back up,
+and can too benefit from an extra token from the Center for Weird Studies.
+Naturally, your rivals need to have high-power violent groups for this to work,
+but usually those aren't in short demand. If someone else has the OMCLs, then
+that will be a problem - but you can still acquire the necessary power to win,
+and Forgery may also help you out of this sticky situation.
+
+    You should be able to make ATO + power-ups for several turns, creating quite
+a few power 6 peaceful groups. OMCLs, Gay Activists, Center for Weird Studies
+and Kinder & Gentler should keep you in the game even if your rivals really tear
+into you. If they decide to kill you off entirely, then Goal: Arise! can turn it
+to your advantage.
+
+    Finally, remember that Shangri-La is probably the best illuminati when it
+comes to shared victories - you can literally give away your (peaceful) groups
+and still win with them! Also, a number of rivals might be interested in all
+your spare power-ups, so if all else fails, strike a deal.
+
+Variants and Substitutions
+
+    The deck was created using low rarity cards: 28 commons, 10 uncommons, 5
+subgenius cards (from a single set), and a single rare card. The deck can be
+made even more powerful by adding more rares, but I deliberately wanted to
+create a version that most players should be able to either build or trade their
+way into.
+
+    The most important card is probably the rare big prawn. The subgenius cards
+aren't vital to the deck, and it shouldn't be too hard finding good substitutes.
+The multi-alignment groups are good, but the deck can run pretty smoothly
+without them. Telephone psychics (along with 2 Mob Connections) could work just
+fine. Trekkies is also good (*cough*-*splutter*) - just add 2 Weird Turn Pros.
+If you've got a subgenius set or 2, and no Dittoheads, then 'Frop Farm will work
+well with Church of Middle America, a 13013 or two, and Eternal Salvation or
+Triple Your Money Back.
+    Finally, Vatican City and A.M.A. are pretty good off the shelf peaceful
+groups, and California is a decent substitute for New York.
+
+    As for the NWOs, use the ones that add power to any non-violent groups, and
+avoid the ones that subtract power from basically anything! Actually, Political
+Correctness is probably better than Peace in Our Time in this respect, but I
+went with the common card.
+
+    Finally, a few rare cards are worth mentioning:
+        Messiah will add quite a bit of power at absolutely no cost - awesome.
+        Canada is also great. It can slurp up Lama Ramadingdong, it has 3
+alignments, it will add to the Lama's power, and it benefits from Chicken in
+Every Pot. If you've got Canada, then consider replacing some Peace in Our Times
+with Political Correctness'.
+        Supreme Court, along with Canada could turn the deck into a peaceful
+government deck, which would then benefit greatly from Clipper Chip.
+        Cover of Darkness and Deasil Engine will help you protect (or destroy)
+the Orbital Mind Control Lasers.
+        Unmasked, along with another Shangri-La is a powerful bargaining chip
+when trying to set up a shared victory, but this clever ploy might actually be
+too slow for this deck.
+        Grosse Magier - not exactly rare, jut hard to get - is a peaceful magic
+card, and can become huge with the help of the Necronomicon, and possibly a
+Celebrity Spokesman. Sufficiently Advanced Technology will make a peaceful
+science group eligible for the Necronomicon, but that may be too much hassle.
+    And that's that, really. Peace in Our Time!
+
+Back to Deck of the Week

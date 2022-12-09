@@ -1,0 +1,142 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Shared Groups">	
+		<card><name>Al Amarja</name><set>Assassins</set></card>
+		<card><name>Australia</name><set>Assassins</set></card>
+		<card><name>Boy Sprouts</name><set>Limited</set></card>
+		<card><name>Brazil</name><set>Limited</set></card>
+		<card><name>California</name><set>Limited</set></card>
+		<card><name>Canada</name><set>Limited</set></card>
+		<card><name>Center for Disease Control</name><set>Limited</set></card>
+		<card><name>China</name><set>Limited</set></card>
+		<card><name>Cycle Gangs</name><set>Limited</set></card>
+		<card><name>Dallas Catacombs</name><set>Subgenius</set></card>
+		<card><name>Dinosaur Park</name><set>Limited</set></card>
+		<card><name>Dokstok</name><set>Subgenius</set></card>
+		<card><name>Druids</name><set>Limited</set></card>
+		<card><name>England</name><set>Limited</set></card>
+		<card><name>Finland</name><set>Limited</set></card>
+		<card><name>Flat Earthers</name><set>Limited</set></card>
+		<card><name>France</name><set>Limited</set></card>
+		<card><name>General Disorder</name><set>Assassins</set></card>
+		<card><name>Germany</name><set>Limited</set></card>
+		<card><name>The Great Pyramid</name><set>Limited</set></card>
+		<card><name>Hawaii</name><set>Limited</set></card>
+		<card><name>Illuminati University</name><set>Assassins</set></card>
+		<card><name>International Weather Organization</name><set>Limited</set></card>
+		<card><name>Israel</name><set>Limited</set></card>
+		<card><name>Italy</name><set>Limited</set></card>
+		<card><name>Japan</name><set>Limited</set></card>
+		<card><name>Las Vegas</name><set>Limited</set></card>
+		<card><name>Libertarians</name><set>Limited</set></card>
+		<card><name>Margaret Thatcher</name><set>Limited</set></card>
+		<card><name>Moonbase</name><set>Limited</set></card>
+		<card><name>NATO</name><set>Limited</set></card>
+		<card><name>New York</name><set>Limited</set></card>
+		<card><name>Orbit One</name><set>Limited</set></card>
+		<card><name>OPEC</name><set>Limited</set></card>
+		<card><name>Pentagon</name><set>Limited</set></card>
+		<card><name>Red Cross</name><set>Limited</set></card>
+		<card><name>Robot Sea Monsters</name><set>Limited</set></card>
+		<card><name>Russia</name><set>Limited</set></card>
+		<card><name>Saucer Landing Strip</name><set>Subgenius</set></card>
+		<card><name>Silicon Valley</name><set>Limited</set></card>
+		<card><name>Stonehenge</name><set>Limited</set></card>
+		<card><name>Survivalists</name><set>Limited</set></card>
+		<card><name>Texas</name><set>Limited</set></card>
+		<card><name>United Nations</name><set>Limited</set></card>
+		<card><name>Vatican City</name><set>Limited</set></card>
+		<card><name>Earthquake Projector</name><set>Limited</set></card>
+		<card><name>Earthquake Projector</name><set>Limited</set></card>
+		<card><name>Loch Ness Monster</name><set>Limited</set></card>
+		<card><name>Mercenaries</name><set>Limited</set></card>
+		<card><name>Midas Mill</name><set>Limited</set></card>
+		<card><name>Rogue Boomer</name><set>Limited</set></card>
+		<card><name>Rogue Boomer</name><set>Limited</set></card>
+		<card><name>The Holy Grail</name><set>Limited</set></card>
+		<card><name>Weather Satellite</name><set>Limited</set></card>
+		<card><name>Killer Satellite</name><set>Assassins</set></card>
+		<card><name>Power Satellite</name><set>Assassins</set></card>
+		<card><name>The Big Prawn</name><set>Assassins</set></card>
+	</superzone>	
+	<superzone name="Shared Plots">	
+		<card><name>Atomic Monster</name><set>Limited</set></card>
+		<card><name>Earthquake</name><set>Limited</set></card>
+		<card><name>Epidemic</name><set>Limited</set></card>
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Hurricane</name><set>Limited</set></card>
+		<card><name>Meteor Strike</name><set>Limited</set></card>
+		<card><name>Nuclear Accident</name><set>Limited</set></card>
+		<card><name>Plague of Demons</name><set>Limited</set></card>
+		<card><name>Rain of Frogs</name><set>Limited</set></card>
+		<card><name>The Oregon Crud</name><set>Limited</set></card>
+		<card><name>Tidal Wave</name><set>Limited</set></card>
+		<card><name>Tornado</name><set>Limited</set></card>
+		<card><name>Volcano</name><set>Limited</set></card>
+		<card><name>Kill for Peace!</name><set>Limited</set></card>
+		<card><name>Let Them Eat Cake!</name><set>Limited</set></card>
+		<card><name>Power to the People</name><set>Limited</set></card>
+		<card><name>The Hand of Madness</name><set>Limited</set></card>
+		<card><name>Air Magic</name><set>Limited</set></card>
+		<card><name>Albino Alligators</name><set>Limited</set></card>
+		<card><name>Annual Convention</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Blitzkrieg</name><set>Limited</set></card>
+		<card><name>Bribery</name><set>Limited</set></card>
+		<card><name>Cold Fusion</name><set>Limited</set></card>
+		<card><name>Combined Disasters</name><set>Limited</set></card>
+		<card><name>Combined Disasters</name><set>Limited</set></card>
+		<card><name>Corruption</name><set>Limited</set></card>
+		<card><name>Corruption</name><set>Limited</set></card>
+		<card><name>Dictatorship</name><set>Limited</set></card>
+		<card><name>Early Warning</name><set>Limited</set></card>
+		<card><name>Earth Magic</name><set>Limited</set></card>
+		<card><name>Infobahn</name><set>Limited</set></card>
+		<card><name>Ketchup is a Vegetable</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Privatization</name><set>Limited</set></card>
+		<card><name>Revolution!</name><set>Limited</set></card>
+		<card><name>Rewriting History</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Stock Split</name><set>Limited</set></card>
+		<card><name>Sucked Dry and Cast Aside!</name><set>Limited</set></card>
+		<card><name>Swiss Bank Account</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>the Big Score</name><set>Limited</set></card>
+		<card><name>The Second Bullet</name><set>Limited</set></card>
+		<card><name>Upheaval!</name><set>Limited</set></card>
+		<card><name>Volunteer Aid</name><set>Limited</set></card>
+		<card><name>World Cup Victory</name><set>Limited</set></card>
+		<card><name>Drought</name><set>Assassins</set></card>
+		<card><name>Flesh-Eating Bacteria</name><set>Assassins</set></card>
+		<card><name>No Beer!</name><set>Assassins</set></card>
+		<card><name>Oil Spill</name><set>Assassins</set></card>
+		<card><name>Earth First!</name><set>Assassins</set></card>
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Beach Party</name><set>Assassins</set></card>
+		<card><name>Defection</name><set>Assassins</set></card>
+		<card><name>Frankenfood</name><set>Assassins</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+		<card><name>Sorry, Wrong Number</name><set>Assassins</set></card>
+		<card><name>This Was Only a Test</name><set>Assassins</set></card>
+		<card><name>Truck Bomb</name><set>Assassins</set></card>
+		<card><name>You Are What You Eat</name><set>Assassins</set></card>
+		<card><name>Bulldada</name><set>Subgenius</set></card>
+		<card><name>Robo "Bob"</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

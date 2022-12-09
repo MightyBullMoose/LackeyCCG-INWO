@@ -1,0 +1,9 @@
+<version>
+
+<lastupdateYYMMDD>221208</lastupdateYYMMDD>
+<quality>HIGH</quality>
+<versionurl>https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/updatelist.txt</updateurl>
+<message></message>
+
+</version>

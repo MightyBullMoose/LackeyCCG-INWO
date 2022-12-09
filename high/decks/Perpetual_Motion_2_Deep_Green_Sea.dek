@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Bermuda Triangle</name><set>Limited</set></card>
+		<card><name>Al Gore</name><set>Limited</set></card>
+		<card><name>Canada</name><set>Limited</set></card>
+		<card><name>Feminists</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Anti-Nuclear Activists</name><set>Limited</set></card>
+		<card><name>Big Media</name><set>Limited</set></card>
+		<card><name>Black Activists</name><set>Limited</set></card>
+		<card><name>California</name><set>Limited</set></card>
+		<card><name>CFL-AIO</name><set>Limited</set></card>
+		<card><name>Midas Mill</name><set>Limited</set></card>
+		<card><name>Moral Minority</name><set>Limited</set></card>
+		<card><name>Princess Di</name><set>Limited</set></card>
+		<card><name>Saturday Morning Cartoons</name><set>Limited</set></card>
+		<card><name>Semiconscious Liberation Army</name><set>Limited</set></card>
+		<card><name>Suicide Squad</name><set>Limited</set></card>
+		<card><name>Underground Newspapers</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Agent in Place</name><set>Limited</set></card>
+		<card><name>Backlash</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Blitzkrieg</name><set>Limited</set></card>
+		<card><name>Blood, Toil, Tears and Sweat</name><set>Limited</set></card>
+		<card><name>Corruption</name><set>Limited</set></card>
+		<card><name>Eat the Rich!</name><set>Limited</set></card>
+		<card><name>Epidemic</name><set>Limited</set></card>
+		<card><name>Exposed!</name><set>Limited</set></card>
+		<card><name>Head in a Jar</name><set>Limited</set></card>
+		<card><name>Let's Get REALLY Organized</name><set>Limited</set></card>
+		<card><name>Liberal Agenda</name><set>Limited</set></card>
+		<card><name>Messiah</name><set>Limited</set></card>
+		<card><name>Mob Influence</name><set>Limited</set></card>
+		<card><name>Power Corrupts</name><set>Limited</set></card>
+		<card><name>Privatization</name><set>Limited</set></card>
+		<card><name>Privileged Attack</name><set>Limited</set></card>
+		<card><name>Pulitzer Prize</name><set>Limited</set></card>
+		<card><name>Resistance is Useless!</name><set>Limited</set></card>
+		<card><name>Save the Whales</name><set>Limited</set></card>
+		<card><name>Seize the Time!</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+		<card><name>Stealing the Plans</name><set>Limited</set></card>
+		<card><name>The Big Sellout</name><set>Limited</set></card>
+		<card><name>Tidal Wave</name><set>Limited</set></card>
+		<card><name>The Hand of Madness</name><set>Limited</set></card>
+		<card><name>A Thousand Points of Light</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>World War 3</name><set>Limited</set></card>
+	</superzone>
+</deck>

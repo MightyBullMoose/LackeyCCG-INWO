@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Gnomes of Zurich</name><set>Limited</set></card>
+		<card><name>I.R.S.</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>B.A.T.F.</name><set>Limited</set></card>
+		<card><name>Bank of England</name><set>Limited</set></card>
+		<card><name>Federal Reserve</name><set>Limited</set></card>
+		<card><name>International Cocaine Smugglers</name><set>Limited</set></card>
+		<card><name>Lawyers</name><set>Limited</set></card>
+		<card><name>Loan Sharks</name><set>Limited</set></card>
+		<card><name>MI-5</name><set>Limited</set></card>
+		<card><name>Offshore Banks</name><set>Limited</set></card>
+		<card><name>Savings and Loans</name><set>Limited</set></card>
+		<card><name>The Mafia</name><set>Limited</set></card>
+		<card><name>Manuel Noriega</name><set>Limited</set></card>
+		<card><name>Saddam Hussein</name><set>Limited</set></card>
+		<card><name>New York</name><set>Limited</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Soulburner</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>An Offer you can't Refuse</name><set>Limited</set></card>
+		<card><name>An Offer you can't Refuse</name><set>Limited</set></card>
+		<card><name>Blitzkrieg</name><set>Limited</set></card>
+		<card><name>Blitzkrieg</name><set>Limited</set></card>
+		<card><name>Chicken in Every Pot</name><set>Limited</set></card>
+		<card><name>Criminal Overlords</name><set>Limited</set></card>
+		<card><name>Criminal Overlords</name><set>Limited</set></card>
+		<card><name>Currency Speculation</name><set>Limited</set></card>
+		<card><name>Currency Speculation</name><set>Limited</set></card>
+		<card><name>Currency Speculation</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Privileged Attack</name><set>Limited</set></card>
+		<card><name>Privileged Attack</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>The Auditor From Hell</name><set>Limited</set></card>
+		<card><name>The Auditor From Hell</name><set>Limited</set></card>
+		<card><name>The Auditor From Hell</name><set>Limited</set></card>
+		<card><name>The Auditor From Hell</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+	</superzone>
+</deck>

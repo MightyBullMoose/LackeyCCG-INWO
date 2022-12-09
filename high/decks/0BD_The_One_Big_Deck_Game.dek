@@ -1,0 +1,433 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Adepts of Hermes</name><set>Limited</set></card>
+		<card><name>Adepts of Hermes</name><set>Limited</set></card>
+		<card><name>Adepts of Hermes</name><set>Limited</set></card>
+		<card><name>Bavarian Illuminati</name><set>Limited</set></card>
+		<card><name>Bavarian Illuminati</name><set>Limited</set></card>
+		<card><name>Bavarian Illuminati</name><set>Limited</set></card>
+		<card><name>Bermuda Triangle</name><set>Limited</set></card>
+		<card><name>Bermuda Triangle</name><set>Limited</set></card>
+		<card><name>Bermuda Triangle</name><set>Limited</set></card>
+		<card><name>Discordian Society</name><set>Limited</set></card>
+		<card><name>Discordian Society</name><set>Limited</set></card>
+		<card><name>Discordian Society</name><set>Limited</set></card>
+		<card><name>Gnomes of Zurich</name><set>Limited</set></card>
+		<card><name>Gnomes of Zurich</name><set>Limited</set></card>
+		<card><name>Gnomes of Zurich</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>The Network</name><set>Limited</set></card>
+		<card><name>The Network</name><set>Limited</set></card>
+		<card><name>The Network</name><set>Limited</set></card>
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>UFOs</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Shared Groups">	
+		<card><name>Car Bomb</name><set>Limited</set></card>
+		<card><name>Hit and Run</name><set>Limited</set></card>
+		<card><name>Poison</name><set>Limited</set></card>
+		<card><name>Sniper</name><set>Limited</set></card>
+		<card><name>Withering Curse</name><set>Limited</set></card>
+		<card><name>Atomic Monster</name><set>Limited</set></card>
+		<card><name>Earthquake</name><set>Limited</set></card>
+		<card><name>Epidemic</name><set>Limited</set></card>
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Hurricane</name><set>Limited</set></card>
+		<card><name>Meteor Strike</name><set>Limited</set></card>
+		<card><name>Nuclear Accident</name><set>Limited</set></card>
+		<card><name>Plague of Demons</name><set>Limited</set></card>
+		<card><name>Rain of Frogs</name><set>Limited</set></card>
+		<card><name>The Oregon Crud</name><set>Limited</set></card>
+		<card><name>Tidal Wave</name><set>Limited</set></card>
+		<card><name>Tornado</name><set>Limited</set></card>
+		<card><name>Volcano</name><set>Limited</set></card>
+		<card><name>Criminal Overlords</name><set>Limited</set></card>
+		<card><name>Fratricide</name><set>Limited</set></card>
+		<card><name>Hail Eris!</name><set>Limited</set></card>
+		<card><name>Kill For Peace!</name><set>Limited</set></card>
+		<card><name>Let Them Eat Cake!</name><set>Limited</set></card>
+		<card><name>Power For Its Own Sake</name><set>Limited</set></card>
+		<card><name>Power To The People</name><set>Limited</set></card>
+		<card><name>The Corporate Masters</name><set>Limited</set></card>
+		<card><name>The Hand of Madness</name><set>Limited</set></card>
+		<card><name>Up Against The Wall!</name><set>Limited</set></card>
+		<card><name>A Thousand Points of Light</name><set>Limited</set></card>
+		<card><name>Chicken In Every Pot</name><set>Limited</set></card>
+		<card><name>Energy Crisis</name><set>Limited</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>World Hunger</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Peace In Our Time</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Solidarity</name><set>Limited</set></card>
+		<card><name>Tax Reform</name><set>Limited</set></card>
+		<card><name>Bigger Business</name><set>Limited</set></card>
+		<card><name>Don't Forget To Smash The State</name><set>Limited</set></card>
+		<card><name>Law and Order</name><set>Limited</set></card>
+		<card><name>Military-Industrial Complex</name><set>Limited</set></card>
+		<card><name>World War 3</name><set>Limited</set></card>
+		<card><name>18 1/2-Minute Gap</name><set>Limited</set></card>
+		<card><name>Agent In Place</name><set>Limited</set></card>
+		<card><name>Air Magic</name><set>Limited</set></card>
+		<card><name>Albino Alligators</name><set>Limited</set></card>
+		<card><name>Alternate Goals</name><set>Limited</set></card>
+		<card><name>An Offer You Can't Refuse</name><set>Limited</set></card>
+		<card><name>And STAY Dead!</name><set>Limited</set></card>
+		<card><name>Angst</name><set>Limited</set></card>
+		<card><name>Annual Convention</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Assertiveness Training</name><set>Limited</set></card>
+		<card><name>Backlash</name><set>Limited</set></card>
+		<card><name>Bank Merger</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Bimbo at Eleven</name><set>Limited</set></card>
+		<card><name>Blitzkrieg</name><set>Limited</set></card>
+		<card><name>Blood, Toil, Tears and Sweat</name><set>Limited</set></card>
+		<card><name>Bodyguard</name><set>Limited</set></card>
+		<card><name>Botched Contact</name><set>Limited</set></card>
+		<card><name>Bribery</name><set>Limited</set></card>
+		<card><name>Celebrity Spokesman</name><set>Limited</set></card>
+		<card><name>Censorship</name><set>Limited</set></card>
+		<card><name>Charismatic Leader</name><set>Limited</set></card>
+		<card><name>Citizenship Award</name><set>Limited</set></card>
+		<card><name>Cold Fusion</name><set>Limited</set></card>
+		<card><name>Combined Disasters</name><set>Limited</set></card>
+		<card><name>Commitment</name><set>Limited</set></card>
+		<card><name>Computer Security</name><set>Limited</set></card>
+		<card><name>Computer Virus</name><set>Limited</set></card>
+		<card><name>Corruption</name><set>Limited</set></card>
+		<card><name>Counterspell</name><set>Limited</set></card>
+		<card><name>Cover of Darkness</name><set>Limited</set></card>
+		<card><name>Cover-Up</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Currency Speculation</name><set>Limited</set></card>
+		<card><name>Deasil Engine</name><set>Limited</set></card>
+		<card><name>Deep Agent</name><set>Limited</set></card>
+		<card><name>Dictatorship</name><set>Limited</set></card>
+		<card><name>Dollars for Decency</name><set>Limited</set></card>
+		<card><name>Double-Cross</name><set>Limited</set></card>
+		<card><name>Early Warning</name><set>Limited</set></card>
+		<card><name>Earth Magic</name><set>Limited</set></card>
+		<card><name>Eat The Rich!</name><set>Limited</set></card>
+		<card><name>Embezzlement</name><set>Limited</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>Exposed!</name><set>Limited</set></card>
+		<card><name>Flower Power</name><set>Limited</set></card>
+		<card><name>Fnord!</name><set>Limited</set></card>
+		<card><name>Foiled!</name><set>Limited</set></card>
+		<card><name>Freaking The Mundanes</name><set>Limited</set></card>
+		<card><name>Full Moon</name><set>Limited</set></card>
+		<card><name>Fundie Money</name><set>Limited</set></card>
+		<card><name>Gang War</name><set>Limited</set></card>
+		<card><name>George the Janitor</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Grassroots Support</name><set>Limited</set></card>
+		<card><name>Gremlins</name><set>Limited</set></card>
+		<card><name>Harmonica Virgins</name><set>Limited</set></card>
+		<card><name>Hat Trick</name><set>Limited</set></card>
+		<card><name>Head In A Jar</name><set>Limited</set></card>
+		<card><name>Hex</name><set>Limited</set></card>
+		<card><name>Hidden Influence</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>I Lied</name><set>Limited</set></card>
+		<card><name>Infobahn</name><set>Limited</set></card>
+		<card><name>Interference</name><set>Limited</set></card>
+		<card><name>Jake Day</name><set>Limited</set></card>
+		<card><name>Jihad</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Ketchup Is A Vegetable</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>Let's Get Organized</name><set>Limited</set></card>
+		<card><name>Let's Get REALLY Organized</name><set>Limited</set></card>
+		<card><name>Let's You and Him Fight</name><set>Limited</set></card>
+		<card><name>Liberal Agenda</name><set>Limited</set></card>
+		<card><name>Logic Bomb</name><set>Limited</set></card>
+		<card><name>March On Washington</name><set>Limited</set></card>
+		<card><name>Market Manipulation</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Mass Murder</name><set>Limited</set></card>
+		<card><name>Media Connections</name><set>Limited</set></card>
+		<card><name>Messiah</name><set>Limited</set></card>
+		<card><name>Miracle Diet Plan</name><set>Limited</set></card>
+		<card><name>Mistaken Identity</name><set>Limited</set></card>
+		<card><name>Mob Influence</name><set>Limited</set></card>
+		<card><name>Monopoly</name><set>Limited</set></card>
+		<card><name>Mothers' March</name><set>Limited</set></card>
+		<card><name>Murphy's Law</name><set>Limited</set></card>
+		<card><name>Mutual Betrayal</name><set>Limited</set></card>
+		<card><name>Nationalization</name><set>Limited</set></card>
+		<card><name>Never Surrender</name><set>Limited</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>New Federal Budget</name><set>Limited</set></card>
+		<card><name>Nice Idea. It's Mine Now.</name><set>Limited</set></card>
+		<card><name>Nobel Peace Prize</name><set>Limited</set></card>
+		<card><name>Opportunity Knocks</name><set>Limited</set></card>
+		<card><name>Pledge Drive</name><set>Limited</set></card>
+		<card><name>Power Corrupts</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Privatization</name><set>Limited</set></card>
+		<card><name>Privileged Attack</name><set>Limited</set></card>
+		<card><name>Pulitzer Prize</name><set>Limited</set></card>
+		<card><name>Reach Out . . .</name><set>Limited</set></card>
+		<card><name>Read My Lips</name><set>Limited</set></card>
+		<card><name>Red Scare</name><set>Limited</set></card>
+		<card><name>Reload!</name><set>Limited</set></card>
+		<card><name>Reorganization</name><set>Limited</set></card>
+		<card><name>Resistance Is Useless!</name><set>Limited</set></card>
+		<card><name>Revolution!</name><set>Limited</set></card>
+		<card><name>Rewriting History</name><set>Limited</set></card>
+		<card><name>Sabotage</name><set>Limited</set></card>
+		<card><name>Save the Whales</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Scandal</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant To Know</name><set>Limited</set></card>
+		<card><name>Seize The Time!</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+		<card><name>Senate Investigating Committee</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Spasm of Violence</name><set>Limited</set></card>
+		<card><name>Stealing The Plans</name><set>Limited</set></card>
+		<card><name>Stock Split</name><set>Limited</set></card>
+		<card><name>Straighten Up</name><set>Limited</set></card>
+		<card><name>Sucked Dry And Cast Aside!</name><set>Limited</set></card>
+		<card><name>Sweeping Reforms</name><set>Limited</set></card>
+		<card><name>Sweepstakes Prize</name><set>Limited</set></card>
+		<card><name>Swiss Bank Account</name><set>Limited</set></card>
+		<card><name>Talisman of Ahrimanes</name><set>Limited</set></card>
+		<card><name>Tax Breaks</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>The Auditor from Hell</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+		<card><name>The Big Sellout</name><set>Limited</set></card>
+		<card><name>The First Thing We Do, Let's Kill All The Lawyers</name><set>Limited</set></card>
+		<card><name>The Internet Worm</name><set>Limited</set></card>
+		<card><name>The Second Bullet</name><set>Limited</set></card>
+		<card><name>The Stars are Right</name><set>Limited</set></card>
+		<card><name>The Weak Link</name><set>Limited</set></card>
+		<card><name>The Weird Turn Pro</name><set>Limited</set></card>
+		<card><name>Time Warp</name><set>Limited</set></card>
+		<card><name>Unlucky 13</name><set>Limited</set></card>
+		<card><name>Unmasked!</name><set>Limited</set></card>
+		<card><name>Upheaval!</name><set>Limited</set></card>
+		<card><name>Volunteer Aid</name><set>Limited</set></card>
+		<card><name>Voodoo Economics</name><set>Limited</set></card>
+		<card><name>Vultures</name><set>Limited</set></card>
+		<card><name>Whispering Campaign</name><set>Limited</set></card>
+		<card><name>World Cup Victory</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Shared Plots">	
+		<card><name>A.M.A.</name><set>Limited</set></card>
+		<card><name>American Autoduel Association</name><set>Limited</set></card>
+		<card><name>Anti-Nuclear Activists</name><set>Limited</set></card>
+		<card><name>Antiwar Activists</name><set>Limited</set></card>
+		<card><name>B.A.T.F.</name><set>Limited</set></card>
+		<card><name>Bank of England</name><set>Limited</set></card>
+		<card><name>Big Media</name><set>Limited</set></card>
+		<card><name>Black Activists</name><set>Limited</set></card>
+		<card><name>Boy Sprouts</name><set>Limited</set></card>
+		<card><name>C.I.A.</name><set>Limited</set></card>
+		<card><name>Cable TV</name><set>Limited</set></card>
+		<card><name>Cattle Mutilators</name><set>Limited</set></card>
+		<card><name>CFL-AIO</name><set>Limited</set></card>
+		<card><name>Church of Elvis</name><set>Limited</set></card>
+		<card><name>Clone Arrangers</name><set>Limited</set></card>
+		<card><name>Comic Books</name><set>Limited</set></card>
+		<card><name>Congressional Wives</name><set>Limited</set></card>
+		<card><name>Conspiracy Theorists</name><set>Limited</set></card>
+		<card><name>Cycle Gangs</name><set>Limited</set></card>
+		<card><name>Democrats</name><set>Limited</set></card>
+		<card><name>Dentists</name><set>Limited</set></card>
+		<card><name>Deprogrammers</name><set>Limited</set></card>
+		<card><name>Druids</name><set>Limited</set></card>
+		<card><name>Eco-Guerrillas</name><set>Limited</set></card>
+		<card><name>EFF</name><set>Limited</set></card>
+		<card><name>Elders of Zion</name><set>Limited</set></card>
+		<card><name>Empty Vee</name><set>Limited</set></card>
+		<card><name>Evil Geniuses for a Better Tomorrow</name><set>Limited</set></card>
+		<card><name>F.B.I.</name><set>Limited</set></card>
+		<card><name>Fast Food Chains</name><set>Limited</set></card>
+		<card><name>Federal Reserve</name><set>Limited</set></card>
+		<card><name>Feminists</name><set>Limited</set></card>
+		<card><name>Fiendish Fluoridators</name><set>Limited</set></card>
+		<card><name>Flat Earthers</name><set>Limited</set></card>
+		<card><name>Fnord Motor Company</name><set>Limited</set></card>
+		<card><name>Fraternal Orders</name><set>Limited</set></card>
+		<card><name>Fred Birch Society</name><set>Limited</set></card>
+		<card><name>Gay Activists</name><set>Limited</set></card>
+		<card><name>Girlie Magazines</name><set>Limited</set></card>
+		<card><name>Goldfish Fanciers</name><set>Limited</set></card>
+		<card><name>Gun Lobby</name><set>Limited</set></card>
+		<card><name>Hackers</name><set>Limited</set></card>
+		<card><name>I.R.S.</name><set>Limited</set></card>
+		<card><name>Intellectuals</name><set>Limited</set></card>
+		<card><name>International Cocaine Smugglers</name><set>Limited</set></card>
+		<card><name>International Communist Conspiracy</name><set>Limited</set></card>
+		<card><name>International Weather Organization</name><set>Limited</set></card>
+		<card><name>Joggers</name><set>Limited</set></card>
+		<card><name>Junk Mail</name><set>Limited</set></card>
+		<card><name>KKK</name><set>Limited</set></card>
+		<card><name>L-4 Society</name><set>Limited</set></card>
+		<card><name>Lawyers</name><set>Limited</set></card>
+		<card><name>Libertarians</name><set>Limited</set></card>
+		<card><name>Liquor Companies</name><set>Limited</set></card>
+		<card><name>Loan Sharks</name><set>Limited</set></card>
+		<card><name>Local Police Departments</name><set>Limited</set></card>
+		<card><name>Madison Avenue</name><set>Limited</set></card>
+		<card><name>MI-5</name><set>Limited</set></card>
+		<card><name>Moonies</name><set>Limited</set></card>
+		<card><name>Moral Minority</name><set>Limited</set></card>
+		<card><name>Mossad</name><set>Limited</set></card>
+		<card><name>Multinational Oil Companies</name><set>Limited</set></card>
+		<card><name>N.S.A.</name><set>Limited</set></card>
+		<card><name>NASA</name><set>Limited</set></card>
+		<card><name>NATO</name><set>Limited</set></card>
+		<card><name>Nephews of God</name><set>Limited</set></card>
+		<card><name>Ninjas</name><set>Limited</set></card>
+		<card><name>Nuclear Power Companies</name><set>Limited</set></card>
+		<card><name>Offshore Banks</name><set>Limited</set></card>
+		<card><name>OPEC</name><set>Limited</set></card>
+		<card><name>Paranoids</name><set>Limited</set></card>
+		<card><name>Phone Company</name><set>Limited</set></card>
+		<card><name>Phone Phreaks</name><set>Limited</set></card>
+		<card><name>Pollsters</name><set>Limited</set></card>
+		<card><name>Post Office</name><set>Limited</set></card>
+		<card><name>Professional Sports</name><set>Limited</set></card>
+		<card><name>Psychiatrists</name><set>Limited</set></card>
+		<card><name>Punk Rockers</name><set>Limited</set></card>
+		<card><name>Pyramid Marketing Schemes</name><set>Limited</set></card>
+		<card><name>Recording Industry</name><set>Limited</set></card>
+		<card><name>Red Cross</name><set>Limited</set></card>
+		<card><name>Reformed Church of Satan</name><set>Limited</set></card>
+		<card><name>Religious Reich</name><set>Limited</set></card>
+		<card><name>Republicans</name><set>Limited</set></card>
+		<card><name>Rifkinites</name><set>Limited</set></card>
+		<card><name>Robot Sea Monsters</name><set>Limited</set></card>
+		<card><name>Rosicrucians</name><set>Limited</set></card>
+		<card><name>S.M.O.F.</name><set>Limited</set></card>
+		<card><name>Saturday Morning Cartoons</name><set>Limited</set></card>
+		<card><name>Savings and Loans</name><set>Limited</set></card>
+		<card><name>Science Fiction Fans</name><set>Limited</set></card>
+		<card><name>Secret Service</name><set>Limited</set></card>
+		<card><name>Secular Humanists</name><set>Limited</set></card>
+		<card><name>Semiconscious Liberation Army</name><set>Limited</set></card>
+		<card><name>Society for Creative Anarchism</name><set>Limited</set></card>
+		<card><name>South American Nazis</name><set>Limited</set></card>
+		<card><name>Subliminals</name><set>Limited</set></card>
+		<card><name>Supreme Court</name><set>Limited</set></card>
+		<card><name>Survivalists</name><set>Limited</set></card>
+		<card><name>Tabloids</name><set>Limited</set></card>
+		<card><name>Telephone Psychics</name><set>Limited</set></card>
+		<card><name>Templars</name><set>Limited</set></card>
+		<card><name>The Mafia</name><set>Limited</set></card>
+		<card><name>The Men In Black</name><set>Limited</set></card>
+		<card><name>Tobacco Companies</name><set>Limited</set></card>
+		<card><name>Trading Card Games</name><set>Limited</set></card>
+		<card><name>Trekkies</name><set>Limited</set></card>
+		<card><name>Triliberal Commission</name><set>Limited</set></card>
+		<card><name>TV Preachers</name><set>Limited</set></card>
+		<card><name>Underground Newspapers</name><set>Limited</set></card>
+		<card><name>United Nations</name><set>Limited</set></card>
+		<card><name>Urban Gangs</name><set>Limited</set></card>
+		<card><name>Vampires</name><set>Limited</set></card>
+		<card><name>Video Games</name><set>Limited</set></card>
+		<card><name>Voudonistas</name><set>Limited</set></card>
+		<card><name>W.I.T.C.H.</name><set>Limited</set></card>
+		<card><name>Wall Street</name><set>Limited</set></card>
+		<card><name>Wargamers</name><set>Limited</set></card>
+		<card><name>Al Gore</name><set>Limited</set></card>
+		<card><name>Bill Clinton</name><set>Limited</set></card>
+		<card><name>Bjorne</name><set>Limited</set></card>
+		<card><name>Count Dracula</name><set>Limited</set></card>
+		<card><name>Dan Quayle</name><set>Limited</set></card>
+		<card><name>Elvis</name><set>Limited</set></card>
+		<card><name>Fidel Castro</name><set>Limited</set></card>
+		<card><name>George Bush</name><set>Limited</set></card>
+		<card><name>Gordo Remora</name><set>Limited</set></card>
+		<card><name>Hillary Clinton</name><set>Limited</set></card>
+		<card><name>Imelda Marcos</name><set>Limited</set></card>
+		<card><name>Jimmy Hoffa</name><set>Limited</set></card>
+		<card><name>Manuel Noriega</name><set>Limited</set></card>
+		<card><name>Margaret Thatcher</name><set>Limited</set></card>
+		<card><name>Media Sensation</name><set>Limited</set></card>
+		<card><name>Nancy Reagan</name><set>Limited</set></card>
+		<card><name>Ollie North</name><set>Limited</set></card>
+		<card><name>Prince Charles</name><set>Limited</set></card>
+		<card><name>Princess Di</name><set>Limited</set></card>
+		<card><name>Ronald Reagan</name><set>Limited</set></card>
+		<card><name>Ross Perot</name><set>Limited</set></card>
+		<card><name>Saddam Hussein</name><set>Limited</set></card>
+		<card><name>Brazil</name><set>Limited</set></card>
+		<card><name>California</name><set>Limited</set></card>
+		<card><name>Canada</name><set>Limited</set></card>
+		<card><name>Center for Disease Control</name><set>Limited</set></card>
+		<card><name>China</name><set>Limited</set></card>
+		<card><name>Dinosaur Park</name><set>Limited</set></card>
+		<card><name>England</name><set>Limited</set></card>
+		<card><name>Finland</name><set>Limited</set></card>
+		<card><name>France</name><set>Limited</set></card>
+		<card><name>Germany</name><set>Limited</set></card>
+		<card><name>Hawaii</name><set>Limited</set></card>
+		<card><name>Hollywood</name><set>Limited</set></card>
+		<card><name>Israel</name><set>Limited</set></card>
+		<card><name>Italy</name><set>Limited</set></card>
+		<card><name>Japan</name><set>Limited</set></card>
+		<card><name>Las Vegas</name><set>Limited</set></card>
+		<card><name>Moonbase</name><set>Limited</set></card>
+		<card><name>New York</name><set>Limited</set></card>
+		<card><name>Orbit One</name><set>Limited</set></card>
+		<card><name>Pentagon</name><set>Limited</set></card>
+		<card><name>Russia</name><set>Limited</set></card>
+		<card><name>Silicon Valley</name><set>Limited</set></card>
+		<card><name>Stonehenge</name><set>Limited</set></card>
+		<card><name>Switzerland</name><set>Limited</set></card>
+		<card><name>Texas</name><set>Limited</set></card>
+		<card><name>The Great Pyramid</name><set>Limited</set></card>
+		<card><name>Vatican City</name><set>Limited</set></card>
+		<card><name>Angel's Feather</name><set>Limited</set></card>
+		<card><name>Ark of the Covenant</name><set>Limited</set></card>
+		<card><name>Bigfoot</name><set>Limited</set></card>
+		<card><name>Book of Kells</name><set>Limited</set></card>
+		<card><name>Center for Weird Studies</name><set>Limited</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Crystal Skull</name><set>Limited</set></card>
+		<card><name>Cyborg Soldiers</name><set>Limited</set></card>
+		<card><name>Death Mask</name><set>Limited</set></card>
+		<card><name>Earthquake Projector</name><set>Limited</set></card>
+		<card><name>Eliza</name><set>Limited</set></card>
+		<card><name>Flying Saucer</name><set>Limited</set></card>
+		<card><name>Hallucinations</name><set>Limited</set></card>
+		<card><name>Hammer of Thor</name><set>Limited</set></card>
+		<card><name>Hidden City</name><set>Limited</set></card>
+		<card><name>Hitler's Brain</name><set>Limited</set></card>
+		<card><name>Immortality Serum</name><set>Limited</set></card>
+		<card><name>Loch Ness Monster</name><set>Limited</set></card>
+		<card><name>Mercenaries</name><set>Limited</set></card>
+		<card><name>Midas Mill</name><set>Limited</set></card>
+		<card><name>Necronomicon</name><set>Limited</set></card>
+		<card><name>Orbital Mind Control Lasers</name><set>Limited</set></card>
+		<card><name>Perpetual Motion Machine</name><set>Limited</set></card>
+		<card><name>Principia Discordia</name><set>Limited</set></card>
+		<card><name>Rogue Boomer</name><set>Limited</set></card>
+		<card><name>Shroud of Turin</name><set>Limited</set></card>
+		<card><name>Soulburner</name><set>Limited</set></card>
+		<card><name>Spear of Longinus</name><set>Limited</set></card>
+		<card><name>Suicide Squad</name><set>Limited</set></card>
+		<card><name>The Bronze Head</name><set>Limited</set></card>
+		<card><name>The Frog God</name><set>Limited</set></card>
+		<card><name>The Holy Grail</name><set>Limited</set></card>
+		<card><name>The Library at Alexandria</name><set>Limited</set></card>
+		<card><name>Warehouse 23</name><set>Limited</set></card>
+		<card><name>Weather Satellite</name><set>Limited</set></card>
+		<card><name>Xanadu</name><set>Limited</set></card>
+	</superzone>
+</deck>

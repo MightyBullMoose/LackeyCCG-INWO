@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Bermuda Triangle</name><set>Limited</set></card>
+		<card><name>Canada</name><set>Limited</set></card>
+		<card><name>Al Gore</name><set>Limited</set></card>
+		<card><name>Rosicrucians</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Anti-Nuclear Activists</name><set>Limited</set></card>
+		<card><name>California</name><set>Limited</set></card>
+		<card><name>Druids</name><set>Limited</set></card>
+		<card><name>EPA</name><set>Assassins</set></card>
+		<card><name>France</name><set>Limited</set></card>
+		<card><name>The Green Party</name><set>Assassins</set></card>
+		<card><name>Lama Ramadingdong</name><set>Assassins</set></card>
+		<card><name>Science Alarmists</name><set>Assassins</set></card>
+		<card><name>Weather Satellite</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Nuclear Accident</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Military-Industrial Complex</name><set>Limited</set></card>
+		<card><name>Are We Having Fun Yet?</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Combined Disasters</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Hat Trick</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Save the Whales</name><set>Limited</set></card>
+		<card><name>Save the Whales</name><set>Limited</set></card>
+		<card><name>Save the Whales</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Drought</name><set>Assassins</set></card>
+		<card><name>Drought</name><set>Assassins</set></card>
+		<card><name>Flesh-Eating Bacteria</name><set>Assassins</set></card>
+		<card><name>Oil spill</name><set>Assassins</set></card>
+		<card><name>Oil spill</name><set>Assassins</set></card>
+		<card><name>Population Reduction</name><set>Assassins</set></card>
+		<card><name>Population Reduction</name><set>Assassins</set></card>
+		<card><name>Global Warming</name><set>Assassins</set></card>
+		<card><name>Global Warming</name><set>Assassins</set></card>
+		<card><name>Global Warming</name><set>Assassins</set></card>
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Hubble Trouble</name><set>Assassins</set></card>
+	</superzone>
+</deck>

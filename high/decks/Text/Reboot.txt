@@ -1,0 +1,233 @@
+Reboot!
+
+by Kevin S. Tyrrell
+Introduction
+
+This deck fits the Classic INWO Deck category of "Network Computer-slurping"
+quite well. It's straightforward and kind of boring after you play it a couple
+times, but it grows phenomenally quickly with all those computer bonuses. In
+fact, a quick perusal of the cards reveals that there are currently more groups
+with bonuses to control Computer groups than any other alignment or attribute in
+the game. This is also a good beginner's deck since it is so straightforward,
+and teaches a lot about INWO math.
+The Deck
+Illuminati
+
+    The Network 
+
+Group Cards
+
+    E.F.F.
+    Finland
+    Hackers
+    International Weather Organization
+    Japan
+    Phone Company
+    Phone Phreaks
+    Science Fiction Fans
+    Silicon Valley
+    Video Games
+    Wargamers
+    Big Prawn, The
+    Clipper Chip
+    Eliza x2
+    Library at Alexandria 
+
+Plot Cards
+
+    Albino Alligators
+    The Auditor from Hell x2
+    Back to the Salt Mines
+    Bar Codes
+    Beach Party
+    Benefit Concert x2
+    Cold Fusion
+    Commitment
+    Computer Security x2
+    Computer Virus
+    Floating Point Error
+    Forgery
+    Hoax
+    Infobahn x3
+    The Internet Worm x2
+    Near Miss x2
+    Self-Esteem
+    The Weak Link
+    NWO Yellow: Antitrust Legislation
+    NWO Red: Political Correctness x2
+    NWO Blue: A Thousand Points of Light 
+
+Lead
+
+Lead with Phone Phreaks. Though weaker than some of your other groups, you don't
+want somebody else getting the Phreaks with that +6 bonus to destroy your
+Computer groups. To help protect the Phreaks, increase their Self-Esteem as soon
+as possible. And with such a low Resistance, reaffirming their Commitment to
+your cause is beneficial.
+
+The Hackers is popular with Discordia as well, since it counts double for them,
+too. They're a good alternate lead.
+
+Many Network players choose Japan as lead (as well as Shangri-La); it's a little
+obvious, but if another Network or Shangri-La is in the game, you might want to
+play it to bounce it for your opponent. And if someone else gets it first, you
+can always steal it with your huge bonuses to control Computer groups and your
+Japan agent.
+Beginning
+
+Since this deck lacks subtlety, your strategy is to build fast and furiously.
+You have nine groups with Computer control bonuses, so the more you grow, the
+higher the cumulative bonus will be. Two of these groups (Japan and E.F.F.) only
+have direct control bonuses, but the other seven support each other nicely. Your
+seven groups with "any attempt to control Computer" bonuses yield a cumulative
++27 bonus, so even a portion of this should allow you to control almost any
+Computer group from hand on a 10 or less without aid from other groups.
+
+Your only non-Computer group is the Science Fiction Fans, so you may want to ATO
+them. With its own +2 bonus and the +6 it gives its master, the resulting +8 on
+any attempt by its master to control Computer groups makes it a key group.
+
+In addition to its control bonus, Video Games gives +1 Power to all your other
+Computer groups, making it key as well.
+
+To get even more Computer bonuses, this time from a Resource, get the Library of
+Alexandria out as soon as possible for its additional +5. Or use Forgery if
+someone like the Adepts of Hermes gets it first.
+
+I've included two Elizas since they are not unique and can be linked to
+practically all your groups. Add more if you so desire, but, as Aaron Curtis
+suggested (in inwo-digest V1 #229), "to avoid the problem with Eliza crashing,
+just don't use their second token to make or aid an attack. You can still take
+over Resources, draw extra group cards, play plot cards and defend your groups
+with the extra token at no risk."
+Midgame
+
+The deck plays fairly isolationist (unless someone else gets out a Computer
+group you want, that is.) With all your slurping, you're going to be a good
+target early on. Grow quickly, but not so fast you denude yourself of Action
+tokens. Most of your Plot cards are defensive in nature to counteract the
+bulls-eye on your back.
+
+The +10 cards can all be reserved for defense, since you don't really need them
+for control with all your other bonuses. Since this is not a monochromatic deck,
+I didn't include the ubiquitous Good Polls, but the E.F.F. provides a similar
+bonus for your common attribute. The one alignment you do have most of is
+Liberal, which is the reason for including the Benefit Concerts, Self-Esteem,
+and Political Correctness. Doug Sheppard's Cyber Rights Now! Deck-of-the-Week is
+a good example of building on the Computer-Liberal connection.
+
+In addition to the the more common Hoax, Secrets MWNMTK, and 18-1/2 Minute Gap,
+a Computer deck can also use Computer Security for Plot canceling. With this
+deck, it will protect all groups except for the SF Fans, and is cheaper to use
+than the other cards mentioned. I have included a Hoax, however, to catch those
+cards, like NWOs, that Computer Security can't touch. And as Ralph Melton
+pointed out to me, "you want to be able to cancel other people's bids for
+victory" which Computer Security will probably be unable to do.
+
+With three places, Disaster protection is imperative. The International Weather
+Organization, one of the two groups that doesn't give a control bonus, helps do
+just that. Back To The Salt Mines helps against the non-instants and is
+reusable. One of my favorite combos to avert total destruction is Near Miss,
+followed up by Beach Party. Make sure you grin widely and thank your opponent
+for reloading your group if you pull this off. As a side note, you may be able
+to do better with 2- and 3-card combinations like this than other players since
+the Network gets that two-card draw each turn.
+
+The Clipper Chip is non-unique, is hard to get rid of, and also helps boost
+Japan and Finland. Its best help for this deck, however, is to protect against a
+rival-controlled Phone Phreaks. Big Prawn helps your Places and can take away
+that Peaceful alignment from Japan if Shangri-La is in the game, denying him 6
+points of Peaceful power.
+Other Strategies
+
+Since you get to go through your deck faster than other Illuminati, you can
+afford to play more Plot cards as a matter of course. Though many of your plots
+are defensive, a sub-theme of this deck is as a deck predator. The Network was
+chosen for several Decks of the Week, specifically for this Computer/deck
+predator theme. See Aaron Curtis' Double Predator and Attack of the Plot Bandits
+and Dan Myers' God Knows; We Can Find Out for more details.
+
+Plots that can be powered by a Computer group are The Auditor from Hell, Bar
+Codes, The Internet Worm. The Groups which support this are Wargamers and the
+Phone Company. A good trick is to expose rival Plots with the Auditor or Phone
+Company and then use Wargamers to bury the best card at the bottom of her deck
+(just hope she doesn't have Mossad or Shroud of Turin.) Computer Virus and The
+Weak Link are other useful Computer-powered Plots.
+
+Though Floating Point Error is usually bad for you, as it freezes most of your
+groups, it can also be powered by any of your groups to cancel a rival Computer
+action or to freeze rival groups in a defensive situation. And remember, most of
+the groups with bonuses to destroy your groups--Hackers, Phone Phreaks,
+Wargamers and Science Fiction Fans--are Computer groups themselves. (The one
+exception is the Rifkinites, which is thankfully rare.)
+
+The NWOs are included more to replace other harmful NWOs than for more offensive
+reasons. With your four Liberal groups, Political Correctness is a helpful power
+boost. A Thousand Points of Light does not affect you as much as others since
+you rely on attributes, not alignments, and can help slow down Cthulhu. I almost
+put in World Hunger to use against the Rifkinites, a key anti-Computer group,
+but it would also hurt Japan and Finland as well.
+
+You may want to include a Yellow NWO to counteract Don't Forget to Smash the
+State or End of the World from harming your Finland, Japan or Phone Company, but
+which one to include is a toss up. Military-Industrial Complex will give Phone
+Company +2 power along with Clipper Chip, and Antitrust Legislation gives you a
+free Reorganization. I chose the last as being most handy for this deck.
+
+A rival Network or a Blinded By Science deck will be going for the many of the
+same groups you are. In this situation, try to get out the Library of Alexandria
+early, slow down your own growth and use your agents and other bonuses to steal
+the groups from your rivals. With the +10 agent card and +5 rival Illuminati
+bonus, in some instances it may be easier to take a Computer group from a rival
+than from your own hand.
+Endgame
+
+You're going after the special Network goal; no need to hide that fact. With no
+other bonuses, Hackers, Japan, Phone Company, and Silicon Valley count double
+for your Illuminated goal. With Video Games or Clipper Chip, E.F.F. and Finland
+count double as well. In addition, Political Correctness brings all four of your
+Liberal groups into the 3+ range. With all these power boosters, you should have
+no problem getting three of your groups to count double.
+
+There are no real tricks to push this deck over the top to meet victory
+conditions. A combination of steady growth with a good supply of defensive Plot
+cards is what it takes to get you to the finish line first.
+
+And if all else fails, hit Ctrl+Alt+Del to Reboot!
+Variants and Substitutions
+
+With the International Weather Organization, you may want to include some
+Disasters. Since that detracted from the quick growth and other strategies, I
+decided against it.
+
+You could add two other Computer-Science groups like Moonbase, Orbit One or
+Robot Sea Monsters and go for Blinded By Science to make this deck REALLY
+obvious.
+
+When soliciting Classic decks, Ralph asked that we avoid rare cards, if
+possible, to help the novice player out. The rare groups in this deck are E.F.F.
+and Finland and could be substituted with Moonbase or Post Office, both of which
+count double for you, though neither of these grant Computer control bonuses.
+Orbit One is another good substitute, especially with your four Science groups.
+N.S.A. is a powerful and useful Computer group, but is also rare. Post Office
+and N.S.A. also support the deck predator sub-theme, by the way.
+
+The Big Prawn is a rare Resource and is not critical to this deck.
+
+As for rare plots, either or both Computer Securities can be replaced with
+another plot canceler like Secrets or Hoax; Military-Industrial Complex can sub
+for Antitrust Legislation. The Weak Link is harder to replace, since its closest
+substitute is Deasil Engine, another rare card.
+
+I originally considered adding Logic Bomb, in part because the picture on the
+card fit the theme and because it was suggested for the Network in the INWO
+book. It is rare, however, and as Ralph sagely advised, "Despite what the INWO
+book says, I'm not convinced that Logic Bomb is a good card for a deck like
+this. Even though it fits the theme, you don't have that many power-6 groups.
+IMHO, Auditor From Hell is a better Network card."
+Back to the Classic Decks.
+
+First posted: July 28, 1997
+
+Last modified: July 28, 1997
+Ralph Melton ralph@cs.cmu.edu

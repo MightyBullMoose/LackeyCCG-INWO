@@ -1,0 +1,179 @@
+Circle of "Obo"
+by Martin Laerkes
+
+Card Data
+Illuminati:
+
+    Bavarian Illuminati
+
+Groups:
+
+    Bill Clinton
+    Connie Dobbs
+    Genschman
+    Gordo Remora
+    Lyndon LaRouche
+    NHGH
+    Overman Philo Drummond
+    Rev. Ivan Stang
+    Secret FisTemples
+    Showmaster
+
+Resources:
+
+    Janor Device
+    Martyr Meter
+    Sacret Stencil
+
+Plots:
+
+    13013
+    Atomic Monster
+    Blood, Toil, Tears and Sweat x2
+    Censorship
+    Decency is OK
+    Devival
+    Eternal Salvation or Triple Your Money Back
+    Goal: The Anti-"Bob"
+    Grassroots Support
+    Hidden Influence
+    Jake Day
+    Just Say No
+    Media Connections
+    Messiah
+    Murphy's Law x2
+    NWO: Interesting Times
+    NWO: Law and Order
+    Official Divine All-Inclusive Excuse x2
+    Overman
+    Pulitzer Prize
+    Rant!
+    Rewriting History
+    Savings and Loans Scam
+    Scandal
+    Self-Esteem
+    Secrets Man was Not Meant to Know
+    Shordurpersav
+    Supreme Court Nomination
+
+Strategy
+The Plan
+
+    This is the third deck in the series featuring the goals from the SubGenius
+expansion, and this one focuses on one of the weakest goals in the game: The
+Anti-"Bob" (A"B"). The A"B" goal resembles the control/destroy goals, but
+without that crucial option of controlling less by destroying more, or the
+equally vital ability to destroy your own groups. Also, the required alignments
+and attributes are a poor match indeed. There aren't many SubGenius groups, few
+have high power, and most of them are weird, which doesn't mix too well with
+destroying other weird groups. Finally, by the time that you've accumulated 6
+SubGenius groups, Hail Eris and Brag of the SubGenius would probably both have
+put you at 10 groups already.
+
+    But there are also good news though. Exposing your goal gives you a free
+illuminati token, and once revealed the goal can not be lost - just like an
+illuminati goal. Furthermore, quite a few decks using no goal cards use the A"B"
+for the free token, so exposing it in a deck with just 2 SubGenius groups in
+play shouldn't alarm your rivals.
+
+    In order to have any chance of winning, this deck relies on deception. It is
+a personality heavy deck, which can use Showmaster to achieve Bavarias
+illuminated goal. However, it does pack the necessary cards to destroy the
+required rival groups, in which case you rely on Secret FisTemples (and Overman
+Philo Drummond) to turn your entire power structure SubGenius.
+
+Opening Game
+
+    Bill, Connie, Genschman or the Reverend are your best leads, but by all
+means go with whatever fits your starting plot hand, as long as you remember to
+keep Secret FisTemples and Overman Philo Drummond in reserve. Getting the Sacred
+Stencil into play is a top priority, especially if you're facing Cthulhu.
+
+    Expose your goal card at the first opportune moment. This will give you an
+extra illuminati token, while at the same time allowing you to have NHGH in
+play. 
+
+Midgame
+
+    A lot depends on what your rivals bring to the table, but it is probably a
+good idea to play towards your Bavaria goal, while keeping an eye peeled for
+juicy weird groups to destroy. The good thing about the Bavarian goal is that
+even if you don't actually complete it, lots of power is always good.
+
+    In reaching 50 power a few cards are essential: The power boosting plots
+naturally, but also the Showmaster, and Janor Device and Martyr Meter to
+increase his efficiency. Note that the Martyr Meter does not need to be linked,
+so can be used on Showmaster on the turn on which he is ATO'd. Lyndon LaRouche
+can also add a little power by copying the printed power of Bill Clinton, and
+can also enjoy the benefits of the Meter and the Janor Device.
+
+    The Showmaster can spend his tokens for a 4+ roll (3+ with the Janor Device)
+to double the printed power of a personality, making any of your power 3+
+personalities great targets for an appearance on his show. If you can double the
+power of Bill Clinton, then Lyndon also gets power 8, because he copies Bill's
+printed power.
+
+    If you fail the roll, then the target personality's printed power is reduced
+to 1 - so use a power-to-6 card to clean up your mess, and remember that
+Shordurpersav and Murphys Law will make a talk show appearance an almost instant
+success. Finally, note that while Supreme Court Nomination can provide a nasty
+surprise if timed correctly, it can also be used on one of your own
+personalities to make it Government and change its printed power to 4. This, of
+course, can be doubled to 8, giving Lyndon a back-up puppet if Bill should meet
+with an untimely end.
+
+End Game
+
+    If everything goes according to plan, then you should be within reach of
+your 50 power objective. However, if you take a beating, host some awful
+talkshows, or the opportunity presents itself, you can try for The Anti-"Bob"
+goal instead. You'll need to have 2 SubGenius personalities in play, and at
+least 3 other personalities. You also need to destroy 2 rival groups, preferably
+weird (or SubGenius) ones. Rewriting History can provide you with a weird group
+post mortem, and Jake Day can create a weird target, though this may give you
+away. An attack from Gordo Remora could make the Jake Day look less suspicious.
+
+    You have a few plots that require some media power, so use Showmaster, your
+power boosters, or a Media Connections (with a +10) to create some. Media
+Connections can also be used to create a target for a Censorship attack.
+Remember that Showmaster is media - errata has been issued. If a good target
+becomes available early on, you could use NHGH as a plot card for an extra +5 to
+destroy, just don't do it if you have revealed your goal card. Even if cancelled
+the NHGH will go to the hand of your rival (this has been netrep verified), and
+since your rival can not take control of NHGH unless he is also using The
+Anti-"Bob" goal, you'll probably get your NHGH card back sooner or later. But
+take care: A famous NHGH with a power of 10 is a big part of your play for
+Bavaria's goal.
+
+    Once you've acquired your kills, by trickery or brute force, ATO the Secret
+FisTemples, and move 3 non-SubGenius personalities to its control arrows. This
+will supply you with 4 extra SubGenius groups, hopefully enough to fulfil The
+Anti-"Bob" goal. 
+
+Potential Problems
+
+    This deck is not exactly powerful. While many things can go wrong, there are
+few things specific enough to mention here. If someone else uses the Secret
+FisTemples then you can't complete The Anti-"Bob" goal, and if you lose a few
+high power groups, or the Showmaster early on, then Bavaria's goal will be out
+of reach. That's why you have 2 unrelated goals: If one becomes impossible to
+achieve, then go for the other one and hope for the best. 
+
+Variants and Substitutions
+
+    You obviously need a SubGenius set to create a deck like this, but other
+than that, only Showmaster is vital to the deck. If you don't have him, then you
+should change the group composition, and perhaps make room for some power
+doubling resources. Alternatively, a deck with straight personalities and the
+right NWOs can also accumulate a lot of power, and work well together both when
+defending, and when attacking weird groups.
+
+    As for variants, almost any deck using The Anti-"Bob" would be better served
+with Brag of the SubGenius. One particularly silly version uses a weird Moonbase
+as a puppet of Overman Philo Drummond, with Philo linked back to it. Move Philo
+(and the Moonbase) to a rival power structure with Sudden European Vacation, and
+then blow up the Moonbase for 2 SubGenius kills in a rivals power structure. But
+again, if you had 2 groups to give away, then a conventional win would probably
+have been the better option, as would a Jake Day or two.
+
+Back to Deck of the Week

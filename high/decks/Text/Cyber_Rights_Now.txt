@@ -1,0 +1,119 @@
+INWO Deck: Cyber Rights Now!
+
+Concept: You are Steve Jackson Games, raided for GURPS Cyberpunk. You are Craig
+Neidorf, arrested for editing Phrack. You are technoliterate, you are mad, and
+you're NOT gonna take any more crap from Exon, Dole, or anyone!
+Illuminati
+
+    The Network 
+
+Groups
+
+    Big Media
+    Black Activists
+    EFF
+    Finland
+    France (x2)
+    Hackers
+    International Weather Organization
+    Orbit One
+    Phone Company
+    Phone Phreaks
+    Silicon Valley
+    Video Games (x2) 
+
+Resources
+
+    Library at Alexandria
+    Perpetual Motion Machine 
+
+Plots
+
+    Auditor From Hell
+    Backlash
+    Bavarian Illuminati
+    Benefit Concert (x2)
+    Cold Fusion
+    Computer Security
+    Double-Cross
+    Early Warning
+    Emergency Powers
+    George the Janitor
+    Hidden Influence
+    Infobahn (x2)
+    Liberal Agenda (x2)
+    Market Manipulation
+    Meteor Strike
+    Murphy's Law
+    Nuclear Accident
+    Self-Esteem
+    Unmasked!
+    The Weak Link
+    GOAL: Power to the People (x2)
+    NWO: Chicken in every Pot
+    NWO: Political Correctness (x2) 
+
+Strategy
+
+This deck has a four-pronged strategy: seizing Computer groups, defending your
+Power Structure, getting as many Plots as possible each turn, and boosting your
+Power for one of three possible wins.
+
+Seizing Computer groups: Lead with groups that give additive bonuses to any
+attempt to control Computer groups. Good choices are the Phone Phreaks (for a
++6) and Video Games (for a +3). If both of these are blocked, other choices are
+the Hackers, Finland, and Silicon Valley. If you can get out all of the additive
+groups *and* the Library at Alexandria, you'll end up with a total +22 bonus to
+seize Computer groups. You might be able to speed-play a win (which is why I put
+18 groups-worth into the deck), or steal what you need from your foes, without
+even worrying about your Goal card.
+
+Defending your structure: If you're playing against aggressive players, you will
+want to protect yourself off the bat. Your two ideal leads are France (which
+will give +3 to any defense of your Liberal grpoups, more with boosters or NWOs)
+and the EFF (which will double the defense of any Computer group). You will also
+want the International Wearther Organization out to protect your places,
+especially France!
+
+Drawing Plots: Lead with Orbit One and put as many Science groups as possible
+underneath it. Each one translates to an extra plot draw each turn, giving you
+as many as *five* Plots even before buying action token Plots! Get the EFF and
+the IWO out to protet Orbit One. If someone else decides to steal it and you
+hate them having it, you can Meteor or Nuke it in orbit.
+
+Boost your Power: You may want to go for the goal, which is actually a preferred
+method of winning. Use Power Boosters on France and Finland and go after choice
+Conservative Corporate groups. Get CieP and PolCor out to help out these attacks
+even more. The Video Games are your ideal lead, because they will only increase
+your Power every time you seize another Computer group. And if you get up high
+enough, consider Unmasking as Bavaria. If you can get 40 points of Power out,
+unmasking is an instant win. Alternately, just use your Power to grab Liberal
+groups (and you'll have an easy time grabbing Liberal Media too, if you have Big
+Media out).
+
+Switch Cards: This deck *depends* on the EFF. Buy one, or steal one. The other
+rares, however, can be replaced if necessary. Finland is there for a +2 additive
+bonus (in addition to being a Liberal group). You can fill in for it with the
+Wargamers, SF Fans, or Japan. Eliza can go in place of the PMM. If you don't
+have Computer Security, use Are We Having Fun Yet? or even put the Nuke Cos in
+the deck. Hidden Influence can be replaced with Commitment (to boost Resistance
+instead) or Grassroots Support (because you have one or two Straight groups in
+your deck). Unmasked! is only useful if you think you'll have a chance for a
+50-Power Bavaria win. Otherwise, fill this gap with two other useful plots. And
+the Weak Link can be replaced by any other Resource-killer, such as Suicide
+Squad or the Deasil Engine.
+
+Alternate Strategies: Fundie Money to provide Conservative targetsxs on demand.
+
+Weaknesses: No yellow NWO is good for you! You may want a Sweeping Reforms or
+Blood, Toil to get rid of one if it gets to be a problem. And you have much more
+to fear from other Liberal players than from a rival Conservative player! If the
+Feminists come out, *destroy them*. The Phone Company, which is not Liberal and
+has a high Power, is a good choice to lead the attack, especially with an
+Infobahn behind it.
+
+Notes: This is a good speed deck and a good defensive multiplayer deck. And it
+*can* be built without breaking the bank - if you had to build it from scratch
+using local card prices (Commons $0.25, Uncommons $0.50, Rares $1.50), it would
+only run you $24.50.
+Back to the Deck of the Week.

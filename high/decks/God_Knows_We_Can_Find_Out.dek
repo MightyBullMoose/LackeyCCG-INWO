@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>The Network</name><set>Limited</set></card>
+		<card><name>N.S.A.</name><set>Limited</set></card>
+		<card><name>Evil Geniuses for a Better Tomorrow</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Cattle Mutilators</name><set>Limited</set></card>
+		<card><name>Phone Company</name><set>Limited</set></card>
+		<card><name>Post Office</name><set>Limited</set></card>
+		<card><name>Society for Creative Anarchism</name><set>Limited</set></card>
+		<card><name>Templars</name><set>Limited</set></card>
+		<card><name>Wargamers</name><set>Limited</set></card>
+		<card><name>The Great Pyramid</name><set>Limited</set></card>
+		<card><name>Book of Kells</name><set>Limited</set></card>
+		<card><name>Crystal Skull</name><set>Limited</set></card>
+		<card><name>Eliza</name><set>Limited</set></card>
+		<card><name>Soulburner</name><set>Limited</set></card>
+		<card><name>Arms Dealers</name><set>Assassins</set></card>
+		<card><name>Spy Satellite</name><set>Assassins</set></card>
+		<card><name>X-Ray Specs</name><set>Assassins</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Adepts of Hermes</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Agent in Place</name><set>Limited</set></card>
+		<card><name>Albino Alligators</name><set>Limited</set></card>
+		<card><name>Assertiveness Training</name><set>Limited</set></card>
+		<card><name>Cold Fusion</name><set>Limited</set></card>
+		<card><name>Computer Security</name><set>Limited</set></card>
+		<card><name>Computer Virus</name><set>Limited</set></card>
+		<card><name>Cover of Darkness</name><set>Limited</set></card>
+		<card><name>George the Janitor</name><set>Limited</set></card>
+		<card><name>Hat Trick</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Infobahn</name><set>Limited</set></card>
+		<card><name>Logic Bomb</name><set>Limited</set></card>
+		<card><name>March on Washington</name><set>Limited</set></card>
+		<card><name>Mutual Betrayal</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Stealing the Plans</name><set>Limited</set></card>
+		<card><name>The Auditor From Hell</name><set>Limited</set></card>
+		<card><name>The Internet Worm</name><set>Limited</set></card>
+		<card><name>Unmasked!</name><set>Limited</set></card>
+		<card><name>Interesting Times</name><set>Assassins</set></card>
+		<card><name>Bar Codes</name><set>Assassins</set></card>
+		<card><name>Go Fish</name><set>Assassins</set></card>
+		<card><name>Reverse Whammy</name><set>Assassins</set></card>
+		<card><name>Security Leak</name><set>Assassins</set></card>
+		<card><name>Sufficiently Advanced Technology</name><set>Assassins</set></card>
+	</superzone>
+</deck>

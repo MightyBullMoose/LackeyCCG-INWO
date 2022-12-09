@@ -1,0 +1,102 @@
+<plugin>
+<globalstat><label>Attack Bonus/Penalty</label><initialvalue>0</initialvalue></globalstat>
+
+<deckzone><label>Lead Cards</label></deckzone>
+<deckzone><label>Group Deck</label><shuffle>yes</shuffle></deckzone>
+<deckzone><label>Plot Deck</label><shuffle>yes</shuffle></deckzone>
+<deckzone>
+     <label>Shared Groups</label>
+     <gamezonetoloadto>Shared Groups</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+<deckzone>
+     <label>Shared Plots</label>
+     <gamezonetoloadto>Shared Plots</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+
+
+<gamezone><label>Hand</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+<gamezone><label>Group Deck</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+<gamezone><label>Plot Deck</label><visibletoowner>no</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+<gamezone><label>Lead Cards</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+<gamezone><label>Discard</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
+<gamezone><label>Removed</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
+<gamezone>
+     <label>Shared Groups</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+	<isshared>yes</isshared>
+</gamezone>
+<gamezone>
+     <label>Shared Plots</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+	<isshared>yes</isshared>
+</gamezone>
+
+<phase><label>(1 & 2) Draw Plot or Group</label></phase>
+<phase><label>(3) Automatic Takeover</label></phase>
+<phase><label>(4) Place Action Tokens</label></phase>
+<phase><label>(5) Attack/Main Phase</label></phase>
+<phase><label>(6) Use Plot/Other Phase</label></phase>
+<phase><label>(7) Knock/End Turn</label></phase>
+
+<generalfunction><label>Draw Group</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction>
+	<label>Draw Plot</label><kind>TRANSFERCARD</kind><includeasbutton>yes</includeasbutton>
+	<sourceowner>performer</sourceowner><sourcegamezone>Plot Deck</sourcegamezone><sourceposition>top</sourceposition>
+	<destinationowner>performer</destinationowner><destinationgamezone>Hand</destinationgamezone><destinationposition>top</destinationposition>
+</generalfunction>
+<generalfunction>
+   <label>Draw Shared Group</label>
+   <kind>TRANSFERCARD</kind>
+   <sourceowner>shared</sourceowner>
+   <sourcegamezone>Shared Groups</sourcegamezone>
+   <sourceposition>top</sourceposition>
+   <destinationowner>Starter Cards</destinationowner>
+   <includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+   <label>Draw Shared Plot</label>
+   <kind>TRANSFERCARD</kind>
+   <sourceowner>shared</sourceowner>
+   <sourcegamezone>Shared Plots</sourcegamezone>
+   <sourceposition>top</sourceposition>
+   <destinationowner>Hand</destinationowner>
+   <includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+
+<cardfunction><label>Turn Upright</label><kind>MAKERIGHT0DEGREES</kind></cardfunction>
+<cardfunction><label>Turn Right</label><kind>MAKERIGHT90DEGREES</kind></cardfunction>
+<cardfunction><label>Turn Upside Down</label><kind>MAKERIGHT180DEGREES</kind></cardfunction>
+<cardfunction><label>Turn Left</label><kind>MAKERIGHT270DEGREES</kind></cardfunction>
+
+
+
+<generalfunction><label>Previous Phase</label><kind>PREVIOUSPHASE</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Next Phase</label><kind>NEXTPHASE</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Previous Turn</label><kind>PREVIOUSTURN</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Next Turn</label><kind>NEXTTURN</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+<cardfunction><label>Remove ACTION</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Add ACTION</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.5</PositionY></cardfunction>
+
+<cardfunction><label>Link -1</label><kind>REMOVECOUNTER</kind><color>white</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Link +1</label><kind>ADDCOUNTER</kind><color>white</color><includeasbutton>yes</includeasbutton><PositionX>.85</PositionX><PositionY>.94</PositionY></cardfunction>
+
+<cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><includeasbutton>yes</includeasbutton><PositionX>.4</PositionX><PositionY>.95</PositionY></cardfunction>
+<cardfunction><label>Flip Card</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Doesn't Flip</label><kind>TOGGLETURNALLIMMUNITY</kind></cardfunction>
+<cardfunction><label>Hover</label><kind>HOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Clone</label><kind>CLONE</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+<definition><kind>ISYOURFACEDOWNVISIBLE</kind><value>yes</value></definition>
+<definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind><value>yes</value></definition>
+<definition><kind>NUMDIGITSINSTAT</kind><value>6</value></definition>
+
+<definition><kind>RULEBOOKFILE</kind><value>inwo-rules-12.pdf</value></definition>
+
+</plugin>

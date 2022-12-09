@@ -1,0 +1,258 @@
+Six Dead Conservatives
+
+by Aaron Curtis
+
+It has been suggested that the best way to reveal a loophole in the game is to
+build a deck that exploits it, then win with it at a big tournament. It is an
+honor for a deck to force a rewrite of the rules to prevent it. This is what
+happened to the now-infamous Essen Oil Spill deck. It also happened to Deck of
+the Week "Bang! F**k, I'm Dead!". I hope for Six Dead Conservatives to join this
+exclusive club. Feel free to play this deck at GenCon or Origins and get a
+special prize for playing a degenerate deck! All I ask in return is that you
+email me about it to curtis@europa.com.
+
+See also my essay on The Production Spiral, for guidance on ways to construct
+your own degenerate decks.
+Illuminati
+
+    Servants of Cthulhu 
+
+Group Cards
+
+    Dan Quayle
+    Fiendish Fluoridators
+    Gun Lobby
+    Nancy Reagan
+    Ollie North
+    Prince Charles
+    Ronald Reagan
+    Triliberal Commission
+    Vladimir Zhirinovsky 
+
+Plot Cards
+
+    Alien Abduction x7
+    Blitzkrieg x6
+    S&L Scam x8
+    any 7 assassinations
+    Liberal Agenda
+    March on Washington
+    Secrets MWNMTK x2
+    Goal: Power to the People x2
+    NWO: A Thousand Points of Light 
+
+Strategy
+
+Lead with Fiendish Fluoridators, and take Gun Lobby as your first puppet. On
+your turn, you will attempt to perform the following sequence five times:
+
+    Play Alien Abduction to control a Personality.
+    Play Blitzkrieg to give them a token.
+    Play Savings and Loan Scam with that token.
+    Play an assassination to kill that Personality on a 10 or less. 
+
+When you kill a Conservative Personality, you get one plot for attacking them
+from the Gun Lobby, one plot for destroying them from the Fiendish Fluoridators,
+and one plot for destroying them from Cthulhu. Together with the three plots
+from the S&L Scam, you draw six plots, a net gain of two!
+
+After repeating this five times, you will have drawn 34 of your 35 plots. Spend
+the Fluoridators' action to destroy the Gun Lobby and draw the last one. Be sure
+to put the second Power to the People goal back in your deck when you draw it.
+You have now destroyed six Conservative groups. Put a now-useless Alien
+Abduction or Blitzkrieg on the top of your plot deck and use it as fodder for
+your March on Washington to give the Fiendish Fluoridators a Liberal Agenda.
+
+At the end of the first player's second turn, claim victory.
+Problems
+
+Of course, the scenario described above assumes ideal conditions. It would
+require that your first four plots contain an Alien Abduction, a Blitzkrieg, and
+a S&L Scam, to get the production spiral started. Fortunately, this deck comes
+with back-ups for non-ideal situations, namely the action tokens of your first
+three groups. When deciding what to do, consult the following list, starting at
+the top. Every time you draw plots, consult it again. Once you destroy five
+Personalities, skip to the next section.
+
+    If you have Alien Abduction, Blitzkrieg and S&L Scam in you hand, perform
+steps 1-3 above. You get three more plots, and a Personality in your power
+structure that you can assassinate.
+    If you have a Personality in your power structure and an assassination, kill
+them for three plots.
+    If you have an S&L Scam, play it with the Gun Lobby's action for three plots
+(of course, you can only do this once).
+    If you have an Alien Abduction and an assassination, Abduct someone and kill
+them for three plots (This loses the plots for Blitz/S&L, but you can afford to
+miss them a few times if you have to).
+    If you don't have an S&L Scam, but do have an Alien Abduction and a
+Blitzkrieg:
+        If the Gun Lobby still has an action, Abduct Vladimir Zhirinovsky and
+Blitzkrieg him, then have him attack to destroy the Gun Lobby on a 2. When the
+attack fails, you get another plot (If it succeeds, whoops! but at least you get
+two plots).
+        If you've spent the Gun Lobby's action, replace Vladimir with Nancy,
+Ronald or Charles, all of which have a 6 or less to destroy the Gun Lobby,
+gaining two plots for a success or one for a failure. 
+    If none of the above works, you will have to spend the Fluoridators' action.
+If the Gun Lobby has spent their token, destroy them on a 10 or less for two
+plots. If you've already destroyed the Gun Lobby, play S&L Scam. As a last
+resort, destroy a Personality if you have one.
+    At this point, you have no S&L Scams or non-Illuminati tokens to power one,
+and no Personalities that you can kill (either because you have no Alien
+Abduction or because you have no assassinations and you've spent the
+Fluoridators' action). There is a 9% chance that your initial four plots will
+not contain an S&L Scam or an Alien Abduction. You must spend your Illuminati
+action to control either Dan Quayle or Ronald Reagan on an 8 or less, then
+Blitzkrieg or assassinate as appropriate. If you need to spend Cthulhu's action
+later in your turn, attack to destroy the Gun Lobby on a 10 or less for two
+plots. If necessary, spend Cthulhu's action to play S&L Scam, destroy a
+Personality, or, a an absolute last resort, draw a plot card. 
+
+Ending Your Turn
+
+At this point, you should have five Personalities killed, all or nearly all of
+your plot deck in hand, and, ideally, tokens on Fiendish Fluoridators and
+Servants of Cthulhu. Take a look at your "other" plots. You should have Power to
+the People (and a second one on the bottom of the plot deck), both Secrets, A
+Thousand Points of Light, Liberal Agenda and March on Washington. If you're
+missing any, you need to draw more plots until you find them. If Cthulhu has its
+token, spend it to draw the last card from your group deck to give you a sixth
+Personality. You should then be able to perform steps 1-4 easily for six more
+plots. If the Fluoridators still have their token, attack to destroy the Gun
+Lobby on a 10 or less for two plots. If you don't need the plots, spend tokens
+to destroy the Gun Lobby but don't bother with drawing the group.
+
+Now you have six, possibly seven, Conservative groups destroyed. Liberalize the
+Fluoridators as mentioned above. Keep the remaining four "other" plots in your
+hand, and an S&L Scam. Place leftover cards back in your deck so that the second
+Power to the People card is fifth from the top, leaving the first four to power
+Secrets. Knock.
+
+Your plan is to keep your Fluoridators intact until the end of the first
+player's second turn, at which point you show Power to the People and claim
+victory. Of course your opponents will be expecting this and will team up to
+stop you. They can try several ways. They can remove the Fluoridators from your
+power structure by attacking to destroy or control, or by playing Upheaval. They
+can try to remove the Liberal Agenda through Backlash or Fundie Money. They can
+try to steal/destroy your Goal card through a variety of means. Finally, they
+can try to make your Goal card useless by playing Interesting Times or Rewriting
+History, or bringing a Personality back from the dead (which would require their
+own copy of that Personality). For your defense, you have two Secrets to cancel
+plots and a blue NWO to replace Interesting Times. You may also have action
+tokens to spend in defense if you were lucky with the plot distribution. It is
+more important to use your Secrets to stop attempts to undermine your Goal or
+plot hand than to defend the Fluoridators, although it is worth it to cancel an
+Upheaval, because it will force your rivals to use Illuminati actions to attack,
+as the Fluoridators are Secret.
+Beyond The First Turn
+
+OK, so they stopped you. Or, you ran out of tokens and were only able to destroy
+five groups. Let them think you've failed. You've got an ace up your sleeve, or
+rather, a Triliberal Commission to ATO on your second turn. They count as two
+Liberal groups for your Goal, and no alignment change can prevent this. So, if
+the Fluoridators have been removed or de-Liberalized, you can still claim
+victory. If your killed pile has less than six Conservatives in it, for whatever
+reason, Fluoridators plus Trilibs means you only need five to use Power to the
+People. If both occur, then you should be drawing your last Personality at the
+start of your second turn. Play your S&L Scam with the Trilib's token, then
+Abduct and kill the Personality with an assassination. If your rivals managed to
+dispose of your Goal, the S&L Scam should pick up the second one, assuming you
+played at least one Secrets. Note that the only method of stopping you that you
+can't overcome is Interesting Times, which is why you have a blue NWO in
+reserve.
+More Problems
+
+These could come up, but are unlikely.
+
+1. Someone else leads with Fiendish Fluoridators.
+    Switch your lead to Gun Lobby. There is a 50% chance that FF will be in your
+first turn draw. If not, see #2b. 
+2. Gun Lobby isn't in your hand on your first turn.
+    This happens 1/8 of the time. You have two options: 
+    2a) Go for it without the Gun Lobby if your plot hand gives you the
+opportunity to draw at least five more plots without spending the Fluoridators'
+token i.e. you have an S&L Scam and an assassination, and either Blitzkrieg or
+an Alien Abduction. Lead with Nancy Reagan or Ollie North and attack to control
+Ronald Reagan on a 10 or less, then Blitz/S&L him, then kill him. If you don't
+have a Blitzkrieg, keep him in reserve and Abduct/assassinate another
+Personality, using Nancy/Ollie's token in place of the Gun Lobby's. In this
+situation, you only get two plots for killing a Personality, but you have the
+advantage that you can use an assassination to kill your ATO instead of needing
+an action token, freeing the Fluoridators to power an S&L Scam. 
+    2b) If your plot hand is uncooperative, or you weren't able to get the
+Fluoridators, you'll have to wait until your second turn. ATO Dan Quayle if any
+Media groups are visible, otherwise Nancy Reagan. Knock, and hope nobody sounds
+the alarm. If you remain untouched until your second turn, you'll have seven
+plots to start with (or more if you have an S&L Scam in hand) and an extra group
+and token in your power structure. ATO Gun Lobby if it's not already in play,
+otherwise ATO Triliberal Commission. All these extras should make up for your
+rivals ability to interfere during your second turn. The fact that they can only
+stop your assassinations by canceling them, changing the die roll, or with the
+Clone Arrangers action should keep their interference to a minimum. Remember
+that if you can fulfill your Goal this turn they won't have further turns to
+stop you, so use your Secrets as necessary to make sure the kills succeed. 
+3. Someone else play one of your chosen Personalities.
+    Save them for last. After killing the other four Personalities in your hand,
+you have two options. If you still have Cthulhu's action, spend it to draw the
+last Personality from your group deck and Abduct/assassinate them. Or, you can
+try to destroy the Personality with the Fluoridators' token and an agent, for a
+total strength of 3+5+4+10=22. This will give you a 10 or less, unless they have
+defenses (and they probably will). It would be better to try this attack on your
+second turn, when you can attack with the Triliberal Commission (which is
+controlled by the Fluoridators, to get their +5 bonus) aided by Cthulhu for a
+total of 5+5+4+9+10=33 or 37 depending on which Personality it is. 
+4. Somehow, your rivals manage to eliminate both of your Goal cards.
+    Cthulhu's Special Goal is your final backup: destroy eight groups. You have
+nine groups in your deck, six of which are easily assassinated. Of the remaining
+three, Gun Lobby can be destroyed by either the Fluoridators or the Triliberal
+Commission on a 10 or less. A non-Liberal Fluoridators can destroy the Trilibs
+on a 7 or less. Cthulhu can destroy any of these groups on a 10. Finally, if you
+keep a Hit and Run assassination in your deck just in case, you can assassinate
+with the Fluoridators with a strength of 17, enough for a lucky shot at a
+rival's Personality. Remember, you have until the end of your third turn before
+you are eliminated for controlling no groups, so be prepared to be
+opportunistic. 
+
+Substitutions
+
+Any six Conservative Personalities will do. I picked these six because they are
+less likely to be played by a rival (as opposed to Newt Gingrich and Ross
+Perot).
+
+Similarly, any seven assassinations will do, but for variety I like to include
+one of each: Car Bomb, Hit and Run, Poison, Sniper, Spontaneous Combustion,
+Withering Curse, and another Hit and Run.
+
+The mix of plots is very important: 8 S&L Scams, 7 Abductions, 7 assassinations,
+6 Blitzkriegs, and 7 "other" plots. You have an extra Abduction because it is
+vitally important that you get a Personality in your power structure to start
+the production spiral. When I tested this deck with only 6 Abductions, I had a
+critical game-losing shortage of them 20% of the time. Similarly, less than 8
+S&L Scams produce too many desperate shortages. The extra assassination is not
+only to prevent shortages, but in case one misses on an 11 or 12 (approximately
+1/3 chance).
+
+(side note: I tested this deck by playing it solitaire! Just place the
+Fluoridators in your power structure, shuffle both decks, and draw seven groups
+and four plots. Then just play your first turn. You "win" if you can get all
+your "other" plots in hand and destroy six Conservatives. You "tie" if you can
+set yourself up for a win on your second turn. You "win big" if you destroy
+seven Conservatives!)
+
+The other seven plots are what I considered most useful in making and preserving
+a win. If you feel the need to defend the Fluoridators from attack, put in a
+Jihad. Unfortunately, you'd have to lose a Secrets or your blue NWO to do this.
+Roleplaying
+
+There's not much room for roleplaying in most cheesy degenerate decks, but this
+one has at least one angle: act out your assassination. Make "Boom!" sound
+effects after you roll for a Car Bomb or Spontaneous Combustion. Describe the
+gory details of the Withering Curse. Make sure everyone at the table is having
+fun watching you kill Personality after Personality, and maybe they won't gang
+up on you in the next game!
+Back to the Deck of the Week.
+
+First posted: June 2, 1997
+
+Last modified: June 2, 1997
+Ralph Melton ralph@cs.cmu.edu

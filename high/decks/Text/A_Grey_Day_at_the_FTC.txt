@@ -1,0 +1,173 @@
+A Grey Day at the FTC
+by Alex Yeager
+
+The person behind the desk laughed, then pushed the report back across to the
+puzzled junior bureaucrat. "Our job is not to break up monopolies - it's to make
+sure only the RIGHT monopolies survive."
+
+And, under the desk, a curiously malformed hand tightened on a bizarre pistol…
+
+Card Data
+Illuminati:
+
+    UFOs
+
+Groups:
+
+    Big Media
+    CFL-AIO
+    Cable TV
+    Fast Food Chains
+    Fnord Motor Company
+    Gay Activists
+    IRS
+    Las Vegas
+    Liquor Companies
+    Madison Avenue
+    Multinational Oil Companies
+    NSA
+    Wall Street
+
+Resources:
+
+    Center for Weird Studies
+    Clipper Chip x2
+    Orbital Mind Control Lasers
+    Perpetual Motion Machine
+
+Plots:
+
+    Bavarian Illuminati
+    Anarchists Unite!
+    Bait and Switch
+    Censorship
+    Cover of Darkness
+    Cover-Up
+    Forgery
+    Goal: Power for its Own Sake
+    Goal: The Corporate Masters
+    Good Polls x2
+    Hoax x2
+    March on Washington
+    Martial Law
+    NWO: Apathy
+    NWO: Bigger Business
+    NWO: Military-Industrial Complex x2
+    NWO: Tax Reform
+    Power Grab
+    Secrets Man Was Not Meant to Know
+    Stock Split
+    Sweeping Reforms
+    Unmasked!
+    Voodoo Economics
+
+Strategy
+Beginning
+
+    The recommended lead group order is as follows:
+        1st choice: Multinational Oil Companies
+        If bounced: CFL-AIO (so you've got a Corporate attacker out fast)
+        If bounced, AND Tax Reform is in hand: IRS
+        Otherwise: NSA 
+
+    Ideally, you'd like to have one Government group out early; IRS is okay
+(it's here as a target more than anything else, but with Tax Reform early on,
+it's VERY nice). As soon as you draw NSA, immediately make it your next ATO. Use
+the Power Grab early if possible. Your initial goal is to run up to about 25
+points of power, with at least one Government group attached.
+
+    If PMM, CWS or OMCL comes up, use Illuminati tokens to grab them. These are
+there more as bait for people to burn their Resource-killers, but as long as you
+can take advantage of them, do so. I usually link the PMM to the Multinats, in
+order to get two opportunities to block interference. (And I can usually be
+generous in offering its services to others...)
+
+Midgame
+
+    Putter around. Take over your smaller groups (Gay Activists, Fnord Motor
+Co., Fast Food, Liquor Companies). Try and coast in around 30-35 Power, but all
+those little Corporate groups will come in very handy in a bit. Use your
+defenses sparingly but effectively (Zaps to kill Control attacks in midstream,
+Apathy to kill group assaults, +10s for specific defenses). Threaten other
+Corporates with CFL-AIO. You should be in a good position to make attacks from
+your hand, and Fnord helps to keep the attacks successful. Although your two
+Media groups are Corporate and therefore useful later, they're useful in
+snatching Media group from others (or as +10s for those Groups themselves). They
+also may prove useful to power Sweeping Reforms later (though you've got March
+on Washington if necessary).
+
+    Above all, try desperately NOT to use your Plot cancelers!!! There's one
+card above all others that can hurt this deck (read on if you haven't figured it
+out yet), and those cancelers may become critical in the end game. BTW, Hoax is
+here because you want to lose as little of your Plot pile as possible. Granted,
+you have UFO tokens to throw around, but you want your Plots to stay intact
+until you have a way or two to win. Be careful.
+
+Endgame
+
+    There are four way to win with this deck:
+        Run to the Basic Goal. You've got good power, lots of control arrows,
+good bonuses on Corporate and Media groups, and it could very easily arrive at
+this before other strategies pan out.
+        Power For Its Own Sake/Unmask to Bavaria: Here's the bit for the folks
+who like tricky decks. During the turn you go for the win, you want to ATO
+and/or attack to control any remaining Corporate groups in your hand as
+necessary. Then, drop NWO: Military-Industrial Complex on the table (all Corp.
+are Gov't. except for Goals), then use an Ill. token to bring a Clipper Chip
+into play. Boom - add two Power for each Corporate OR Government Group in play,
+which usually jumps you 10-16 points. Unmask to Bavaria or drop PFIOS on the
+table. (Note that you've got two NWO: MIC and two Clippers.) OMCLs may be
+useful, too, if you've still got them (not bloody likely, but hey...)
+
+        You may find it useful to drop a Clipper on the table beforehand,
+especially if you've got both IRS and NSA out. NSA is very defensible (being
+Secret and all), but realize that if you lose both, it becomes very risky to
+keep a previously-played Clipper Chip from being discarded. Gay Activists are
+there as a stopgap for a turn (turn a Corp. Gov't), but then you're stuck with
+keeping NWO: MIC in play for the rest of the game.
+
+        Here's where you use your cancelers like water; fight any given
+opposition like crazy, especially if you've got a backup win already in your
+pocket. For example, I love to let folks beat on me trying to make my Unmasked!
+go away, tossing canceler after canceler on the discard pile, only to sweetly
+drop a Goal card during phase 6. Let them fight against the obvious, and keep
+the actual win back..
+        Corporate Masters: You have lots of powerful Corporate groups, and both
+the OMCLs and Gay Activists can get you one more if needed. Note that although
+this is a fairly obvious Goal, many folks will get fixated on the run to 50
+power and ignore this possibility.
+
+Potential Problems
+
+    NWO: Antitrust Legislation is a real threat. Sweeping Reforms is here
+because of it; cancelers are here because of it; Gay Activists is here because
+of it (again, as a stopgap, but it's better than having to throw away Groups
+NOW...) This is ALWAYS an exception to the "don't use cancelers" admonition, and
+use any means necessary to clear it.
+
+    Other than that, you are using some fairly common groups, but you've got
+good Power and bonuses to bring to bear. If things begin to fall apart, or
+you're stopped emphatically, use Voodoo Economics to dump some remaining cards
+and get medieval on outlying groups.
+
+Variants and Substitutions
+
+    Las Vegas is Corporate, but you don't want folks drawing into your pile via
+a misfired special ability. It's probably the best to replace - and since this
+deck was created pre-SubGenius, we now have several much better Groups to
+replace it with. For that matter, both Jesus B. and Divine Mail Order would be
+almost certain substitutions into this deck today, and I would probably give
+Citizens For Normalcy a good hard look too (plot canceler).
+
+    Using Zaps to cancel Attacks to Control is a highly effective means of
+killing attacks, and usually only one is necessary to scare folks off (or switch
+them to Attacks to Destroy :P ). Another +10 or two might be nice, but IMO
+hasn't been necessary in practice.
+
+    There are a few cards put in here as attack magnets (PMM, OMCL and IRS as
+the most obvious). Based on you playgroup's style, you certainly could replace
+them if you think their magnet abilities would be minimal.
+
+    There you go - we're back in the saddle again!
+
+Back to Deck of the Week

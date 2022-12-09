@@ -1,0 +1,98 @@
+One Big Deck
+Preliminary Draft
+This is a variant of the game to be used when all the cards are owned by the
+same person. It's specifically designed for the One With Everything factory set,
+which has one of every Plot and Group card, plus three of each Illuminati, and
+some blanks. But these rules will work with any big stack of INWO cards. (See
+this list of sample decks for examples.)
+
+Start by removing any blank cards from the deck, and dividing the cards into one
+stack of Plots and one stack of Groups.
+Deal a starting hand of 3 Plots and 10 Groups to each player, face down. Players
+may look at their cards, but cannot play any of them until the game actually
+begins.
+Each player may go through the Plots deck and choose one Illuminati card for
+himself. Pick one that goes well with the Groups and Plots you were dealt.
+Shuffle the cards after the last player has chosen.
+Each player puts his chosen Illuminati card on the table, all at once. It can
+happen that more than one players have the same type of Illuminati ... which
+means they represent different factions of the same conspiracy. See p. 13 of the
+INWO rulebook.
+Each player chooses one Group card from his hand, as the first puppet of his
+Illuminati. All players show their choices at the same time. Any puppets which
+are chosen by more than one player go back into the owners' hands, and they must
+make alternate choices. This continues until there are no duplicate puppets.
+Deal the top four Groups from the deck into the middle of the table, to start
+the ''uncontrolled'' area -- see below.
+Each player rolls two dice. The one with the highest roll goes first. At the
+beginning of the game, you may not attack a player who has not yet had their
+first turn! You may not use Plot cards or special abilities on them, either.
+Once the game starts, use the regular turn sequence. Draw Plots and Groups
+normally, as per the regular INWO rules -- but everyone draws from the same
+deck. When any card refers to an individual player's Groups or Plots deck, just
+read that as meaning ''the'' Groups or Plots deck.
+
+Thus, a card that normally lets you look at the top card of your own deck now
+has the same effect as a card that lets you look at the top of a rival's deck.
+There's just one deck.
+Note that cards which allow you to look through the whole deck are now very
+powerful ... of course, in 30 seconds, you may not find the card that you want!
+When someone uses such a power, be very strict about the time limit!
+
+A player who returns a card to the deck may still put it on the top, the bottom,
+or in the middle. But, of course, there's no guarantee that he will be the one
+to draw it again!
+
+The Uncontrolled Area
+When any player tries to control a card from his hand and fails, that card goes
+into the uncontrolled, or neutral, area. (Exception: The special power of the
+Adepts of Hermes means they keep a group even if they fail their attempt to
+control it.) And if a player drops out or is destroyed, the groups in his hand
+go into the neutral area.
+
+Any player may try to take over or to destroy a card from the uncontrolled area,
+and anyone else may aid or oppose those attacks, following the normal rules for
+attacking and for interfering with other players' attacks. However, you may not
+make an automatic takeover from the uncontrolled area.
+
+Variations
+Players may trade cards among themselves after the initial deal, before the game
+starts. This may result in some hands being slightly larger than others. So it
+goes.
+
+Abuses
+You could stack the deck in this game, abusively or otherwise. For instance, you
+could put in nothing but Weird groups. But that would probably be a bad idea,
+because then either there would be very few groups, or there would be lots of
+duplicates for each Group card, and either way people will fight over the
+groups.
+
+A subtler way to stack the deck would be to include only those Plots that are
+good for certain Illuminati. This is evil; don't do it. Or, if you do, don't
+play for money. Or, if you do, give some to charity.
+
+Cards Referring To Duplicates
+The One With Everything set contains only one of each Group and Plot card.
+Therefore, a few cards are completely worthless if you play a one-deck game with
+a single One With Everything set. Any player who draws one of these cards may
+show it, discard it immediately, and draw a new one. These cards include Media
+Blitz, Counter-Revolution, Payoff, Purge, Faction Fight, Clone, Impostor,
+Forgery, and any other card which is good only with duplicate Group or Plot
+cards. Of course, in a one-deck game that does contain duplicates, these cards
+are no longer worthless ... leave them in!
+
+Cards Powered By Deck Discards
+Some Plots or Groups require you to ''spend'' undrawn cards from your Plot or
+Group deck. In a one-deck game, spending undrawn cards is not a penalty!
+Therefore, remove the Voodoo Economics and March On Washington cards from the
+game. (Or treat them as duplicates of Hoax, with the Hoax modification below ...
+because it's so much fun when a Hoax comes out.)
+
+Change the cost for 18½ Minute Gap and Hoax to ''discard 3 Plots from your
+hand'', in addition to the Action token cost listed on the cards. (If this is
+too much trouble, remove these cards).
+
+Some cards also give you the option of discarding undrawn cards. That option is
+not available in a one-deck game. These cards include The Big Sellout, Secrets
+Man Was Not Meant to Know, Air Magic, and
+Fnord!.

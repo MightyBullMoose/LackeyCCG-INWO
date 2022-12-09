@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>Pentagon</name><set>Limited</set></card>
+		<card><name>Divine Mail Order</name><set>Subgenius</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Citizens for Normalcy</name><set>Subgenius</set></card>
+		<card><name>Divine Mail Order</name><set>Subgenius</set></card>
+		<card><name>Fnord Motor Company</name><set>Limited</set></card>
+		<card><name>Liquor Companies</name><set>Limited</set></card>
+		<card><name>Multinational Oil Companies</name><set>Limited</set></card>
+		<card><name>Nuclear Power Companies</name><set>Limited</set></card>
+		<card><name>The Thule Group</name><set>Assassins</set></card>
+		<card><name>The Holy Grail</name><set>Limited</set></card>
+		<card><name>Perpetual Motion Machine</name><set>Limited</set></card>
+		<card><name>Warehouse 23</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>Adepts of Hermes</name><set>Limited</set></card>
+		<card><name>Bermuda Triangle</name><set>Limited</set></card>
+		<card><name>Gnomes of Zurich</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>The Network</name><set>Limited</set></card>
+		<card><name>Solidarity</name><set>Limited</set></card>
+		<card><name>Agent in Place</name><set>Limited</set></card>
+		<card><name>Agent in Place</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Power Grab</name><set>Limited</set></card>
+		<card><name>Sabotage</name><set>Limited</set></card>
+		<card><name>Sabotage</name><set>Limited</set></card>
+		<card><name>Sabotage</name><set>Limited</set></card>
+		<card><name>Sabotage</name><set>Limited</set></card>
+		<card><name>Seize the Time!</name><set>Limited</set></card>
+		<card><name>Senate Investigating Committee</name><set>Limited</set></card>
+		<card><name>Senate Investigating Committee</name><set>Limited</set></card>
+		<card><name>Unmasked!</name><set>Limited</set></card>
+		<card><name>Unmasked!</name><set>Limited</set></card>
+		<card><name>Upheaval!</name><set>Limited</set></card>
+		<card><name>Upheaval!</name><set>Limited</set></card>
+		<card><name>Upheaval!</name><set>Limited</set></card>
+		<card><name>Society of Assassins</name><set>Assassins</set></card>
+		<card><name>Interesting Times</name><set>Assassins</set></card>
+		<card><name>Interesting Times</name><set>Assassins</set></card>
+		<card><name>Cast Out False Prophets!</name><set>Subgenius</set></card>
+		<card><name>Church of the Subgenius 3</name><set>Subgenius</set></card>
+		<card><name>Comet Hail-Bob</name><set>Subgenius</set></card>
+		<card><name>Comet Hail-Bob</name><set>Subgenius</set></card>
+		<card><name>Tape Runs Out...</name><set>Subgenius</set></card>
+		<card><name>Tape Runs Out...</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

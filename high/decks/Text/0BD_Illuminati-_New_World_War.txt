@@ -1,0 +1,268 @@
+SETUP Note: There are multiple extra NWO: World War 3 cards in the Lead Cards
+deck; you should add at least 1 for each player in the game; 2 if you're feeling
+frisky.
+NWO: Peace in our Time should be treated as a Yellow (instead of Red) to help
+counterbalance the NWO: WW3 cards.
+
+
+
+
+
+INWO: One With Everything is a good way to introduce players to INWO without
+making them think about deck construction (yet). But its all-the-cards,
+all-the-time format can also be a drawback, if you keep drawing cards with very
+specific targets (like The First Thing We Do, Let's Kill All the Lawyers) or
+very specific requirements (like Angst) -- something that you don't normally
+have to worry about in a constructed-deck game (unless you're just really bad at
+making decks). This variant combines the newbie-friendliness of One With
+Everything and the harmony of a constructed deck. The Abuses section of the One
+With Everything rules alludes to this type of variant, but my intentions are
+good . . .
+The idea is simple -- get a set of Group cards with a common theme, and take out
+the Plot cards that are less likely to be useful with those Groups. In this
+case, the Groups deck focuses on Nations, making this the New World War as the
+secret organizations fight for international political power. This will usually
+be a cold war, but it can get hotter as NWO: World War Three comes and goes.
+
+The Groups Deck
+The Nations cards make up the heart of this deck. Groups that have something to
+do with Nations (or just fit the international theme) provide support. The
+Groups deck is made up of:
+Al Amarja*
+Australia*
+The Big Prawn*
+Bill Clinton
+Boy Sprouts
+Brazil
+C.I.A.
+Canada
+Center for Disease Control
+China
+Earthquake Projector
+England
+Federal Reserve
+Fidel Castro
+Finland
+France
+Germany
+Helmut Kohl**
+Hidden City
+The Holy Grail
+International Cocaine Smugglers
+International Communist Conspiracy
+International Weather Organization
+Israel
+Italy
+Japan
+Killer Satellite*
+Loch Ness Monster
+The Mafia
+Manuel Noriega
+Margaret Thatcher
+MI-5
+Midas Mill
+Multinational Oil Companies
+NATO
+Offshore Banks
+Orbital Mind Control Lasers
+Power Satellite*
+Red Cross
+Rogue Boomer
+Russia
+Saddam Hussein
+Spy Satellite*
+Switzerland
+United Nations
+USA**
+Vatican City
+Vladimir Zhirinovsky*
+W.I.T.C.H.
+Weather Satellite
+
+* From the Assassins! expansion (leave them out if you don't have them -- or
+substitute some other cards, like Nuclear Power Companies or Robot Sea
+Monsters).
+
+** From Neue Weltordnung (if you don't have those cards, you can find out what
+they do in the article "INWO Spricht Deutsch" from Pyramid #16 and use proxies,
+or just leave them out).
+
+The Plots Deck
+The Plots Deck should start with one of every Plots card you can find, at least
+from the base set and the Assassins! expansion. Treat NWO: Peace in Our Time as
+a Yellow NWO card for this game, to provide some counterbalance to NWO: World
+War Three.
+If you have INWO SubGenius, you might consider adding a few cards from there as
+well, although most of them only work well with the SubGenius groups (some good
+ones are Miraculous Manifestation, Rant!, The 13th Apostle, Time Control, and
+Official, Divine, All-Inclusive Excuse).
+
+Then you remove the following cards, since they don't have enough "targets" in
+the Groups Deck to be useful:
+
+Air Magic
+Albino Alligators
+And STAY Dead!
+Angst
+The Auditor from Hell
+Backfire*
+Backmasquerade*
+Bait and Switch*
+Bank Merger
+Bar Codes*
+The Big Score
+Bimbo at Eleven
+Bite the Wax Tadpole*
+Blood, Toil, Tears and Sweat
+Car Bomb
+Cease Fire*
+Censorship
+Charismatic Leader
+Cold Fusion
+Computer Security
+Computer Virus
+Counterspell
+Cover-Up
+Crackdown on Crime*
+Crusade*
+Currency Speculation
+Death to All Fanatics*
+Defection*
+Dolphins*
+Don't Rock the Boat*
+Don't Touch That Dial*
+Earth Magic
+Eat the Rich!
+Exorcism*
+Exposed!
+Family Values*
+The First Thing We Do, Let's Kill All the Lawyers
+Floating Point Error*
+Foiled!
+Frankenfood*
+Freaking the Mundanes
+Full Moon
+Gang War
+Go Fish*
+GOAL: Blinded By Science*
+GOAL: Criminal Overlords
+GOAL: Earth First*
+GOAL: Hail Eris!
+GOAL: The Corporate Masters
+Grave Robbers*
+Harmonica Virgins
+Hex
+Infobahn
+The Internet Worm
+Jake Day
+Jihad
+Junk Bonds*
+Let the Sunshine In*
+Market Manipulation
+Mass Murder
+Media Connections
+Metric System*
+Miracle Diet Plan
+Mob Influence
+Monopoly
+Never Surrender
+Nevermore!*
+NWO: Antitrust Legislation*
+NWO: Bigger Business
+NWO: Energy Crisis
+NWO: Military-Industrial Complex
+NWO: Tax Reform
+NWO: The Magic Goes Away*
+NWO: Visualize Whirled Peas*
+NWO: Watermelons*
+An Offer You Can't Refuse
+Partition*
+Pave the Earth!*
+Pizza for the Secret Meeting*
+Plague of Demons
+Poison
+Power Corrupts
+Privatization
+Pulitzer Prize
+Regi$tered Trademark*
+Resistance Is Useless!
+Rewriting History
+Save the Whales
+Scandal
+The Stars Are Right
+Stock Split
+Sufficiently Advanced Technology*
+Supernova*
+Sweeping Reforms
+Take the Money and Run*
+Tax Breaks
+Teflon Coating*
+Unlucky 13
+Vile Secretions*
+The Weird Turn Pro
+Whispering Campaign
+Witch Hunt*
+Withering Curse
+
+Finally, you can use some of those blank cards to serve as duplicates of the
+NWO: World War Three card, so that you have one in the deck for each player. Or
+two per player if you're feeling particularly anti-social. Some of the other
+blank cards can become:
+
+
+War-Crimes Trials
+But he started it!
+Only playable when NWO: World War Three is in play. Discard NWO: World War
+Three. The player who played that card must remove all action tokens from his
+Nations and expose the Plot cards in his hand.
+
+
+
+Isolationism
+The target Illuminati cannot take over Nation groups.
+An Illuminati action is required to play this Zap.
+Play on a rival Illuminati at any time except during a privileged attack. A Zap
+stays on its victim until it is removed. Spending an Illuminati action, at any
+time, will remove all Zaps from any one player.
+
+
+Summit
+No Nation group, no matter who owns it, may use its Action token(s) until the
+end of the present turn, except to defend itself against an attack.
+Alternatively, if this card is played immediately after a Nation action, that
+action is canceled.
+This card requires an Illuminati or Nation action.
+
+
+Foreign Aid
+Don't spend it all in one place.
+Place an Action token on any one Nation group, or on two or more Nations whose
+current Power adds up to 5 or less. This card may not benefit a group that
+already has any tokens, or a group which is suffering from any effect that
+prevents it from getting Action tokens. This card may be played at any time. It
+requires an action from your Illuminati.
+
+
+
+Nuclear Capability
+We've had Top Men working around the clock . . .
+This card may be played at any time, and counts as the action for the group it
+affects. The increased Power takes effect immediately. The Power for one Nation
+group is increased to 6. Link this card to your chosen Nation.
+No player may have more than one Nuclear Capability in play.
+
+
+More Grist for the Mill
+That's it -- you're set for a lively game of global thermonuclear war, just like
+in WarGames. Or you can try it the sophisticated way and win through diplomatic
+means. Note also that the various Illuminati are not created equal here -- the
+Adepts, for instance, are not going to find a whole lot of use for their special
+powers. So make sure everyone knows (or can look through) the decks before
+selecting their faction.
+This is just one example of a themed One With (Not Quite) Everything deck. You
+could also have Illuminati: New World Paparazzi (Media and Personalities),
+Illuminati: New-World Politics (U.S. Democrats and Republicans), or Illuminati:
+Technomancer Order (Science and Magic). If you're into cooperative gaming, throw
+in just the Peaceful Groups and let everyone play Shangri-La . . . Just so long
+as you can keep dragging new players into the grip of the conspiracy, They'll be
+happy.

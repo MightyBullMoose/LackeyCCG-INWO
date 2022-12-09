@@ -1,0 +1,300 @@
+The Valley of the Shadow of Death
+
+Deck design by Ralph Melton
+
+Shangri-La and the Goal: Hand of Madness. Normally, they go together like garlic
+and chocolate sauce: two great tastes that do not go well together. The Hand of
+Madness involves controlling Violent groups and destroying Peaceful groups, and
+Shangri-La can only attack destroy Violent groups. But under the right
+circumstances, it's possible to make this combination viable.
+
+This deck will work better in games with fewer players, playing to a large
+number of groups. I'd rather play it in a three-player game to 12 groups than in
+a six-player game to 10 groups.
+Illuminati
+
+Shangri-La
+Groups
+
+    A.M.A.
+    Bjorne
+    Canada
+    Center for Disease Control
+    Church of Elvis
+    Church of Violentology x2
+    Der Grosse Magier (German)
+    Goldfish Fanciers
+    Japan
+    Lama Ramadingdong
+    Trekkies
+    Vatican City
+
+Resources
+
+    Angel's Feather
+    Blivit
+
+Plots
+
+    Big Sellout x2
+    Charismatic Leader
+    Crop Circles x2
+    Crusade x3
+    Goal: Hand of Madness x2
+    Good Polls
+    Jihad x2
+    Kinder and Gentler
+    Martyrs x2
+    Messiah
+    Mother's March
+    Murphy's Law
+    NWO: A Thousand Points of Light x2
+    NWO: Apathy x2
+    Power Grab x3
+    Secrets Man Was Not Meant to Know x3
+
+The Beginning
+
+Look at the other Illuminati that are out there. If there's another Shangri-la
+in the game, plan on playing like a normal Shangri-la player. (If the Church of
+Violentology ever comes out, plan on playing like a normal Shangri-la player.)
+This deck will not be as strong as a deck designed for the Shangri-la goal;
+them's the breaks.
+
+Lead with the Vatican, if you can; it will let you use your Crusades. If that
+bounces, lead with Japan, which has bonuses to take over the Center for Disease
+Control and the A.M.A., or the A. M. A., which has two common alignments with
+the Vatican, and a bonus to take over the Center for Disease Control.
+The Midgame
+
+Accumulate six peaceful groups, preferably without inviting the other players to
+come after your head. Power Grabs are good for this; with all your action tokens
+in place, you look very defensive. The Angel's Feather is also a way to make you
+look more defensive.
+
+The following are some particularly desirable groups, with their purpose for the
+endgame:
+
+The Church of Elvis, to increase the power of an eventual Messiah;
+Bjorne, to sacrifice himself in a Messianic blaze of glory;
+Der Grosse Magier, to power Crop Circles.
+Goldfish Fanciers, to add to your immunity.
+
+If you get one of your goals during the midgame when you're not ready to use it,
+bury it six or more cards deep in your deck. You'll draw six or more plot cards
+during your bid for victory, and if anyone sees your Goal, the jig will be up.
+
+If you can do so without inciting anyone's enmity or leaving yourself too badly
+exposed, destroy one violent group during the midgame. I consider this to be
+optional.
+The Endgame
+
+To qualify for the endgame, you need to have the following things before your
+automatic takeover:
+
+You need to have six Peaceful groups in your power structure and a Church of
+Violentology in your hand. Ideally, you will have played a NWO: Apathy earlier
+in the game, and it will still be in play now.
+
+You also need, at the absolute least, to have at least one +10 booster that
+applies to the Church of Violentology (Crusade or Jihad). You would also like to
+have the following cards:
+    NWO: Apathy, if there's not one in play
+    NWO: A Thousand Points of Light
+    Big Sellout
+
+One way to get these cards into your hand is to use Der Grosse Magier's action
+token to power a Crop Circles.
+
+ATO the Church of Violentology.
+
+Use the Big Sellout to discard all the group cards in your hand and deck for
+action tokens on your groups. If you don't succeed in your bid for victory,
+you're going to be killed anyway, so don't worry about saving group cards. The
+one possible exception is your Blivit; see below.
+
+Now, you're going to make six failed attacks to destroy the Church of
+Violentology. Each of these is going to fail, resulting in the destruction of
+the attacking group.
+
+Lead with one of your outlying groups. Particularly if you've managed to destroy
+a violent group earlier, you may be able to convince other players that you're
+trying for a Kill for Peace goal, and get them to defend the Church of
+Violentology for you, at least for the first few attacks.
+
+If you have to defend the Church of Violentology yourself, you have several
+possibilities:
+
+    Use a +10 booster to add to its power for defense. This is good, because it
+lasts until the end of your turn.
+     
+    Use Apathy to prevent anyone from helping you make the attack.
+     
+    If the Apathy fails, use the Vatican and the Goldfish Fanciers to prevent
+Peaceful and Fanatic groups from aiding your attack.
+     
+    Use Good Polls (and the Charismatic Leader) to boost the defensive power of
+the Church.
+     
+    Use NWO: A Thousand Points of Light to eliminate the bonus for opposite
+alignments.
+     
+    Claim the +5 defensive bonus for being Shangri-la. (This is probably abusing
+the rules, but although the rules mention that you do not get the defensive
+bonus for proximity to the Illuminati when you are attacking your own groups,
+neither the rules nor any of the FAQs say that Shangri-la's defensive bonus does
+not apply to Shangri-la's attacks on themselves.)
+    Editor's note: it has been ruled that the Shangri-La defensive bonus must
+apply when Shangri-La makes an attack against themselves. This is only
+beneficial to this deck. RLM 1/25/97 
+
+If you are going to roll an attack on the Church of Violentology that's certain
+to fail from a group that has an extra action token, consider using the extra
+action token with an extra from another group to draw a plot.
+
+If you happen to succeed in one of the attacks on the Church, use Mother's March
+to reroll the attack.
+
+As a secondary gambit, to be done only if you can do it without killing the
+Church of Violentology Play a Messiah on Bjorne. With the Vatican, the Church of
+Elvis, and the Church of Violentology, Bjorne's power will be up to 11. That
+means that if he fails to destroy the Church of Violentology, you will draw 13
+plots.
+
+If all the control arrows of Shangri-La are occupied when you ATO the Church of
+Violentology, fear not--simply let your peaceful groups march one-by-one into
+the Valley of the Shadow of Death that awaits them, until you get a free control
+arrow, and then use the Church of Violentology's action token to move them into
+that control arrow, and keep on massacring your innocent peaceful groups.
+
+When you've destroyed six of your Peaceful groups, show your Hand of Madness
+goal and claim victory.
+Complications
+
+Here are some things that can go wrong, with suggestions for handling them them:
+
+Problem: Someone else plays Shangri-La.
+This is a problem, because by the time you get six peaceful groups into your
+power structure, the two of you will probably have already won with the
+Shangri-La goal.
+Solution: play normal Shangri-La, without hinting at your hidden scheme. It
+won't work as well as a deck without this hidden scheme, but it'll probably do
+okay.
+
+Problem: Someone else plays the Church of Violentology first.
+If you don't attack the Church of Violentology in your own hand, the peaceful
+groups don't count as destroyed by you.
+Solution: Play normal Shangri-La. You probably can't take over the Church
+without giving away the game.
+
+Problem: Someone has an action token on the Nuclear Power Companies when you
+make your bid for victory.
+If someone cancels one of your attacks on the Church of Victory, that attack
+doesn't blast the attacker into shards.
+Solution: Use The Big Sellout to put multiple action tokens on your groups, or
+use the Blivit to prevent the NPCs from cancelling your actions.
+
+Problem: Someone has an action token on the Orbital Mind Control Lasers when you
+make your bid.
+This is a problem because if the Church of Violentology becomes non-violent, you
+can no longer attack to destroy the Church.
+Solution: If this is likely to happen, take a Blivit on a turn before your bid
+for victory. Alternatively, bribe the owner of the OMCLs to use that action
+token for some other purpose beforehand.
+
+Problem: NWO: Apathy gets replaced.
+If other people join in your attack, then their groups might get destroyed
+instead of yours.
+Solution: Hopefully, you'll have enough extra action tokens to accept their aid,
+destroy their groups, and still be able to destroy your own.
+
+Problem: NWO: Interesting Times
+If you've achieved your Hand of Madness by destroying almost all your groups,
+there's no possible way you're going to live, much less win, if an Interesting
+Times is played.
+Solution: Your NWO: A Thousand Points of Light or Secrets Man Was Not Meant to
+Know. (Discard from your deck instead of using your Illuminati actions for
+SMWNMTK.)
+
+Problem: Upheaval!
+If you have only the Church of Violentology left, and someone plays an
+Upheaval!, you will be dead before you play a Secrets Man Was Not Meant to Know.
+Solution: SMWNMTK isn't a solution. The only solutions are to
+a) start with seven groups other than your Illuminati, instead of six, or
+b) Hope it doesn't happen.
+Uses of Other Cards
+
+Kinder and Gentler is there because every Shangri-La deck should have a Kinder
+and Gentler; people will look at you oddly if you don't.
+
+Martyrs: For attacks and defense in the midgame.
+
+Murphy's Law: useful for making sure an attack on the Church of Violentology
+fails, or for normal defense.
+
+Charismatic Leader: Boost the power of the Church, or boost the power of the
+Trekkies if you're going for a normal Shangri-La goal.
+Replacements
+
+This deck uses a fair number of rare and unusual cards. Some advice on
+substitutions:
+
+Church of Violentology: this is absolutely critical to the deck. If you don't
+have one, you should play another deck. If you only have one, you might be able
+to use it with a Crop Circles to find it.
+
+Big Sellout: This is used to trade your group cards for action tokens. You could
+probably do without it; if so, reduce your group deck a bit.
+
+Messiah: This is used for two purposes: 1) To Add to Bjorne's power to let you
+draw lots of plots. 2) To add 8 to 10 points of peaceful power if you go for a
+normal Shangri-La victory. It's not vital to the deck.
+
+Der Grosse Magier: This German group is a Peaceful, Magic Personality. He's in
+this deck to power Crop Circles, because he's the only Peaceful Magic group.
+(And because he's a personality to be the Messiah, if Bjorne doesn't work out.)
+If you don't have one, you might use Sufficiently Advanced Technology on the A.
+M. A. or the Center for Disease Control to power your Crop Circles.
+
+NWO: Apathy: This NWO prevents any group from aiding another group in an attack.
+It's very nice for making sure that you don't get an overwhelming coalition
+against the Church. If you don't have one, you might consider a NWO:
+Military-Industrial Complex to prevent Government groups from using their full
+power in the attack.
+
+Goldfish Fanciers: These give you immunity to Fanatic groups, and they are
+themselves Fanatic, so they can use your Jihads. They're not essential.
+
+Some other cards I considered for this deck:
+    Antiwar Activists
+    Boy Sprouts
+    Fnord Motor Company
+    Moonies
+    Princess Di
+    Supreme Court
+     
+    Are We Having Fun Yet?
+    Deasil Engine
+    Hat Trick
+    Near Miss
+    NWO: Military-Industrial Complex
+    NWO: Visualize Whirled Peas
+    Read My Lips
+    Sufficiently Advanced Technology
+
+Roleplaying
+
+Why are the Secret Masters telling their followers to walk blindly into the jaws
+of death? These are some of the possible reasons:
+
+    As those who have read the Illuminatus! trilogy know, mass human sacrifice
+is an excellent way of achieving transcendental illumination.
+     
+    As you keep going through the cycle of life, living and dying and being
+reincarnated, you eventually approach Nirvana. So what better way to approach
+Nirvana than by dying?
+     
+    When you think about it, what's more peaceful than death, anyway?
+
+Last modified: January 25, 1997
+Back to the Deck of the Week.

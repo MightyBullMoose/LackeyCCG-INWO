@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>The Network</name><set>Limited</set></card>
+		<card><name>Phone Phreaks</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>EFF</name><set>Limited</set></card>
+		<card><name>Finland</name><set>Limited</set></card>
+		<card><name>Hackers</name><set>Limited</set></card>
+		<card><name>International Weather Organization</name><set>Limited</set></card>
+		<card><name>Japan</name><set>Limited</set></card>
+		<card><name>Phone Company</name><set>Limited</set></card>
+		<card><name>Science Fiction Fans</name><set>Limited</set></card>
+		<card><name>Silicon Valley</name><set>Limited</set></card>
+		<card><name>Video Games</name><set>Limited</set></card>
+		<card><name>Wargamers</name><set>Limited</set></card>
+		<card><name>The Big Prawn</name><set>Assassins</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Eliza</name><set>Limited</set></card>
+		<card><name>Eliza</name><set>Limited</set></card>
+		<card><name>The Library at Alexandria</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>A Thousand Points of Light</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Albino Alligators</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Cold Fusion</name><set>Limited</set></card>
+		<card><name>Commitment</name><set>Limited</set></card>
+		<card><name>Computer Security</name><set>Limited</set></card>
+		<card><name>Computer Security</name><set>Limited</set></card>
+		<card><name>Computer Virus</name><set>Limited</set></card>
+		<card><name>Forgery</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Infobahn</name><set>Limited</set></card>
+		<card><name>Infobahn</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+		<card><name>The Auditor from Hell</name><set>Limited</set></card>
+		<card><name>The Auditor from Hell</name><set>Limited</set></card>
+		<card><name>The Internet Worm</name><set>Limited</set></card>
+		<card><name>The Internet Worm</name><set>Limited</set></card>
+		<card><name>The Weak Link</name><set>Limited</set></card>
+		<card><name>Antitrust Legislation</name><set>Assassins</set></card>
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Bar Codes</name><set>Assassins</set></card>
+		<card><name>Beach Party</name><set>Assassins</set></card>
+		<card><name>Floating Point Error</name><set>Assassins</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+	</superzone>
+</deck>

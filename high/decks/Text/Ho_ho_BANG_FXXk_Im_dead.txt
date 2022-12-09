@@ -1,0 +1,201 @@
+
+INWO Deck: Ho ho! *BANG* F**k, I'm dead!
+A Note From The Curator
+This deck has been recently declared illegal by John Karakash, keeper of the
+INWO FAQs and the "other" INWO guru. The illegality comes from the fact that,
+when Bjorne is killed, you draw a card for each point of his _permanent_ power
+at the time. The use of the +10 boost cards for Bjorne's suicide attack on the
+Moonbase will, therefore, not figure into the number of Plots you draw upon
+Bjorne's death.
+
+I will be contacting Don Fnordlioni, the creator of this deck, to see if he
+would like to create an alternate version of this deck.
+
+Brian Strassman - 12/13/95
+
+by Tod Beardsley, key re-write suggestions by Aaron Curtis
+
+The title of the deck combines Bjorne's quote and a line from
+The Crow -- this deck maximizes the fruits of destroying Bjorne in a
+sneaky, evil way, boosting his power as fast as possible then killing
+him before anyone catches on. IMHO, it's much better than the
+method of raising his power in the WDH (He's Big, Pink, and Rules the
+World). If all goes well, you end up in a good position for the win --
+but even if you don't win, the look on the faces of your opponents is
+definitely worth the trouble.
+
+The Deck (and disclaimers)
+
+Absolutely critical cards are marked with (*) following the card name.
+This was built out of only the cards I own (which is about 60% of
+the set). If I owned the Factory Set, I'm sure I could do a little more
+with this deck.
+
+Illuminati
+
+    Servants of Cthulhu (*) 
+
+Groups
+
+    Bjorne (*)
+    Moonbase (*)
+    Rosicrucians (*)
+    Clone Arrangers
+    International Cocaine Smugglers
+    Semiconcious Liberation Army
+    Saturday Morning Cartoons
+    I.R.S.
+    Lawyers 
+
+Resources
+
+    Necronomicon
+    Cyborg Soldiers 
+
+Plots
+
+    Goal: Criminal Overlords
+    Blue NWO: Fear and Loathing
+    Blue NWO: Energy Crisis
+    Martyrs (*)
+    Pulitzer Prize (*)
+    Terrorist Nuke (x2)
+    Swiss Bank Account
+    New Blood
+    Mob Influence
+    Power Corrupts
+    Privileged Attack (x2) (*)
+    Secrets Man Was Not Meant to Know
+    Annual Convention
+    Deep Agent
+    Let's You and Him Fight
+    The Second Bullet
+    Good Polls
+    Double Cross
+    Commitment
+    Let's Get Organized
+    Fnord!
+    Blitzkrieg
+    Agent in Place (x2)
+    Car Bomb
+    Meteor Strike (x2)
+    Giant Kudzu
+    Nuclear Accident
+    Atomic Monster
+    Volcano 
+
+You can replace basically all the non-starred cards, and the Evil
+Trick will still work fine -- specifically, this could use more plot-
+cancelling cards (such as Hoax and Secrets), and maybe a couple
+more juicy disasters and assassinations.
+
+Strategy
+
+BEGINNING THE GAME
+
+If your opposition looks like it'll be remarkably strong, and
+able to move quickly towards their goals, lead with Clone Arrangers
+for the sheer power, and the bonus to pick up Bjorne if you must
+attack him. Otherwise, lead with the more relaxed Rosicrucians.
+Both are *Secret*, so you don't have to worry too much about them
+getting attacked. For your first automatic takeover (ATO), I'd
+suggest the Lawyers for their defensive bonuses. Keep a close eye on
+the other player's winning conditions -- if they're moving too fast,
+you may have to scrap The Trick, and shoot for the Criminal
+Overlords Goal.
+
+THE MIDGAME
+
+Pretty simple, if things are going well. ATO the Moonbase, and
+keep using the Rosicrucian's action to select the critical plots:
+Pulitzer Prize, Martyrs, and Privileged Attack. Hopefully, you'll have all
+three of these by Turn 3, definitely by turn 4. Once these cards are in
+your hand, ATO Bjorne, if you can. (If you're feeling risky, you can
+attack Bjorne, with the Clone's +4, but I wouldn't gamble against
+that 11 or 12).  Now you're in position for The Trick:
+
+*  *  *  *  *  *  *  *  *  *  BANG!  *  *  *  *  *  *  *  *  *  *  
+
+Link Bjorne to the Moonbase. Play Pulitzer Prize on him, following
+up with Martyrs. Narrow your eyes, look evil, and attack the Moonbase with
+Bjorne, using the Rosicrucian's action to aid with the Privileged Attack
+(you have a 22 to destroy). Now, pick up most, if not all, of your Plot
+Deck, and put it in your hand! Bjorne's killed himself by rampaging around
+the Moonbase, and his power at the time was 21, so that means 24 Plot
+cards total (1 for killing Bjorne, 1 for being Cthulhu and killing him, 21
+for his power, and 1 for destroying Moonbase and being Cthulhu)! You may
+have had to Secrets someone's Hoax, or somesuch, but now you'll probably
+have /all/ your disasters, your Goal, your other +10 boosters, everything
+in your hand. All this, and you keep all your action tokens, save the
+Rosicrucians! (May as well Annual Convention them, too, cause they're not
+going to do you much good anymore.)
+
+THE ENDGAME
+
+Depending on how things went up until this point, you have two
+options (feel free to let the other players know you'll be taking a
+while -- 25 some odd plots in your tentacles tend to take up some
+time):
+
+Option 1 (The Fun Way): Use your Disasters and power boosters
+to start destroying groups left and right in a thrashing frenzy.
+Maximize this killing spree with the remaining Privileged attack, and
+Fear and Loathing.
+
+Option 2 (The More Subtle Way): Use your Terrorist Nukes,
+Swiss Bank Account, Fear & Loathing, Blitzkrieg, and Privilege to
+take the rest of the groups out of your hand. If you're short a
+Violent-Criminal, you can always turn Lawyers or I.R.S. Violent by
+having the Saturday Morning Cartoons control them.
+
+
+SPECIFIC USES FOR THE OTHER CARDS:
+
+Double Cross: Protect your plans, or protect your massively
+huge hand.
+
+Extra Privilege: In case the first one gets Hoaxed.
+
+Annual Convention: On the off chance there's a low power group
+hanging off the end of some tree.
+
+Sat. Morning Cartoons + Let's Get Organized: Turn Lawyers and
+I.R.S. Violent, as well as Criminal.
+
+Energy Crisis: For use against Gnomes or Network, softening
+them up for the kill. Substitute a Don't Forget to Smash the State if you
+know someone's going to be Gov't crazy, and don't mind stripping your own
+I.R.S.'s power. It's Yellow, you you can have this and Fear & Loathing
+out at the same time.
+
+The Second Bullet: Conservation of action tokens in the
+endgame: Don't commit unless you have to!
+
+Agent in Place: Make sure nobody's holding a Hoax or die-
+rerolling Plot.
+
+Mob Connections, New Blood, Necronomicon, Cyborg Soldiers: In
+case you have to scrap killing Bjorne, your few groups will be
+powerful enough to grab other Violent/Criminals, or destroy pretty
+much anyone, esp. Shangri-La, Discordians, and Bermuda Triangle.
+
+DECK MODIFICATIONS:
+
+Feel free. I'm positive this deck can be fine-tuned for whichever
+Endgame option you'd like: More disasters, assassinations, power boosters
+and especially Hoaxes and Secrets. The specific plots are completely up to
+you, limited (like me) by what cards you have available. For the minimum
+killing Bjorne trick, Bjorne, Moonbase, Rosicrucions, Pulitzer Prize, and
+Martyrs are all Common;  only Privileged Attack is Uncommon. You may want
+to include a Nobel Peace Prize, if you're feeling really greedy, and get 5
+more plot cards. Heck, you can even substitute out Cthulhu if you're
+feeling especially odd -- you just will miss out on some superfuluos
+destruction power and 2 extra plot cards, but couple NWO: Don't
+Forget...State with Goal: Up Against the Wall, and you're in a good
+position with any Illuminati.
+
+Thanks to Aaron Curtis (original Deck of the Week guy) for
+helping out with this fixed version (V 1.2 for those keeping score), and
+Brian Strassman for noticing the illegal manuver in v 1.0).
+
+Back to the Deck of the Week.

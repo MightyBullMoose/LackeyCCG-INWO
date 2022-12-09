@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Gnomes of Zurich</name><set>Limited</set></card>
+		<card><name>Madison Avenue</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Wall Street</name><set>Limited</set></card>
+		<card><name>TV Preachers</name><set>Limited</set></card>
+		<card><name>Switzerland</name><set>Limited</set></card>
+		<card><name>Ross Perot</name><set>Limited</set></card>
+		<card><name>Recording Industry</name><set>Limited</set></card>
+		<card><name>Pollsters</name><set>Limited</set></card>
+		<card><name>Pentagon</name><set>Limited</set></card>
+		<card><name>Offshore Banks</name><set>Limited</set></card>
+		<card><name>Nuclear Power Companies</name><set>Limited</set></card>
+		<card><name>Multinational Oil Companies</name><set>Limited</set></card>
+		<card><name>Junk Mail</name><set>Limited</set></card>
+		<card><name>Imelda Marcos</name><set>Limited</set></card>
+		<card><name>Hawaii</name><set>Limited</set></card>
+		<card><name>Federal Reserve</name><set>Limited</set></card>
+		<card><name>Empty Vee</name><set>Limited</set></card>
+		<card><name>Cable TV</name><set>Limited</set></card>
+		<card><name>Brazil</name><set>Limited</set></card>
+		<card><name>Big Media</name><set>Limited</set></card>
+		<card><name>Liquor Companies</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Chicken In Every Pot</name><set>Limited</set></card>
+		<card><name>Bigger Business</name><set>Limited</set></card>
+		<card><name>Power For Its Own Sake</name><set>Limited</set></card>
+		<card><name>Tax Breaks</name><set>Limited</set></card>
+		<card><name>Sweeping Reforms</name><set>Limited</set></card>
+		<card><name>Stock Split</name><set>Limited</set></card>
+		<card><name>Scandal</name><set>Limited</set></card>
+		<card><name>Resistance Is Useless!</name><set>Limited</set></card>
+		<card><name>Pulitzer Prize</name><set>Limited</set></card>
+		<card><name>Privatization</name><set>Limited</set></card>
+		<card><name>Nice Idea. It&apos;s Mine Now.</name><set>Limited</set></card>
+		<card><name>Monopoly</name><set>Limited</set></card>
+		<card><name>Mass Murder</name><set>Limited</set></card>
+		<card><name>George the Janitor</name><set>Limited</set></card>
+		<card><name>Foiled!</name><set>Limited</set></card>
+		<card><name>Exposed!</name><set>Limited</set></card>
+		<card><name>Currency Speculation</name><set>Limited</set></card>
+		<card><name>Corruption</name><set>Limited</set></card>
+		<card><name>Blood, Toil, Tears and Sweat</name><set>Limited</set></card>
+		<card><name>Bank Merger</name><set>Limited</set></card>
+		<card><name>Don't Touch That Dial!</name><set>Assassins</set></card>
+		<card><name>More Slack</name><set>Subgenius</set></card>
+		<card><name>Give Me Slack, Or Give Me Food</name><set>Subgenius</set></card>
+		<card><name>Shordurpersav</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

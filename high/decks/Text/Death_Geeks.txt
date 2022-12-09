@@ -1,0 +1,515 @@
+INWO Deck - Invasion of the Gadget Snatchers
+by Aaron Curtis
+
+Introduction
+
+This deck is decended from Double Predator, a deck I wrote which can be found on
+the DotW archive at predator.html The key concept to Double Predator is to use
+die-roll-adjusting cards like Murphy's Law, Computer Virus and WITCH to make Las
+Vegas and Suicide Squad succeed every time, and prey on your opponents' plots
+and resources. The Predator concept is the only idea that links the two deck,
+though: This one preys on your opponents' *group* decks, a method previously
+unavailable...
+
+The Deck
+Illuminati
+
+    Discordian Society 
+
+Groups
+
+    Comic Books
+    Evil Geniuses for a Better Tommorrow
+    General Disorder
+    L-4 Society
+    Recycling Centers x 2
+    Society for C
+INWO Deck -- Death Geeks
+by Doug Ingram
+
+You laughed at them. You called them "Poindexters". You called them "geeks" or
+"nerds". But while you were at the prom with your dream date, they were in the
+basement, designing a better shortwave radio or a better pipe bomb and hatching
+the evil plots that would eventually serve Cthulhu (who else?).
+
+The Deck
+Groups
+
+    C.I.A.
+    Cycle Gangs
+    F.B.I.
+    Fiendish Fluoridators
+    Int'l Weather Orgnztn.
+    L-4 Society
+    Newt Gingrich
+    Ninjas
+    Phone Phreaks
+    Robot Sea Monsters 
+
+Resources
+
+    Crystal Skull (UNIQUE)
+    Mercenaries
+    Weather Satellite 
+
+Goals
+
+    GOAL: Blinded by Science 
+
+New World Order Cards
+
+    NWO BLUE: Fear and Loathing
+    NWO BLUE: Interesting Times
+    NWO RED: Solidarity 
+
+Plots
+
+    Atomic Monster
+    Bribery
+    Cold Fusion
+    Commitment
+    Computer Virus
+    Cover of Darkness
+    Flesh-Eating Bacteria
+    Giant Kudzu
+    Good Polls
+    Hoax!
+    Infobahn
+    Martial Law
+    Mob Influence
+    Murphy's Law
+    Nevermore!
+    New Blood
+    The Second Bullet
+    Secrets Man Was Not Meant to Know
+    Seize The Time!
+    Self-Esteem
+    Sorry, Wrong Number
+    Strange Bedfellows
+    Sufficiently Advanced Tech.
+    Terrorist Nuke
+    Truck Bomb
+    Volcano
+    The Weak Link 
+
+Strategy
+This deck is designed using the following "house rules":
+
+    No duplicates.
+    Auto-takeovers are allowed.
+    Play to 12 groups. 
+
+If you want to play with duplicates, there is some room for it. I personally
+wouldn't take anything OUT of the group deck just for the purposes of putting in
+a duplicate, and I also would be very reluctant to expand the group deck from
+its current size of 13. After all, most games don't go longer than six rounds,
+and barring forced group deck discards ("Death to the S.C.A.!!"), you won't run
+out of groups until the 7th round.
+
+I include an Ultra-Rare Assassins card in this deck (Flesh-Eating Bacteria),
+though I will emphasize that it is not at all necessary. If you don't have it,
+then you can sub in any other plot card or disaster. I offer some alternative
+plots at the end of this deck description. I also include a "special" card,
+Strange Bedfellows, which appears in Pyramid #18. This one isn't quite so easy
+to substitute since it makes such a potent combination when combined with NWO:
+Fear and Loathing.
+
+Of the five rare cards I include in this deck, three of them can be fairly
+easily replaced by less rare cards. For example, the CIA can be replaced by
+Clone Arrangers (though that's such a popular card, I hate to use it) or any
+other powerful Violent group (Violent + Gov. is best, but Violent is crucial for
+Truck Bomb). Cover of Darkness is not crucial to the deck, but it is nice to
+have. There aren't any other cards that do quite the same thing. Finally, the
+Weak Link can be replaced by the less versatile Deasil Engine (also rare) or any
+other Resource-penalizing card (such as Lab Explosion).
+
+Lead
+One nice feature about this deck is that it really takes advantage of the fact
+that you get to draw three plots BEFORE you decide on your lead group. If you
+get a power increase card (Mob Influence, Self Esteem or New Blood) consider
+leading with one of your weak groups of the appropriate alignment (Phone
+Phreaks, Robot Sea Monsters, Int'l Weather Organization or Ninjas). It's nice to
+get those in play right off the bat with boosted power.
+
+If you're paranoid about getting things out before other people, then you'll
+want to lead CIA or Newt Gingrich. CIA is probably best. You don't want to
+reveal the fact that you have Newt until one or two Liberal groups are already
+on the table. You'll be taking a chance on someone else getting Newt out first,
+but you don't want to scare those Liberals away. After all, with a direct attack
+to destroy by Newt on any Liberal group in the game, you'll be at a +18. I
+personally like being able to say "So what?" when someone lays down NWO: Apathy.
+:)
+
+Early Game
+First priority is to get out the Crystal Skull before anyone else does. In all
+likelihood, you'll be doing a fair bit of plot drawing in this game, and the
+sooner you get out the Skull, the better. This is doubly true if the Adepts are
+playing: monopolize arguably the best Magic resource in the game, and you've
+surely crippled him. If a couple of places are out by the end of the first turn,
+then start getting out your bonuses to destroy them with Cycle Gangs, Int'l
+Weather Organization and the Weather Satellite. If it doesn't look like a
+place-heavy game, then save these for later and check out the alignments on the
+table. Play your best groups for destroying the most threatening alignments in
+the game (i.e. Fiendish Fluoridators for Straight/Conservative, Newt for
+Liberals, etc) and start hacking away at power structures.
+
+I've found that Cthulhu's first couple of attacks to destroy usually aren't all
+that unpopular, and if for some reason a lot of players aren't hoarding tokens
+for defense, you can get two or three groups in your pile by the end of turn 2.
+If you're feeling especially vicious, you can use Sorry, Wrong Number to help
+cripple someone for the entire game or knock them out entirely! Most of the
+time, though, you'll want to spread the pain around so as not to give any one
+player enough of a head start over the others to beat you to the win. As
+Cthulhu, it's better for you to have stronger opponents who have grudging
+respect for what you're doing (attacking everyone) rather than for you to just
+pick on one player, who won't be willing or able to help you prevent someone
+else from winning later. IMHO, of course.
+
+Offense and Defense
+The most annoying NWO for your deck is Don't Forget to Smash the State. This
+deck doesn't include any Yellow NWO's to counteract that, so if this is a
+popular card in your group, you might consider some of the alternative plots at
+the end. I find that I can usually work around such a card until it is
+counteracted, as it inevitably is by someone playing a Straight or Government
+deck. This is one case where you may have to use a little diplomacy if Smash the
+State is really cramping your style.
+
+The NWO's I have included are all fairly obvious. Solidarity protects you from
+having your groups stolen and doesn't really hurt you since you care more about
+destruction than control (also slows down the other players). Interesting Times
+is a nice panic button to push when someone is on the verge of winning. Fear and
+Loathing is a must for any Cthulhu deck with its bonuses to destroy for opposing
+alignments. You have enough of a variety of alignments in this deck that you
+will always find a good use for Fear and Loathing. If you draw Strange
+Bedfellows, impress your group by using it in a powerful way, altering a roll by
+16 if Fear and Loathing is in play or maybe even 32 if you've got the right
+combination of alignments. How often does a single card (given the Fear and
+Loathing NWO, anyway) change a roll by 32? Not even the mighty OMCL's can top
+that!
+
+If there are a lot of places in the game, go ahead and pull out the Weather
+Satellite. Otherwise, it isn't worth the effort. Don't underestimate the
+usefulness of Mercenaries or Weather Satellite. Both have the ability to make a
+big difference in a game where Apathy is in play (groups can't aid attacks, but
+resources sure can!). If a few personalities are in play, pull out the CIA and
+the Ninjas and try a few assassinations with a +8 bonus. Fear and Loathing and a
+power boost card for the CIA can make these attacks unstoppable.
+
+Defensively, watch out for the Network or any other player who is building up
+bonuses to take over Science or Computer groups. Keep them weak if you can, and
+save your tokens for group defense, especially on power-boosted groups. Don't
+blow more than two tokens in any given attack to destroy. If it takes more than
+two, it probably isn't worth the effort and it will leave you extremely
+vulnerable. Some of your groups are naturally defensible but not all of them.
+
+General Strategy
+This deck is probably best tuned to place-killing. If you have Flesh-Eating
+Bacteria in your deck, then this can be the key card of the game simply because
+of the fact that if the disaster succeeds in destroying the target, you get the
+card back! If there aren't any vulnerable places in your game, then go for the
+basic goal. Don't worry about your Science goal...it's not a negligible threat
+by any means, but it will come without effort thanks to your group deck. In
+fact, I would go out of my way early to get out CIA and Ninjas just to foster
+the illusion that this is a standard Cthulhu deck and not a science deck. If you
+need an extra science group at the end, Ninjas can be turned with Sufficiently
+Advanced Technology, so you really have eight science groups in your deck.
+
+Be prepared to have one or more of your groups taken away, most especially Newt,
+who strikes fear into the hearts of Liberal deck-builders everywhere. If you can
+destroy two liberal groups in a game with Newt, then you've gotten about all you
+can expect to get from him. Heck, you might even consider killing him yourself
+with the CIA just to make sure no one else gets him.
+
+Watch out for another Cthulhu player. You probably won't have too many duplicate
+groups, but even with the power-boost cards in your deck, you're bound to have
+some easy-to-destroy low power groups in your structure at some point that are
+ripe targets. Don't worry too much about power gamers, especially those with
+Straight/Conservative/Government combinations. With the Robots and the
+Fluoridators in play, you'll have +13 on any attempt to destroy such groups. The
+FBI works well against Violent/Criminal decks.
+
+Finally, DON'T FORGET TO DRAW PLOTS WHEN YOU DESTROY GROUPS.
+
+Alternatives
+If you are missing one of the above groups or really don't feel comfortable with
+a 13-card group deck, you can always add Dinosaur Park for an even stronger
+anti-Place theme. Or Anti-Nuclear Activists, if you like to win via
+self-destruction (with Newt and the Anti-Nukes, this isn't a far-fetched
+strategy). If you're really looking for a use for Ultra-Rares, you can throw
+Militia into this deck. Good replacements for the CIA are: Clone Arrangers or
+The Mafia (best), Texas, New York, Pentagon. Of all the group cards in the deck,
+Weather Satellite is probably the most expendable and perhaps can be replaced by
+Dinosaur Park to make a stronger deck. I haven't tested this.
+
+Given the discussion above, here are some other plots you might want to consider
+(which plots to sacrifice for these or for duplicates is left as an exercise to
+the reader):
+
+    Yellow NWO: Law and Order (only use to cancel Smash the State)
+    Yellow NWO: Bigger Business (add Dino. Park, NPC's, shake well).
+    Annual Convention
+    Atomic Monster (sub for Flesh-Eating Bacteria)
+    The Auditor from Hell
+    Benefit Concert
+    Cover-Up (at times the only protection for Robots/Fluoridators)
+    Deasil Engine
+    Exorcism (for a Zap-happy group)
+    Lab Explosion (slows down Adepts a bit)
+    Market Manipulation (esp. if you anticipate a Gnomes player)
+    Messiah (free power boost for Newt IF he sticks around long enough)
+    Senate Investigating Committee
+    Sniper 
+
+Back to the Deck of the Week.
+reative Anarchism
+    South American Nazis
+    WITCH 
+
+Resources
+
+    Flying Saucer
+    Killer Satellite
+    Orbital Mind Control Lasers
+    Perpetual Motion Machine
+    Principia Discordia
+    X-Ray Specs 
+
+Plots
+
+    18 1/2 Minute Gap
+    Albino Allegators x 2
+    The Big Sellout
+    Cold Fusion
+    Computer Virus x 2
+    Deasil Engine
+    Fnord!
+    Forgery x 2
+    Freaking the Mundanes
+    Grave Robbers
+    Jake Day x 3
+    Media Blitz
+    New Blood
+    NWO Interesting Times (blue)
+    NWO Don't Forget to Smash the State (yellow)
+    NWO Apathy (red) x 2
+    NWO The Magic Goes Away (red)
+    NWO Solidarity (red)
+    Power Grab
+    Reverse Whammy
+    Seize the Time!
+    Terrorist Nuke
+    Upheaval! 
+
+Evil Schemes
+The most important tricks in this deck involve Recycling Centers, which is why
+there are two in the deck.
+
+Recycling Centers have the incredibly useful ability to spend their action token
+to salvage any Gadget Resource or Group which is discarded. This is the only way
+to get group cards from your enemies, and the best way to steal Resources.
+Specifically:
+
+1. Whenever someone fails to take over a group from his hand, and discards it,
+RC can take the card into your hand, just like Vultures.
+
+2. Whenever someone uses a group card as Agents, whether they succeed or fail,
+one copy of that card will be discarded. Just salvage it and use it as an Agent
+when it's your turn!
+
+3. You can FORCE YOUR OPPONENT TO DISCARD A GROUP CARD by using the Society for
+Creative Anarchism's action, then salvage it with RC. This is a deadly combo,
+and can really piss some people off.
+
+4. When you play a plot that requires you to discard group cards from your deck
+(Fnord!, Reverse Whammy, The Big Sellout and 18 1/2 Minute Gap), you can salvage
+your own card into your hand with RC.
+
+5. You can destroy your opponents' Gadget Resources with Killer Satellite or
+Deasil Engine, then salvage it with RC.
+
+6. When someone uses Forgery to steal a Unique Gadget Resource, you can salvage
+the "fake" with RC, then use your own Forgery to take it!
+
+Needless to say, Recycling Centers are the single most important card in this
+deck. Everything else is designed to either protect them or make use of their
+unique power. As it turns out, the Discordian Society and Weird Science do this
+very well. More schemes are listed below.
+
+Lead
+If you have NWO Solidarity in your initial plot draw, lead with Comic Books. In
+almost all cases, however, you want to lead with South American Nazis, as they
+can control any Weird Science group from your hand on a 10 or less, and one of
+these is almost guarenteed to be in your inital draw.
+
+Growth
+Comic Books can control any Weird group from your hand on a 9 or less, and any
+Weird Violent group get +12 to control another from your hand, thanks to
+Discordia's special ability. SA Nazis also do well, as mentioned aboved.
+
+For taking over Resources, there are several options. Grave Robbers can take
+Flying Saucer, Perpetual Motion Machine or Principia Discordia into play
+directly from your deck! Use it to take Flying Saucer if possible, as that
+allows you to take over an extra Resource each turn for the cost of a plot card,
+and you have lots of Resources to take. Evil Geniuses for a Better Tomorrow can
+spend their action to take any Gadget Resource, but it has to remain linked to
+them forever. This is good for X-Ray Specs, Killer Satellite and Orbital Mind
+Control Lasers, and many Gadgets you can steal from your opponents: Cyborg
+Soldiers, Earthquake Projector, Soulburner, Weather Satellite, Spy Satellite,
+and Blivit! If all else fails, you can use your Illuminati token or ATO to take
+a Resource, but this is to be avoided if possible.
+
+Slowing the Pace
+One difficulty with playing a Weird deck is the lack of raw power and quick
+growth seen in some other decks. A powerful counter to these decks is to slow
+the pace of growth so as to give you more time to act. The NWOs in the deck are
+the key cards to do this with:
+
+Solidarity: Doubles the resistance of all groups. With Comic Books, twice
+nothin' is nothin', but your opponents will have difficulty taking groups out of
+their hand. This is even more effective against a Secret deck.
+
+The Magic Goes Away: Everyone loses their automatic takeover, among other
+things. Play this *after* your ATO, with another red NWO in your hand. When the
+play gets around to the person before you, play the other red NWO *after* he
+places action tokens. Ta-da, you've stalled your opponents one group each!
+
+Apathy: Groups may not aid any attack. This is best played after someone has
+attacked you and aided with several groups, as it makes all the aiding actions
+illegal. [Note: As of 2-22-96, it is not clear whether these actions are lost or
+returned. Stay tuned.] Apathy makes it very difficult to attack groups out of
+hand, and nearly impossible to attack rivals. Meanwhile, SA Nazis and Comic
+Books can still attack out of your hand on a 10 or less all by themselves.
+
+Don't Forget to Smash the State: It's too easy to build a Bavarian Government
+powerhouse deck, and this hurts those decks a lot.
+
+Interesting Times: It's best to save this NWO until after someone else has
+claimed victory, as it not only gives you a second chance, but if they claimed
+victory with a goal card, it gets exposed!
+
+Also, these NWOs can be used to replace other NWOs that help your opponents too
+much, such as Fear & Loathing, Political Correctness, Gun Control, Bigger
+Business and Law & Order.
+
+The last method this deck has to slow down opponents is with Upheaval! Bring
+General Disorder into play first, then play Upheaval! at the first opportunity.
+When you discard General Disorder, you get him back a turn later! You can
+salvage one of your opponents' discards with Recycling Centers, but remember
+that the group is considered destroyed, so either use Media Blitz to revive it
+or use it as fodder for The Big Sellout later. Note that if Cthulhu is in the
+game, or if someone brings out Hitler's Brain, get General Disorder out sooner
+rather than later, in case they have an Upheaval! up their sleeve.
+
+Editor's note: The ruling on Upheaval! has been changed so that the affected
+cards are destroyed, not discarded. If you discard General Disorder due to
+Upheaval!, you do not get him back. Caveat player. RLM 1/24/97
+Defense!
+Your first line of defense, of course, is Discordia's immunity to Government and
+Straight groups. Never forget this! It's the reason why you don't need to worry
+too much about a Green deck stealing Recycling Centers from you, as the key
+cards Canada and Al Gore are both Government.
+
+Unless your opponents are unaware of the power of Recycling Centers' ability,
+wait until you have a Jake Day in your hand before you bring them out, and play
+it on them immediately. Otherwise, you'll have nothing to defend them with
+except your Illuminati and a few weak points of Global Power. South American
+Nazis also become more defensible if you play Jake Day on them, but this is less
+necessary as several of your groups are Violent and thus able to defend them.
+Making your groups Weird with Jake day becomes much more effective when you have
+Principia Discordia to boost their Resistance.
+
+The +10 cards (Cold Fusion, Albino Allegators and Terrorist Nuke) are there more
+for defense than offense, especially against attacks to destroy: five out of the
+eight groups in this deck have power 1.
+
+Reverse Whammy, 18 1/2 Minute Gap and Computer Virus are also useful defensive
+cards. Remember to salvage the group card from your deck when you play RW, 18
+1/2 MG, or Fnord!
+
+Media Blitz can be used to revive Recycling Centers if your opponents manage to
+destroy it, or to revive a group which was destroyed (say, by Upheaval!) and
+salvaged.
+
+Offending Your Foes
+There are still plenty of opportunities for attacking your opponents, using
+guile rather than brute strength. The first involves making your target enemy
+group Weird using Jake Day or OMCL. If it's Science, the SA Nazis have at least
+a power of 14 to take it, plus alignment bonuses, plus 4 more if you have L-4
+Society. Even better, if Comic Books participate in the attack, the target's
+Resistance is reduced to 0! This is a very good way to steal someone's Nuclear
+Power Companies when they least expect it.
+
+Use X-Ray Specs to view your opponents' group decks so that you can spend the
+Society for Creative Anarchism's token to discard a group you really want, or
+really don't want them to have. Their also useful for looking at your own decks.
+Be sure to take notes when looking six cards deep.
+
+Use Killer Satellite to destroy an enemy Spy, Power or Weather Satellite, and
+use WITCH and/or Computer Virus to guarentee the result. Or use Deasil Engine to
+destroy the Gadget of your choice. Be sure to salvage!
+
+The Endgame
+As much fun as you're having, it's easy to forget that the goal is to win and
+not just frustrate your opponents. This deck makes no pretentions: win with
+Discordia's special goal. Well, almost. If you take one or two Science groups
+from your opponents you can pretend to have Blinded by Science in your plot
+deck, and this might distract them. Fortunately, there are several ways to get
+Weird groups with power 3 or more. First, there's WITCH. Second, Jake Day can be
+used on SA Nazis, or some other group that you stole from an opponent. Third,
+any Weird Science puppet of S Am Nazis gets +3 power. Finally, New Blood can
+bring one violent group to power 6. By the time you have enough groups you
+should have no problem getting at least three with a power of 3 or more.
+
+About New Blood: If you can steal some Cyborg Soldiers from an opponent, play it
+on the Evil Geniuses for a power of 12. Otherwise, it's best played on Comic
+Books or General Disorder.
+
+In the reach for victory, or if you're needing some help in the midgame, there
+are three cards in this deck to get you going. Freaking the Mundanes will reload
+your Weird groups, up to a total power of 5, for the cost of an illuminati
+token. This should be good for about 3 tokens, preferably Comic Books, SCA and a
+Jake Day'ed Recycling Centers, and is best used earlier rather than later, if
+possible. Seize the Time! is a classic and needs no introduction. One suprise
+use of either of these cards is to play it after you've used the tokens from SCA
+and RC, and want to feed again. The third powercard is The Big Sellout. You can
+use it to turn the useless group cards you've been amassing into action tokens,
+and you can spend group cards from your deck for action tokens as well, and then
+use RC to salvage the ones you want to keep. Only The Big Sellout allows you to
+put tokens on groups that already have one, including your Illuminati. It is
+best saved until you plan to win.
+
+Substitutions
+This is a very tight deck, and too many substitutions will weaken it severely,
+perhaps fatally. The vital groups are Recycling Centers, Society for Creative
+Anarchism, SA Nazis, Evil Geniuses, and Comic Books, and at least one other
+Weird Science group. The vital Resources are Principia Discordia, OMCL, and
+Flying Saucer. Of the NWOs, Interesting Times can be replaced with A Thousand
+Points of Light, Don't Forget to Smash the State can be replaced with
+Military-Industrial Complex or Antitrust Legislation, and The Magic Goes Away
+and Apathy can be replaced with one or more Solidarity; just be sure to have at
+least four red NWO to slow your opponents down with.
+
+The plot deck needs the multiple Jake Day, Forgery, Computer Virus and +10 cards
+in order to be effective. The rest can be substituted, although at least two of
+the three powercards mentioned in The Endgame should be kept. Note that Voodoo
+Economics is *not* a good substitute for The Big Sellout.
+
+Cards I had to cull in order to reduce this to 45 cards:
+
+    Let's You and Him Fight
+    Cover of Darkness
+    Faction Fight
+    The Weak Link
+    Reload!
+    Let's Get REALLY Organized
+    Commitment
+    Annual Convention
+    Blivit
+    Suicide Squad
+    Lama Ramadingdong
+    SMOF
+    Trading Card Games
+    More Jake Day, Forgery, Computer Virus, Solidarity and +10 cards. 
+
+Last modified: January 24, 1997
+Back to the Deck of the Week.

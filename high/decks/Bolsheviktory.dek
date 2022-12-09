@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Society of Assassins</name><set>Assassins</set></card>
+		<card><name>Clone Arrangers</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>China</name><set>Limited</set></card>
+		<card><name>Fidel Castro</name><set>Limited</set></card>
+		<card><name>Fiendish Fluoridators</name><set>Limited</set></card>
+		<card><name>International Communist Conspiracy</name><set>Limited</set></card>
+		<card><name>Libertarians</name><set>Limited</set></card>
+		<card><name>Russia</name><set>Limited</set></card>
+		<card><name>Semiconscious Liberation Army</name><set>Limited</set></card>
+		<card><name>Vladimir Zhirinovsky</name><set>Assassins</set></card>
+		<card><name>Clipper Chip</name><set>Limited</set></card>
+		<card><name>Crystal Skull</name><set>Limited</set></card>
+		<card><name>Cyborg Soldiers</name><set>Limited</set></card>
+		<card><name>Lenin's Body</name><set>Assassins</set></card>
+		<card><name>Perpetual Motion Machine</name><set>Limited</set></card>
+		<card><name>Power Satellite</name><set>Assassins</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Hit and Run</name><set>Limited</set></card>
+		<card><name>Giant Kudzu</name><set>Limited</set></card>
+		<card><name>Power For Its Own Sake</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Gun Control</name><set>Limited</set></card>
+		<card><name>Citizenship Award</name><set>Limited</set></card>
+		<card><name>Cover of Darkness</name><set>Limited</set></card>
+		<card><name>Deasil Engine</name><set>Limited</set></card>
+		<card><name>Dictatorship</name><set>Limited</set></card>
+		<card><name>Dictatorship</name><set>Limited</set></card>
+		<card><name>Full Moon</name><set>Limited</set></card>
+		<card><name>Full Moon</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>The Weak Link</name><set>Limited</set></card>
+		<card><name>Interesting Times</name><set>Assassins</set></card>
+		<card><name>Interesting Times</name><set>Assassins</set></card>
+		<card><name>Watermelons</name><set>Assassins</set></card>
+		<card><name>End of the World</name><set>Assassins</set></card>
+		<card><name>End of the World</name><set>Assassins</set></card>
+		<card><name>Exorcism</name><set>Assassins</set></card>
+		<card><name>Frankenfood</name><set>Assassins</set></card>
+		<card><name>Frankenfood</name><set>Assassins</set></card>
+		<card><name>Nevermore!</name><set>Assassins</set></card>
+		<card><name>Pizza for the Secret Meeting</name><set>Assassins</set></card>
+		<card><name>Pizza for the Secret Meeting</name><set>Assassins</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,204 @@
+Intergalactic Atomic Arousal
+by Marc Sherman
+
+[Webmaster's Note: Due to recent changes in the wording of the Blinded by
+Science card, the strategy for this deck may work differently than originally
+intended. INWO's Assistant Netrep Steve Brinich puts it in perfect words:
+
+"The point of BbS in this deck is to worry and irritate rivals into attacking,
+which is less effective with the errata but can still be done by adding a
+Power-booster or two (Self-Esteem is the obvious first choice, since it works
+for either the Int'l Weather Org or Phone Phreaks). Even if BbS still isn't a
+viable Goal, boosting a weak Science Group to 6 should make people think you're
+going for it."
+
+Good luck. - SCM 8/28/2000 ]
+
+Card Data
+Illuminati:
+
+    UFOs
+
+Groups:
+
+    AMA
+    FBI
+    International Weather Organization
+    MWOWM
+    Newt Gingrich
+    Nuclear Power Companies
+    Orbit One
+    Phone Company
+    Phone Phreaks
+    Japan
+
+Resources:
+
+    The Library at Alexandria
+    Orbital Mind Control Lasers
+    Perpetual Motion Machine
+
+Plots:
+
+    Attitude Mutation
+    Cold Fusion x2
+    Computer Virus
+    Cover of Darkness
+    Crop Circles
+    Early Warning
+    Forgery
+    Giant Kudzu
+    Hoax
+    Infobahn x2
+    Liberal Agenda
+    Martial Law
+    Rewriting History
+    Secrets Man Was Not Meant to Know x2
+    Seize the Time
+    Slush Fund x2
+    Sufficiently Advanced Technology
+    The Weak Link
+    Goal: Arise! X2
+    Goal: Blinded by Science
+    Goal: Let Them Eat Cake!
+    NWO Blue: Chicken in Every Pot
+    NWO Red: Australian Rules
+    NWO Yellow: Anti-Trust Legislation x2
+    NWO Yellow: Bigger Business
+
+Strategy
+Introduction
+
+    The problem with Arise! Is that unless you have some trick like the CDC in
+your deck to let you credit your own kills to someone else, your fate is in the
+hands of your rivals. You could cut a deal with a rival to attack your last
+group to control for a shared victory, but that kind of victory is almost as
+cheesy as Blinded By Science. So how can you get your rivals to really want to
+take you out? Blinded By Science, of course!
+
+    This deck was inspired by an offhand comment in Steve Hatherley's recent
+Pyramid article, Zen and the Art of Power Structure Maintenance. Steve talks
+about how the Yellow NOW Antitrust Legislation is the only card in the game that
+lets you reorganize your power structure during an attack, and concludes with "A
+truly Illuminated (if risky) trick is to combine a mid-attack reorganization
+with the Arise! Goal . . ." This lets us turn any attack against a seemingly
+well defended and broadly distributed power structure into an attack that will
+remove all of our groups, after our rivals have poured all their tokens into it.
+
+    So the key is to find a deck that will piss off enough people to force your
+rivals to gang up on you. Most people will probably agree with me that 2 of the
+most annoying cards in the game are Blinded by Science, and the Nuclear Power
+Companies. Hang the Perpetual Motion Machine off the NPCs, and you might as well
+paint a big red target on your ass. Do so in a group deck containing all Science
+groups (except for Japan, whose slurp bonus vs. Science groups makes it just as
+good), and you're holding the gun steady for your rivals while they pull the
+trigger.
+
+    I started with a previous Deck of the Week that contained all of these
+elements, Keith Page's Blinded by Cake. This is a UFOs deck with 4 ways to win;
+Blinded By Science, Let Them Eat Cake, Unmasking as Shangri-La, and Kill for
+Peace! The UFOs were the obvious choice for my deck, since I need a Blinded By
+Science in hand to annoy my rivals enough to attack me. In the original Blinded
+by Cake deck, the only groups that weren't Science were peaceful, so those were
+the obvious candidates for trimming; I cut out the peaceful groups (except for
+Japan and the A.M.A., both of which were still very useful to me), and the two
+ways of winning that relied on peace. I also took Don Fnordlioni's advice in the
+Blinded by Cake write-up, and replaced the Power to 6 plots with some generally
+useful plots, including an Early Warning for disaster defense, and some resource
+control plots to protect my popular resources with, and harass my rivals.
+
+Lead
+
+    At the start of the game, you want to grow a little too fast, so lead with
+Japan to slurp up some Science groups. If Japan bounces, the A.M.A. or the Phone
+Phreaks are a good second choice, since half of your groups are Computer. If
+these bounce as well, you've got a lot of overlap, which is good; it means that
+at least one rival already has a built in reason to attack you. Take a look at
+your other rival's leads, and decide from there.
+
+    Early in the game, you want to straddle the line of acceptability. Grow a
+little too fast. Play isolationist. Make a big deal about slurping up a Science
+group off of Japan with a target roll of 35 or less. Defend yourself against
+attacks or interference with your copious +10 cards. If there's a rival against
+whom you have a lot of effective offense, that's the rival you want to cut a
+deal with early on for a shared victory; in my play-test game, there was a
+Liberal Science deck, against whom the A.M.A./Newt Gingrich combo was going to
+be a devastating stab in the back, so I made fast friends with him.
+
+Midgame
+
+    There isn't much of a midgame here; just keep doing what you've been doing
+from the start. The key here is to slowly start annoying everyone more and more.
+The OMCLs are always good for a bit of paranoia. Use the Phone Company's and the
+Phone Phreaks' special abilities to harass your rivals, and use MWOWM to suck up
+any useful plots that fall. Bring out the NPCs, and link the Perpetual Motion
+Machine to them. Protect the PMM if you can; in my play-test game, I lost the
+PMM to a Forgery (to the Church of the SubGenius, no less!), and took it back on
+the next turn with the Weak Link/Cover of Darkness combo. Don't actually use the
+NPCs yet against your rivals; hold it in defense until you're ready to win.
+
+Endgame
+
+    The endgame can work in a couple of different ways. Your end game can't
+begin until you've got both Arise! and Antitrust Legislation in hand, of course.
+That's already two plots; since you're most likely to be attacked by a rival on
+their turn, not your own, the other three plots in your hand had better all be
+useful to the end run, such as +10's (for your own groups to aid the attack
+against you!), plot cancellers, or the Computer Virus to fiddle with the roll
+against you.
+
+    Encouraging your rivals to attack you should be easy. Leave a group somewhat
+vulnerable. There are a bunch of useful cards in your deck to help here. If
+you've got Australian Rules and Seize the Time, take advantage and stab that
+ally you made at the start of the game! Spend all your tokens on attacks, and
+then Seize the Time. This will leave you without Illuminati tokens, and somewhat
+vulnerable.
+
+    It's important that you don't try for the win when a rival attack's you to
+control; otherwise, you'll end up sharing victory with that rival. The NPCs
+(particularly with the Perpetual Motion Machine attached) should be offensive
+enough to everyone that your rivals will agree that it should be destroyed, not
+just taken away from you.
+
+    If you get really lucky, you can try to win on your own turn. This can be a
+real help, because you can have many more than five plots in hand. To do so,
+you've got to incite your rivals to play a disaster on Japan or an Assassination
+on Newt Gingrich, and the best way to do that is to declare victory with Blinded
+by Science!
+
+    When the attack finally comes, play it carefully. Use a token in your own
+defense, if you need to, to suck out more of your rivals into helping attack
+you. If Australian Rules is still in play, everyone should be willing to throw
+at least one token onto the fire. Once the attack looks destined to succeed, you
+might as well make the end run; start aiding the attack with your own groups,
+and throw in all the +10s that you can. Play Antitrust Legislation to reorganize
+your power structure, hanging every other group off of the group that's under
+attack. Use the NPCs to cancel any defensive aid your group may receive. And
+pray.
+
+Potential Problems
+
+    If Antitrust Legislation is canceled, and you can't cancel the canceller,
+you might be in trouble. You'll probably lose the group under attack, but you'll
+still have the rest of your power structure. Little do your rivals know, there's
+a second Arise!/AtL combo in your deck! Hang on to your exposed Arise! for
+defense until you draw the second; when you do, discard the first in disgust,
+complaining that you can't possibly hope to win this game with only four live
+plots in your hand. Wait patiently for the second Antitrust Legislation, and try
+again!
+
+    If your rivals let the Antitrust Legislation go through, but are able to
+foil the attack against your root group, you're in big trouble. You're probably
+all out of tokens, and every group you own is hanging off a single group. Expose
+Arise!, so that your rivals can't take it away from you; as long as you hold
+Arise!, you know they can't knock you out of the game. You'll probably lose a
+lot of groups over the next few players' turns, though, so just bide your time,
+and keep drawing plots until you get that second Antitrust Legislation to try
+again.
+
+    Don't forget your other two goals. This deck has two other solid victory
+shots, though Blinded By Science is easy to spot and included more as bait for
+the Arise! win than as a goal in its own right. You're more likely to take out
+your own Liberals, and sneak in a Let Them Eat Cake win.
+
+Back to Deck of the Week

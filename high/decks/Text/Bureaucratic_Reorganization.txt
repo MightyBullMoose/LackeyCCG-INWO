@@ -1,0 +1,217 @@
+INWO Deck: Bureaucratic Reorganization
+
+There's a standard class of Bermuda Triangle deck that wholly ignores the
+Bermuda special goal and focuses on using one group with large bonuses to take a
+certain class of groups to slurp up groups and reorganize to leave open those
+control arrows. (See Aaron Curtis' comments on the Bermuda Triangle.) This is
+such a deck with a Government theme.
+
+This deck works very well in a game without automatic takeovers.
+
+Note: You could do a better job with this deck, I'm sure. It's not perfectly
+tuned.
+The Deck
+Illuminati
+
+    Bermuda Triangle 
+
+Groups
+
+    Al Gore
+    B.A.T.F.
+    Bank of England
+    Bill Clinton
+    C.I.A.
+    California
+    E.P.A.
+    Federal Reserve
+    I.R.S.
+    NASA
+    New York
+    Pentagon
+    State Lotteries
+    Texas
+    Black Helicopters
+    Clipper Chip 
+
+Plots
+
+    Back to the Salt Mines
+    Censorship
+    Commitment
+    Giant Kudzu
+    Good Polls x3
+    Hoax
+    Just Say No
+    Let's Get Organized
+    Martial Law x4
+    Meteor Strike
+    Murphy's Law
+    Power Grab
+    Read My Lips
+    Savings and Loan Scam
+    Supreme Court Nomination
+    This Was Only a Test
+    The Weak Link
+    Goal: Power For Its Own Sake
+    NWO: Fear and Loathing
+    NWO: Gun Control
+    NWO: Law and Order
+    NWO: Military-Industrial Complex
+    NWO: The Magic Goes Away 
+
+Beginning
+
+Lead with Bill Clinton, who has a big roll to take over all your other groups.
+If that bounces, lead with one of your powerful Government groups, and hope to
+take Bill as soon as you can. The Pentagon might be a good choice because it has
+two common alignments with Bill.
+Midgame
+
+Through the midgame, you should have the following goals for each turn:
+
+    Take over a group with Bill Clinton. (And rearrange at the end of your turn
+so that Bill has control arrows free.)
+    Ensure the security of Bill.
+    Enhance your ability to do 1) and 2), and slow down your opponents. 
+
+These will each be discussed in more detail in turn.
+Take over a Group with Bill Clinton
+
+Bill is a Government-grabbing powerhouse. When Bill Clinton attacks to control a
+Government group, he gets +4 for common alignments, plus another 8 for his
+special ability, for a total of +12. If the target is part of the United States
+as well, Bill gets another +3, for a total of +15. This high bonus lets Bill
+have a 10 or less to control almost all the Groups in your deck.
+
+On each turn, then, you want to take over a group with Bill Clinton, and then
+use your Bermuda special ability to rearrange at the end of your turn so that
+that Bill's control arrows are free, so that you can repeat the trick on the
+next turn. You should make sure that Bill has at least one and preferably two
+control arrows free when you rearrange your groups.
+
+Once you have several groups in your Power Structure, you can use other groups
+to make takeovers of their own, to grow even faster. However, it is more
+important to protect Bill than to make extra attacks and leave yourself
+vulnerable. Don't scare the other players too much; they'll gang up and pummel
+you.
+Ensure the security of Bill Clinton
+
+The primary defense for Bill Clinton will be the many other Government Groups in
+your power structure that can defend him. My rule of thumb is to leave action
+tokens on about half of your groups for defense.
+
+Many of the Plots in the deck are included specifically for Bill's sake. The
+Read My Lips will protect Bill completely from one attack. The Commitment is
+intended for him, since he has an unfortunately low Resistance. The Martial Laws
+and the Just Say No can often be saved for defense instead of being used on
+offense. And a Good Polls on Government Groups will allow you to mount a lot of
+defense as all of your Government Groups can defend each other.
+
+You may wish to include a defense against Assasination, such as Talisman of
+Ahrimanes or Bodyguard.
+Enhance your ability to do 1) and 2), and slow down your opponents
+
+NASA is a fine way to let Bill control two groups per turn, by giving him an
+extra action token after he's used the first. NASA is useful enough that it is
+well worth taking with an ATO.
+
+If you have an extra action token for Bill, a let's Get Organized can be very
+useful, since it would give Bill an outgoing control arrow at the end of the
+card.
+
+The Clipper Chip is almost a must for any Government-oriented deck. Take it over
+when you have three Government Groups or so, and don't worry about keeping
+it--it can't be destroyed, except by a Suicide Squad, and if you ever have no
+Government Groups, you will already be dead.
+
+With Black Helicopters, all of Bill's attacks to control will be Privileged,
+which should make your attacks from hand even easier. (Isn't it heartwarming to
+know that our President has such a personal role in the takeover of our
+government by the United Nations New World Order?)
+
+Having Bill win a Sweepstakes Prize is, honestly, overkill. On the other hand,
+it's free overkill, and it increases the power of is attacks to control.
+
+The NWO: The Magic Goes Away is there to slow down your opponents. It won't slow
+down you much at all, as long as you have Bill.
+
+You can easily play a Supreme Court Nomination on someone else's personality. If
+they're destroyed, fine--if not, then they're ripe for a takeover by Bill.
+Endgame
+
+There are two ways to win with this deck, almost equally easy: the Basic Goal
+and Power for Its Own Sake. The Bermuda Special Goal is not a viable option;
+don't even consider it, unless some sort of miracle occurs.
+
+With either Goal, you'll want to make a putsch to victory at the end. Here are
+some ways to go about it:
+
+    Use Censorship to prey on other people's Media groups at a crucial moment.
+    B.A.T.F. and State Lotteries can good to save in your hand for an easy
+takeover at the end of the game.
+    If one of the Groups in your hand has been taken over by someone else, bide
+your time... and then use your agents card, a Martial Law, and a lot of Power to
+steal it and its puppets from him.
+    You can make several attacks from hand at the end of the game--the hard part
+can be having enough Group cards to do so. You may wish to spend an Illuminati
+action to draw a Group when you don't need that action to take a Resource or to
+defend. 
+
+Potential Problems
+
+The Discordian Society can be annoying to a deck like this, because Discordia is
+damn near immune to everything in this deck. There's only one solution: outgrow
+them. Outgrow the hell out of them. Fortunately, typical Weird Discordia decks
+are a bit slow, and this deck is very fast, so that should not be a problem.
+
+Two-player play is not a problem for this deck, nor is NWO: the Magic Goes away,
+since this deck is very good at making takeovers.
+Variants and Substitutions
+
+You might consider adding a New Federal Budget, but I would recommend against
+it. New Federal Budget is actually pretty useless, since even the least of your
+groups will have at least power 2 with the Clipper Chip.
+
+One amusing variation on this theme is to make a Government-oriented deck with
+Government, Straight, Violent, Peaceful, Corporate (Tobacco Companies are good
+for such a deck), and Liberal alignments, and then bring out Lyndon LaRouche and
+a set of Dittoheads to achieve the Bermuda special goal. I've only tried this
+once, and it didn't actually work--but it was a noble effort, and came very
+close. If you do this, you should realize that you can move a Government group
+to be controlled by Lyndon Larouche for a sudden power boost.
+
+Since this deck is such a fast deck, you can sacrifice some of your speed to
+slow everyone else down. NWO: Solidarity and NWO: The Magic Goes Away are good
+ways to do this.
+
+Another variation would be to make Bill Clinton's bonus to control even more
+extreme, with some of the free Personality-boosters. Sweepstakes Prize would
+give an extra bonus to Bill's attacks to control; Messiah would improve Bill's
+Power and Resistance (and the Resistance boost in particular would be handy),
+but runs the risk that the card becomes useless if someone else becomes the
+Messiah.
+
+The common alignment of Government provides a lot of defensive power for Bill
+against normal attacks. However, this does not apply well to Assassinations. (If
+you see someone else take over the Secret Service, do your damndest to control
+or destroy them as soon as you can.) I don't see many Assassinations in my
+games; if you think you're likely to encounter Assassinations, it would be a
+good thing to include a Bodyguard or Talisman of Ahrimanes.
+Theme Song
+
+In conclusion, let me leave you with this thought:
+
+Most decks do not have theme songs. (All things considered, this is probably a
+good thing.) But this deck does have a theme song, from Schoolhouse Rock:
+
+    I'm just a Bill,
+    Yes, I'm only a Bill,
+    And I'm sitting here on Capitol Hill... 
+
+Back to the Classic Decks.
+
+First posted: July 8, 1996
+
+Last modified: September 4, 1997
+Ralph Melton ralph@cs.cmu.edu

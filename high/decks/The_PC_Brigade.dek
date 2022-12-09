@@ -1,0 +1,52 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>Democrats</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Big Media</name><set>Limited</set></card>
+		<card><name>California</name><set>Limited</set></card>
+		<card><name>CFL-AIO</name><set>Limited</set></card>
+		<card><name>Feminists</name><set>Limited</set></card>
+		<card><name>France</name><set>Limited</set></card>
+		<card><name>Fred Birch Society</name><set>Limited</set></card>
+		<card><name>Italy</name><set>Limited</set></card>
+		<card><name>Power Satellite</name><set>Assassins</set></card>
+		<card><name>Princess Di</name><set>Limited</set></card>
+		<card><name>Swingers</name><set>Assassins</set></card>
+		<card><name>Teddy Kennedy</name><set>Assassins</set></card>
+		<card><name>The Big Prawn</name><set>Assassins</set></card>
+		<card><name>Triliberal Commission</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>A Brief Attack of Conscience</name><set>Assassins</set></card>
+		<card><name>Back to the Drawing Board</name><set>Assassins</set></card>
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>Every Year is Worse</name><set>Assassins</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Hail Eris!</name><set>Limited</set></card>
+		<card><name>Hoax!</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Military-Industrial Complex</name><set>Limited</set></card>
+		<card><name>Near Miss</name><set>Assassins</set></card>
+		<card><name>No Beer!</name><set>Assassins</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Political Correctness</name><set>Limited</set></card>
+		<card><name>Power For Its Own Sake</name><set>Limited</set></card>
+		<card><name>Power to the People</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+		<card><name>Sorry, Wrong Number</name><set>Assassins</set></card>
+		<card><name>TANSTAAFL</name><set>Assassins</set></card>
+	</superzone>
+</deck>

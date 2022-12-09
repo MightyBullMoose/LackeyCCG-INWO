@@ -1,0 +1,129 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Adepts of Hermes</name><set>Limited</set></card>
+		<card><name>Bermuda Triangle</name><set>Limited</set></card>
+		<card><name>Discordian Society</name><set>Limited</set></card>
+		<card><name>Gnomes of Zurich</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>The Network</name><set>Limited</set></card>
+		<card><name>UFOs</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Shared Groups">	
+		<card><name>Big Media</name><set>Limited</set></card>
+		<card><name>Big Media</name><set>Limited</set></card>
+		<card><name>C.I.A.</name><set>Limited</set></card>
+		<card><name>C.I.A.</name><set>Limited</set></card>
+		<card><name>CFL-AIO</name><set>Limited</set></card>
+		<card><name>CFL-AIO</name><set>Limited</set></card>
+		<card><name>Clone Arrangers</name><set>Limited</set></card>
+		<card><name>Clone Arrangers</name><set>Limited</set></card>
+		<card><name>Democrats</name><set>Limited</set></card>
+		<card><name>Democrats</name><set>Limited</set></card>
+		<card><name>F.B.I.</name><set>Limited</set></card>
+		<card><name>F.B.I.</name><set>Limited</set></card>
+		<card><name>Federal Reserve</name><set>Limited</set></card>
+		<card><name>Federal Reserve</name><set>Limited</set></card>
+		<card><name>I.R.S.</name><set>Limited</set></card>
+		<card><name>I.R.S.</name><set>Limited</set></card>
+		<card><name>Lawyers</name><set>Limited</set></card>
+		<card><name>Lawyers</name><set>Limited</set></card>
+		<card><name>Multinational Oil Companies</name><set>Limited</set></card>
+		<card><name>Multinational Oil Companies</name><set>Limited</set></card>
+		<card><name>N.S.A.</name><set>Limited</set></card>
+		<card><name>N.S.A.</name><set>Limited</set></card>
+		<card><name>Nuclear Power Companies</name><set>Limited</set></card>
+		<card><name>Nuclear Power Companies</name><set>Limited</set></card>
+		<card><name>Phone Company</name><set>Limited</set></card>
+		<card><name>Phone Company</name><set>Limited</set></card>
+		<card><name>Post Office</name><set>Limited</set></card>
+		<card><name>Post Office</name><set>Limited</set></card>
+		<card><name>Republicans</name><set>Limited</set></card>
+		<card><name>Republicans</name><set>Limited</set></card>
+		<card><name>South American Nazis</name><set>Limited</set></card>
+		<card><name>South American Nazis</name><set>Limited</set></card>
+		<card><name>The Mafia</name><set>Limited</set></card>
+		<card><name>The Mafia</name><set>Limited</set></card>
+		<card><name>Tobacco Companies</name><set>Limited</set></card>
+		<card><name>Tobacco Companies</name><set>Limited</set></card>
+		<card><name>Triliberal Commission</name><set>Limited</set></card>
+		<card><name>Triliberal Commission</name><set>Limited</set></card>
+		<card><name>Wall Street</name><set>Limited</set></card>
+		<card><name>Wall Street</name><set>Limited</set></card>
+		<card><name>Bill Clinton</name><set>Limited</set></card>
+		<card><name>Bill Clinton</name><set>Limited</set></card>
+		<card><name>California</name><set>Limited</set></card>
+		<card><name>California</name><set>Limited</set></card>
+		<card><name>China</name><set>Limited</set></card>
+		<card><name>China</name><set>Limited</set></card>
+		<card><name>Germany</name><set>Limited</set></card>
+		<card><name>Germany</name><set>Limited</set></card>
+		<card><name>Japan</name><set>Limited</set></card>
+		<card><name>Japan</name><set>Limited</set></card>
+		<card><name>New York</name><set>Limited</set></card>
+		<card><name>New York</name><set>Limited</set></card>
+		<card><name>Pentagon</name><set>Limited</set></card>
+		<card><name>Pentagon</name><set>Limited</set></card>
+		<card><name>Texas</name><set>Limited</set></card>
+		<card><name>Texas</name><set>Limited</set></card>
+		<card><name>Vatican City</name><set>Limited</set></card>
+		<card><name>Vatican City</name><set>Limited</set></card>
+		<card><name>The Green Party</name><set>Assassins</set></card>
+		<card><name>The Green Party</name><set>Assassins</set></card>
+		<card><name>Teddy Kennedy</name><set>Assassins</set></card>
+		<card><name>Teddy Kennedy</name><set>Assassins</set></card>
+	</superzone>	
+	<superzone name="Shared Plots">	
+		<card><name>Albino Alligators</name><set>Limited</set></card>
+		<card><name>Back to the Salt Mines</name><set>Assassins</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+		<card><name>Cold Fusion</name><set>Limited</set></card>
+		<card><name>Crusade</name><set>Assassins</set></card>
+		<card><name>Harmonica Virgins</name><set>Limited</set></card>
+		<card><name>Infobahn</name><set>Limited</set></card>
+		<card><name>Jihad</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Pulitzer Prize</name><set>Limited</set></card>
+		<card><name>Save the Whales</name><set>Limited</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Stock Split</name><set>Limited</set></card>
+		<card><name>Swiss Bank Account</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>World Cup Victory</name><set>Limited</set></card>
+		<card><name>Cat Juggling</name><set>Assassins</set></card>
+		<card><name>Chain Letter</name><set>Assassins</set></card>
+		<card><name>Contract on America</name><set>Assassins</set></card>
+		<card><name>Crackdown on Crime</name><set>Assassins</set></card>
+		<card><name>Death To All Fanatics</name><set>Assassins</set></card>
+		<card><name>Every Year Is Worse</name><set>Assassins</set></card>
+		<card><name>Metric System</name><set>Assassins</set></card>
+		<card><name>Vile Secretions</name><set>Assassins</set></card>
+		<card><name>Waiting Period</name><set>Assassins</set></card>
+		<card><name>Whistle Blowers</name><set>Assassins</set></card>
+		<card><name>Charismatic Leader</name><set>Limited</set></card>
+		<card><name>Citizenship Award</name><set>Limited</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>Grassroots Support</name><set>Limited</set></card>
+		<card><name>Messiah</name><set>Limited</set></card>
+		<card><name>Mob Influence</name><set>Limited</set></card>
+		<card><name>Monopoly</name><set>Limited</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>Nobel Peace Prize</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+		<card><name>Assertiveness Training</name><set>Limited</set></card>
+		<card><name>Fundie Money</name><set>Limited</set></card>
+		<card><name>Jake Day</name><set>Limited</set></card>
+		<card><name>Kinder and Gentler</name><set>Limited</set></card>
+		<card><name>Liberal Agenda</name><set>Limited</set></card>
+		<card><name>Nationalization</name><set>Limited</set></card>
+		<card><name>Power Corrupts</name><set>Limited</set></card>
+		<card><name>Privatization</name><set>Limited</set></card>
+		<card><name>Straighten Up</name><set>Limited</set></card>
+	</superzone>
+</deck>

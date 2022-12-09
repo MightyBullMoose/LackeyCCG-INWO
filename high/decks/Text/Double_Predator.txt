@@ -1,0 +1,147 @@
+
+INWO Deck: Double Predator
+This deck uses hardly any rare cards, but it does use multiple copies of
+uncommon cards. What? You don't have three of every uncommon plot? Well, you
+need to buy some more cards then, don't you?
+
+Evil Scheme #1: Plot Predator
+What's the best way to deplete your opponent's plot deck? The IRS? No. The
+Internet Worm will force your opponent to discard the top three cards of his
+deck. Las Vegas' action allows you to "bet" up to three cards with another
+player, then roll the dice: If the result is 7 or more, you get to draw three
+cards from his deck! All you need is a little help from WITCH, a Computer Virus,
+or Murphy's Law to rig the game heavily in your favor. In a long game, you can
+actually deplete someone's plot deck entirely!
+
+Evil Scheme #2: Resource Predator
+Take a look at the Suicide Squad resource. Not only does it allow you to destoy
+any resource, not just artifacts and gadgets, but if you manage to roll a 1, the
+Squad survives to destroy again! So, all you need is WITCH and some Computer
+Viruses (and maybe a Bribery or two) to keep your opponents Resource-free.
+Furthermore, with a Cover of Darkness (or two), and some Hat Tricks, you can
+pick up your favorite Artifact and Gadget Resources from your enemies!
+
+I combined these two Evil Schemes into a single deck.
+
+The Deck
+Illuminati
+The Network
+
+Groups
+
+    EFF
+    Fraternal Orders
+    Hackers
+    International Weather Organization
+    Japan
+    Las Vegas
+    NSA
+    Phone Company
+    Phone Phreaks
+    Post Office
+    Video Games
+    WITCH 
+
+Resources
+
+    Center for Weird Studies
+    Eliza x 3
+    Flying Saucer
+    Suicide Squad x 3
+    The Library at Alexandria 
+
+Plots
+
+    Bribery x 2
+    Computer Security
+    Computer Virus x 3
+    Cover of Darkness
+    Forgery
+    Hat Trick x 3
+    Murphy's Law x 3
+    Secrets MWNMTK x 3
+    The Auditor from Hell x 3
+    The Internet Worm x 3 
+
+Strategy
+Lead
+Lead with Fraternal Orders. Why? Because your group deck is so large (21 cards)
+and Resource-laden (9 of them), you need to get them into your hand quickly.
+
+The Wind-Up
+Get Flying Saucer, Eliza (linked to the Network) and Center for Weird Studies
+out as quickly as possible, in that order, using Illuminati actions. Once the
+Network gets two actions per turn, use one to play a resource and the other to
+draw an extra group card. Use your automatic takeover to bring out a new group
+each turn, but don't attack anybody. Get the following groups out quickly: NSA,
+WITCH, International Weather Organization. Also get out some high-powered
+computer groups (Japan, Phone Company, Post Office, Hackers). Use your Suicide
+Squads for intimidation: "If you attack me, I'll destroy your [insert his
+favorite resource here]." Once you're set up, play Las Vegas.
+
+The Punch
+You should endevor to get the following in your hand: Computer Virus, Hat Trick,
+Bribery. Use one of your Suicide Squads against a Resource you find annoying. If
+you have Cover of Darkness in your hand, too, target one you covet. If you roll
+low, use a combination of Computer Virus, WITCH, and/or Bribery to bring the
+roll to a 1. If you roll a 6, use WITCH to bring it to a 5, so you at least
+destroy the resource. Use your Hat Trick on your Cover of Darkness, if possible,
+or your Computer Virus, so that you can use it again, and again. Repeat every
+turn, or even twice in a turn if you rolled well.
+
+The KO
+Once you have Las Vegas out, you should have a pretty good idea who still has a
+large supply of plots and who is running short. Target that person, stealing
+three plots with Las Vegas (with a guarentee from Murphy's Law, WITCH, and/or
+Computer Virus), and destroying plots with The Internet Worm. The last is more
+useful if you use the NSA to look at people's top three cards, then destoy (or
+steal!) them if they are at all useful. Use The Auditor from Hell to steal these
+useful plots after he's drawn them. Once your opponents are out of plots,
+victory is nearly assured.
+
+Caveats
+Don't try either combo if someone is in position to cancel your actions,
+especially the Nuclear Power Companies! It's probably best to form some sort of
+truce with the owner of the NPC's, since you can still do a lot of damage to his
+deck. Also beware of other Network players, since they will be more geared to
+just controlling Computer groups, especially yours!
+
+Substitutions
+If you have more than one Cover of Darkness or Computer Security, by all means
+include them! Additional Computer Viruses and Hat Tricks are extremely useful,
+too. All of the duplicated plots are important to this deck: if you don't have
+three of them (for example, I only have two each of Bribery and Secrets MWNMTK,
+so that's what's in the deck), include what you have, but you should have at
+least two of each, especially Computer Virus. The same goes for Eliza and
+Suicide Squad: two is barely enough, three is better, and four is possible if
+you don't have something better to do with the slot.
+
+Other Plans
+Favorite Resources to steal via Cover of Darkness are: The Holy Grail (to
+protect Las Vegas), Crystal Skull, Perpetual Motion Machine, and the Orbital
+Mind Control Lasers.
+
+You can reduce this to just a Resource Predator by eliminating Las Vegas, The
+Auditor from Hell, The Internet Worm, and Murphy's Law from the deck. Resource
+Predator is better in a large game because you can't deplete the decks of 4 or 5
+opponents no matter how hard you try. Be sure to replace those cards with some
+more defensive cards, because you won't be getting cards from your opponents.
+
+You can also reduce this to just a Plot Predator, especially in a game with only
+two or three players. Remove Suicide Squad, Bribery, Cover of Darkness, and
+Fraternal Orders and add some defenses. In a three player game, lead with Las
+Vegas, unless your opponent is playing Cthulu, in which case lead with NSA or
+WITCH. In a two-player game, lead with Japan or the Phone Phreaks so as to get
+your groups out quickly.
+
+Is there such a thing as a Deck Predator? Well, you can use the action token of
+the Society for Creative Anarchism to force an opponent to discard a plot card.
+With the Perpetual Motion Machine and Center for Weird Studies you could force
+three discards a turn. You could force another discard every time you played
+Voodoo Economics, Seize the Time, The Big Sellout, or Freaking the Mundanes. If
+someone was foolish enough to put less than 10 cards in their group deck, they
+would be quite vulnerable to this attack. I expect they will wise up after
+getting hit with this once, so it's not something you'd do often.
+
+Deck design by Aaron Curtis.
+Back to the Deck of the Week.

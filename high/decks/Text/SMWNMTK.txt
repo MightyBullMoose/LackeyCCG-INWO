@@ -1,0 +1,201 @@
+SMWNMTK
+Deck of the Week #88
+Whispered by Martin Lærkes
+
+Unknown to the average person, the illuminati are at work behind the scenes of
+the ordinary world, wielding unbelievable power and arranging conincidences. All
+those unspeakable things are the secrets man was not meant to know, and precious
+few know those secrets. Those who speak don't know, and those who know don't
+speak.
+
+Playing the Deck
+
+The Plan
+Well, as the contest guidelines said, the idea was to create a deck using the
+resource The Nine Unknown Men from the completely non-existent INWO expansion
+Bavarian Fire Drill. The unique resource powers or removes any zap, paralyze or
+freeze by using its token, so it makes around 40 or so cards more playable. I
+considered a deck using the zap Security Leak and League for Obvious Decency to
+shut down a rivals plots entirely, or a deck using almost exclusively paralyzes,
+and NPCs to prevent your rivals from removing them. However, in the end I went
+with an old idea of mine, nicknamed Secrets Man Was Not Meant To Know.
+
+The idea is simple: When you take over secret groups from hand, only secret
+groups and illuminati can interfere. So, if you can make sure that there are
+only a few illuminati tokens and secret groups out there, there is little your
+rivals can do to stop you. In fact, if you play Let the Sunshine In, no secret
+groups may act, cutting the opposition down to just illuminati tokens (and no
+pesky +10s). Let the Sunshine in would naturally also stop your own secret
+groups from attacking in the first place, but you can work your way around this
+by using the few non-secret groups that can attack secret groups.
+
+The 9 Unknown Men are not instrumental to the deck - you could build one without
+it. But it does allow you to play some zaps and paralyzes that will have your
+rivals spend their illuminati tokens, and it can also power your Let the
+Sunshine In. Not bad.
+
+The Illuminati
+Adepts of Hermes were chosen for their +6 bonus to control magic groups.
+
+Opening Game
+Your lead depends on your opening hand of plots, but it should be one of your 5
+non-secret groups, preferably St. Janor, Dracula or W.I.T.C.H.. It is a key
+objective to not get attacked, if at all possible, so play conservatively. Keep
+defense cards in your hand, hoping to repel any incoming attacks. For defense,
+Secret Master is best on Dracula, while Overman is best on St. Janor, since this
+will make him count double towards Hail Eris. Try to sneak in an extra group
+draw early if you can - you probably need your whole group deck before you are
+ready to slurp.
+
+Midgame
+Your objective is to get all 5 non-secret groups into play. You have very few
+control arrows, so be careful when you make your ATOs, since you need open
+arrows on all your slurpers for your final turn. Start with Dracula, St. Janor
+and W.I.T.C.H. Druids should be second to last, as a puppet of W.I.T.C.H. - your
+final ATO should be Junk Mail. Place it as a puppet of Druids. This will
+probably alert your rivals to the fact that something is up. And indeed
+something is.
+	
+
+The Deck
+
+    Illuminati: Adepts of Hermes
+
+    Cattle Mutilators
+
+    Count Dracula
+
+    Druids
+
+    Junk Mail
+
+    Rosicrucians
+
+    St. Janor Hypercleats
+
+    Templars
+
+    Vampires
+
+    W.I.T.C.H.
+
+    The 9 Unknown Men*
+
+    Center for Weird Studies
+
+    Necronomicon
+
+    Giant Kudzu x2
+
+    Goal: Hail Eris x2
+
+    Gremlins
+
+    Harmonica Virgins x2
+
+    Let the Sunshine In x2
+
+    Miraculous Manifestations
+
+    More Slack!
+
+    NWO: Global Warming x2
+
+    NWO: Gun Control x2
+
+    NWO: Don't Forget to Smash the State
+
+    ...Or Kill Me!
+
+    Official, Divine, All-Inclusive Excuse x2
+
+    Overman x2
+
+    Power Grab
+
+    Save the Whales
+
+    Savings & Loan Scam x2
+
+    School Prayer
+
+    Secret Master
+
+    SMWNMTK
+
+    Seize the Time!
+
+    Sorry, Wrong Number
+
+    Sudden European Vacation
+
+    Waiting Period
+
+Your second midgame objective is to have your rivals spend illuminati tokens on
+the turn prior to your victory grab. You have lots of plots to encourage them to
+do this, like the lovely Giant Kudzu, but a concerted attack against a rivals
+secret group might also be a good idea, and will knock out a secret group in the
+process. Gremlins can also bounce back a good resource like the OMCLs,
+motivating the rival to spend an illuminati token to take it over ASAP.
+
+If you do not have your goal when the time comes, then your plan will have to
+change slightly. ATO Rosicrucians instead of Junk Mail, dig for your goal, and
+then wait a turn before unleashing your slurpy surprise.
+
+End Game
+With Junk Mail in place, the time has come for your all or nothing move.
+Hopefully there is only 1, or even 0, illuminati tokens out there. Secret groups
+can be kept out of this turn by using Let the Sunshine In or possibly even a
+paralyze (or Gremlins on NSA). Now all you have to do is slurp from hand. Due to
+your illuminati and Junk Mail, you have a massive +11 bonus to control secret
+magic groups, and the bonus applies to all your non-secret attacking groups.
+So, St. Janor will be at 13 to take the Rosicrucians. Dracula will be at 19 to
+take the Vampires. Junk Mail will be at 11 to take the Cattle Mutilators. If
+someone interferes, then note that Druids can interfere with any attack on a
+magic group - even a secret one - so with either Global Warming or Harmonica
+Virgins, they should be able to get the attack back on track.
+Also, naturally, W.I.T.C.H. can change a failed roll by 2.
+
+Finally, Adepts can try to control the Templars ("13 or less"), take over the
+Necronomicon, or help an attack which is failing. With Center for Weird Studies
+or More Slack! they may even do 2 of these things. If all went well, you have
+slurped a lot of groups, and should be very close to your goal. You may already
+be there. Note that it may be a good idea to spend Hermes token before attacking
+with St. Janor, so a roll of a natural 2 by Janor can not cost you an illuminati
+token.
+
+The last element to your victory is Hail Eris. W.I.T.C.H. counts, as will Cattle
+Mutilators with Gun Control, St. Janor with Overman, and/or Vampires (or one of
+the others) with the Necronomicon. Notice that if you had to play Secret Master
+on St. Janor to save him from an attack, you can make him weird again by making
+him a puppet of something other than your illuminati. This will make the Secret
+Master permanently illegal, and force you to discard it.
+
+Potential Problems
+Well, it's a pretty risky leap towards victory. Hopefully your rivals won't see
+it coming. If you've set things up right, it's a big leap - possibly too big to
+anticipate. But this deck is a big gamble. It can take losing a group or 2, but
+more than that and you're going down the tube. Hey - who said world domination
+was easy?
+
+Also note that without its goal, this deck will only go to 11 groups, meaning
+that it is probably best suited for a 4 player game.
+
+Variants and Substitutions
+The Adepts of Hermes probably isn't the only way to set up a SMWNMTK-slurper.
+Library at Alexandria and Junk mail will give a +11 bonus against a lot of
+Secret Groups, making it possible to maybe build a Network or UFO version of the
+deck. A secret group or 2 in your power structure will also allow you more
+attacks, and possibly the Black Helicopters, but it will make Let the Sunshine
+in harder to fit into the deck.
+Naturally, a deck without unofficial cards can't use The 9 Unknown Men, in which
+case Library at Alexandria is probably be your best substitute. Those extra +5
+to every attack should make it even harder for your rivals to prevent your
+attacks.
+
+A cute alternative SMWNMTK slurper relies on Church of the SubGenius. Create a
+deck that does little but accumulate illuminati tokens. Then use these tokens to
+take over lots of secret groups in one fell swoop.
+
+As always, have
+fun.

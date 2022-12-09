@@ -1,0 +1,214 @@
+INWO Deck: The Artifactory
+
+This is an Adepts of Hermes deck built on the premise that once you've set up
+the machinery, you can crank out squishies fast enough to win the game. Although
+the card listing below contains some multiplication of cards, if you don't have
+the cards, it's easy to adjust the mix to make it work. Since a large chunk of
+the deck is Magic resources, if you are missing any of them, you can throw in
+any old Magic resource, more or less (even the Bronze Head, which has a power
+useless to the Adepts).
+Illuminati
+
+The Adepts of Hermes
+Groups
+Cattle Mutilators
+Count Dracula
+Fraternal Orders
+Stonehenge
+The Templars
+Magic Resources
+
+    Angel's Feather
+    Ark of the Covenant
+    Book of Kells
+    Crystal Skull
+    Necronomicon
+    Shroud of Turin
+    Soulburner
+    The Holy Grail
+
+Non-Magic Resources
+
+    Flying Saucer
+    Warehouse 23
+
+NWOs
+
+    2 x Don't Forget to Smash the State
+    Energy Crisis
+    World Hunger
+
+Other Plots
+
+    Are We Having Fun Yet?
+    2 x Cover of Darkness
+    2 x Crop Circles
+    Forgery
+    George the Janitor
+    Good Polls
+    2 x Harmonica Virgins
+    3 x Hat Trick
+    3 x Murphy's Law
+    2 x Read My Lips
+    2 x Secrets Man Was Not Meant To Know
+    2 x The Stars Are Right
+    The Weak Link
+    Voodoo Economics
+    Withering Curse (or Poison)
+
+Hints & Questions
+Lead
+
+You have two choices for lead - both of which commit you to a different
+strategy. The usual lead should be the Fraternal Orders - you'll need their
+ability to draw Groups fast and still leave you an Illuminati action for the
+rest of the turn. A fun alternative is Count Dracula, which commits you to
+trying to pair him up with Stonehenge.
+
+Either way, you won't be giving much away to the other players as to the style
+of deck you are playing.
+Why So Few Groups?
+
+This deck is not designed to win with groups, hence there are just enough groups
+to allow you to get within "the safety zone" (a group on each control arrow of
+your Illuminati: the strongest defensive position). Plus, the groups that are
+present look like fairly obvious choices in an Adepts deck, and unless your
+opponent has come across Artifactories around, they will assume a fairly
+reasonable mix of groups and Artifacts.
+Game Play
+
+You must disguise the fact that you have so many artifacts in the deck. Always
+look disapprovingly at your group hands. Ideally, you should be seeming
+optimistic until you draw your group cards, but don't worry if you don't do
+this. Just an old poker trick I learnt in the 'Nam... wait a second. I'm too
+young to have been in 'Nam. Hmmm.... memory malfunctioning.
+
+Your plots fall into three categories:
+
+    Defense: You can't afford to lose too many (if any) of your groups in play,
+so use cards to cover your back. Defense cards include Murphy's Law, Are We
+Having Fun Yet?, Read My Lips (which only protects Dracula, but which can
+guarantee he can't be taken from you) and Good Polls. SMWNMTK also helps
+greatly, and doubles as a good way to put a sabot in your opponent's machinery.
+Harmonica Virgins can be used defensively, but may also be needed to help power
+a Stars Are Right. Judge for yourself under the conditions of the game.
+    Artifact Cards: Forgery, Cover of Darkness, & The Weak Link are there to
+help you steal other artifacts from around the table. Cover of Darkness also
+gives an extra level of protection to your own artifacts, should you play them.
+    Special Cards: George is there to go with the Templars, should the Cattle
+Mutilators not be available, or to allow you to open up the table and know best
+where to use the Templars ability. Voodoo Economics is mostly a defensive card,
+but can be used to turn Plots into Groups if needed (use it, and put a counter
+on the Fraternal orders). The Stars Are Right is used to make a bid for victory
+(see below). Use Crop Circles to get the cards you need, and use Hat Trick to
+reuse whichever cards you need again.
+
+Don't make too many enemies in play, if you can help it. Defend yourself if
+necessary, but don't use vicious abilities unless you are confident that your
+defense is strong, or you know you need to start slowing someone down.
+Factory Design
+
+Your objective is to achieve the following steps:
+
+    Lay Warehouse 23, moaning that you're not drawing Magic resources. Select
+the Flying Saucer and put it underneath saying that "well, at least that's one."
+    Get a Stars Are Right in your hand.
+    Get 4 Magic resources in your hand (or 3 Magic Resources and one Group).
+    Take over one as your Auto takeover (or the Group if only 3 Magic Resources
+on hand).
+    Take over a second with the Flying saucer.
+    Take a third with the Adepts Action.
+    The the fourth with The Stars Are Right (using a Magic group).
+
+Assuming you were already in the safety zone this will give you 9 groups. If
+this is not enough to win, you will have to play a few Resources before making
+the bid for victory. Try to play ones that will be of use to you - The Holy
+Grail if Stonehenge is in play; the Shroud of Turin if you need specific
+Resources and the Crystal Skull if you need specific Plots. If you have Dracula
+protected by Stonehenge, then you can link anything appropriate to him for
+protection.
+
+If anything goes wrong, try and sit safe till your next turn and make up the
+missing groups then.
+Bump & Run
+
+If the game is going along fast, you can use the backup plan. Rather than going
+for four resources in one turn, go for a steady buildup. This needs to be played
+offensively. Use NWOs to slow your enemies, if possible, and take control of as
+many Resources a turn as possible, holding onto the Illuminati Action only if
+you need it to power something.
+
+Offer to team up with the underdogs to help them get groups off the winning
+sides. Don't take anything for yourself; rely instead on the steady buildup of
+Resources in play.
+
+Many decks pack some Resource defenses, so be prepared for a few casualties.
+Remember, you can win back a destroyed one with Cover of Darkness, and a Suicide
+Squad can be hit with Murphy's Law to make it fail and be destroyed.
+
+If someone has a squad in play, and you have a Murphy's Law, you can always try
+and goad them into using their squad ASAP, using whichever reverse psychology
+you think will work best.
+
+The most common time you have to use this strategy is when your Warehouse 23 is
+taken out. If this happens, and you aren't going to play the deck again, pretend
+that you can't win without it, and try to be the biggest mercenary you can. With
+luck, you can romp in under their radar and win anyway.
+The Stockroom of Doom
+
+If you are playing to a lot of groups (say 12) the following alteration is
+useful: Swap out your two least favourite Plots cards and swap in the Evil
+Geniuses For A Better Tomorrow and a Perpetual Motion Machine. By getting the
+former into play and the latter linked to your Illuminati, you can go for what
+is commonly known as "The Stockroom of Doom".
+
+Use the Factory victory plan, but take a Fifth Resource by using the Evil
+Geniuses Action to take the Soulburner, and a Sixth Resource by using the second
+Illuminati Action to power another Stars Are Right.
+
+If anyone succeeds in the Stockroom of Doom, please let me know. I made five
+once, but never the magic six.
+Strength & Weaknesses
+
+You have two obvious weaknesses with a deck of this kind. Firstly, you cannot
+afford to be ganged up on. With a little cooperation, you can be stripped of
+groups and out of the game. However, since the deck packs a fair supply of
+defensive cards you can usually survive well enough. Similarly, anyone targeting
+your Resources all out will be a problem, but there should be more than enough
+to go around.
+
+The deck's strength lies in the distance it can leap to victory. Four (or six!)
+groups in a turn is usually more than the average opponent expects to see in a
+single turn. Also, unless there are a lot of players, you are unlikely to be
+stripped of more than 1 or 2 Resources, which makes it hard for people to take
+you away from victory (something the Adepts share with
+Cthulhu).
+
+Your biggest worry should be another Adepts player using a lot of Artifacts
+(which is, after all, fairly common). This can be an asset, however, since a
+timely use of The Weak Link and Cover of Darkness can net you an extra Resource.
+Multiple Cthulhu players can be a problem, as they frequently size you up as
+easy prey and decide to try and destroy your entire power structure. If this
+happens, draw attention to the fact that they are getting lots of kills and try
+and turn the rest of the table against them.
+Final Comments
+
+I consider this to be a more or less prototypical Adepts deck, but that doesn't
+make it any less effective. Unfortunately, it has a fair number of Rare cards in
+it, but you can make a fair stab at the idea even without those cards, provided
+you have Warehouse 23 and a Flying Saucer. The Adepts have been my favourite
+Illuminati for some time, and a well tuned Artifactory (which I'm not claiming
+the above is) is a joy to play.
+
+As with all my deck designs, I recommend playing around with the card mix to get
+what you want. Certain cards are liked by certain players more than others -
+they suit their play. Personally, I often pack an Annual Convention instead of
+Withering Curse, but I happen to have a passion for that card.
+
+Whatever works for you.
+
+Felicitas per Dementiam
+
+Mad Chris
+Discordia Inc.
+Back to the Deck of the Week.

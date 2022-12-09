@@ -1,0 +1,275 @@
+Attack of the Plot Bandits
+
+by Aaron Curtis
+This is a descendant of my Double Predator deck, invigorated by Assassins! It
+gives you incredible control over your opponents' plots, with multiple
+opportunities to view, discard, and (especially) steal them.
+Illuminati
+
+    The Network 
+
+Group Cards
+
+    Arms Dealers
+    Cattle Mutilators
+    Fraternal Orders
+    Illuminati University
+    IRS
+    Las Vegas
+    N.S.A.
+    Phone Company
+    Post Office
+    W.I.T.C.H.
+    Book of Kells
+    Center for Weird Studies
+    Eliza x2
+    Flying Saucer
+    Suicide Squad x2
+    X-Ray Specs 
+
+Plot Cards
+
+    An Offer You Can't Refuse
+    The Auditor From Hell x3
+    Computer Virus x3
+    Cover of Darkness
+    Embezzlement
+    Go Fish x3
+    Harmonica Virgins
+    Hat Trick x2
+    Infobahn
+    March on Washington
+    Murphy's Law x2
+    Near Miss
+    Power Grab x2
+    Secrets Man Was Not Meant To Know x2
+    NWO: Antitrust Legislation
+    NWO: Apathy 
+
+Strategy
+
+Lead with Fraternal Orders. The group deck is almost half Resources, and you'll
+be playing them quickly, so you need the extra group card they give you to avoid
+running out. If you bounce, use your extra Eliza token to draw a group each turn
+until they show up. Your best backup lead is N.S.A., followed by IRS (if Zurich
+isn't playing) or Phone Company.
+
+Be aware that this deck makes no attacks to control from hand. Every ATO should
+be used for a Group, and you have two Power Grabs which should be used at first
+opportunity. For Resources, play, if possible, your Flying Saucer the first turn
+you don't have a Power Grab, and use it to take one Resource every turn. If it's
+buried in your deck, bring out Eliza, and use the extra Illuminati token to play
+a Resource each turn
+
+What order to ATO Groups depends on what's in your hand. There are two pairs of
+Groups that work best in tandem; Cattle Mutilators and Arms Dealers, and Las
+Vegas and Illuminati University (note: Experience shows it's better to have
+Cattle Mutilators control Arms Dealers, and IOU control Las Vegas). If either
+pair is in your initial draw, take that pair at once with a Power Grab. Failing
+that, play (in order of usefulness) N.S.A., IRS, Phone Company, W.I.T.C.H., and
+lastly Post Office. Be careful with IRS if Zurich is in the game; If he plays
+IRS or Federal Reserve you'd be best to keep your copy as an agent for the
+inevitable Attack to Destroy.
+
+The (general) order you want to take your Resources is Flying Saucer, Eliza,
+Book of Kells, Center for Weird Studies, another Eliza, X-Ray Specs, and lastly
+your Suicide Squads.
+Step 1: The Information Gatherers
+
+The least upsetting thing you can do to your opponents is view their plots. The
+N.S.A. and Phone Company can do this for free each turn, which is why they are
+high on the list of groups to take. Once you have Illuminati University and Las
+Vegas out, you can link X-Ray Specs to IOU to allow them to look at the top six
+plots in any deck, twice if you also link the Book of Kells to them. Because of
+this, having IOU in your power structure makes these Resources a higher priority
+than otherwise. Also, The Auditor from Hell and Go Fish plots allow you to look
+at a rival's plot hand. Be sure to take notes! You'll need to know what's on top
+of their decks, what's in their hands, and what has been discarded. Notation: I
+make a column of the plots from their deck, put a slash / when a plot goes into
+their hand, and an X when it gets discarded.
+Step 2: The Scheme Exposers
+
+A slightly more upsetting thing you can do to your opponents is expose their
+plots. The Cattle Mutilators can do this with an action, and so can the Phone
+Company (but they only expose two random plots). You can also choose to expose
+plots rather than steal one when you play The Auditor from Hell. The reason to
+do this, aside from the obvious benefit of showing your rival's hand to all
+players, is that Arms Dealers can trade any plot(s) in your hand for any exposed
+plot(s) of a rival. If you end your turn with an action on the Arms Dealers, any
+exposed plot in the game can become yours in the blink of an eye, which is great
+for defense. This is why you want to bring Cattle Mutilators and Arms Dealers in
+as a unit, ideally with Power Grab, but CM followed by AD the next turn if
+necessary.
+The Plot Bandits
+
+The most upsetting thing you can do is steal their plots. Lots of them. You're
+going to need them, too. The easiest way to steal a plot is with the IRS,
+because it's free. The most effective way to steal plots is with Las Vegas. Las
+Vegas can "bet" up to three plots with a rival, then draw them from his deck if
+the roll of two dice is 7 or more. He gets your plots if the roll is 6 or less,
+but you cheat. You can modify this roll with W.I.T.C.H., Computer Virus, or, as
+a last resort, Murphy's Law. Some quick probabilities: You win 58.3% of the time
+normally. With W.I.T.C.H., 72.2% of the time. With Computer Virus, 83.3%. With
+W.I.T.C.H. and Computer Virus, 91.7%. With Murphy's Law, 100%. Best of all, if
+you have more than one of these at your disposal, you only need to use the
+minimum necessary to win. Note, however, that Las Vegas is a fairly weak Place,
+which is why you need Illuminati University to control it: It protects itself,
+its master and puppets from Disasters, as well as Straight and Government
+groups.
+
+You also have four different plots that steal plots from rivals: The Auditor
+from Hell, An Offer You Can't Refuse, Embezzlement, and Go Fish.
+
+What do you do with all these plots? Keep the useful ones, of course, especially
+any +10 cards that you can possibly use later. But when you draw from a rival's
+deck you're bound to get some slag. Use these to pay the cost of Flying Saucer,
+Illuminati University and Center for Weird Studies. CfWS is best used to reload
+Las Vegas after a successful raid, or to reload The Network after a Murphy's
+Law. If you find you still have leftovers, and you're expecting an attack, you
+can put two useless plots on the top of your deck to power Secrets Man Was Not
+Meant To Know. Just don't do this all the time, because you'll just end up
+drawing them again if they don't get discarded by Secrets.
+
+Important note: There are no plots in this deck so vital you can't afford to
+lose some to a Secrets or a failed bet, or even to power IOU or Flying Saucer
+before your Bandit Machine is in place.
+Synergy in Action
+
+The best part about this deck is how the three steps above work together. All
+that information about your opponents' plot decks and hands is used to excellent
+effect by your Bandit Machine. First, you're much more effective at stealing
+useful plots when you know what's available. For example, you'd want to play An
+Offer You Can't Refuse when you know a certain rival has two plot cards at the
+top of his deck you know you can use, or Embezzlement when a rival is drawing a
+particularly valuable plot. Even better, you can use those notes you've been
+taking to pinpoint when an important plot is in a rival's hand, then play Go
+Fish to steal the plot(s) AND force him to discard, with no risk! Your
+information gathering can also warn you when you need to expose & trade plots
+with a rival who's getting too close to victory. Finally, those useless stolen
+plots are perfect for trading to opponents with Arms Dealers! By this method,
+you maximize the gain you get from your efforts. To insure that you're getting
+the better part of the trade, make sure that the plots you give away aren't more
+valuable to your victim that they are to you, such as a +10 card that you can't
+use but he can. Of the plots from your own deck, I would only consider trading
+away the NWO's or March on Washington, and then only when necessary.
+
+The last bit of synergy in this deck is the two Suicide Squads. They have a low
+priority, unless you need to destroy a particular Resource (or draw your Cover
+of Darkness early). The trick here is to use W.I.T.C.H. and Computer Virus to
+bring the die roll down to 1 (a 2/3 chance of success), preserving the Squad
+while destroying the Resource. Repeat as necessary.
+Other Cards
+
+The plots in the deck not previously mentioned are covered here. Near Miss is to
+save Las Vegas from destruction. March on Washington is for when you steal a
+useful plot that requires a characteristic you don't have, such as Media, but
+can also be used to save an action token for the cost of another one of those
+useless stolen plots. Hat Trick is so you can reuse your most effective plots,
+such as Secrets, Murphy's Law or Go Fish. NWO: Apathy is for protection, because
+this deck doesn't have many defenses. NWO: Antitrust Legislation is to replace
+an End of the World (which removes the action from Las Vegas) or to "defensively
+reorganize" in the middle of an attack. The two +10 cards, Harmonica Virgins and
+Infobahn, should be hoarded and used only to defend a key group or make an
+last-minute attack.
+Victory?
+
+Winning with this deck is more difficult than most, but it's quite possible.
+Your three computer groups count double, which means you can lose two groups in
+a 12-group game and still gain victory with ATO's alone. If you've lost more
+than this, you'll have to make use of hoarded +10 cards to take what you need.
+If that isn't enough, you may have to resort to a shared victory to get the
+necessary support. Just remember that your first priority is to prevent someone
+else from winning first.
+Potential problems
+
+1. Your groups keep showing up in other people's power structures before you can
+ATO them.
+    Try not to let on that they stole YOUR group. Wait for a vulnerable moment.
+Be sure to expose his plots and trade for any defense cards he has. Then hit
+them with your agents and a precious +10 card. Use W.I.T.C.H. and/or Computer
+Virus if necessary. 
+2. Someone plays the Flying Saucer before you do, or steals yours.
+    Use your Eliza token each turn to take a resource. Take it back with Suicide
+Squad + Cover of Darkness if you can. 
+3. Someone plays Nevermore!
+    This can actually be an great opportunity, if you have Cattle Mutilators and
+Arms Dealers out. Be resigned to only getting to play your best plots once each.
+But, as more and more plots get Nevermored, you'll be able to trade completely
+worthless plots to your opponents with Arms Dealers for useful plots that
+haven't been Nevermored yet. Make the most of it. 
+
+Substitutions
+
+This deck fits together like a jigsaw puzzle, with many required pieces. Of the
+groups, Post Office can be replaced with any computer group with a power of 3 or
+more; I suggest Moonbase because of its resistance to disasters. The IRS,
+Fraternal Orders, or Cattle Mutilators & Arms Dealers can be excluded at the
+cost of weakening the deck, but the remaining groups, including Illuminati
+University, are required.
+
+Removing any of the resources weakens the deck, although Eliza and Flying Saucer
+are the most important. Clipper Chip is an OK replacement.
+
+The eight plot stealer cards can be adjusted within its own group to fit what
+cards you have. I would include another An Offer You Can't Refuse if I had one.
+Note that this group could also include Agent in Place, Go, Lemmings, Go!, The
+Internet Worm, Logic Bomb or Registered Trademark, but I didn't include these
+because they were less effective and/or focused toward plot destruction rather
+than plot stealing.
+Variant: The Plot Killer
+
+This is actually the original design, which the above deck evolved into. It has
+one purpose: deplete one rival's plot deck entirely. This is a revenge deck, and
+not likely to win, but it sure can be fun!
+Groups:
+
+Remove Arms Dealers, Cattle Mutilators, Fraternal Orders
+
+Add China
+Resources:
+
+Remove Center for Weird Studies, one Suicide Squad
+Plots:
+
+Remove NWO: Apathy, Cover of Darkness
+
+Add Go, Lemmings, Go!, The Internet Worm x3, NWO: Bigger Business, NWO: Tax
+Reform
+Strategy:
+
+If you start with NWO: Tax Reform in hand, lead with IRS. Otherwise, lead with
+N.S.A.. Your group deck is smaller, so Fraternal Orders is unnecessary. Take
+groups and resources as before. China is to be controlled by Las Vegas, who is
+in turn controlled by Illuminati University. Alternately, China can be
+controlled by the Phone Company.
+
+Before the game begins, you should have your victim picked out, preferably one
+you have a gripe with (so you have an excuse). Every turn, or between your
+turns, you're going to hit that person with everything you've got (note: because
+of this strategy, don't try this deck in a three-player game, because you'll
+just throw victory to the third player). View their plots, steal what's useful,
+and play The Internet Worm on them as often as possible. Hat Trick it for twice
+the effect if you can. Once you have IOU and Las Vegas out, hit them over and
+over. Use Go Fish on them to steal and destroy their plots at the same time.
+Play Go, Lemmings, Go! when they use Secrets, if possible.
+
+If you can get Tax Reform and the IRS in play, bargain with the other players by
+offering to give them their plots back. Keep your bargain, too; It's a great way
+to win friends. Also, note that the fact that you're focusing on one player will
+encourage the others to let you be, to avoid having to Suffer Your Wrath.
+
+At some point around turn 5 (note: this is a *very* rough estimate), your victim
+should run out of plots. This is your opportunity to win. All of your groups,
+counting Computer groups double, add up to 12. With two Power Grabs, you should
+get all your groups into play on your fifth turn. If you can make it, go for it.
+Otherwise, try for a shared victory with another player. Failing that, you
+should start destroying the plots of the other players. The effect of running
+out of plots is that a player will realize he can't win, and save his action
+tokens to stop other players from winning. When all players sink to this level,
+you have a true stalemate, and you get to claim a moral victory ;-)
+Back to the Deck of the Week.
+
+First posted: February 28, 1997
+
+Last modified: February 28, 1997
+Ralph Melton ralph@cs.cmu.edu

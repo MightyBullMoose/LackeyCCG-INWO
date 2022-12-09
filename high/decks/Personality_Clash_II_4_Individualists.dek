@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Discordian Society</name><set>Limited</set></card>
+		<card><name>California</name><set>Limited</set></card>
+	</superzone>
+	<superzone name="Group Deck">
+		<card><name>Bjorne</name><set>Limited</set></card>
+		<card><name>Church of Elvis</name><set>Limited</set></card>
+		<card><name>Comic Books</name><set>Limited</set></card>
+		<card><name>Conspiracy Theorists</name><set>Limited</set></card>
+		<card><name>Cycle Gangs</name><set>Limited</set></card>
+		<card><name>Elvis</name><set>Limited</set></card>
+		<card><name>Hackers</name><set>Limited</set></card>
+		<card><name>Hollywood</name><set>Limited</set></card>
+		<card><name>Intellectuals</name><set>Limited</set></card>
+		<card><name>Italy</name><set>Limited</set></card>
+		<card><name>Saturday Morning Cartoons</name><set>Limited</set></card>
+		<card><name>Subliminals</name><set>Limited</set></card>
+		<card><name>Tabloids</name><set>Limited</set></card>
+		<card><name>Urban Gangs</name><set>Limited</set></card>
+		<card><name>Center for Weird Studies</name><set>Limited</set></card>
+		<card><name>Orbital Mind Control Lasers</name><set>Limited</set></card>
+		<card><name>Principia Discordia</name><set>Limited</set></card>
+		<card><name>The True Pipe</name><set>Subgenius</set></card>
+	</superzone>
+	<superzone name="Plot Deck">
+		<card><name>Albino Alligators</name><set>Limited</set></card>
+		<card><name>Angst</name><set>Limited</set></card>
+		<card><name>Bimbo at Eleven</name><set>Limited</set></card>
+		<card><name>Car Bomb</name><set>Limited</set></card>
+		<card><name>Eat the Rich!</name><set>Limited</set></card>
+		<card><name>Freaking the Mundanes</name><set>Limited</set></card>
+		<card><name>Jake Day</name><set>Limited</set></card>
+		<card><name>Let's Get Organized</name><set>Limited</set></card>
+		<card><name>Let's Get REALLY Organized</name><set>Limited</set></card>
+		<card><name>Media Connections</name><set>Limited</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>Nuclear Accident</name><set>Limited</set></card>
+		<card><name>Reload!</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>Unmasked!</name><set>Limited</set></card>
+		<card><name>The Weird Turn Pro</name><set>Limited</set></card>
+		<card><name>Whispering Campaign</name><set>Limited</set></card>
+		<card><name>Don't Forget to Smash the State</name><set>Limited</set></card>
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Fake Healing</name><set>Subgenius</set></card>
+		<card><name>The World Ends Tomorrow and You May Die!</name><set>Subgenius</set></card>
+		<card><name>Bulldada</name><set>Subgenius</set></card>
+		<card><name>Schizm</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

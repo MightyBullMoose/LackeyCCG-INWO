@@ -1,0 +1,84 @@
+INWO Deck: Abduction Moon Party
+Premise: The Moonbase says that if it "is destroyed, all Personalities there are
+killed." No caveat about not counting as destroyed, and the rules say that, yes,
+"killed" is just a permanent form of "destroyed." Therefore, linking a slew of
+Personalities to a Moonbase, and then destroying the 'base, should be a viable
+method of quickly reaching a "destroy X groups" goal.
+
+The Deck
+Illuminati
+The UFO's
+
+Groups
+
+    Moonbase x 2
+    George Bush
+    Ollie North
+    Ross Perot
+    Dan Quayle
+    Ronald Reagan
+    Margaret Thatcher
+    Fidel Castro
+    Hillary Clinton
+    Princess Di
+    Al Gore
+    Gordo Remora 
+
+Resources
+
+    Crystal Skull 
+
+Plots
+
+    (Goal) Let Them Eat Cake! x 2
+    (Goal) Power to the People x 2
+    (NWO) Solidarity
+    Servants of Cthulhu
+    18 1/2 Minute Gap
+    Benefit Concert
+    Bodyguard x 2
+    Combined Disasters
+    Earthquake x 2
+    Good Polls
+    Hoax
+    Imposter
+    Let's Get REALLY Organized
+    Meteor Strike x 4
+    Power Grab x 2
+    Rewriting History
+    Savings & Loan Scam
+    Secrets Man Was Not Meant to Know
+    Seize the Time
+    Slush Fund
+    Sniper
+    Unmasked 
+
+Strategy
+While this would be a natural Cthulhu deck, I've chosen UFOs for a few reasons.
+Since - ideally - you only need to destroy the Moonbase to reach your goal,
+Cthulhu's special ability isn't terribly useful; the UFOs' extra token, however,
+is *always* nice. Additionally, when Cthulhu starts playing many Personalities,
+the strategy tends to be, well, transparent. Since there are appropriate Goal
+cards for the UFOs to use (and Unmasking as Cthulhu offers another pseudo-Goal
+card opportunity) and since you don't want to Assassinate your Personalities
+(you will, in fact, be *protecting* them, as best you can, anyway), your Power
+Structure will be simultaneously puzzling and unthreatening. Finally, I like the
+UFOs thematically - the Secret Masters recruit powerful individuals, promise
+them the world, whisk a select few to their secret base on the Moon . . . and
+then ice them.
+
+Play
+Lead with either Perot or Gore (primarily for their control arrows), but be
+aware of Ross's alignment-changing ability. Play defensively; don't make enemies
+- Personalities are too vulnerable. Power Grab when you can, and don't hesitate
+to use an Illuminati action to move a group to a more defensible position. By
+the time you have 7-8 Personalities out, you *should* be holding 1) a Goal card,
+2) a Moonbase and 3) a Disaster or two (since Earthquake or [preferably] Meteor
+Strike are the only Disasters that can touch a Moonbase, having these is vital).
+Drop the Moonbase; link the appropriate Personalities (or all of them if you're
+Unmasking); hit the 'base with the Disaster(s). Show your Goal/Unmask as
+Cthulhu, and it's game over. This can be done with as few as six Personalities,
+if you Rewrite History on the Moonbase.
+
+Deck design by Mike
+Dalton.

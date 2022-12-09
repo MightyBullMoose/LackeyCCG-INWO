@@ -1,0 +1,155 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Adepts of Hermes</name><set>Limited</set></card>
+		<card><name>Bavarian Illuminati</name><set>Limited</set></card>
+		<card><name>Bermuda Triangle</name><set>Limited</set></card>
+		<card><name>Discordian Society</name><set>Limited</set></card>
+		<card><name>Gnomes of Zurich</name><set>Limited</set></card>
+		<card><name>Servants of Cthulhu</name><set>Limited</set></card>
+		<card><name>Shangri-La</name><set>Limited</set></card>
+		<card><name>The Network</name><set>Limited</set></card>
+		<card><name>UFOs</name><set>Limited</set></card>
+		<card><name>Society of Assassins</name><set>Assassins</set></card>
+		<card><name>Church of the SubGenius 1</name><set>Subgenius</set></card>
+		<card><name>Church of the SubGenius 2</name><set>Subgenius</set></card>
+		<card><name>Church of the SubGenius 3</name><set>Subgenius</set></card>
+		<card><name>Church of the SubGenius 4</name><set>Subgenius</set></card>
+	</superzone>	
+	<superzone name="Shared Groups">	
+		<card><name>Advanced Supersonic Aluminum Nazi Hell Creatures from Beneath the Hollow Earth</name><set>Subgenius</set></card>
+		<card><name>A.M.A.</name><set>Limited</set></card>
+		<card><name>Anti-nuclear Activists</name><set>Limited</set></card>
+		<card><name>Antiwar Activists</name><set>Limited</set></card>
+		<card><name>B.A.T.F.</name><set>Limited</set></card>
+		<card><name>Big Media</name><set>Limited</set></card>
+		<card><name>Bill Clinton</name><set>Limited</set></card>
+		<card><name>Cable TV</name><set>Limited</set></card>
+		<card><name>California</name><set>Limited</set></card>
+		<card><name>Canada</name><set>Limited</set></card>
+		<card><name>CFL-AIO</name><set>Limited</set></card>
+		<card><name>Citizens For Normalcy</name><set>Subgenius</set></card>
+		<card><name>Clone Arrangers</name><set>Limited</set></card>
+		<card><name>Congressional Wives</name><set>Limited</set></card>
+		<card><name>Democrats</name><set>Limited</set></card>
+		<card><name>Divine Mail Order</name><set>Subgenius</set></card>
+		<card><name>Dokstok</name><set>Subgenius</set></card>
+		<card><name>Druids</name><set>Limited</set></card>
+		<card><name>EFF</name><set>Limited</set></card>
+		<card><name>England</name><set>Limited</set></card>
+		<card><name>F.B.I.</name><set>Limited</set></card>
+		<card><name>Federal Reserve</name><set>Limited</set></card>
+		<card><name>Fiendish Fluoridators</name><set>Limited</set></card>
+		<card><name>Fnord Motor Company</name><set>Limited</set></card>
+		<card><name>'Frop Farm</name><set>Subgenius</set></card>
+		<card><name>Gay Activists</name><set>Limited</set></card>
+		<card><name>Good Sex For Mutants Dating League</name><set>Subgenius</set></card>
+		<card><name>Gordo Remora</name><set>Limited</set></card>
+		<card><name>Gun Lobby</name><set>Limited</set></card>
+		<card><name>Hackers</name><set>Limited</set></card>
+		<card><name>I.R.S.</name><set>Limited</set></card>
+		<card><name>Japan</name><set>Limited</set></card>
+		<card><name>Junk Mail</name><set>Limited</set></card>
+		<card><name>Libertarians</name><set>Limited</set></card>
+		<card><name>Liquor Companies</name><set>Limited</set></card>
+		<card><name>Local Police Departments</name><set>Limited</set></card>
+		<card><name>The Mafia</name><set>Limited</set></card>
+		<card><name>The Men In Black</name><set>Limited</set></card>
+		<card><name>Moonies</name><set>Limited</set></card>
+		<card><name>Moral Minority</name><set>Limited</set></card>
+		<card><name>New York</name><set>Limited</set></card>
+		<card><name>Nuclear Power Companies</name><set>Limited</set></card>
+		<card><name>Offshore Banks</name><set>Limited</set></card>
+		<card><name>Pentagon</name><set>Limited</set></card>
+		<card><name>Phone Company</name><set>Limited</set></card>
+		<card><name>Phone Phreaks</name><set>Limited</set></card>
+		<card><name>Reformed Church of Satan</name><set>Limited</set></card>
+		<card><name>Republicans</name><set>Limited</set></card>
+		<card><name>Savings and Loans</name><set>Limited</set></card>
+		<card><name>Science Fiction Fans</name><set>Limited</set></card>
+		<card><name>Silicon Valley</name><set>Limited</set></card>
+		<card><name>S.P.U.T.U.M.</name><set>Subgenius</set></card>
+		<card><name>St. Janor Hypercleats</name><set>Subgenius</set></card>
+		<card><name>Stonehenge</name><set>Limited</set></card>
+		<card><name>Texas</name><set>Limited</set></card>
+		<card><name>Tobacco Companies</name><set>Limited</set></card>
+		<card><name>Vatican City</name><set>Limited</set></card>
+		<card><name>Wall Street</name><set>Limited</set></card>
+		<card><name>W.I.T.C.H.</name><set>Limited</set></card>
+		<card><name>www.subgenius.com</name><set>Subgenius</set></card>
+		<card><name>Book Of Kells</name><set>Limited</set></card>
+		<card><name>The Frog God</name><set>Limited</set></card>
+		<card><name>Hammer of Thor</name><set>Limited</set></card>
+		<card><name>Necronomicon</name><set>Limited</set></card>
+		<card><name>Spear of Longinus</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Shared Plots">	
+		<card><name>Agent In Place</name><set>Limited</set></card>
+		<card><name>Albino Alligators</name><set>Limited</set></card>
+		<card><name>Assertiveness Training</name><set>Limited</set></card>
+		<card><name>Attitude Mutation</name><set>Subgenius</set></card>
+		<card><name>Backlash</name><set>Limited</set></card>
+		<card><name>Benefit Concert</name><set>Limited</set></card>
+		<card><name>The Big Score</name><set>Limited</set></card>
+		<card><name>Bulldada</name><set>Subgenius</set></card>
+		<card><name>Charismatic Leader</name><set>Limited</set></card>
+		<card><name>Citizenship Award</name><set>Limited</set></card>
+		<card><name>Cold Fusion</name><set>Limited</set></card>
+		<card><name>Commitment</name><set>Limited</set></card>
+		<card><name>Deep Agent</name><set>Limited</set></card>
+		<card><name>Devival</name><set>Subgenius</set></card>
+		<card><name>Emergency Powers</name><set>Limited</set></card>
+		<card><name>Fake Healing</name><set>Subgenius</set></card>
+		<card><name>Fundie Money</name><set>Limited</set></card>
+		<card><name>Give Me Slack, Or Give Me Food</name><set>Subgenius</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Grassroots Support</name><set>Limited</set></card>
+		<card><name>Harmonica Virgins</name><set>Limited</set></card>
+		<card><name>Hat Trick</name><set>Limited</set></card>
+		<card><name>Infobahn</name><set>Limited</set></card>
+		<card><name>Interference</name><set>Limited</set></card>
+		<card><name>Jake Day</name><set>Limited</set></card>
+		<card><name>Jihad</name><set>Limited</set></card>
+		<card><name>Just Say No</name><set>Limited</set></card>
+		<card><name>Kinder And Gentler</name><set>Limited</set></card>
+		<card><name>Let's Get Organized</name><set>Limited</set></card>
+		<card><name>Let's Get REALLY Organized</name><set>Limited</set></card>
+		<card><name>Liberal Agenda</name><set>Limited</set></card>
+		<card><name>Luck Plane</name><set>Subgenius</set></card>
+		<card><name>Martial Law</name><set>Limited</set></card>
+		<card><name>Martyrs</name><set>Limited</set></card>
+		<card><name>Miraculous Manifestation</name><set>Subgenius</set></card>
+		<card><name>Mob Influence</name><set>Limited</set></card>
+		<card><name>Monopoly</name><set>Limited</set></card>
+		<card><name>Nationalization</name><set>Limited</set></card>
+		<card><name>New Blood</name><set>Limited</set></card>
+		<card><name>Nobel Peace Prize</name><set>Limited</set></card>
+		<card><name>. . . Or Kill Me!</name><set>Subgenius</set></card>
+		<card><name>Power Corrupts</name><set>Limited</set></card>
+		<card><name>Privatization</name><set>Limited</set></card>
+		<card><name>Privileged Attack</name><set>Limited</set></card>
+		<card><name>Pulitzer Prize</name><set>Limited</set></card>
+		<card><name>Rain of Prairie Squid</name><set>Subgenius</set></card>
+		<card><name>Repent!</name><set>Subgenius</set></card>
+		<card><name>Save The Whales</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Schizm</name><set>Subgenius</set></card>
+		<card><name>The Second Bullet</name><set>Limited</set></card>
+		<card><name>Self-Esteem</name><set>Limited</set></card>
+		<card><name>Shordurpersav</name><set>Subgenius</set></card>
+		<card><name>Slush Fund</name><set>Limited</set></card>
+		<card><name>Smite Them All!</name><set>Subgenius</set></card>
+		<card><name>Stealing The Plans</name><set>Limited</set></card>
+		<card><name>Stock Split</name><set>Limited</set></card>
+		<card><name>Straighten Up</name><set>Limited</set></card>
+		<card><name>Swiss Bank Account</name><set>Limited</set></card>
+		<card><name>Tape Runs Out...</name><set>Subgenius</set></card>
+		<card><name>Terrorist Nuke</name><set>Limited</set></card>
+		<card><name>Time Control</name><set>Subgenius</set></card>
+		<card><name>The Weird Turn Pro</name><set>Limited</set></card>
+		<card><name>The World Ends Tomorrow And You May Die!</name><set>Subgenius</set></card>
+		<card><name>You'd PAY To Know What You REALLY Think!</name><set>Subgenius</set></card>
+	</superzone>
+</deck>

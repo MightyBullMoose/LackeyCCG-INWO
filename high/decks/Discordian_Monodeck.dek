@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>INWO</game>
+	</meta>
+	<superzone name="Lead Cards">
+		<card><name>Discordian Society</name><set>Limited</set></card>
+		<card><name>S.M.O.F.</name><set>Limited</set></card>
+	</superzone>	
+	<superzone name="Group Deck">	
+		<card><name>Al Amarja</name><set>Assassins</set></card>
+		<card><name>California</name><set>Limited</set></card>
+		<card><name>Drs. For "Bob"</name><set>Subgenius</set></card>
+		<card><name>Gay Activists</name><set>Limited</set></card>
+		<card><name>The Hour of Slack</name><set>Subgenius</set></card>
+		<card><name>Science Fiction Fans</name><set>Limited</set></card>
+		<card><name>St. Janor Hypercleats</name><set>Subgenius</set></card>
+		<card><name>SubGenius FisTemples</name><set>Subgenius</set></card>
+		<card><name>Tabloids</name><set>Limited</set></card>
+		<card><name>Trading Card Games</name><set>Limited</set></card>
+		<card><name>Vampires</name><set>Limited</set></card>
+		<card><name>Necronomicon</name><set>Limited</set></card>
+		<card><name>Power Satellite</name><set>Assassins</set></card>
+	</superzone>	
+	<superzone name="Plot Deck">	
+		<card><name>Fear and Loathing</name><set>Limited</set></card>
+		<card><name>Military-Industrial Complex</name><set>Limited</set></card>
+		<card><name>Albino Alligators</name><set>Limited</set></card>
+		<card><name>Albino Alligators</name><set>Limited</set></card>
+		<card><name>Crop Circles</name><set>Limited</set></card>
+		<card><name>Freaking the Mundanes</name><set>Limited</set></card>
+		<card><name>Freaking the Mundanes</name><set>Limited</set></card>
+		<card><name>Good Polls</name><set>Limited</set></card>
+		<card><name>Nationalization</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Savings & Loan Scam</name><set>Limited</set></card>
+		<card><name>Secrets Man Was Not Meant to Know</name><set>Limited</set></card>
+		<card><name>Seize the Time!</name><set>Limited</set></card>
+		<card><name>The Weird Turn Pro</name><set>Limited</set></card>
+		<card><name>Voodoo Economics</name><set>Limited</set></card>
+		<card><name>Apathy</name><set>Assassins</set></card>
+		<card><name>End of the World</name><set>Assassins</set></card>
+		<card><name>Reverse Whammy</name><set>Assassins</set></card>
+		<card><name>The Anti"Bob"</name><set>Subgenius</set></card>
+		<card><name>13013</name><set>Subgenius</set></card>
+		<card><name>13013</name><set>Subgenius</set></card>
+		<card><name>Bulldada</name><set>Subgenius</set></card>
+		<card><name>Devival</name><set>Subgenius</set></card>
+		<card><name>Devival</name><set>Subgenius</set></card>
+		<card><name>Eternal Salvation or Triple Your Money Back</name><set>Subgenius</set></card>
+		<card><name>Miraculous Manifestation</name><set>Subgenius</set></card>
+		<card><name>. . . Or Kill Me!</name><set>Subgenius</set></card>
+		<card><name>Overman</name><set>Subgenius</set></card>
+		<card><name>Saint of Sales</name><set>Subgenius</set></card>
+		<card><name>Time Control</name><set>Subgenius</set></card>
+	</superzone>
+</deck>
