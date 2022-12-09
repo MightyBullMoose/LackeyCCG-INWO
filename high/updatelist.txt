@@ -1,5 +1,5 @@
 INWO	12-08-22
-plugins/INWO/version.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/version.txt	30295
+plugins/INWO/version.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/version.txt	31039
 plugins/INWO/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/sets/setimages/general/cardback.jpg	66
 plugins/INWO/sets/setimages/general/Master.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/sets/setimages/general/Master.jpg	-44602
 plugins/INWO/sets/setimages/general/Puppet.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/sets/setimages/general/Puppet.jpg	-23249
