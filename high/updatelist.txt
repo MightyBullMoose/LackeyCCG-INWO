@@ -1,9 +1,9 @@
 INWO	12-08-22
 plugins/INWO/version.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-INWO/main/high/version.txt	30295
-plugins/INWO/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-INWO/main/high/sets/setimages/general/cardback.jpg	66
-plugins/INWO/sets/setimages/general/Master.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-INWO/main/high/sets/setimages/general/Master.jpg	-44602
-plugins/INWO/sets/setimages/general/Puppet.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-INWO/main/high/sets/setimages/general/Puppet.jpg	-23249
-plugins/INWO/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-INWO/main/high/sets/setimages/general/spawned.jpg	-23047
+plugins/INWO/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-INWO/main/high/sets/setimages/general/cardback.jpg	-25264
+plugins/INWO/sets/setimages/general/Master.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-INWO/main/high/sets/setimages/general/Master.jpg	-47000
+plugins/INWO/sets/setimages/general/Puppet.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-INWO/main/high/sets/setimages/general/Puppet.jpg	-48232
+plugins/INWO/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-INWO/main/high/sets/setimages/general/spawned.jpg	-15860
 plugins/INWO/pluginpreferences.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-INWO/main/high/pluginpreferences.txt	0
 plugins/INWO/defaultchat.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-INWO/main/high/defaultchat.txt	70638
 plugins/INWO/plugininfo.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-INWO/main/high/plugininfo.txt	505402
