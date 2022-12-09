@@ -159,7 +159,7 @@ finally emerges victorious. This is a good set to start playing with because no
 player will lose simply because their victory condition combination was
 thwarted, thus alleviating the frustration for new players.
 
-https://web.archive.org/web/20070423120216/http://home.worldonline.dk/nyskes/13th/perpetualOBD.htm
+https://www.plasmoids.dk/13th/perpetualOBD.htm
 
 
 ----------------------------------------
@@ -174,7 +174,7 @@ Three decks built around a Servants of Cthulhu, an Illuminati who win by
 destroying groups (their opponents or their own, doesn't matter). A fourth UFO
 deck is added in to act as a foil between the other three players.
 
-https://web.archive.org/web/20070423105636/http://home.worldonline.dk/nyskes/13th/ascensionOBD.htm
+https://www.plasmoids.dk/13th/ascensionOBD.htm
 
 
 ----------------------------------------
@@ -190,9 +190,9 @@ Personality Clash & Personality Clash II
 8. Challengers: Meet The New Boss (Same As The Old Boss)
 9. Peacemakers: Love Ain't For Keeping
 
-This deck won the One With Everything deck design contest, largely becaus ethe
-author managed to pull of the nearly impossible task of making nine 45-card
-decks out of 450 card set. And the decks are both themed and fairly well
+This deck won the One With Everything deck design contest, largely because the
+author managed to pull off the nearly impossible task of making nine 45-card
+decks out of a 450 card set. And the decks are both themed and fairly well
 balanced between them. There are two versions of these decks presented, one with
 just the cards from the base set and one which uses substitutions from the two
 expansions.
