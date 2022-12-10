@@ -10,7 +10,7 @@ plugins/INWO/plugininfo.txt	https://raw.githubusercontent.com/MightyBullMoose/La
 plugins/INWO/Read_Me.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/Read_Me.txt	818849
 plugins/INWO/bot.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/bot.jpg	-9381
 plugins/INWO/inwo-rules-12.pdf	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/inwo-rules-12.pdf	2702935
-plugins/INWO/packs/packdefinitions1.xml	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/packs/packdefinitions1.xml	1009625
+plugins/INWO/packs/packdefinitions1.xml	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/packs/packdefinitions1.xml	1506857
 plugins/INWO/packs/Assassins_OWE.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/packs/Assassins_OWE.jpg	-38301
 plugins/INWO/packs/Assassins_Booster.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/packs/Assassins_Booster.jpg	7142
 plugins/INWO/packs/Assassins_Booster_Box.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/packs/Assassins_Booster_Box.jpg	-1997
