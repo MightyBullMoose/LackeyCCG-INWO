@@ -1,22 +1,22 @@
 Name	Set	ImageFile	Rarity	Deck	Type	Alignment	Attribute	Power	Resistance	Control	ERRATA	Text
-Car Bomb	Limited	Car_Bomb,Master	C	Master	Assassination							
-Hit and Run	Limited	Hit_and_Run,Master	C	Master	Assassination							
-Poison	Limited	Poison,Master	C	Master	Assassination							
-Sniper	Limited	Sniper,Master	U	Master	Assassination							
-Withering Curse	Limited	Withering_Curse,Master	R	Master	Assassination							
-Atomic Monster	Limited	Atomic_Monster,Master	C	Master	Disaster							
-Earthquake	Limited	Earthquake,Master	C	Master	Disaster							
-Epidemic	Limited	Epidemic,Master	C	Master	Disaster							
-Giant Kudzu	Limited	Giant_Kudzu,Master	U	Master	Disaster							
-Hurricane	Limited	Hurricane,Master	C	Master	Disaster							
-Meteor Strike	Limited	Meteor_Strike,Master	U	Master	Disaster							
-Nuclear Accident	Limited	Nuclear_Accident,Master	C	Master	Disaster							
-Plague of Demons	Limited	Plague_of_Demons,Master	R	Master	Disaster							
-Rain of Frogs	Limited	Rain_of_Frogs,Master	U	Master	Disaster							
-The Oregon Crud	Limited	The_Oregon_Crud,Master	R	Master	Disaster						Has a Power of 24, and destroys on a roll that succeeds by 10 or more.	
-Tidal Wave	Limited	Tidal_Wave,Master	C	Master	Disaster							
-Tornado	Limited	Tornado,Master	C	Master	Disaster							
-Volcano	Limited	Volcano,Master	U	Master	Disaster						Has a Power of 18, and destroys on a roll that succeeds by 2 or more.	
+Car Bomb	Limited	Car_Bomb,Master	C	Master	Assassination		Assassination!					
+Hit and Run	Limited	Hit_and_Run,Master	C	Master	Assassination		Assassination!					
+Poison	Limited	Poison,Master	C	Master	Assassination		Assassination!					
+Sniper	Limited	Sniper,Master	U	Master	Assassination		Assassination!					
+Withering Curse	Limited	Withering_Curse,Master	R	Master	Assassination		Assassination!					
+Atomic Monster	Limited	Atomic_Monster,Master	C	Master	Disaster		Disaster!					
+Earthquake	Limited	Earthquake,Master	C	Master	Disaster		Disaster!					
+Epidemic	Limited	Epidemic,Master	C	Master	Disaster		Disaster!					
+Giant Kudzu	Limited	Giant_Kudzu,Master	U	Master	Disaster		Disaster!					
+Hurricane	Limited	Hurricane,Master	C	Master	Disaster		Disaster!					
+Meteor Strike	Limited	Meteor_Strike,Master	U	Master	Disaster		Disaster!					
+Nuclear Accident	Limited	Nuclear_Accident,Master	C	Master	Disaster		Disaster!					
+Plague of Demons	Limited	Plague_of_Demons,Master	R	Master	Disaster		Disaster! May Require Magic Action					
+Rain of Frogs	Limited	Rain_of_Frogs,Master	U	Master	Disaster		Disaster!					
+The Oregon Crud	Limited	The_Oregon_Crud,Master	R	Master	Disaster		Disaster!				Has a Power of 24, and destroys on a roll that succeeds by 10 or more.	
+Tidal Wave	Limited	Tidal_Wave,Master	C	Master	Disaster		Disaster!					
+Tornado	Limited	Tornado,Master	C	Master	Disaster		Disaster!					
+Volcano	Limited	Volcano,Master	U	Master	Disaster		Disaster!				Has a Power of 18, and destroys on a roll that succeeds by 2 or more.	
 Criminal Overlords	Limited	Criminal_Overlords,Master	U	Master	Goal							
 Fratricide	Limited	Fratricide,Master	C	Master	Goal							
 Hail Eris!	Limited	Hail_Eris,Master	C	Master	Goal							
@@ -27,15 +27,15 @@ Power To The People	Limited	Power_To_The_People,Master	U	Master	Goal
 The Corporate Masters	Limited	The_Corporate_Masters,Master	C	Master	Goal							
 The Hand of Madness	Limited	The_Hand_of_Madness,Master	C	Master	Goal							
 Up Against The Wall!	Limited	Up_Against_The_Wall,Master	R	Master	Goal							
-Adepts of Hermes	Limited	Adepts_of_Hermes,Master	I	Master	Illuminati			7/7		4		If you fail an Attack to Control against a Group from our own hand, you do no tlose the group . . . Just return the card to your hand. The Adepts of Hermes have +6 on any attempt ot control or destroy a Magic group. SPECIAL GOAL: Each Magic resource you control counts as one group toward the Basic Goal.
-Bavarian Illuminati	Limited	Bavarian_Illuminati,Master	I	Master	Illuminati			10/10		4		Each turn, you may declare one of your attackes privileged. SPECIAL GOAL: Control a total Power of 50 or more, counting Bavaria's own Power.
-Bermuda Triangle	Limited	Bermuda_Triangle,Master	I	Master	Illuminati			8/8		4		You may reorganize your groups freely at the end of your turn. SPECIAL GOAL: Control a total Power of at least 35, counting Bermuda's own Power, and at leas one group of each alignment. A group with more than one alignment counts for all its alignments.
-Discordian Society	Limited	Discordian_Society,Master	I	Master	Illuminati			7/7		4		You have +4 on any attempt to control Weird groups. Your power structure is immune to attacks from Government or Straight groups, and to all special abilities of these groups. SPECIAL GOAL: Any Weird group with a Power of 3 or more counts double toward your total number of groups controlled.
-Gnomes of Zurich	Limited	Gnomes_of_Zurich,Master	I	Master	Illuminati			9/9		4	Have a +4 bonus to control Bank Groups only (not Bank and Corporate Groups).	You may hold 6 Plot cards in your hand, rather than the usual 5. You have +4 on any attempt to control any Bank. SPECIAL GOAL: Any Corporate group or Bank with a Power 4 or more counts double toward your total number of groups controlled.
-Servants of Cthulhu	Limited	Servants_of_Cthulhu,Master	I	Master	Illuminati			9/9		4		You have +4 on any attempt to destroy, even Disasters and Assassinations. Draw a Plot card henever you destroy a group! SPECIAL GOAL: For every group you destroy, reduce by 1 the number of groups you need to control in order to win. You may also count Illuminati which you destroy by removing their last group. If you destroy 8 groups, you win, regardless of how many you control!
-Shangri-La	Limited	Shangri-La,Master	I	Master	Illuminati			7/7		4	Explicitly gets its +5 to defend against Instant Attacks.	Any group in your Power Structure has an extra +5 to defend against any attack, even Instants. You cannot destroy any groups except Violent ones and rival Illuminati. SPECIAL GOAL: Have Peaceful groups with a total Power of 30 in play, regardless of who controls them! If this happens, all Shangri-La players share the victory.
-The Network	Limited	The_Network,Master	I	Master	Illuminati			8/8		4		You start your turn by drawing two Plot cards, rather than one. SPECIAL GOAL: Any Computer group with a power of 3 or more counts double toward your toal number of groups controlled.
-UFOs	Limited	UFOs,Master	I	Master	Illuminati			6/6		4		The UFOs have two actions per turn - they get two action tokens! These may not be used in the same attack. SPECIAL GOAL: The UFOs can have up to 3 different Goal cards in play, and win with any of them.
+Adepts of Hermes	Limited	Adepts_of_Hermes,Master	I	Master	Illuminati			7/7				If you fail an Attack to Control against a Group from our own hand, you do no tlose the group . . . Just return the card to your hand. The Adepts of Hermes have +6 on any attempt ot control or destroy a Magic group. SPECIAL GOAL: Each Magic resource you control counts as one group toward the Basic Goal.
+Bavarian Illuminati	Limited	Bavarian_Illuminati,Master	I	Master	Illuminati			10/10				Each turn, you may declare one of your attackes privileged. SPECIAL GOAL: Control a total Power of 50 or more, counting Bavaria's own Power.
+Bermuda Triangle	Limited	Bermuda_Triangle,Master	I	Master	Illuminati			8/8				You may reorganize your groups freely at the end of your turn. SPECIAL GOAL: Control a total Power of at least 35, counting Bermuda's own Power, and at leas one group of each alignment. A group with more than one alignment counts for all its alignments.
+Discordian Society	Limited	Discordian_Society,Master	I	Master	Illuminati			7/7				You have +4 on any attempt to control Weird groups. Your power structure is immune to attacks from Government or Straight groups, and to all special abilities of these groups. SPECIAL GOAL: Any Weird group with a Power of 3 or more counts double toward your total number of groups controlled.
+Gnomes of Zurich	Limited	Gnomes_of_Zurich,Master	I	Master	Illuminati			9/9			Have a +4 bonus to control Bank Groups only (not Bank and Corporate Groups).	You may hold 6 Plot cards in your hand, rather than the usual 5. You have +4 on any attempt to control any Bank. SPECIAL GOAL: Any Corporate group or Bank with a Power 4 or more counts double toward your total number of groups controlled.
+Servants of Cthulhu	Limited	Servants_of_Cthulhu,Master	I	Master	Illuminati			9/9				You have +4 on any attempt to destroy, even Disasters and Assassinations. Draw a Plot card henever you destroy a group! SPECIAL GOAL: For every group you destroy, reduce by 1 the number of groups you need to control in order to win. You may also count Illuminati which you destroy by removing their last group. If you destroy 8 groups, you win, regardless of how many you control!
+Shangri-La	Limited	Shangri-La,Master	I	Master	Illuminati			7/7			Explicitly gets its +5 to defend against Instant Attacks.	Any group in your Power Structure has an extra +5 to defend against any attack, even Instants. You cannot destroy any groups except Violent ones and rival Illuminati. SPECIAL GOAL: Have Peaceful groups with a total Power of 30 in play, regardless of who controls them! If this happens, all Shangri-La players share the victory.
+The Network	Limited	The_Network,Master	I	Master	Illuminati			8/8				You start your turn by drawing two Plot cards, rather than one. SPECIAL GOAL: Any Computer group with a power of 3 or more counts double toward your toal number of groups controlled.
+UFOs	Limited	UFOs,Master	I	Master	Illuminati			6/6				The UFOs have two actions per turn - they get two action tokens! These may not be used in the same attack. SPECIAL GOAL: The UFOs can have up to 3 different Goal cards in play, and win with any of them.
 A Thousand Points of Light	Limited	A_Thousand_Points_of_Light,Master	U	Master	NWOB		Blue					
 Chicken In Every Pot	Limited	Chicken_In_Every_Pot,Master	C	Master	NWOB		Blue					
 Energy Crisis	Limited	Energy_Crisis,Master	R	Master	NWOB		Blue					
@@ -51,162 +51,162 @@ Don't Forget To Smash The State	Limited	Dont_Forget_To_Smash_The_State,Master	C	
 Law and Order	Limited	Law_and_Order,Master	U	Master	NWOY		Yellow					
 Military-Industrial Complex	Limited	Military-Industrial_Complex,Master	C	Master	NWOY		Yellow					
 World War 3	Limited	World_War_3,Master	R	Master	NWOY		Yellow					
-18 1/2-Minute Gap	Limited	18_1-2-Minute_Gap,Master	R	Master	Plot							
-Agent In Place	Limited	Agent_In_Place,Master	C	Master	Plot							
-Air Magic	Limited	Air_Magic,Master	U	Master	Plot							
+18 1/2-Minute Gap	Limited	18_1-2-Minute_Gap,Master	R	Master	Plot		Requires Discards and All Illuminati Actions					
+Agent In Place	Limited	Agent_In_Place,Master	C	Master	Plot		Requires Action					
+Air Magic	Limited	Air_Magic,Master	U	Master	Plot		Requires Magic Action or Discard					
 Albino Alligators	Limited	Albino_Alligators,Master	C	Master	Plot							
 Alternate Goals	Limited	Alternate_Goals,Master	C	Master	Plot							
-An Offer You Can't Refuse	Limited	An_Offer_You_Cant_Refuse,Master	R	Master	Plot							
-And STAY Dead!	Limited	And_STAY_Dead,Master	C	Master	Plot							
-Angst	Limited	Angst,Master	R	Master	Plot							
+An Offer You Can't Refuse	Limited	An_Offer_You_Cant_Refuse,Master	R	Master	Plot		Draw no Group Cards This Turn					
+And STAY Dead!	Limited	And_STAY_Dead,Master	C	Master	Plot		Requires Magic Action					
+Angst	Limited	Angst,Master	R	Master	Plot		Reqires Illuminati and Special Actions					
 Annual Convention	Limited	Annual_Convention,Master	R	Master	Plot							
-Are We Having Fun Yet?	Limited	Are_We_Having_Fun_Yet,Master	C	Master	Plot							
-Assertiveness Training	Limited	Assertiveness_Training,Master	C	Master	Plot							
-Backlash	Limited	Backlash,Master	C	Master	Plot							
+Are We Having Fun Yet?	Limited	Are_We_Having_Fun_Yet,Master	C	Master	Plot		Requires Action					
+Assertiveness Training	Limited	Assertiveness_Training,Master	C	Master	Plot		Requires Action					
+Backlash	Limited	Backlash,Master	C	Master	Plot		Requires Action					
 Bank Merger	Limited	Bank_Merger,Master	U	Master	Plot						Now require an Illuminati action and reload only 5 Power's worth of tokens, or any one Group of any Power. The rules now make it explicit that you cannot "reload" a group on the turn it is captured.	
 Benefit Concert	Limited	Benefit_Concert,Master	C	Master	Plot							
 Bimbo at Eleven	Limited	Bimbo_at_Eleven,Master	C	Master	Plot							
 Blitzkrieg	Limited	Blitzkrieg,Master	R	Master	Plot							
-Blood, Toil, Tears and Sweat	Limited	Blood_Toil_Tears_and_Sweat,Master	C	Master	Plot							
+Blood, Toil, Tears and Sweat	Limited	Blood_Toil_Tears_and_Sweat,Master	C	Master	Plot		Requires Media Action					
 Bodyguard	Limited	Bodyguard,Master	R	Master	Plot							
-Botched Contact	Limited	Botched_Contact,Master	U	Master	Plot							
-Bribery	Limited	Bribery,Master	U	Master	Plot							
+Botched Contact	Limited	Botched_Contact,Master	U	Master	Plot		Requires Action					
+Bribery	Limited	Bribery,Master	U	Master	Plot		Requires All Illuminati Actions					
 Celebrity Spokesman	Limited	Celebrity_Spokesman,Master	U	Master	Plot							
 Censorship	Limited	Censorship,Master	U	Master	Plot							
-Charismatic Leader	Limited	Charismatic_Leader,Master	C	Master	Plot							
-Citizenship Award	Limited	Citizenship_Award,Master	C	Master	Plot							
+Charismatic Leader	Limited	Charismatic_Leader,Master	C	Master	Plot		Requires Action					
+Citizenship Award	Limited	Citizenship_Award,Master	C	Master	Plot		Requires Action					
 Clone	Limited	Clone,Master	U	Master	Plot							
 Cold Fusion	Limited	Cold_Fusion,Master	C	Master	Plot							
 Combined Disasters	Limited	Combined_Disasters,Master	U	Master	Plot						Requires that both Disasters must be eligible to strike the target Place.	
 Commitment	Limited	Commitment,Master	U	Master	Plot							
-Computer Security	Limited	Computer_Security,Master	R	Master	Plot							
-Computer Virus	Limited	Computer_Virus,Master	U	Master	Plot							
+Computer Security	Limited	Computer_Security,Master	R	Master	Plot		Requires Network or Computer Action					
+Computer Virus	Limited	Computer_Virus,Master	U	Master	Plot		Requires Science, Space, or Computer Action					
 Corruption	Limited	Corruption,Master	R	Master	Plot							
-Counter-Revolution	Limited	Counter-Revolution,Master	R	Master	Plot							
-Counterspell	Limited	Counterspell,Master	U	Master	Plot							
+Counter-Revolution	Limited	Counter-Revolution,Master	R	Master	Plot		Requires Government or Illuminati Action					
+Counterspell	Limited	Counterspell,Master	U	Master	Plot		Requires Magic or Illuminati Action					
 Cover of Darkness	Limited	Cover_of_Darkness,Master	R	Master	Plot							
-Cover-Up	Limited	Cover-Up,Master	R	Master	Plot							
-Crop Circles	Limited	Crop_Circles,Master	C	Master	Plot							
+Cover-Up	Limited	Cover-Up,Master	R	Master	Plot		May Require Secret or Illuminati Action					
+Crop Circles	Limited	Crop_Circles,Master	C	Master	Plot		Requires Magic Action					
 Currency Speculation	Limited	Currency_Speculation,Master	C	Master	Plot							
 Deasil Engine	Limited	Deasil_Engine,Master	R	Master	Plot							
 Deep Agent	Limited	Deep_Agent,Master	C	Master	Plot							
-Dictatorship	Limited	Dictatorship,Master	C	Master	Plot							
+Dictatorship	Limited	Dictatorship,Master	C	Master	Plot		Requires Action					
 Dollars for Decency	Limited	Dollars_for_Decency,Master	U	Master	Plot						Now require an Illuminati action and reload only 5 Power's worth of tokens, or any one Group of any Power. The rules now make it explicit that you cannot "reload" a group on the turn it is captured.	
 Double-Cross	Limited	Double-Cross,Master	C	Master	Plot							
 Early Warning	Limited	Early_Warning,Master	C	Master	Plot							
 Earth Magic	Limited	Earth_Magic,Master	C	Master	Plot							
 Eat The Rich!	Limited	Eat_The_Rich,Master	R	Master	Plot							
-Embezzlement	Limited	Embezzlement,Master	R	Master	Plot							
-Emergency Powers	Limited	Emergency_Powers,Master	C	Master	Plot							
-Exposed!	Limited	Exposed,Master	C	Master	Plot							
+Embezzlement	Limited	Embezzlement,Master	R	Master	Plot		Reqires Plot Discard					
+Emergency Powers	Limited	Emergency_Powers,Master	C	Master	Plot		Requires Action					
+Exposed!	Limited	Exposed,Master	C	Master	Plot		Requires Media Action					
 Faction Fight	Limited	Faction_Fight,Master	R	Master	Plot							
 Flower Power	Limited	Flower_Power,Master	U	Master	Plot						Now require an Illuminati action and reload only 5 Power's worth of tokens, or any one Group of any Power. The rules now make it explicit that you cannot "reload" a group on the turn it is captured.	
-Fnord!	Limited	Fnord,Master	C	Master	Plot							
-Foiled!	Limited	Foiled,Master	U	Master	Plot							
+Fnord!	Limited	Fnord,Master	C	Master	Plot		Requires Discard					
+Foiled!	Limited	Foiled,Master	U	Master	Plot		Requires Media Action					
 Forgery	Limited	Forgery,Master	U	Master	Plot							
 Freaking The Mundanes	Limited	Freaking_The_Mundanes,Master	U	Master	Plot						Now require an Illuminati action and reload only 5 Power's worth of tokens, or any one Group of any Power. The rules now make it explicit that you cannot "reload" a group on the turn it is captured.	
 Full Moon	Limited	Full_Moon,Master	U	Master	Plot						Now require an Illuminati action. The rules now make it explicit that you cannot "reload" a group on the turn it is captured.	
-Fundie Money	Limited	Fundie_Money,Master	C	Master	Plot							
+Fundie Money	Limited	Fundie_Money,Master	C	Master	Plot		Requires Action					
 Gang War	Limited	Gang_War,Master	U	Master	Plot						Now require an Illuminati action and reload only 5 Power's worth of tokens, or any one Group of any Power. The rules now make it explicit that you cannot "reload" a group on the turn it is captured.	
-George the Janitor	Limited	George_the_Janitor,Master	C	Master	Plot							
+George the Janitor	Limited	George_the_Janitor,Master	C	Master	Plot		Requires Action					
 Good Polls	Limited	Good_Polls,Master	C	Master	Plot							
-Grassroots Support	Limited	Grassroots_Support,Master	C	Master	Plot							
+Grassroots Support	Limited	Grassroots_Support,Master	C	Master	Plot		Requires Action					
 Gremlins	Limited	Gremlins,Master	R	Master	Plot							
 Harmonica Virgins	Limited	Harmonica_Virgins,Master	C	Master	Plot							
-Hat Trick	Limited	Hat_Trick,Master	C	Master	Plot							
+Hat Trick	Limited	Hat_Trick,Master	C	Master	Plot		Requires Action					
 Head In A Jar	Limited	Head_In_A_Jar,Master	U	Master	Plot							
-Hex	Limited	Hex,Master	R	Master	Plot							
-Hidden Influence	Limited	Hidden_Influence,Master	R	Master	Plot							
-Hoax!	Limited	Hoax,Master	U	Master	Plot							
+Hex	Limited	Hex,Master	R	Master	Plot		Requires Magic or Illuminati Action					
+Hidden Influence	Limited	Hidden_Influence,Master	R	Master	Plot		Requires_Illuminati Action					
+Hoax!	Limited	Hoax,Master	U	Master	Plot		Requires Action and Discard					
 I Lied	Limited	I_Lied,Master	U	Master	Plot							
-Impostor	Limited	Impostor,Master	C	Master	Plot							
+Impostor	Limited	Impostor,Master	C	Master	Plot		Requires Action					
 Infobahn	Limited	Infobahn,Master	C	Master	Plot							
 Interference	Limited	Interference,Master	C	Master	Plot							
-Jake Day	Limited	Jake_Day,Master	C	Master	Plot							
+Jake Day	Limited	Jake_Day,Master	C	Master	Plot		Requires Action					
 Jihad	Limited	Jihad,Master	C	Master	Plot							
 Just Say No	Limited	Just_Say_No,Master	C	Master	Plot							
 Ketchup Is A Vegetable	Limited	Ketchup_Is_A_Vegetable,Master	C	Master	Plot							
-Kinder and Gentler	Limited	Kinder_and_Gentler,Master	C	Master	Plot							
-Let's Get Organized	Limited	Lets_Get_Organized,Master	C	Master	Plot							
-Let's Get REALLY Organized	Limited	Lets_Get_REALLY_Organized,Master	U	Master	Plot							
-Let's You and Him Fight	Limited	Lets_You_and_Him_Fight,Master	R	Master	Plot							
-Liberal Agenda	Limited	Liberal_Agenda,Master	C	Master	Plot							
-Logic Bomb	Limited	Logic_Bomb,Master	R	Master	Plot							
+Kinder and Gentler	Limited	Kinder_and_Gentler,Master	C	Master	Plot		Requires Action					
+Let's Get Organized	Limited	Lets_Get_Organized,Master	C	Master	Plot		Requires Action					
+Let's Get REALLY Organized	Limited	Lets_Get_REALLY_Organized,Master	U	Master	Plot		Requires Action					
+Let's You and Him Fight	Limited	Lets_You_and_Him_Fight,Master	R	Master	Plot		Requires_Illuminati Action					
+Liberal Agenda	Limited	Liberal_Agenda,Master	C	Master	Plot		Requires Action					
+Logic Bomb	Limited	Logic_Bomb,Master	R	Master	Plot		Requires Action					
 March On Washington	Limited	March_On_Washington,Master	C	Master	Plot							
 Market Manipulation	Limited	Market_Manipulation,Master	U	Master	Plot							
 Martial Law	Limited	Martial_Law,Master	C	Master	Plot							
 Martyrs	Limited	Martyrs,Master	C	Master	Plot							
-Mass Murder	Limited	Mass_Murder,Master	R	Master	Plot							
-Media Blitz	Limited	Media_Blitz,Master	C	Master	Plot							
-Media Connections	Limited	Media_Connections,Master	R	Master	Plot							
+Mass Murder	Limited	Mass_Murder,Master	R	Master	Plot		Requires Media or Illuminati Action					
+Media Blitz	Limited	Media_Blitz,Master	C	Master	Plot		Requires Media Action					
+Media Connections	Limited	Media_Connections,Master	R	Master	Plot		Requires Media Action					
 Messiah	Limited	Messiah,Master	R	Master	Plot							
-Miracle Diet Plan	Limited	Miracle_Diet_Plan,Master	C	Master	Plot							
+Miracle Diet Plan	Limited	Miracle_Diet_Plan,Master	C	Master	Plot		Requires Media Action					
 Mistaken Identity	Limited	Mistaken_Identity,Master	R	Master	Plot							
-Mob Influence	Limited	Mob_Influence,Master	C	Master	Plot							
-Monopoly	Limited	Monopoly,Master	C	Master	Plot							
-Mothers' March	Limited	Mothers_March,Master	C	Master	Plot							
-Murphy's Law	Limited	Murphys_Law,Master	U	Master	Plot							
-Mutual Betrayal	Limited	Mutual_Betrayal,Master	C	Master	Plot							
-Nationalization	Limited	Nationalization,Master	C	Master	Plot							
+Mob Influence	Limited	Mob_Influence,Master	C	Master	Plot		Requires Action					
+Monopoly	Limited	Monopoly,Master	C	Master	Plot		Requires Action					
+Mothers' March	Limited	Mothers_March,Master	C	Master	Plot		Requires Action					
+Murphy's Law	Limited	Murphys_Law,Master	U	Master	Plot		Requires All Illuminati Actions					
+Mutual Betrayal	Limited	Mutual_Betrayal,Master	C	Master	Plot		Requires Action					
+Nationalization	Limited	Nationalization,Master	C	Master	Plot		Requires Action					
 Never Surrender	Limited	Never_Surrender,Master	C	Master	Plot							
-New Blood	Limited	New_Blood,Master	C	Master	Plot							
+New Blood	Limited	New_Blood,Master	C	Master	Plot		Requires Action					
 New Federal Budget	Limited	New_Federal_Budget,Master	U	Master	Plot						Now require an Illuminati action and reload only 5 Power's worth of tokens, or any one Group of any Power. The rules now make it explicit that you cannot "reload" a group on the turn it is captured.	
-Nice Idea. It's Mine Now.	Limited	Nice_Idea_Its_Mine_Now,Master	R	Master	Plot							
-Nobel Peace Prize	Limited	Nobel_Peace_Prize,Master	C	Master	Plot							
+Nice Idea. It's Mine Now.	Limited	Nice_Idea_Its_Mine_Now,Master	R	Master	Plot		Requires Illuminati Action					
+Nobel Peace Prize	Limited	Nobel_Peace_Prize,Master	C	Master	Plot		Requires Action					
 Opportunity Knocks	Limited	Opportunity_Knocks,Master	R	Master	Plot							
 Payoff	Limited	Payoff,Master	C	Master	Plot							
 Pledge Drive	Limited	Pledge_Drive,Master	U	Master	Plot						Now require an Illuminati action and reload only 5 Power's worth of tokens, or any one Group of any Power. The rules now make it explicit that you cannot "reload" a group on the turn it is captured.	
-Power Corrupts	Limited	Power_Corrupts,Master	C	Master	Plot							
-Power Grab	Limited	Power_Grab,Master	C	Master	Plot							
-Privatization	Limited	Privatization,Master	C	Master	Plot							
-Privileged Attack	Limited	Privileged_Attack,Master	C	Master	Plot							
+Power Corrupts	Limited	Power_Corrupts,Master	C	Master	Plot		Requires Action					
+Power Grab	Limited	Power_Grab,Master	C	Master	Plot		Ends Turn					
+Privatization	Limited	Privatization,Master	C	Master	Plot		Requires Action					
+Privileged Attack	Limited	Privileged_Attack,Master	C	Master	Plot		May Require Action					
 Pulitzer Prize	Limited	Pulitzer_Prize,Master	C	Master	Plot							
-Purge	Limited	Purge,Master	C	Master	Plot							
-Reach Out . . .	Limited	Reach_Out,Master	R	Master	Plot							
+Purge	Limited	Purge,Master	C	Master	Plot		Requires Action					
+Reach Out . . .	Limited	Reach_Out,Master	R	Master	Plot		Requires_Illuminati Action					
 Read My Lips	Limited	Read_My_Lips,Master	C	Master	Plot							
 Red Scare	Limited	Red_Scare,Master	U	Master	Plot						Now require an Illuminati action and reload only 5 Power's worth of tokens, or any one Group of any Power. The rules now make it explicit that you cannot "reload" a group on the turn it is captured.	
 Reload!	Limited	Reload,Master	U	Master	Plot						Now require an Illuminati action and reload only 5 Power’s worth of tokens, or any one Group of any Power. The rules now make it explicit that you cannot "reload" a group on the turn it is captured.	
-Reorganization	Limited	Reorganization,Master	C	Master	Plot							
-Resistance Is Useless!	Limited	Resistance_Is_Useless,Master	R	Master	Plot							
-Revolution!	Limited	Revolution,Master	U	Master	Plot							
-Rewriting History	Limited	Rewriting_History,Master	R	Master	Plot							
-Sabotage	Limited	Sabotage,Master	R	Master	Plot							
+Reorganization	Limited	Reorganization,Master	C	Master	Plot		Requires_Illuminati Action					
+Resistance Is Useless!	Limited	Resistance_Is_Useless,Master	R	Master	Plot		Requires Media Action					
+Revolution!	Limited	Revolution,Master	U	Master	Plot		Requires Action					
+Rewriting History	Limited	Rewriting_History,Master	R	Master	Plot		Requires Media or Illuminati Action					
+Sabotage	Limited	Sabotage,Master	R	Master	Plot		Requires Action					
 Save the Whales	Limited	Save_the_Whales,Master	C	Master	Plot							
-Savings & Loan Scam	Limited	Savings_&_Loan_Scam,Master	U	Master	Plot							
-Scandal	Limited	Scandal,Master	R	Master	Plot							
-Secrets Man Was Not Meant To Know	Limited	Secrets_Man_Was_Not_Meant_To_Know,Master	U	Master	Plot							
+Savings & Loan Scam	Limited	Savings_&_Loan_Scam,Master	U	Master	Plot		Requires Action					
+Scandal	Limited	Scandal,Master	R	Master	Plot		Requires Media Action					
+Secrets Man Was Not Meant To Know	Limited	Secrets_Man_Was_Not_Meant_To_Know,Master	U	Master	Plot		Requires Discards or All Illuminati Actions					
 Seize The Time!	Limited	Seize_The_Time,Master	U	Master	Plot						Requires an Illuminati action, and cannot be used on your first turn. It does not give the Illuminati any new Action tokens, and you cannot draw cards or play any Plots during your extra turn.	
-Self-Esteem	Limited	Self-Esteem,Master	C	Master	Plot							
-Senate Investigating Committee	Limited	Senate_Investigating_Committee,Master	R	Master	Plot							
+Self-Esteem	Limited	Self-Esteem,Master	C	Master	Plot		Requires Action					
+Senate Investigating Committee	Limited	Senate_Investigating_Committee,Master	R	Master	Plot		Requires Government Action					
 Slush Fund	Limited	Slush_Fund,Master	C	Master	Plot							
 Spasm of Violence	Limited	Spasm_of_Violence,Master	R	Master	Plot							
-Stealing The Plans	Limited	Stealing_The_Plans,Master	C	Master	Plot							
+Stealing The Plans	Limited	Stealing_The_Plans,Master	C	Master	Plot		Requires Action					
 Stock Split	Limited	Stock_Split,Master	C	Master	Plot							
-Straighten Up	Limited	Straighten_Up,Master	C	Master	Plot							
+Straighten Up	Limited	Straighten_Up,Master	C	Master	Plot		Requires Action					
 Sucked Dry And Cast Aside!	Limited	Sucked_Dry_And_Cast_Aside,Master	U	Master	Plot							
-Sweeping Reforms	Limited	Sweeping_Reforms,Master	U	Master	Plot							
+Sweeping Reforms	Limited	Sweeping_Reforms,Master	U	Master	Plot		Requires Media Action					
 Sweepstakes Prize	Limited	Sweepstakes_Prize,Master	C	Master	Plot							
 Swiss Bank Account	Limited	Swiss_Bank_Account,Master	C	Master	Plot							
 Talisman of Ahrimanes	Limited	Talisman_of_Ahrimanes,Master	C	Master	Plot							
 Tax Breaks	Limited	Tax_Breaks,Master	U	Master	Plot						Now require an Illuminati action and reload only 5 Power's worth of tokens, or any one Group of any Power. The rules now make it explicit that you cannot "reload" a group on the turn it is captured.	
 Terrorist Nuke	Limited	Terrorist_Nuke,Master	C	Master	Plot							
-The Auditor from Hell	Limited	The_Auditor_from_Hell,Master	C	Master	Plot							
+The Auditor from Hell	Limited	The_Auditor_from_Hell,Master	C	Master	Plot		Requires Network, Computer, or Bank Action					
 The Big Score	Limited	The_Big_Score,Master	C	Master	Plot							
-The Big Sellout	Limited	The_Big_Sellout,Master	R	Master	Plot							
+The Big Sellout	Limited	The_Big_Sellout,Master	R	Master	Plot		Requires Discard					
 The First Thing We Do, Let's Kill All The Lawyers	Limited	The_First_Thing_We_Do_Lets_Kill_All_The_Lawyers,Master	R	Master	Plot							
-The Internet Worm	Limited	The_Internet_Worm,Master	U	Master	Plot							
+The Internet Worm	Limited	The_Internet_Worm,Master	U	Master	Plot		Requires Computer or Illuminati Action					
 The Second Bullet	Limited	The_Second_Bullet,Master	C	Master	Plot							
-The Stars are Right	Limited	The_Stars_are_Right,Master	R	Master	Plot							
-The Weak Link	Limited	The_Weak_Link,Master	R	Master	Plot							
-The Weird Turn Pro	Limited	The_Weird_Turn_Pro,Master	C	Master	Plot							
+The Stars are Right	Limited	The_Stars_are_Right,Master	R	Master	Plot		Requires Magic or Illuminati Action					
+The Weak Link	Limited	The_Weak_Link,Master	R	Master	Plot		Requires Science, Magic, Computer, or Illuminati Action					
+The Weird Turn Pro	Limited	The_Weird_Turn_Pro,Master	C	Master	Plot		Requires Action					
 Time Warp	Limited	Time_Warp,Master	R	Master	Plot							
-Unlucky 13	Limited	Unlucky_13,Master	R	Master	Plot							
+Unlucky 13	Limited	Unlucky_13,Master	R	Master	Plot		Requires Magic Action					
 Unmasked!	Limited	Unmasked,Master	R	Master	Plot							
-Upheaval!	Limited	Upheaval,Master	C	Master	Plot						Requires an Illuminati action, and cannot be used on your first turn.	
+Upheaval!	Limited	Upheaval,Master	C	Master	Plot		Requires Illuminati Action				Requires an Illuminati action, and cannot be used on your first turn.	
 Volunteer Aid	Limited	Volunteer_Aid,Master	C	Master	Plot							
-Voodoo Economics	Limited	Voodoo_Economics,Master	C	Master	Plot						Requires an Illuminati action, and can be used only once per game by each player.	
+Voodoo Economics	Limited	Voodoo_Economics,Master	C	Master	Plot		Requires Discard				Requires an Illuminati action, and can be used only once per game by each player.	
 Vultures	Limited	Vultures,Master	C	Master	Plot							
-Whispering Campaign	Limited	Whispering_Campaign,Master	C	Master	Plot							
+Whispering Campaign	Limited	Whispering_Campaign,Master	C	Master	Plot		Requires Media Action					
 World Cup Victory	Limited	World_Cup_Victory,Master	R	Master	Plot							
 A.M.A.	Limited	AMA,Puppet	C	Puppet	Organization	Conservative, Peaceful	Science	3	4	2		
 American Autoduel Association	Limited	American_Autoduel_Association,Puppet	C	Puppet	Organization	Violent, Weird		1	5	1		
@@ -230,7 +230,7 @@ Cycle Gangs	Limited	Cycle_Gangs,Puppet	C	Puppet	Organization	Violent, Weird		1	4
 Democrats	Limited	Democrats,Puppet	U	Puppet	Organization	Liberal		6/5	4	2		
 Dentists	Limited	Dentists,Puppet	C	Puppet	Organization	Straight		1	2	0		
 Deprogrammers	Limited	Deprogrammers,Puppet	U	Puppet	Organization	Straight		1	4	0		
-Druids	Limited	Druids,Puppet	C	Puppet	Organization		Green, Magic	2/1	4			
+Druids	Limited	Druids,Puppet	C	Puppet	Organization		Green, Magic	2/1	4	0		
 Eco-Guerrillas	Limited	Eco-Guerrillas,Puppet	C	Puppet	Organization	Liberal, Violent	Green	1/1	6	0		
 EFF	Limited	EFF,Puppet	R	Puppet	Organization	Liberal	Computer	2/1	3	1		
 Elders of Zion	Limited	Elders_of_Zion,Puppet	R	Puppet	Organization	Fanatic	Secret	2	7	2		
@@ -249,7 +249,7 @@ Gay Activists	Limited	Gay_Activists,Puppet	U	Puppet	Organization	Weird		2	3	1
 Girlie Magazines	Limited	Girlie_Magazines,Puppet	C	Puppet	Organization	Liberal	Media	2/1	2	1		
 Goldfish Fanciers	Limited	Goldfish_Fanciers,Puppet	R	Puppet	Organization	Peaceful, Fanatic		1	4	0		
 Gun Lobby	Limited	Gun_Lobby,Puppet	C	Puppet	Organization	Conservative, Violent		1	3*	1		
-Hackers	Limited	Hackers,Puppet	U	Puppet	Organization	Weird, Fanatic	Computer	3/2	4			
+Hackers	Limited	Hackers,Puppet	U	Puppet	Organization	Weird, Fanatic	Computer	3/2	4	0		
 I.R.S.	Limited	IRS,Puppet	U	Puppet	Organization	Government, Criminal	Bank	5/3	5	2		
 Intellectuals	Limited	Intellectuals,Puppet	C	Puppet	Organization	Weird, Fanatic		1	3	0		
 International Cocaine Smugglers	Limited	International_Cocaine_Smugglers,Puppet	C	Puppet	Organization	Violent, Criminal		3	5	3		
@@ -280,7 +280,7 @@ Offshore Banks	Limited	Offshore_Banks,Puppet	U	Puppet	Organization	Criminal	Bank
 OPEC	Limited	OPEC,Puppet	C	Puppet	Organization	Conservative		*	4	2		
 Paranoids	Limited	Paranoids,Puppet	C	Puppet	Organization			0	6	0		
 Phone Company	Limited	Phone_Company,Puppet	U	Puppet	Organization	Corporate	Computer, Science	5/3	6	2		
-Phone Phreaks	Limited	Phone_Phreaks,Puppet	C	Puppet	Organization	Liberal, Criminal	Computer, Science	1/1	1			
+Phone Phreaks	Limited	Phone_Phreaks,Puppet	C	Puppet	Organization	Liberal, Criminal	Computer, Science	1/1	1	0		
 Pollsters	Limited	Pollsters,Puppet	R	Puppet	Organization		Media	2/2	4	1		
 Post Office	Limited	Post_Office,Puppet	C	Puppet	Organization	Government	Computer	4/3	3	1		
 Professional Sports	Limited	Professional_Sports,Puppet	U	Puppet	Organization	Violent, Fanatic		2	4	2		
@@ -298,7 +298,7 @@ Rosicrucians	Limited	Rosicrucians,Puppet	C	Puppet	Organization		Magic, Secret	1/
 S.M.O.F.	Limited	SMOF,Puppet	R	Puppet	Organization	Weird		1	1	2		
 Saturday Morning Cartoons	Limited	Saturday_Morning_Cartoons,Puppet	U	Puppet	Organization	Violent	Media	1/1	4	1		
 Savings and Loans	Limited	Savings_and_Loans,Puppet	R	Puppet	Organization	Straight, Criminal	Bank	2	3	2		
-Science Fiction Fans	Limited	Science_Fiction_Fans,Puppet	C	Puppet	Organization	Weird		1	5			
+Science Fiction Fans	Limited	Science_Fiction_Fans,Puppet	C	Puppet	Organization	Weird		1	5	0		
 Secret Service	Limited	Secret_Service,Puppet	R	Puppet	Organization	Government, Violent		2	3	0		
 Secular Humanists	Limited	Secular_Humanists,Puppet	U	Puppet	Organization	Liberal		2	5	1		
 Semiconscious Liberation Army	Limited	Semiconscious_Liberation_Army,Puppet	C	Puppet	Organization	Liberal, Violent, Weird, Criminal	Communist	1	8	1		
@@ -327,13 +327,13 @@ W.I.T.C.H.	Limited	WITCH,Puppet	C	Puppet	Organization	Violent, Weird, Fanatic	Ma
 Wall Street	Limited	Wall_Street,Puppet	C	Puppet	Organization	Corporate	Bank	4	3	3		
 Wargamers	Limited	Wargamers,Puppet	C	Puppet	Organization	Weird	Computer	1	5	0		
 Al Gore	Limited	Al_Gore,Puppet	C	Puppet	Personality	Liberal, Government	Computer, Green	1/1	4	2		
-Bill Clinton	Limited	Bill_Clinton,Puppet	C	Puppet	Personality	Liberal, Government, Straight		4	2	2		
+Bill Clinton	Limited	Bill_Clinton,Puppet	C	Puppet	Personality	Liberal (Sometimes), Government, Straight		4	2	2		
 Bjorne	Limited	Bjorne,Puppet	C	Puppet	Personality	Peaceful	Media	1	4	1		
 Count Dracula	Limited	Count_Dracula,Puppet	R	Puppet	Personality	Violent	Magic	2	7	1		
 Dan Quayle	Limited	Dan_Quayle,Puppet	C	Puppet	Personality	Conservative, Straight		1	1	1		
 Elvis	Limited	Elvis,Puppet	R	Puppet	Personality			1/1	4	1		
-Fidel Castro	Limited	Fidel_Castro,Puppet	U	Puppet	Personality	Liberal, Government	Communist	1	6			
-George Bush	Limited	George_Bush,Puppet	C	Puppet	Personality	Conservative, Straight		2	3	1		
+Fidel Castro	Limited	Fidel_Castro,Puppet	U	Puppet	Personality	Liberal, Government	Communist	1	6	0		
+George Bush	Limited	George_Bush,Puppet	C	Puppet	Personality	Conservative (Sometimes), Straight		2	3	1		
 Gordo Remora	Limited	Gordo_Remora,Puppet	C	Puppet	Personality	Liberal	Media	1	0	1		
 Hillary Clinton	Limited	Hillary_Clinton,Puppet	C	Puppet	Personality	Liberal		2	4	1		
 Imelda Marcos	Limited	Imelda_Marcos,Puppet	C	Puppet	Personality	Criminal		1*	1	1		
@@ -357,7 +357,7 @@ Dinosaur Park	Limited	Dinosaur_Park,Puppet	U	Puppet	Place	Corporate	Science	1	3	
 England	Limited	England,Puppet	C	Puppet	Place	Government	Coastal, Huge, Nation	2/2	6	2		
 Finland	Limited	Finland,Puppet	R	Puppet	Place	Liberal, Government	Coastal, Computer, Nation	2	5	1		
 France	Limited	France,Puppet	C	Puppet	Place	Liberal, Government	Coastal, Huge, Nation	3	5	1		
-Germany	Limited	Germany,Puppet	R	Puppet	Place	Conservative, Government		4	3			
+Germany	Limited	Germany,Puppet	R	Puppet	Place	Conservative, Government		4	3	0		
 Hawaii	Limited	Hawaii,Puppet	C	Puppet	Place	Corporate	Coastal	1	2	1		
 Hollywood	Limited	Hollywood,Puppet	U	Puppet	Place	Liberal	Media	3/3	0	2		
 Israel	Limited	Israel,Puppet	R	Puppet	Place	Government, Violent	Coastal, Nation	3/3	8	2		
@@ -369,57 +369,57 @@ New York	Limited	New_York,Puppet	U	Puppet	Place	Government, Violent, Criminal	Co
 Orbit One	Limited	Orbit_One,Puppet	U	Puppet	Place		Computer, Science, Space	2	5	3	Can be affected by a Nuclear Disaster, but not an Earthquake.	
 Pentagon	Limited	Pentagon,Puppet	C	Puppet	Place	Government, Violent, Straight		6	6	3		
 Russia	Limited	Russia,Puppet	C	Puppet	Place	Government, Violent	Coastal, Huge, Nation	4	5	3		
-Silicon Valley	Limited	Silicon_Valley,Puppet	U	Puppet	Place		Coastal, Computer, Science	3/2	3			
+Silicon Valley	Limited	Silicon_Valley,Puppet	U	Puppet	Place		Coastal, Computer, Science	3/2	3	0		
 Stonehenge	Limited	Stonehenge,Puppet	C	Puppet	Place		Magic	3/3	4	0		
 Switzerland	Limited	Switzerland,Puppet	C	Puppet	Place	Conservative, Government	Nation	1	6	1		
 Texas	Limited	Texas,Puppet	R	Puppet	Place	Conservative, Government, Violent	Coastal, Huge	6	6	3		
 The Great Pyramid	Limited	The_Great_Pyramid,Puppet	S	Puppet	Place		Magic	2/2	4	1		
 Vatican City	Limited	Vatican_City,Puppet	C	Puppet	Place	Conservative, Peaceful	Church, Nation	4/4	6	3		
-Angel's Feather	Limited	Angels_Feather,Puppet	C	Puppet	Resource		Artifact, Magic, Unique					
-Ark of the Covenant	Limited	Ark_of_the_Covenant,Puppet	R	Puppet	Resource		Artifact, Magic, Unique					
-Bigfoot	Limited	Bigfoot,Puppet	C	Puppet	Resource		ACTION, Unique					
-Book of Kells	Limited	Book_of_Kells,Puppet	U	Puppet	Resource		Artifact, Magic, Unique					
-Center for Weird Studies	Limited	Center_for_Weird_Studies,Puppet	C	Puppet	Resource		Unique					
+Angel's Feather	Limited	Angels_Feather,Puppet	C	Puppet	Resource	Artifact, Magic, Unique						
+Ark of the Covenant	Limited	Ark_of_the_Covenant,Puppet	R	Puppet	Resource	Artifact, Magic, Unique						
+Bigfoot	Limited	Bigfoot,Puppet	C	Puppet	Resource	Unique	ACTION					
+Book of Kells	Limited	Book_of_Kells,Puppet	U	Puppet	Resource	Artifact, Magic, Unique						
+Center for Weird Studies	Limited	Center_for_Weird_Studies,Puppet	C	Puppet	Resource	Unique						
 Clipper Chip	Limited	Clipper_Chip,Puppet	C	Puppet	Resource						Limited to one per player.	
-Crystal Skull	Limited	Crystal_Skull,Puppet	R	Puppet	Resource		Artifact, Magic, Unique					
-Cyborg Soldiers	Limited	Cyborg_Soldiers,Puppet	R	Puppet	Resource		Gadget					
-Death Mask	Limited	Death_Mask,Puppet	U	Puppet	Resource		Artifact, Magic, Unique					
-Earthquake Projector	Limited	Earthquake_Projector,Puppet	C	Puppet	Resource		ACTION, Gadget					
-Eliza	Limited	Eliza,Puppet	U	Puppet	Resource		Gadget				Limited to one per Group.	
-Flying Saucer	Limited	Flying_Saucer,Puppet	C	Puppet	Resource		Artifact, Gadget, Unique					
-Hallucinations	Limited	Hallucinations,Puppet	C	Puppet	Resource		Unique					
-Hammer of Thor	Limited	Hammer_of_Thor,Puppet	C	Puppet	Resource		ACTION, Artifact, Magic, Unique					
-Hidden City	Limited	Hidden_City,Puppet	U	Puppet	Resource		Unique					
-Hitler's Brain	Limited	Hitlers_Brain,Puppet	R	Puppet	Resource		Artifact, Unique					
+Crystal Skull	Limited	Crystal_Skull,Puppet	R	Puppet	Resource	Artifact, Magic, Unique						
+Cyborg Soldiers	Limited	Cyborg_Soldiers,Puppet	R	Puppet	Resource	Gadget						
+Death Mask	Limited	Death_Mask,Puppet	U	Puppet	Resource	Artifact, Magic, Unique						
+Earthquake Projector	Limited	Earthquake_Projector,Puppet	C	Puppet	Resource	Gadget	ACTION					
+Eliza	Limited	Eliza,Puppet	U	Puppet	Resource	Gadget					Limited to one per Group.	
+Flying Saucer	Limited	Flying_Saucer,Puppet	C	Puppet	Resource	Artifact, Gadget, Unique						
+Hallucinations	Limited	Hallucinations,Puppet	C	Puppet	Resource		ACTION					
+Hammer of Thor	Limited	Hammer_of_Thor,Puppet	C	Puppet	Resource	Artifact, Magic, Unique	ACTION					
+Hidden City	Limited	Hidden_City,Puppet	U	Puppet	Resource	Unique						
+Hitler's Brain	Limited	Hitlers_Brain,Puppet	R	Puppet	Resource	Artifact, Unique						
 Immortality Serum	Limited	Immortality_Serum,Puppet	R	Puppet	Resource							
-Loch Ness Monster	Limited	Loch_Ness_Monster,Puppet	C	Puppet	Resource		ACTION, Unique					
+Loch Ness Monster	Limited	Loch_Ness_Monster,Puppet	C	Puppet	Resource	Unique	ACTION					
 Mercenaries	Limited	Mercenaries,Puppet	C	Puppet	Resource		ACTION					
-Midas Mill	Limited	Midas_Mill,Puppet	C	Puppet	Resource		Artifact, Gadget, Unique					
-Necronomicon	Limited	Necronomicon,Puppet	U	Puppet	Resource		Artifact, Magic, Unique					
-Orbital Mind Control Lasers	Limited	Orbital_Mind_Control_Lasers,Puppet	C	Puppet	Resource		Gadget, Unique					
-Perpetual Motion Machine	Limited	Perpetual_Motion_Machine,Puppet	R	Puppet	Resource		Artifact, Gadget, Unique					
-Principia Discordia	Limited	Principia_Discordia,Puppet	C	Puppet	Resource		Artifact, Unique					
+Midas Mill	Limited	Midas_Mill,Puppet	C	Puppet	Resource	Artifact, Gadget, Unique						
+Necronomicon	Limited	Necronomicon,Puppet	U	Puppet	Resource	Artifact, Magic, Unique						
+Orbital Mind Control Lasers	Limited	Orbital_Mind_Control_Lasers,Puppet	C	Puppet	Resource	Gadget, Unique	ACTION					
+Perpetual Motion Machine	Limited	Perpetual_Motion_Machine,Puppet	R	Puppet	Resource	Artifact, Gadget, Unique						
+Principia Discordia	Limited	Principia_Discordia,Puppet	C	Puppet	Resource	Artifact, Unique						
 Rogue Boomer	Limited	Rogue_Boomer,Puppet	C	Puppet	Resource							
-Shroud of Turin	Limited	Shroud_of_Turin,Puppet	R	Puppet	Resource		Artifact, Magic, Unique					
-Soulburner	Limited	Soulburner,Puppet	R	Puppet	Resource		Gadget, Magic, Unique					
-Spear of Longinus	Limited	Spear_of_Longinus,Puppet	C	Puppet	Resource		Artifact, Magic, Unique					
+Shroud of Turin	Limited	Shroud_of_Turin,Puppet	R	Puppet	Resource	Artifact, Magic, Unique						
+Soulburner	Limited	Soulburner,Puppet	R	Puppet	Resource	Gadget, Magic, Unique						
+Spear of Longinus	Limited	Spear_of_Longinus,Puppet	C	Puppet	Resource	Artifact, Magic, Unique						
 Suicide Squad	Limited	Suicide_Squad,Puppet	U	Puppet	Resource							
-The Bronze Head	Limited	The_Bronze_Head,Puppet	C	Puppet	Resource		Artifact, Magic, Unique					
-The Frog God	Limited	The_Frog_God,Puppet	C	Puppet	Resource		Artifact, Magic					
-The Holy Grail	Limited	The_Holy_Grail,Puppet	R	Puppet	Resource		Artifact, Magic, Unique					
-The Library at Alexandria	Limited	The_Library_at_Alexandria,Puppet	U	Puppet	Resource		Unique					
-Warehouse 23	Limited	Warehouse_23,Puppet	U	Puppet	Resource		Unique					
-Weather Satellite	Limited	Weather_Satellite,Puppet	U	Puppet	Resource		ACTION, ACTION, Gadget				Gives a +10 (not a +8), to Tornado, Hurricane, and Rain of Frogs (not Tidal Wave).	
-Xanadu	Limited	Xanadu,Puppet	C	Puppet	Resource		Unique					
-Spontaneous Combustion	Assassins	Spontaneous_Combustion,Master	UR	Master	Assassination							
-Drought	Assassins	Drought,Master	R	Master	Disaster							
-Flesh-Eating Bacteria	Assassins	Flesh-Eating_Bacteria,Master	UR	Master	Disaster							
-No Beer!	Assassins	No_Beer,Master	UR	Master	Disaster							
-Oil Spill	Assassins	Oil_Spill,Master	R	Master	Disaster							
+The Bronze Head	Limited	The_Bronze_Head,Puppet	C	Puppet	Resource	Artifact, Magic, Unique						
+The Frog God	Limited	The_Frog_God,Puppet	C	Puppet	Resource	Artifact, Magic	ACTION					
+The Holy Grail	Limited	The_Holy_Grail,Puppet	R	Puppet	Resource	Artifact, Magic, Unique						
+The Library at Alexandria	Limited	The_Library_at_Alexandria,Puppet	U	Puppet	Resource	Unique						
+Warehouse 23	Limited	Warehouse_23,Puppet	U	Puppet	Resource	Unique						
+Weather Satellite	Limited	Weather_Satellite,Puppet	U	Puppet	Resource	Gadget	ACTION ACTION				Gives a +10 (not a +8), to Tornado, Hurricane, and Rain of Frogs (not Tidal Wave).	
+Xanadu	Limited	Xanadu,Puppet	C	Puppet	Resource	Unique						
+Spontaneous Combustion	Assassins	Spontaneous_Combustion,Master	UR	Master	Assassination		Assassination!					
+Drought	Assassins	Drought,Master	R	Master	Disaster		Disaster!					
+Flesh-Eating Bacteria	Assassins	Flesh-Eating_Bacteria,Master	UR	Master	Disaster		Disaster!					
+No Beer!	Assassins	No_Beer,Master	UR	Master	Disaster		Disaster!					
+Oil Spill	Assassins	Oil_Spill,Master	R	Master	Disaster		Disaster!					
 Blinded by Science	Assassins	Goal-_Blinded_by_Science,Master	C	Master	Goal							
 Earth First!	Assassins	Goal-_Earth_First,Master	R	Master	Goal							
 Population Reduction	Assassins	Goal-_Population_Reduction,Master	R	Master	Goal							
-Society of Assassins	Assassins	SOCIETY_OF_ASSASSINS,Master	U4	Master	Illuminati			7/7		4		When one of your Fanatic groups attacks or defends, you may treat its Fanatic alignment as the same as that of any other Fanatic group. Your Fanatic groups also have Global Power equal to their Power. SPECIAL GOAL: Any Secret group counts double toward your total number of groups controlled, as long as none of your rivals control a Secret group with more power.
+Society of Assassins	Assassins	SOCIETY_OF_ASSASSINS,Master	U4	Master	Illuminati			7/7				When one of your Fanatic groups attacks or defends, you may treat its Fanatic alignment as the same as that of any other Fanatic group. Your Fanatic groups also have Global Power equal to their Power. SPECIAL GOAL: Any Secret group counts double toward your total number of groups controlled, as long as none of your rivals control a Secret group with more power.
 Global Warming	Assassins	Global_Warming,Master	C	Master	NWOB		Blue					
 Interesting Times	Assassins	Interesting_Times,Master	R	Master	NWOB		Blue					
 Watermelons	Assassins	Watermelons,Master	R	Master	NWOB		Blue					
@@ -429,74 +429,74 @@ The Magic Goes Away	Assassins	The_Magic_Goes_Away,Master	R	Master	NWOR		Red
 Antitrust Legislation	Assassins	Antitrust_Legislation,Master	R	Master	NWOY		Yellow					
 End of the World	Assassins	End_of_the_World,Master	C	Master	NWOY		Yellow					
 Visualize Whirled Peas	Assassins	Visualize_Whirled_Peas,Master	R	Master	NWOY		Yellow					
-A Brief Attack of Conscience	Assassins	A_Brief_Attack_of_Conscience,Master	C	Master	Plot		Zap					
+A Brief Attack of Conscience	Assassins	A_Brief_Attack_of_Conscience,Master	C	Master	Plot	Zap!	Requires Illuminati Action					
 Alien Abduction	Assassins	Alien_Abduction,Master	R	Master	Plot							
-Anarchists Unite!	Assassins	Anarchists_Unite,Master	C	Master	Plot		Zap					
-Anything Worth Doing Is Worth Overdoing	Assassins	Anything_Worth_Doing_Is_Worth_Overdoing,Master	C	Master	Plot		Zap					
-Back to the Drawing Board	Assassins	Back_to_the_Drawing_Board,Master	U3	Master	Plot		Zap					
+Anarchists Unite!	Assassins	Anarchists_Unite,Master	C	Master	Plot	Zap!	Requires Illuminati Action					
+Anything Worth Doing Is Worth Overdoing	Assassins	Anything_Worth_Doing_Is_Worth_Overdoing,Master	C	Master	Plot	Zap!	Requires Illuminati Action					
+Back to the Drawing Board	Assassins	Back_to_the_Drawing_Board,Master	U3	Master	Plot	Zap!	Requires Illuminati Action					
 Back to the Salt Mines	Assassins	Back_to_the_Salt_Mines,Master	U3	Master	Plot							
-Backfire	Assassins	Backfire,Master	U3	Master	Plot		Freeze					
+Backfire	Assassins	Backfire,Master	U3	Master	Plot	Freeze!	Requires Illuminati or Magic Action					
 Backmasquerade	Assassins	Backmasquerade,Master	C	Master	Plot							
-Bait and Switch	Assassins	Bait_and_Switch,Master	C	Master	Plot		Zap					
-Bar Codes	Assassins	Bar_Codes,Master	U3	Master	Plot							
+Bait and Switch	Assassins	Bait_and_Switch,Master	C	Master	Plot	Zap!	Requires Illuminati Action					
+Bar Codes	Assassins	Bar_Codes,Master	U3	Master	Plot		Requires Computer Action					
 Beach Party	Assassins	Beach_Party,Master	C	Master	Plot							
-Bite the Wax Tadpole	Assassins	Bite_the_Wax_Tadpole,Master	C	Master	Plot		Freeze					
-Brushfire War	Assassins	Brushfire_War,Master	C	Master	Plot		Zap					
-Cat Juggling	Assassins	Cat_Juggling,Master	C	Master	Plot		Paralysis					
-Cease-Fire	Assassins	Cease-Fire,Master	C	Master	Plot							
-Chain Letter	Assassins	Chain_Letter,Master	C	Master	Plot		Paralysis					
-Contract on America	Assassins	Contract_on_America,Master	C	Master	Plot		Paralysis					
-Crackdown on Crime	Assassins	Crackdown_on_Crime,Master	C	Master	Plot		Paralysis					
+Bite the Wax Tadpole	Assassins	Bite_the_Wax_Tadpole,Master	C	Master	Plot	Freeze!	Requires Illuminati or Media Action					
+Brushfire War	Assassins	Brushfire_War,Master	C	Master	Plot	Zap!	Requires Illuminati Action					
+Cat Juggling	Assassins	Cat_Juggling,Master	C	Master	Plot	Paralysis	Requires Illuminati or Violent Action(s)					
+Cease-Fire	Assassins	Cease-Fire,Master	C	Master	Plot		Requires Discard					
+Chain Letter	Assassins	Chain_Letter,Master	C	Master	Plot	Paralysis	Requires Illuminati or Weird Action(s)					
+Contract on America	Assassins	Contract_on_America,Master	C	Master	Plot	Paralysis	Requires Illuminati or Conservative Action(s)					
+Crackdown on Crime	Assassins	Crackdown_on_Crime,Master	C	Master	Plot	Paralysis	Requires Illuminati or Government Action(s)					
 Crusade	Assassins	Crusade,Master	C	Master	Plot							
-Death To All Fanatics	Assassins	Death_To_All_Fanatics,Master	C	Master	Plot		Paralysis					
-Defection	Assassins	Defection,Master	C	Master	Plot							
-Dolphins	Assassins	Dolphins,Master	C	Master	Plot							
-Don't Rock The Boat	Assassins	Dont_Rock_The_Boat,Master	C	Master	Plot		Zap					
-Don't Touch That Dial!	Assassins	Dont_Touch_That_Dial,Master	U3	Master	Plot							
-Enough is Enough	Assassins	Enough_is_Enough,Master	C	Master	Plot		Paralysis					
-Every Year is Worse	Assassins	Every_Year_is_Worse,Master	C	Master	Plot		Paralysis					
-Exorcism	Assassins	Exorcism,Master	C	Master	Plot							
-Family Values	Assassins	Family_Values,Master	C	Master	Plot		Zap					
-Fickle Finger of Fate	Assassins	Fickle_Finger_of_Fate,Master	U3	Master	Plot		Zap					
-Five-Year Plan	Assassins	Five-Year_Plan,Master	U3	Master	Plot		Freeze					
-Floating Point Error	Assassins	Floating_Point_Error,Master	U3	Master	Plot		Freeze					
-Frankenfood	Assassins	Frankenfood,Master	C	Master	Plot							
+Death To All Fanatics	Assassins	Death_To_All_Fanatics,Master	C	Master	Plot	Paralysis	Requires Illuminati or Fanatic Action(s)					
+Defection	Assassins	Defection,Master	C	Master	Plot		Requires Nation Action					
+Dolphins	Assassins	Dolphins,Master	C	Master	Plot		Requires_Illuminati Action					
+Don't Rock The Boat	Assassins	Dont_Rock_The_Boat,Master	C	Master	Plot	Zap!	Requires_Illuminati Action					
+Don't Touch That Dial!	Assassins	Dont_Touch_That_Dial,Master	U3	Master	Plot		Requires Media Action					
+Enough is Enough	Assassins	Enough_is_Enough,Master	C	Master	Plot	Paralysis	Draw No Plot Cards This Turn					
+Every Year is Worse	Assassins	Every_Year_is_Worse,Master	C	Master	Plot	Paralysis	Requires Illuminati or Liberal Action(s)					
+Exorcism	Assassins	Exorcism,Master	C	Master	Plot		Requires Discard					
+Family Values	Assassins	Family_Values,Master	C	Master	Plot	Zap!	Requires_Illuminati Action					
+Fickle Finger of Fate	Assassins	Fickle_Finger_of_Fate,Master	U3	Master	Plot	Zap!	Requires_Illuminati Action					
+Five-Year Plan	Assassins	Five-Year_Plan,Master	U3	Master	Plot	Freeze!	Requires Illuminati or Communist Action					
+Floating Point Error	Assassins	Floating_Point_Error,Master	U3	Master	Plot	Freeze!	Requires Illuminati or Computer Action					
+Frankenfood	Assassins	Frankenfood,Master	C	Master	Plot		Requires Science Action					
 Go Fish	Assassins	Go_Fish,Master	U3	Master	Plot							
 Go, Lemmings, Go!	Assassins	Go_Lemmings_Go,Master	UR	Master	Plot							
-Grave Robbers	Assassins	Grave_Robbers,Master	R	Master	Plot							
-Hubble Trouble	Assassins	Hubble_Trouble,Master	C	Master	Plot		Freeze					
-Junk Bonds	Assassins	Junk_Bonds,Master	C	Master	Plot		Freeze					
-Lab Explosion	Assassins	Lab_Explosion,Master	C	Master	Plot		Zap					
-Let the Sunshine In	Assassins	Let_the_Sunshine_In,Master	C	Master	Plot		Freeze					
+Grave Robbers	Assassins	Grave_Robbers,Master	R	Master	Plot		May Require Magic Action(s)					
+Hubble Trouble	Assassins	Hubble_Trouble,Master	C	Master	Plot	Freeze!	Requires Illuminati, Space, or Science Action					
+Junk Bonds	Assassins	Junk_Bonds,Master	C	Master	Plot	Freeze!	Requires Illuminati or Bank Action					
+Lab Explosion	Assassins	Lab_Explosion,Master	C	Master	Plot	Zap!	Requires Illuminati Action					
+Let the Sunshine In	Assassins	Let_the_Sunshine_In,Master	C	Master	Plot	Freeze!	Requires Illuminati or Secret Action					
 May Day	Assassins	May_Day,Master	C	Master	Plot							
-Metric System	Assassins	Metric_System,Master	C	Master	Plot		Paralysis					
-My Karma Ran Over Your Dogma	Assassins	My_Karma_Ran_Over_Your_Dogma,Master	C	Master	Plot		Zap					
-Near Miss	Assassins	Near_Miss,Master	C	Master	Plot							
+Metric System	Assassins	Metric_System,Master	C	Master	Plot	Paralysis	Requires Illulminati or Government Action(s)					
+My Karma Ran Over Your Dogma	Assassins	My_Karma_Ran_Over_Your_Dogma,Master	C	Master	Plot	Zap!	Requires_Illuminati Action					
+Near Miss	Assassins	Near_Miss,Master	C	Master	Plot		Requires Illuminati Action or Discards					
 Nevermore!	Assassins	Nevermore,Master	U3	Master	Plot							
 Partition	Assassins	Partition,Master	C	Master	Plot							
-Pave the Earth!	Assassins	Pave_the_Earth,Master	U3	Master	Plot		Freeze					
+Pave the Earth!	Assassins	Pave_the_Earth,Master	U3	Master	Plot	Freeze!	Requires Illuminati or Green Action					
 Pizza for the Secret Meeting	Assassins	Pizza_for_the_Secret_Meeting,Master	C	Master	Plot							
 Regi$tered Trademark	Assassins	Regi_tered_Trademark,Master	R	Master	Plot							
-Reverse Whammy	Assassins	Reverse_Whammy,Master	C	Master	Plot							
-School Prayer	Assassins	School_Prayer,Master	C	Master	Plot		Freeze					
+Reverse Whammy	Assassins	Reverse_Whammy,Master	C	Master	Plot		Requires Discard					
+School Prayer	Assassins	School_Prayer,Master	C	Master	Plot	Freeze!	Requires Illuminati, Church, Liberal, or Conservative Action					
 Secret Master	Assassins	Secret_Master,Master	UR	Master	Plot							
-Security Leak	Assassins	Security_Leak,Master	U3	Master	Plot		Zap					
-Sorry, Wrong Number	Assassins	Sorry_Wrong_Number,Master	U3	Master	Plot		Zap					
+Security Leak	Assassins	Security_Leak,Master	U3	Master	Plot	Zap!	Requires_Illuminati Action					
+Sorry, Wrong Number	Assassins	Sorry_Wrong_Number,Master	U3	Master	Plot	Zap!	Requires_Illuminati Action					
 Strange Bedfellows	Assassins	Strange_Bedfellows,Master	S	Master	Plot							
 Sudden European Vacation	Assassins	Sudden_European_Vacation,Master	R	Master	Plot							
 Sufficiently Advanced Technology	Assassins	Sufficiently_Advanced_Technology,Master	C	Master	Plot							
-Supernova	Assassins	Supernova,Master	C	Master	Plot							
+Supernova	Assassins	Supernova,Master	C	Master	Plot		Requires Space Action(s0					
 Supreme Court Nomination	Assassins	Supreme_Court_Nomination,Master	U3	Master	Plot							
-Take The Money And Run	Assassins	Take_The_Money_And_Run,Master	C	Master	Plot		Zap					
-TANSTAAFL	Assassins	TANSTAAFL,Master	C	Master	Plot		Zap					
+Take The Money And Run	Assassins	Take_The_Money_And_Run,Master	C	Master	Plot	Zap!	Requires_Illuminati Action					
+TANSTAAFL	Assassins	TANSTAAFL,Master	C	Master	Plot	Zap!	Requires_Illuminati Action					
 Teflon Coating	Assassins	Teflon_Coating,Master	C	Master	Plot							
 The Irish Flu	Assassins	The_Irish_Flu,Master	UR	Master	Plot							
-The Meek Shall Inherit	Assassins	The_Meek_Shall_Inherit,Master	C	Master	Plot		Zap					
+The Meek Shall Inherit	Assassins	The_Meek_Shall_Inherit,Master	C	Master	Plot	Zap!	Requires_Illuminati Action					
 This Was Only A Test	Assassins	This_Was_Only_A_Test,Master	C	Master	Plot							
 Truck Bomb	Assassins	Truck_Bomb,Master	U3	Master	Plot							
-Vile Secretions	Assassins	Vile_Secretions,Master	U3	Master	Plot		Paralysis					
-Waiting Period	Assassins	Waiting_Period,Master	C	Master	Plot		Paralysis					
-Whistle Blowers	Assassins	Whistle_Blowers,Master	C	Master	Plot		Paralysis					
+Vile Secretions	Assassins	Vile_Secretions,Master	U3	Master	Plot	Paralysis	Requires Illuminati or Straight Action(s)					
+Waiting Period	Assassins	Waiting_Period,Master	C	Master	Plot	Paralysis	Requires Illuminati or Peaceful Action(s)					
+Whistle Blowers	Assassins	Whistle_Blowers,Master	C	Master	Plot	Paralysis	Requires Illuminati or Corporate Action(s)					
 Witch Hunt	Assassins	Witch_Hunt,Master	C	Master	Plot							
 You Are What You Eat	Assassins	You_Are_What_You_Eat,Master	C	Master	Plot							
 Arms Dealers	Assassins	Arms_Dealers,Puppet	R	Puppet	Organization	Violent, Criminal		2	4	1		
@@ -541,143 +541,142 @@ Brag of the SubGenius	Subgenius	Brag_of_the_SubGenius,Master	U	Master	Goal
 Cast Out False Prophets!	Subgenius	Cast_Out_False_Prophets,Master	U	Master	Goal 							
 Science Cannot Remove the Terror of the Gods!	Subgenius	Science_Cannot_Remove_the_Terror_of_the_Gods,Master	U	Master	Goal 							
 The Anti"Bob"	Subgenius	The_AntiBob,Master	U	Master	Goal 							
-Church of the SubGenius 1	Subgenius	Church_of_the_SubGenius_1,Master	DC	Master	Illuminati 			7/7		4		The Church of the SubGenius may accumulate its Action tokens (Slack) each turn, though it can spend only one per action. It, and any SubGenius groups in its Power Structure, has +2 for direct control of any SubGenius group. SPECIAL GOAL: Up to three Slack (Illuminati) tokens on the Church of the SubGenius may count as groups toward your Basic Goal. This Goal cannot be combined with any other Goal.
-Church of the SubGenius 2	Subgenius	Church_of_the_SubGenius_2,Master	DC	Master	Illuminati 			7/7		4		The Church of the SubGenius may accumulate its Action tokens (Slack) each turn, though it can spend only one per action. It, and any SubGenius groups in its Power Structure, has +2 for direct control of any SubGenius group. SPECIAL GOAL: Up to three Slack (Illuminati) tokens on the Church of the SubGenius may count as groups toward your Basic Goal. This Goal cannot be combined with any other Goal.
-Church of the SubGenius 3	Subgenius	Church_of_the_SubGenius_3,Master	DC	Master	Illuminati 			7/7		4		The Church of the SubGenius may accumulate its Action tokens (Slack) each turn, though it can spend only one per action. It, and any SubGenius groups in its Power Structure, has +2 for direct control of any SubGenius group. SPECIAL GOAL: Up to three Slack (Illuminati) tokens on the Church of the SubGenius may count as groups toward your Basic Goal. This Goal cannot be combined with any other Goal.
-Church of the SubGenius 4	Subgenius	Church_of_the_SubGenius_4,Master	DC	Master	Illuminati 			7/7		4		The Church of the SubGenius may accumulate its Action tokens (Slack) each turn, though it can spend only one per action. It, and any SubGenius groups in its Power Structure, has +2 for direct control of any SubGenius group. SPECIAL GOAL: Up to three Slack (Illuminati) tokens on the Church of the SubGenius may count as groups toward your Basic Goal. This Goal cannot be combined with any other Goal.
-13013	Subgenius	13013,Master	U	Master	Plot 							
+Church of the SubGenius 1	Subgenius	Church_of_the_SubGenius_1,Master	DC	Master	Illuminati 			7/7				The Church of the SubGenius may accumulate its Action tokens (Slack) each turn, though it can spend only one per action. It, and any SubGenius groups in its Power Structure, has +2 for direct control of any SubGenius group. SPECIAL GOAL: Up to three Slack (Illuminati) tokens on the Church of the SubGenius may count as groups toward your Basic Goal. This Goal cannot be combined with any other Goal.
+Church of the SubGenius 2	Subgenius	Church_of_the_SubGenius_2,Master	DC	Master	Illuminati 			7/7				The Church of the SubGenius may accumulate its Action tokens (Slack) each turn, though it can spend only one per action. It, and any SubGenius groups in its Power Structure, has +2 for direct control of any SubGenius group. SPECIAL GOAL: Up to three Slack (Illuminati) tokens on the Church of the SubGenius may count as groups toward your Basic Goal. This Goal cannot be combined with any other Goal.
+Church of the SubGenius 3	Subgenius	Church_of_the_SubGenius_3,Master	DC	Master	Illuminati 			7/7				The Church of the SubGenius may accumulate its Action tokens (Slack) each turn, though it can spend only one per action. It, and any SubGenius groups in its Power Structure, has +2 for direct control of any SubGenius group. SPECIAL GOAL: Up to three Slack (Illuminati) tokens on the Church of the SubGenius may count as groups toward your Basic Goal. This Goal cannot be combined with any other Goal.
+Church of the SubGenius 4	Subgenius	Church_of_the_SubGenius_4,Master	DC	Master	Illuminati 			7/7				The Church of the SubGenius may accumulate its Action tokens (Slack) each turn, though it can spend only one per action. It, and any SubGenius groups in its Power Structure, has +2 for direct control of any SubGenius group. SPECIAL GOAL: Up to three Slack (Illuminati) tokens on the Church of the SubGenius may count as groups toward your Basic Goal. This Goal cannot be combined with any other Goal.
+13013	Subgenius	13013,Master	U	Master	Plot 		Requires Action					
 Anti-Slack	Subgenius	Anti-Slack,Master	U	Master	Plot 							
-Attitude Mutation	Subgenius	Attitude_Mutation,Master	U	Master	Plot 							
-Bulldada	Subgenius	Bulldada,Master	U	Master	Plot 							
-Comet Hail-Bob	Subgenius	Comet_Hail-Bob,Master	U	Master	Plot 							
+Attitude Mutation	Subgenius	Attitude_Mutation,Master	U	Master	Plot 		May Require Action					
+Bulldada	Subgenius	Bulldada,Master	U	Master	Plot 		Requires Three Discards					
+Comet Hail-Bob	Subgenius	Comet_Hail-Bob,Master	U	Master	Plot 		Requires Illuminati or Church Actions					
 Decency is OK!	Subgenius	Decency_is_OK,Master	U	Master	Plot 							
 Devival	Subgenius	Devival,Master	U	Master	Plot 							
-Eternal Salvation or Triple your Money Back	Subgenius	Eternal_Salvation_or_Triple_your_Money_Back,Master	U	Master	Plot 							
-Excremeditation	Subgenius	Excremeditation,Master	U	Master	Plot 							
+Eternal Salvation or Triple your Money Back	Subgenius	Eternal_Salvation_or_Triple_your_Money_Back,Master	U	Master	Plot 		Requires SubGeniuis Action					
+Excremeditation	Subgenius	Excremeditation,Master	U	Master	Plot 		Requires Illuminati Action					
 Fake Healing	Subgenius	Fake_Healing,Master	U	Master	Plot 							
 False Overman	Subgenius	False_Overman,Master	U	Master	Plot 							
-False Slack	Subgenius	False_Slack,Master	U	Master	Plot 							
-Give Me Slack, Or Give Me Food	Subgenius	Give_Me_Slack_Or_Give_Me_Food,Master	U	Master	Plot 							
-Head Launching	Subgenius	Head_Launching,Master	DC	Master	Plot 							
+False Slack	Subgenius	False_Slack,Master	U	Master	Plot 		Requires Illuminati Action					
+Give Me Slack, Or Give Me Food	Subgenius	Give_Me_Slack_Or_Give_Me_Food,Master	U	Master	Plot 		Requires Discards					
+Head Launching	Subgenius	Head_Launching,Master	DC	Master	Plot 		Requires Action or Two Discards					
 Inherently Bogus	Subgenius	Inherently_Bogus,Master	U	Master	Plot 							
-JHVH-1	Subgenius	JHVH-1,Master	U	Master	Plot 							
+JHVH-1	Subgenius	JHVH-1,Master	U	Master	Plot 		Requires_Illuminati Action					
 Kill "Bob"!	Subgenius	Kill_Bob,Master	U	Master	Plot 							
-Luck Plane	Subgenius	Luck_Plane,Master	U	Master	Plot 							
+Luck Plane	Subgenius	Luck_Plane,Master	U	Master	Plot 		Requires Three Discards					
 Mediocretinism	Subgenius	Mediocretinism,Master	DC	Master	Plot 							
 Miraculous Manifestation	Subgenius	Miraculous_Manifestation,Master	U	Master	Plot 							
-More Slack	Subgenius	More_Slack,Master	U	Master	Plot 							
-Nental Ife	Subgenius	Nental_Ife,Master	U	Master	Plot 							
+More Slack	Subgenius	More_Slack,Master	U	Master	Plot 		Expose All Plots					
+Nental Ife	Subgenius	Nental_Ife,Master	U	Master	Plot 		Requires Personality Action					
 Official, all Inclusive, Divine Excuse	Subgenius	Official_all_Inclusive_Divine_Excuse,Master	U	Master	Plot 							
 . . . Or Kill Me!	Subgenius	Or_Kill_Me,Master	U	Master	Plot 							
 OverMan	Subgenius	OverMan,Master	U	Master	Plot 							
-Psychic Pstench	Subgenius	Psychic_Pstench,Master	U	Master	Plot 							
+Psychic Pstench	Subgenius	Psychic_Pstench,Master	U	Master	Plot 		Requires SubGenius Personality Action					
 Rain of Prairie Squid	Subgenius	Rain_of_Prairie_Squid,Master	U	Master	Plot 							
-Random Jesii	Subgenius	Random_Jesii,Master	U	Master	Plot 							
-Rant!	Subgenius	Rant,Master	E	Master	Plot 							
-Repent!	Subgenius	Repent,Master	U	Master	Plot 							
-Robo "Bob"	Subgenius	Robo_Bob,Master	U	Master	Plot 							
+Random Jesii	Subgenius	Random_Jesii,Master	U	Master	Plot 		Requires Subgenius or Church Actions					
+Rant!	Subgenius	Rant,Master	E	Master	Plot 		Requires Personality Action, Ends Turn					
+Repent!	Subgenius	Repent,Master	U	Master	Plot 		Ends Turn					
+Robo "Bob"	Subgenius	Robo_Bob,Master	U	Master	Plot 		Requires Action					
 Sacred Jests	Subgenius	Sacred_Jests,Master	U	Master	Plot 							
-Saint of Sales	Subgenius	Saint_of_Sales,Master	U	Master	Plot 							
-S.C.A.M.	Subgenius	SCAM,Master	DC	Master	Plot 							
+Saint of Sales	Subgenius	Saint_of_Sales,Master	U	Master	Plot 		Requires Subgenius or Illuminati Action					
+S.C.A.M.	Subgenius	SCAM,Master	DC	Master	Plot 		Requires Personality Action					
 Schizm	Subgenius	Schizm,Master	U	Master	Plot 							
-Shordurpersav	Subgenius	Shordurpersav,Master	E	Master	Plot 							
+Shordurpersav	Subgenius	Shordurpersav,Master	E	Master	Plot 		Requires Illuminati or SubGenius Actions					
 Slackfusion	Subgenius	Slackfusion,Master	DC	Master	Plot 							
 Smite Them All!	Subgenius	Smite_Them_All,Master	U	Master	Plot 							
-Stark Fist of Removal	Subgenius	Stark_Fist_of_Removal,Master	U	Master	Plot 							
+Stark Fist of Removal	Subgenius	Stark_Fist_of_Removal,Master	U	Master	Plot 		Requires All Illuminati Tokens, Ends Turn					
 Sultan of Slack	Subgenius	Sultan_of_Slack,Master	U	Master	Plot 							
-Tape Runs Out...	Subgenius	Tape_Runs_Out,Master	DC	Master	Plot 							
-The 13th Apostle	Subgenius	The_13th_Apostle,Master	U	Master	Plot 							
-The World Ends Tomorrow and You May Die!	Subgenius	The_World_Ends_Tomorrow_and_You_May_Die,Master	U	Master	Plot 							
+Tape Runs Out...	Subgenius	Tape_Runs_Out,Master	DC	Master	Plot 		Requires Illuminati Action or Discards					
+The 13th Apostle	Subgenius	The_13th_Apostle,Master	U	Master	Plot 		Requires Illuminati Action					
+The World Ends Tomorrow and You May Die!	Subgenius	The_World_Ends_Tomorrow_and_You_May_Die,Master	U	Master	Plot 		Ends Turn					
 They May Be Pink. . .	Subgenius	They_May_Be_Pink,Master	DC	Master	Plot 							
-Time Control	Subgenius	Time_Control,Master	U	Master	Plot 							
+Time Control	Subgenius	Time_Control,Master	U	Master	Plot 		Spend No Illuminati Tokens					
 X-Day	Subgenius	X-Day,Master	U	Master	Plot 							
-Yacatisma	Subgenius	Yacatisma,Master	U	Master	Plot 							
+Yacatisma	Subgenius	Yacatisma,Master	U	Master	Plot 		Requires SubGenius Action					
 You'd Pay to Know What You Really Think!	Subgenius	Youd_Pay_to_Know_What_You_Really_Think,Master	U	Master	Plot 							
-Advanced Supersonic Aluminum Nazi Hell Creatures from Beneath the Hollow Earth	Subgenius	Advanced_Supersonic_Aluminum_Nazi_Hell_Creatures_from_Beneath_the_Hollow_Earth,Puppet	U	Puppet	Group 							
-Bobbies	Subgenius	Bobbies,Puppet	U	Puppet	Group 							
-Church of Middle America	Subgenius	Church_of_Middle_America,Puppet	U	Puppet	Group 							
-Citizens for Normalcy	Subgenius	Citizens_for_Normalcy,Puppet	U	Puppet	Group 							
-Connie Dobbs	Subgenius	Connie_Dobbs,Puppet	U	Puppet	Personality 							
-Corrective Phrenologists	Subgenius	Corrective_Phrenologists,Puppet	U	Puppet	Group 							
-Dallas Catacombs	Subgenius	Dallas_Catacombs,Puppet	U	Puppet	Place 							
-Divine Mail Order	Subgenius	Divine_Mail_Order,Puppet	U	Puppet	Group 							
-Dobbstown	Subgenius	Dobbstown,Puppet	U	Puppet	Place 							
-Dokstok	Subgenius	Dokstok,Puppet	U	Puppet	Place 							
-Dr. K'Taden Legume	Subgenius	Dr_KTaden_Legume,Puppet	U	Puppet	Personality 							
-Drs. for "Bob"	Subgenius	Drs_for_Bob,Puppet	DC	Puppet	Group 							
-False Prophets	Subgenius	False_Prophets,Puppet	U	Puppet	Group 							
-'Frop Farm	Subgenius	Frop_Farm,Puppet	U	Puppet	Place 							
-Glorps	Subgenius	Glorps,Puppet	U	Puppet	Group 							
-Good Sex for Mutants Dating League	Subgenius	Good_Sex_for_Mutants_Dating_League,Puppet	DC	Puppet	Group 							
-Jesus B.	Subgenius	Jesus_B,Puppet	U	Puppet	Personality 							
-League for Obvious Decency	Subgenius	League_for_Obvious_Decency,Puppet	DC	Puppet	Group 							
-Local Clenches	Subgenius	Local_Clenches,Puppet	U	Puppet	Group 							
-MWOWM	Subgenius	MWOWM,Puppet	U	Puppet	Group 							
-NHGH	Subgenius	NHGH,Puppet	U	Puppet	Personality 							
-OverMan Philo Drummond	Subgenius	OverMan_Philo_Drummond,Puppet	U	Puppet	Personality 							
-Phlegm Elementals	Subgenius	Phlegm_Elementals,Puppet	U	Puppet	Group 							
-Pinks	Subgenius	Pinks,Puppet	U	Puppet	Group 							
-Reverend Ivan Stang	Subgenius	Reverend_Ivan_Stang,Puppet	U	Puppet	Personality 							
-Rogue SubGenii	Subgenius	Rogue_SubGenii,Puppet	U	Puppet	Group 							
-Saucer Landing Strip	Subgenius	Saucer_Landing_Strip,Puppet	U	Puppet	Place 							
-Secret FisTemple	Subgenius	Secret_FisTemple,Puppet	U	Puppet	Group 							
-S.L.A.K.	Subgenius	SLAK,Puppet	DC	Puppet	Group 							
-Speakers in Tongues	Subgenius	Speakers_in_Tongues,Puppet	U	Puppet	Group 							
-S.P.U.T.U.M.	Subgenius	SPUTUM,Puppet	DC	Puppet	Group 							
-St. Janor Hypercleats	Subgenius	St_Janor_Hypercleats,Puppet	U	Puppet	Personality 							
-SubGenius FisTemples	Subgenius	SubGenius_FisTemples,Puppet	R	Puppet	Group 							
-The Hour of Slack	Subgenius	The_Hour_of_Slack,Puppet	U	Puppet	Group 							
-www.subgenius.com	Subgenius	wwwsubgeniuscom,Puppet	U	Puppet	Group 							
-Xists	Subgenius	Xists,Puppet	U	Puppet	Group 							
-Yetis	Subgenius	Yetis,Puppet	E	Puppet	Group 							
-Janor Device	Subgenius	Janor_Device,Puppet	DC	Puppet	Resource 							
-Martyr Meter	Subgenius	Martyr_Meter,Puppet	DC	Puppet	Resource 							
-Sacred Stencil	Subgenius	Sacred_Stencil,Puppet	U	Puppet	Resource 							
-The Prescriptures	Subgenius	The_Prescriptures,Puppet	DC	Puppet	Resource 							
-The True Pipe	Subgenius	The_True_Pipe,Puppet	E	Puppet	Resource 							
-Three-Fisted Tales of "Bob"	Subgenius	Three-Fisted_Tales_of_Bob,Puppet	U	Puppet	Resource 							
-Autonome	German	Autonome,Puppet	X	Puppet	Group	Liberal, Fanatic		3	4		The Autonome are anarchists. Most are actually peaceful, but the violent ones get the news coverage.	Gives +10 on any attempt to destroy any Government group.
-Burschenschaften	German	Burschenschaften,Puppet	X	Puppet	Group	Conservative		3	4		These are conservative, all-male student groups which affect military dress.	You may spend this group's action to draw another Group card at any time. The Burschenschaften count as two conservative groups towards any goal.
-CONspiracy	German	CONspiracy,Puppet	X	Puppet	Group	Weird, Fanatic		2/2	3		The German INWO/Magic convention, which hosts the German national M:TG championship.	Gives +1 Power to all your other Weird groups.
-Dagobert	German	Dagobert,Puppet	X	Puppet	Personality	Straight, Criminal, Fanatic		1	3		A famous German criminal, who specialized in bomb-threat extortion schemes. He's now in jail. (In German, "Uncle Scrooge" is called Dagobert Duck.)	Once per turn, Dagobert can try, as a free action, to steal one Action token from any Corporate group. Roll a die. 1-3 means bad luck; nothing happens. 4-6 means success. Dagobert gets the stolen token, but can only use it for his own defense. Dagobert may only steal tokens before they are used . . . he may not wait until the token is used and try to steal it them!
-Der grosse Magier	German	Der_grosse_Magier,Puppet	X	Puppet	Personality	Peaceful	Magic	1/1	2		The Great Magician - a stage magician.	Gives +2 on any attempt to control any Magic group. Has +10 for direct control of any Magic group.
-Erich Honecker	German	Erich_Honecker,Puppet	X	Puppet	Personality	Conservative, Government	Communist	1	6		Honecker was the last leader of East Germany, before reunification. His card replaces Fidel Castro in the German set, but his ability is different.	You may place up to three Plots under Erich. They don't count against your limit, and cannot be exposed. You can use any of them at any time. Before using one, you must remove it from under Erich and roll a die. On a 1 or 3, discard it! On a 4 through 6, use it, paying the normal actions or other costs.
-Fussballprofis	German	Fussballprofis,Puppet	X	Puppet	Group	Corporate	Media	2	4		Pro Soccer Players. This group replaces Professional Sports, but with different abilities. Soccer is the leading sport in Germany, and the German national team is one of the best in the world.	The Fussballprofis' Corporate puppets add the attribute Media.
-Genschman	German	Genschman,Puppet	X	Puppet	Personality	Liberal (Sometimes), Straight		3/3	3		Hans-Dietrich Genscher, former Foreign Minister of Germany, who still has considerable influence throughout Europe.	Genschman is liberal when he feels like it. He is treated as Liberal if and only if you, the Illuminati pulling his strings, want him to be Liberal. He gets a +2 bonus any time he aids in the defense of any Nation.
-Hannelore Kohl	German	Hannelore_Kohl,Puppet	X	Puppet	Personality	Conservative, Straight		2	2		The wife of Chancellor Helmut Kohl. Very active in the campaign against cancer.	The Red Cross gets an extra Action token every turn if Hannelore is in the same Power Structure.
-Helmut Kohl	German	Helmut_Kohl,Puppet	X	Puppet	Personality	Conservative, Government, Straight (Sometimes)		4	2		Chancellor of Germany since 1982, and leader of the Christdemokraten. Cartoonists love to caricature him with a pear-shaped head.	Helmut gives a +3 on any attempt to control any Government group that is part of Germany. He has a +8 for direct control of any Government group. Any time Helmut's alignment matters, roll a die. On a 1-3, he's Straight at the moment. On a 4-6, he's not.
-Hipos	German	Hipos,Puppet	X	Puppet	Group	Government, Straight		1	4		Parking-meter readers - not police, but a volunteer auxiliary. They are not beloved . . .	Spend this group's action to choose one player. Your victim must remove one Action token from each of his groups that has more than one.
-Joschka Fischer	German	Joschka_Fischer,Puppet	X	Puppet	Personality	Liberal, Government	Green	1/1	4		Leader of the German Green party, anti-nuclear activist, never seen without tennis shoes.	Has a +4 for direct control of any Green group. By using his action, Joschka can cancel an action of the Nuclear Power Companies.
-Karnevalisten	German	Karnevalisten,Puppet	X	Puppet	Group	Straight (Sometimes), Weird (Sometimes)		2	4		Carnival-goers. Think of Mardi Gras . . . Every February, a lot of seemingly-normal Germans get very weird, and keep it up until the beer is gone.	Gives +2 on any attempt to control any Weird group. During other players' turn, the Karnevalisten are Straight. During your own turn, they are Weird. (In a two-player game, they're Weird only on every second turn.)
-Manta-Fahrer	German	Manta-Fahrer,Puppet	X	Puppet	Group	Fanatic		1	4		Manta drivers - a Manta is a sports car. The Germans tell "Manta driver" jokes as well as blonde jokes. Destroying the Manta drivers will always draw cheers in a German game. The traditional Manta driver dates a hairdresser - thus the scissors.	They're so stupid, they believe everything in the commercials! By spending one Illuminati action, or action(s) of Media groups with total power of 6 or more, you may add any one alignment to the Manta-Fahrer. This effect lasts until the beginning of your next turn. You can't add an alignment that is opposite to one they already have.
-Showmaster	German	Showmaster,Puppet	X	Puppet	Personality	Conservative, Straight		1	1		A talk show host (replaces Gordo Remora, with different abilities)	Going on his show is always a gamble . . .  Spend his Action token to roll one die for any other Personality, with the consent of that Personality's owner. On a 1-3, the Personality's printed power is reduced permanently to 1. On a 4-6, it is permanently doubled. Only one appearance is allowed for each Personality.
-Stammtischpolitiker	German	Stammtischpolitiker,Puppet	X	Puppet	Group	Straight		1	1		Political discussion (and drinking) clubs, mainly of old men.	Constant discussion leads to illumination and the truth... The Stammtischpolitiker can use their action to reverse any alignment of any group in play. This effect lasts until your next turn.
-Supertrainer	German	Supertrainer,Puppet	X	Puppet	Personality	Conservative, Straight		2/1	4		The Soccer Coach from Hell. In Germany, a good coach sits at the right hand of God . . .	By using his action, the Supertrainer can put a just-played World Cup Victory into your hand. He can do that only once per turn. He has +10 for direct control of the Fussballprofis.
-Talkmaster	German	Talkmaster,Puppet	X	Puppet	Personality	Liberal	Media	1	2		Another talk show host; in Germany, a "talkmaster" hosts a more serious program, while a "showmaster" is small talk and media flash.	I'm a very good cook. And a very good butler too . . .  He gets +6 for direct control of any Personality.
-Tennis-Star	German	Tennis-Star,Puppet	X	Puppet	Personality	Liberal, Straight		1	4		Female tennis star.	Your Power Structure gets a +4 to defend against any attack involving a Media group. She gets a +10 against any attack involving a Media group.
-Topmodell	German	Topmodell,Puppet	X	Puppet	Personality	Peaceful	Media	1	1		Supermodel.	Gives +6 on any attempt to control any male Media Personality. By using her action, she can cancel any action of any Media group.
-USA	German	USA,Puppet	X	Puppet	Place	Liberal, Government	Coastal, Huge, Nation	6/5	8		In English-language tournaments: Not legal, because - according to local Illuminated propaganda - nobody can ever control the whole US at once, even its own government. From across the Atlantic it looks different . . .	Gives +10 for direct control of the United Nation. Gives +4 on any attempt to destroy Violent groups.
-Zuvieldienstleistende	German	Zuvieldienstleistende,Puppet	X	Puppet	Group	Liberal, Fanatic	Green	2	3		The "Zivieldienstleistende" are those who have chosen alternative service (in hospitals or social work) rather than be drafted into the military. Changing the first two letters to "Zu" rather than "Zi" is a German pun implying that they over-exert themselves . . . which is pure sarcasm.	Be careful, gramps! Your wheel might be loose! By using this group's action, you can decrease the Power of any one Conservative group by 3, or increase the Power of any one Liberal group by 3. This effect lasts until the beginning of your next turn.
-
-American Civil Liberties Union	German 2	American_Civil_Liberties_Union,Puppet	X	Puppet	Group	Liberal, Fanatic		3	4	1		German Version: Autonome
+Advanced Supersonic Aluminum Nazi Hell Creatures from Beneath the Hollow Earth	Subgenius	Advanced_Supersonic_Aluminum_Nazi_Hell_Creatures_from_Beneath_the_Hollow_Earth,Puppet	U	Puppet	Organization 	Violent	Science, Secret	4/2	6	2		
+Bobbies	Subgenius	Bobbies,Puppet	U	Puppet	Organization 	Straight, Fanatic		1	0	0		
+Church of Middle America	Subgenius	Church_of_Middle_America,Puppet	U	Puppet	Organization 	Conservative, Peaceful, Straight	Church	3/1	4	2		
+Citizens for Normalcy	Subgenius	Citizens_for_Normalcy,Puppet	U	Puppet	Organization 	Conservative, Straight, Fanatic		2	2	1		
+Connie Dobbs	Subgenius	Connie_Dobbs,Puppet	U	Puppet	Personality 	Straight	Subgenius	2/2	4	2		
+Corrective Phrenologists	Subgenius	Corrective_Phrenologists,Puppet	U	Puppet	Organization 	Violent, Criminal	Science	2	3	1		
+Dallas Catacombs	Subgenius	Dallas_Catacombs,Puppet	U	Puppet	Place 		Subgenius	1	6	1		
+Divine Mail Order	Subgenius	Divine_Mail_Order,Puppet	U	Puppet	Organization 	Corporate	Media, Subgenius	2	3	1		
+Dobbstown	Subgenius	Dobbstown,Puppet	U	Puppet	Place 	Weird, Fanatic	Subgenius	3	4	2		
+Dokstok	Subgenius	Dokstok,Puppet	U	Puppet	Place 	Peaceful, Weird		1	1	1		
+Dr. K'Taden Legume	Subgenius	Dr_KTaden_Legume,Puppet	U	Puppet	Personality 	Violent	Subgenius	2	3	1		
+Drs. for "Bob"	Subgenius	Drs_for_Bob,Puppet	DC	Puppet	Organization 	Weird	Subgenius	2	4	2		
+False Prophets	Subgenius	False_Prophets,Puppet	U	Puppet	Organization 	Straight, Fanatic	Church	2/2	2	1		
+'Frop Farm	Subgenius	Frop_Farm,Puppet	U	Puppet	Place 	Peaceful	Secret, Subgenius	2/1	5	1		
+Glorps	Subgenius	Glorps,Puppet	U	Puppet	Organization 	Straight, Fanatic		3	3	1		
+Good Sex for Mutants Dating League	Subgenius	Good_Sex_for_Mutants_Dating_League,Puppet	DC	Puppet	Organization 	Liberal, Weird	Subgenius	1	3	2		
+Jesus B.	Subgenius	Jesus_B,Puppet	U	Puppet	Personality 	Corporate, Weird	Subgenius	3	3	2		
+League for Obvious Decency	Subgenius	League_for_Obvious_Decency,Puppet	DC	Puppet	Organization 	Conservative, Weird		1	3	0		
+Local Clenches	Subgenius	Local_Clenches,Puppet	U	Puppet	Organization 		Church, Subgenius	0	2	0		
+MWOWM	Subgenius	MWOWM,Puppet	U	Puppet	Organization 		Computer, Science	2/1	4	1		
+NHGH	Subgenius	NHGH,Puppet	U	Puppet	Personality 	Criminal		5/3	2	1		
+OverMan Philo Drummond	Subgenius	OverMan_Philo_Drummond,Puppet	U	Puppet	Personality 		Subgenius	3/3	4	2		
+Phlegm Elementals	Subgenius	Phlegm_Elementals,Puppet	U	Puppet	Organization 	Violent	Secret	2/1	4	0		
+Pinks	Subgenius	Pinks,Puppet	U	Puppet	Organization 	Straight		3/1	0	0		
+Reverend Ivan Stang	Subgenius	Reverend_Ivan_Stang,Puppet	U	Puppet	Personality 		Media, Subgenius	3/2	4	3		
+Rogue SubGenii	Subgenius	Rogue_SubGenii,Puppet	U	Puppet	Organization 	Criminal	Subgenius	2/2	5	1		
+Saucer Landing Strip	Subgenius	Saucer_Landing_Strip,Puppet	U	Puppet	Place 		Secret, Space, Subgenius	1/1	3	2		
+Secret FisTemple	Subgenius	Secret_FisTemple,Puppet	U	Puppet	Organization 		Church, Secret, Subgenius	2	4	3		
+S.L.A.K.	Subgenius	SLAK,Puppet	DC	Puppet	Organization 	Violent, Fanatic	Subgenius	2	5	1		
+Speakers in Tongues	Subgenius	Speakers_in_Tongues,Puppet	U	Puppet	Organization 	Conservative, Weird, Fanatic		1	3	0		
+S.P.U.T.U.M.	Subgenius	SPUTUM,Puppet	DC	Puppet	Organization 	Violent, Weird	Computer, Subgenius	1	2	0		
+St. Janor Hypercleats	Subgenius	St_Janor_Hypercleats,Puppet	U	Puppet	Personality 	Weird	Magic, Subgenius	2	1	1		
+SubGenius FisTemples	Subgenius	SubGenius_FisTemples,Puppet	R	Puppet	Organization 	Weird	Church, Subgenius	2	3	2		
+The Hour of Slack	Subgenius	The_Hour_of_Slack,Puppet	U	Puppet	Organization 	Weird	Media, Subgenius	2/1	3	2		
+www.subgenius.com	Subgenius	wwwsubgeniuscom,Puppet	U	Puppet	Organization 		Church, Computer, Subgenius	3/3	2	1		
+Xists	Subgenius	Xists,Puppet	U	Puppet	Organization 		Space	5/5	5	3		
+Yetis	Subgenius	Yetis,Puppet	E	Puppet	Organization 	Peaceful	Green	2/2	3	2		
+Janor Device	Subgenius	Janor_Device,Puppet	DC	Puppet	Resource 	Unique Gadget						
+Martyr Meter	Subgenius	Martyr_Meter,Puppet	DC	Puppet	Resource 	Unique Gadget						
+Sacred Stencil	Subgenius	Sacred_Stencil,Puppet	U	Puppet	Resource 	Unique Artifact						
+The Prescriptures	Subgenius	The_Prescriptures,Puppet	DC	Puppet	Resource 	Unique Artifact						
+The True Pipe	Subgenius	The_True_Pipe,Puppet	E	Puppet	Resource 	Unique Artifact						
+Three-Fisted Tales of "Bob"	Subgenius	Three-Fisted_Tales_of_Bob,Puppet	U	Puppet	Resource 	Unique Artifact						
+Autonome	German	Autonome,Puppet	X	Puppet	Organization	Liberal, Fanatic		3	4	1	The Autonome are anarchists. Most are actually peaceful, but the violent ones get the news coverage.	Gives +10 on any attempt to destroy any Government group.
+Burschenschaften	German	Burschenschaften,Puppet	X	Puppet	Organization	Conservative		3	5	1	These are conservative, all-male student groups which affect military dress.	You may spend this group's action to draw another Group card at any time. The Burschenschaften count as two conservative groups towards any goal.
+CONspiracy	German	CONspiracy,Puppet	X	Puppet	Organization	Weird, Fanatic		2/2	3	1	The German INWO/Magic convention, which hosts the German national M:TG championship.	Gives +1 Power to all your other Weird groups.
+Dagobert	German	Dagobert,Puppet	X	Puppet	Personality	Straight, Criminal, Fanatic		1	3	1	A famous German criminal, who specialized in bomb-threat extortion schemes. He's now in jail. (In German, "Uncle Scrooge" is called Dagobert Duck.)	Once per turn, Dagobert can try, as a free action, to steal one Action token from any Corporate group. Roll a die. 1-3 means bad luck; nothing happens. 4-6 means success. Dagobert gets the stolen token, but can only use it for his own defense. Dagobert may only steal tokens before they are used . . . he may not wait until the token is used and try to steal it them!
+Der grosse Magier	German	Der_grosse_Magier,Puppet	X	Puppet	Personality	Peaceful	Magic	1/1	2	1	The Great Magician - a stage magician.	Gives +2 on any attempt to control any Magic group. Has +10 for direct control of any Magic group.
+Erich Honecker	German	Erich_Honecker,Puppet	X	Puppet	Personality	Conservative, Government	Communist	1	6	1	Honecker was the last leader of East Germany, before reunification. His card replaces Fidel Castro in the German set, but his ability is different.	You may place up to three Plots under Erich. They don't count against your limit, and cannot be exposed. You can use any of them at any time. Before using one, you must remove it from under Erich and roll a die. On a 1 or 3, discard it! On a 4 through 6, use it, paying the normal actions or other costs.
+Fussballprofis	German	Fussballprofis,Puppet	X	Puppet	Organization	Corporate	Media	2	4	2	Pro Soccer Players. This group replaces Professional Sports, but with different abilities. Soccer is the leading sport in Germany, and the German national team is one of the best in the world.	The Fussballprofis' Corporate puppets add the attribute Media.
+Genschman	German	Genschman,Puppet	X	Puppet	Personality	Liberal (Sometimes), Straight		3/3	3	1	Hans-Dietrich Genscher, former Foreign Minister of Germany, who still has considerable influence throughout Europe.	Genschman is liberal when he feels like it. He is treated as Liberal if and only if you, the Illuminati pulling his strings, want him to be Liberal. He gets a +2 bonus any time he aids in the defense of any Nation.
+Hannelore Kohl	German	Hannelore_Kohl,Puppet	X	Puppet	Personality	Conservative, Straight		2	2	1	The wife of Chancellor Helmut Kohl. Very active in the campaign against cancer.	The Red Cross gets an extra Action token every turn if Hannelore is in the same Power Structure.
+Helmut Kohl	German	Helmut_Kohl,Puppet	X	Puppet	Personality	Conservative, Government, Straight (Sometimes)		4	2	2	Chancellor of Germany since 1982, and leader of the Christdemokraten. Cartoonists love to caricature him with a pear-shaped head.	Helmut gives a +3 on any attempt to control any Government group that is part of Germany. He has a +8 for direct control of any Government group. Any time Helmut's alignment matters, roll a die. On a 1-3, he's Straight at the moment. On a 4-6, he's not.
+Hipos	German	Hipos,Puppet	X	Puppet	Organization	Government, Straight		1	4	0	Parking-meter readers - not police, but a volunteer auxiliary. They are not beloved . . .	Spend this group's action to choose one player. Your victim must remove one Action token from each of his groups that has more than one.
+Joschka Fischer	German	Joschka_Fischer,Puppet	X	Puppet	Personality	Liberal, Government	Green	1/1	4	2	Leader of the German Green party, anti-nuclear activist, never seen without tennis shoes.	Has a +4 for direct control of any Green group. By using his action, Joschka can cancel an action of the Nuclear Power Companies.
+Karnevalisten	German	Karnevalisten,Puppet	X	Puppet	Organization	Straight (Sometimes), Weird (Sometimes)		2	4	2	Carnival-goers. Think of Mardi Gras . . . Every February, a lot of seemingly-normal Germans get very weird, and keep it up until the beer is gone.	Gives +2 on any attempt to control any Weird group. During other players' turn, the Karnevalisten are Straight. During your own turn, they are Weird. (In a two-player game, they're Weird only on every second turn.)
+Manta-Fahrer	German	Manta-Fahrer,Puppet	X	Puppet	Organization	Fanatic		1	4	1	Manta drivers - a Manta is a sports car. The Germans tell "Manta driver" jokes as well as blonde jokes. Destroying the Manta drivers will always draw cheers in a German game. The traditional Manta driver dates a hairdresser - thus the scissors.	They're so stupid, they believe everything in the commercials! By spending one Illuminati action, or action(s) of Media groups with total power of 6 or more, you may add any one alignment to the Manta-Fahrer. This effect lasts until the beginning of your next turn. You can't add an alignment that is opposite to one they already have.
+Showmaster	German	Showmaster,Puppet	X	Puppet	Personality	Conservative, Straight		1	1	1	A talk show host (replaces Gordo Remora, with different abilities)	Going on his show is always a gamble . . .  Spend his Action token to roll one die for any other Personality, with the consent of that Personality's owner. On a 1-3, the Personality's printed power is reduced permanently to 1. On a 4-6, it is permanently doubled. Only one appearance is allowed for each Personality.
+Stammtischpolitiker	German	Stammtischpolitiker,Puppet	X	Puppet	Organization	Straight		1	1	1	Political discussion (and drinking) clubs, mainly of old men.	Constant discussion leads to illumination and the truth... The Stammtischpolitiker can use their action to reverse any alignment of any group in play. This effect lasts until your next turn.
+Supertrainer	German	Supertrainer,Puppet	X	Puppet	Personality	Conservative, Straight		2/1	4	2	The Soccer Coach from Hell. In Germany, a good coach sits at the right hand of God . . .	By using his action, the Supertrainer can put a just-played World Cup Victory into your hand. He can do that only once per turn. He has +10 for direct control of the Fussballprofis.
+Talkmaster	German	Talkmaster,Puppet	X	Puppet	Personality	Liberal	Media	1	2	1	Another talk show host; in Germany, a "talkmaster" hosts a more serious program, while a "showmaster" is small talk and media flash.	I'm a very good cook. And a very good butler too . . .  He gets +6 for direct control of any Personality.
+Tennis-Star	German	Tennis-Star,Puppet	X	Puppet	Personality	Liberal, Straight		1	4	1	Female tennis star.	Your Power Structure gets a +4 to defend against any attack involving a Media group. She gets a +10 against any attack involving a Media group.
+Topmodell	German	Topmodell,Puppet	X	Puppet	Personality	Peaceful	Media	1	1	1	Supermodel.	Gives +6 on any attempt to control any male Media Personality. By using her action, she can cancel any action of any Media group.
+USA	German	USA,Puppet	X	Puppet	Place	Liberal, Government	Coastal, Huge, Nation	6/5	8	3	In English-language tournaments: Not legal, because - according to local Illuminated propaganda - nobody can ever control the whole US at once, even its own government. From across the Atlantic it looks different . . .	Gives +10 for direct control of the United Nation. Gives +4 on any attempt to destroy Violent groups.
+Zuvieldienstleistende	German	Zuvieldienstleistende,Puppet	X	Puppet	Organization	Liberal, Fanatic	Green	2	3	0	The "Zivieldienstleistende" are those who have chosen alternative service (in hospitals or social work) rather than be drafted into the military. Changing the first two letters to "Zu" rather than "Zi" is a German pun implying that they over-exert themselves . . . which is pure sarcasm.	Be careful, gramps! Your wheel might be loose! By using this group's action, you can decrease the Power of any one Conservative group by 3, or increase the Power of any one Liberal group by 3. This effect lasts until the beginning of your next turn.
+American Civil Liberties Union	German 2	American_Civil_Liberties_Union,Puppet	X	Puppet	Organization	Liberal, Fanatic		3	4	1		German Version: Autonome
 Angela Merkel	German 2	Angela_Merkel,Puppet	X	Puppet	Personality	Conservative, Government, Straight (Sometimes)		4	2	2		German Version: Helmut Kohl
-Ex-Hippies	German 2	Ex-Hippies,Puppet	X	Puppet	Group	Straight (Sometimes), Weird (Sometimes)		2	4	2		German Version: Karnevalisten
+Ex-Hippies	German 2	Ex-Hippies,Puppet	X	Puppet	Organization	Straight (Sometimes), Weird (Sometimes)		2	4	2		German Version: Karnevalisten
 Bernie Madoff	German 2	Bernie_Madoff,Puppet	X	Puppet	Personality	Straight, Criminal, Fanatic		1	3	1		German Version: Dagobert
 Stepp Blatter	German 2	Stepp_Blatter,Puppet	X	Puppet	Personality	Conservative, Straight		2/1	4	2		German Version: Supertrainer
 Giselle Bandchen	German 2	Giselle_Bandchen,Puppet	X	Puppet	Personality	Peaceful	Media	1	1	1		German Version: Topmodell
 Steven Chu	German 2	Steven_Chu,Puppet	X	Puppet	Personality	Liberal, Government	Green	1/1	4	2		German Version: Joschka Fischer
-Couch Potatoes	German 2	Couch_Potatoes,Puppet	X	Puppet	Group	Fanatic		1	4	1		German Version: Manta-Fahrer
+Couch Potatoes	German 2	Couch_Potatoes,Puppet	X	Puppet	Organization	Fanatic		1	4	1		German Version: Manta-Fahrer
 Chris Angel	German 2	Chris_Angel,Puppet	X	Puppet	Personality	Peaceful	Magic	1/1	2	1		German Version: Der grosse Magier
-D.E.A.	German 2	DEA,Puppet	X	Puppet	Group	Government, Straight		1	4	0		German Version: Hipos
-Pro Footballers	German 2	Pro_Footballers,Puppet	X	Puppet	Group	Corporate	Media	2	4	2		German Version: Fussballprofis
-Geek Conventions	German 2	Geek_Conventions,Puppet	X	Puppet	Group	Weird, Fanatic		2/2	3	1		German Version: CONspiracy
+D.E.A.	German 2	DEA,Puppet	X	Puppet	Organization	Government, Straight		1	4	0		German Version: Hipos
+Pro Footballers	German 2	Pro_Footballers,Puppet	X	Puppet	Organization	Corporate	Media	2	4	2		German Version: Fussballprofis
+Geek Conventions	German 2	Geek_Conventions,Puppet	X	Puppet	Organization	Weird, Fanatic		2/2	3	1		German Version: CONspiracy
 Jimmy Carter	German 2	Jimmy_Carter,Puppet	X	Puppet	Personality	Liberal (Sometimes), Straight		3/3	3	1		German Version: Genschman
 Kin Jong Il	German 2	Kin_Jong_Il,Puppet	X	Puppet	Personality	Conservative, Government	Communist	1	6	1		German Version: Erich Honecker
 Laura Bush	German 2	Laura_Bush,Puppet	X	Puppet	Personality	Conservative, Straight		2	2	0		German Version: Hannelore Kohl
 David Letterman	German 2	David_Letterman,Puppet	X	Puppet	Personality	Liberal	Media	1	2	0		German Version: Talkmaster
-Neoconservaaties	German 2	Neoconservaaties,Puppet	X	Puppet	Group	Conservative		3	5	1		German Version: Burschenschaften
-NGOs	German 2	NGOs,Puppet	X	Puppet	Group	Liberal, Fanatic	Green	2	3	0		German Version: Zuvieldienstleistende
-Philosophers	German 2	Philosophers,Puppet	X	Puppet	Group	Straight		1	1	1		German Version: Stammtischpolitiker
+Neoconservaaties	German 2	Neoconservaaties,Puppet	X	Puppet	Organization	Conservative		3	5	1		German Version: Burschenschaften
+NGOs	German 2	NGOs,Puppet	X	Puppet	Organization	Liberal, Fanatic	Green	2	3	0		German Version: Zuvieldienstleistende
+Philosophers	German 2	Philosophers,Puppet	X	Puppet	Organization	Straight		1	1	1		German Version: Stammtischpolitiker
 Rush Limbaugh	German 2	Rush_Limbaugh,Puppet	X	Puppet	Personality	Conservative, Straight		1	1	1		German Version: Showmaster
 U.S.A.	German 2	USA2,Puppet	X	Puppet	Place	Liberal, Government	Coastal, Huge, Nation	6/5	8	0	In English-language tournaments: Not legal, because - according to local Illuminated propaganda - nobody can ever control the whole US at once, even its own government. From across the Atlantic it looks different . . .	German Version: USA
 Venus Williams	German 2	Venus_Williams,Puppet	X	Puppet	Personality	Liberal, Straight		1	4	1		German Version: Tennis-Star
@@ -687,26 +686,26 @@ Easter Island	Virtual	Easter_Island,Puppet	X	Puppet	Place		Coastal, Magic	3/3	4	
 Fasces Romanum	Virtual	Fasces_Romanum,Puppet	X	Puppet	Illuminati			9/9		4		You start your turn by drawing two group cards, rather than one. SPECIAL GOAL: Any group counts double towards your total number of groups controlled, as long as none of your rivals control a group with higher permanent resistance.
 Foreign Aid	Virtual	Foreign_Aid,Master	X	Master	Plot							
 Headless Chicken Syndrome	Virtual	Headless_Chicken_Syndrome,Master	X	Master	Plot		Requires Illuminati Action					
-Institute for Advanced Weapons Design	Virtual	Institute_for_Advanced_Weapons_Design,Puppet	X	Puppet	Group	Violent	Science	2	3	1		
+Institute for Advanced Weapons Design	Virtual	Institute_for_Advanced_Weapons_Design,Puppet	X	Puppet	Organization	Violent	Science	2	3	1		
 Isolationism	Virtual	Isolationism,Master	X	Master	Plot							
 Nuclear Capability	Virtual	Nuclear_Capability,Master	X	Master	Plot							
 Summit	Virtual	Summit,Master	X	Master	Plot							
 The Nine Unknown Men	Virtual	The_Nine_Unknown_Men,Puppet	X	Puppet	Resource	Unique						
 War Crimes Trials	Virtual	War_Crimes_Trials,Master	X	Master	Plot							
-Fashion Designers	Fan	Fashion_Designers,Puppet	X	Puppet	Group	Corporate, Weird, Fanatic	Media	4	7	1		
-Food & Drug Administration	Fan	Food_And_Drug_Administration,Puppet	X	Puppet	Group	Conservative, Government	Science	3	5	2		
-Fox News Channel	Fan	Fox_News_Channel,Puppet	X	Puppet	Group	Conservative, Corporate, Violent	Media	4	4	3		
-Hippies	Fan	Hippies,Puppet	X	Puppet	Group	Liberal, Peaceful, Weird	Green	0/2	4	0		
-Inter-Dimensional Squirrel Agents	Fan	Inter-Dimensional_Squirrel_Agents,Puppet	X	Puppet	Group	Fanatic	Magic, Secret	4/0*	3	3		
-Interpol	Fan	Interpol,Puppet	X	Puppet	Group	Straight	Computer	4/3	6	2		
-KGB	Fan	KGB,Puppet	X	Puppet	Group	Government, Fanatic*, Criminal (sometimes)	Communist, Secret	2/2	6	2		
-Late Night Comics	Fan	Late_Night_Comics,Puppet	X	Puppet	Group	Corporate	Media	3/1	3	2		
-Microelectroinics Manufacturers	Fan	Microelectroinics_Manufacturers,Puppet	X	Puppet	Group	Corporate, Straight	Computer, Science	3	4	2		
-Oil Supertanker	Fan	Oil_Supertanker,Puppet	X	Puppet	Group	Corporate		1*	3	1		
-Private Detective Agencies	Fan	Private_Detective_Agencies,Puppet	X	Puppet	Group	Corporate, Straight		3	4			
-Richard Branson	Fan	Richard_Branson,Puppet	X	Puppet	Group	Corporate, Straight	Media	1	4	1		
-Search Engines	Fan	Search_Engines,Puppet	X	Puppet	Group	Conservative	Computer	1/1	8	0		
-Vampire Hunters	Fan	Vampire_Hunters,Puppet	X	Puppet	Group	Violent, Weird, Fanatic	Magic, Secret	2	8	1		
+Fashion Designers	Fan	Fashion_Designers,Puppet	X	Puppet	Organization	Corporate, Weird, Fanatic	Media	4	7	1		
+Food & Drug Administration	Fan	Food_&_Drug_Administration,Puppet	X	Puppet	Organization	Conservative, Government	Science	3	5	2		
+Fox News Channel	Fan	Fox_News_Channel,Puppet	X	Puppet	Organization	Conservative, Corporate, Violent	Media	4	4	3		
+Hippies	Fan	Hippies,Puppet	X	Puppet	Organization	Liberal, Peaceful, Weird	Green	0/2	4	0		
+Inter-Dimensional Squirrel Agents	Fan	Inter-Dimensional_Squirrel_Agents,Puppet	X	Puppet	Organization	Fanatic	Magic, Secret	4/0*	3	3		
+Interpol	Fan	Interpol,Puppet	X	Puppet	Organization	Straight	Computer	4/3	6	2		
+KGB	Fan	KGB,Puppet	X	Puppet	Organization	Government, Fanatic*, Criminal (sometimes)	Communist, Secret	2/2	6	2		
+Late Night Comics	Fan	Late_Night_Comics,Puppet	X	Puppet	Organization	Corporate	Media	3/1	3	2		
+Microelectroinics Manufacturers	Fan	Microelectroinics_Manufacturers,Puppet	X	Puppet	Organization	Corporate, Straight	Computer, Science	3	4	2		
+Oil Supertanker	Fan	Oil_Supertanker,Puppet	X	Puppet	Organization	Corporate		1*	3	1		
+Private Detective Agencies	Fan	Private_Detective_Agencies,Puppet	X	Puppet	Organization	Corporate, Straight		3	4			
+Richard Branson	Fan	Richard_Branson,Puppet	X	Puppet	Organization	Corporate, Straight	Media	1	4	1		
+Search Engines	Fan	Search_Engines,Puppet	X	Puppet	Organization	Conservative	Computer	1/1	8	0		
+Vampire Hunters	Fan	Vampire_Hunters,Puppet	X	Puppet	Organization	Violent, Weird, Fanatic	Magic, Secret	2	8	1		
 Anti-Christ	Fan	Anti-Christ,Puppet	X	Puppet	Personality	Violent, Fanatic	Church, Secret (Sometimes)	6/6	6	2		
 Barack Obama	Fan	Barack_Obama,Puppet	X	Puppet	Personality	Liberal, Government	Green, Media	5/1	5	3		
 Bob Woodward	Fan	Bob_Woodward,Puppet	X	Puppet	Personality	Straight	Media	1	2	0		

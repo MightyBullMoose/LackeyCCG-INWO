@@ -1,4 +1,4 @@
-INWO	12-08-22
+INWO	12-09-22
 plugins/INWO/version.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/version.txt	30295
 plugins/INWO/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/sets/setimages/general/cardback.jpg	-25264
 plugins/INWO/sets/setimages/general/Master.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/sets/setimages/general/Master.jpg	-47000
@@ -22,7 +22,7 @@ plugins/INWO/packs/OWE_Box.jpg	https://raw.githubusercontent.com/MightyBullMoose
 plugins/INWO/packs/SubGenius.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/packs/SubGenius.jpg	-15493
 plugins/INWO/packs/Unlimited_Booster.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/packs/Unlimited_Booster.jpg	-12265
 plugins/INWO/packs/Unlimited_Booster_Box.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/packs/Unlimited_Booster_Box.jpg	11821
-plugins/INWO/sets/carddata.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/sets/carddata.txt	6757359
+plugins/INWO/sets/carddata.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/sets/carddata.txt	7306599
 plugins/INWO/sounds/atendofturn.wav	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/sounds/atendofturn.wav	58737
 plugins/INWO/sounds/attack.wav	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/sounds/attack.wav	31852
 plugins/INWO/sounds/attacktocontrol.wav	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/sounds/attacktocontrol.wav	79414
