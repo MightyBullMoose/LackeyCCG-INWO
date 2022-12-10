@@ -65,8 +65,7 @@ images/avatars/INWO__Society_of_Assassins.jpg	https://raw.githubusercontent.com/
 images/avatars/INWO__UFOs.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/images/avatars/INWO__UFOs.jpg	1170
 images/avatars/INWO_Angel_Feather.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/images/avatars/INWO_Angel_Feather.jpg	-3573
 images/avatars/INWO_Atomic_Monster.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/images/avatars/INWO_Atomic_Monster.jpg	-598
-images/avatars/INWO_Clipper_Chip.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/images/avatars/INWO_Clipper_Chip.jpg	10785
-images/avatars/INWO_Clipper_Chip_Alt.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/images/avatars/INWO_Clipper_Chip_Alt.jpg	-2892
+images/avatars/INWO_Clipper_Chip.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/images/avatars/INWO_Clipper_Chip.jpg	-2892
 images/avatars/INWO_Crystal_Skull.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/images/avatars/INWO_Crystal_Skull.jpg	5438
 images/avatars/INWO_Grassroots_Support.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/images/avatars/INWO_Grassroots_Support.jpg	-121
 images/avatars/INWO_Hitlers_Brain.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/images/avatars/INWO_Hitlers_Brain.jpg	5776
