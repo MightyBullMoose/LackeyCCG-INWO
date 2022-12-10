@@ -18,24 +18,24 @@ Fan Created Cards
 There were only a few card sets released for the game. The first release was
 "Limited" Edition. This was followed up by Unlimited Edition, which had a
 packaging difference in the booster packs, some typical artwork and card rules
-changes, but was otherwise functionally identical to the Limited Edition.
-There are 3 Promotional cards usually considered to be part of these releases,
-though they did not appear in booster packs.
+changes, but was otherwise functionally identical to the Limited Edition. There
+are 3 Promotional cards usually considered to be part of these releases, though
+they did not appear in booster packs.
 
 The cards in LackeyCCG are listed as Limited Edition and most of the card images
 come from Limited Edition, though a few cards come from Unlimited. The is mostly
 because those are the cards with decent quality images scans available.
 
-Both "Limited" and "Unlimited" Edtion Starters contain 2 Illuminati, 2 Rares, 8
+Both "Limited" and "Unlimited" Edition Starters contain 2 Illuminati, 2 Rares, 8
 Uncommons, 22 Common Groups, 21 Common Plots, and no duplicates within a single
 Starter. They were sold as a pack of two Starters for $9.95.
 
 Both "Limited" and "Unlimited" Edition boosters were sold in Boxes of 60 packs,
-with each pack retailing for $2.25 and a box retailing for $135.00.
-"Limited Edition" Boosters contain 1 Rares, 3 Uncommons, 5 Common Groups and 6
-Common Plots (or vice versa).
-"Unlimited Edition" Boosters contain 2 Rares, 4 Uncommons (1/24 of Uncommons
-being replaced with an Illuminati), 5 Common Groups, and 5 Common Plots.
+with each pack retailing for $2.25 and a box retailing for $135.00. "Limited
+Edition" Boosters contain 1 Rares, 3 Uncommons, 5 Common Groups and 6 Common
+Plots (or vice versa). "Unlimited Edition" Boosters contain 2 Rares, 4 Uncommons
+(1/24 of Uncommons being replaced with an Illuminati), 5 Common Groups, and 5
+Common Plots.
 
 Next was the "One With Everything" set, containing 450 cards and retailing for
 $70.00. It included three of each of the nine Illuminati, one of every other
@@ -50,13 +50,13 @@ of C/U/R, a new Illuminati, and a mix of other cards.
 Assassins was sold in Booster Boxes of 60 Booster Packs, with a Box retailing
 for $84.00 and each booster retailing for $1.40. Each booster contains 1 Rare
 (1/10 of Rares replaced with Ultra-Rares), 2 Uncommons (with the Society of
-Assassins Illuminati beint 33% more common than other Uncommons), and 5 Commons.
+Assassins Illuminati being 33% more common than other Uncommons), and 5 Commons.
 
 "Assassins One With Everything" is a virtual box set; that is, it didn't
 actually exist, but I included it here as a virtual "pack" to go along with the
 OWE and SubGenius box sets. It contains 3 copies of the Society of Assassins
 Illuminati and 1 copy of every other card including the 2 promo cards, for a
-total of 127 cards. A comperable cost to the SubGenius expansion is $21.95.
+total of 127 cards. A comparable cost to the SubGenius expansion is $21.95.
 
 "SubGenius" was a box set of 100 cards which retailed for $16.95. While a few of
 the card themes fit in with the first two expansions, most of the cards are
@@ -67,11 +67,10 @@ Poor quality, though the text is mostly readable.
 The "German" Edition was largely similar to the original Limited Edition. Most
 of the cards were either named the same (but translated into German) or had the
 name changed to fit a German societal theme. For instance, Liquor Companies
-became Breweries while New York City was changed to Frankfurt; the abilities on
+became Breweries, while New York City was changed to Frankfurt; the abilities on
 most cards are either identical or nearly identical. Most German cards are hard
 to come by, even the scans. 22 of the cards are utterly unique to the German
-set,
-and are the only German cards present in LackeyCCG; several of these card
+set, and are the only German cards present in LackeyCCG; several of these card
 scans are of notably poor quality, others are of high quality. All of the German
 cards in LackeyCCG are provided with rules text translation into English.
 
@@ -83,8 +82,8 @@ The "Virtual" set is a handful of cards which were printed in Pyramid Magazine
 article for special play rules for a One Big Deck game.
 
 The "Fan" cards are fan created cards pulled from various sources. They are
-probably completely broken and aunplayable. Or fun. Definately fun. Use them
-at your own risk.
+probably completely broken and unplayable. Or fun. Definately fun. Use them at
+your own risk.
 
 
 --------------------------------------------------------------------------------
@@ -99,7 +98,7 @@ building rules; they are 45 cards, including the Lead Illuminati, and consist of
 a plot and group deck. In addition, in Lackey they have a Lead Cards deck; this
 deck contains the Illuminati card and the lead Group. If more than one Group is
 there consult the companion Text to see which Group is lead and which are
-back-ups in case your lead bounces or which are aternates to play to counter
+back-ups in case your lead bounces or which are alternates to play to counter
 other players Illuminati. Once the Lead Illuminati and Group have been played
 the remaining groups should be moved to the Groups deck and then the Groups deck
 should be shuffled and Hidden (right-click on the deck in Lackey to do this).
@@ -117,9 +116,9 @@ Other than the standalone decks there are two other types of decks to mention:
 --------------------------------------------------------------------------------
 ONE BIG DECK
 --------------------------------------------------------------------------------
-As the name suggests, playes share One Big Deck (two decks, actually, one Shared
-Groups and one shared Plots). There are separate buttons for drawing from the
-Shared decks vs darawing from your own decks. The One Big Decks have a 0BD
+As the name suggests, players share One Big Deck (two decks, actually, one
+Shared Groups and one shared Plots). There are separate buttons for drawing from
+the Shared decks vs drawing from your own decks. The One Big Decks have a 0BD
 prefix (Note: I used a zero "0" instead of the letter "O" here, which causes the
 decks to appear first alphabetically in the deck list).
 
@@ -141,7 +140,7 @@ designed to be balanced against one another and have the limit of only having
 one copy of each card in the original Limited/Unlimited Edition release to build
 decks with (with the exception of the Illuminati cards, three of each were
 included with the OWE box set). Any of these three sets would be a good place
-for a new group of playes to start playing as they are balanced against one
+for a new group of players to start playing as they are balanced against one
 another, are relatively straight-forward, not relying too heavily on tricks or
 combos.
 

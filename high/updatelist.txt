@@ -7,7 +7,7 @@ plugins/INWO/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.co
 plugins/INWO/pluginpreferences.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/pluginpreferences.txt	0
 plugins/INWO/defaultchat.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/defaultchat.txt	70638
 plugins/INWO/plugininfo.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/plugininfo.txt	505402
-plugins/INWO/Read_Me.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/Read_Me.txt	818543
+plugins/INWO/Read_Me.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/Read_Me.txt	818849
 plugins/INWO/bot.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/bot.jpg	-9381
 plugins/INWO/inwo-rules-12.pdf	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/inwo-rules-12.pdf	2702935
 plugins/INWO/packs/packdefinitions1.xml	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/packs/packdefinitions1.xml	1009625
