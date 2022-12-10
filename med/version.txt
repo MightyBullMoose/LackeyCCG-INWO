@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>221209</lastupdateYYMMDD>
+<lastupdateYYMMDD>221210</lastupdateYYMMDD>
 <quality>MEDIUM</quality>
 <versionurl>https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/med/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/med/updatelist.txt</updateurl>
