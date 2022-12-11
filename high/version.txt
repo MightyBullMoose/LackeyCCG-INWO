@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>221210</lastupdateYYMMDD>
+<lastupdateYYMMDD>221212</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/updatelist.txt</updateurl>
-<message></message>
+<message>Added more Link counters</message>
 
 </version>

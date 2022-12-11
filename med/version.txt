@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>221210</lastupdateYYMMDD>
-<quality>MEDIUM</quality>
+<lastupdateYYMMDD>221212</lastupdateYYMMDD>
+<quality>MED</quality>
 <versionurl>https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/med/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/med/updatelist.txt</updateurl>
-<message></message>
+<message>Added more Link counters</message>
 
 </version>

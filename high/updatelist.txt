@@ -1,12 +1,12 @@
-INWO	12-10-22
-plugins/INWO/version.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/version.txt	31032
+INWO	12-12-22
+plugins/INWO/version.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/version.txt	33312
 plugins/INWO/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/sets/setimages/general/cardback.jpg	-25264
 plugins/INWO/sets/setimages/general/Master.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/sets/setimages/general/Master.jpg	-47000
 plugins/INWO/sets/setimages/general/Puppet.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/sets/setimages/general/Puppet.jpg	-48232
 plugins/INWO/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/sets/setimages/general/spawned.jpg	-15860
 plugins/INWO/pluginpreferences.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/pluginpreferences.txt	0
 plugins/INWO/defaultchat.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/defaultchat.txt	70638
-plugins/INWO/plugininfo.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/plugininfo.txt	505402
+plugins/INWO/plugininfo.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/plugininfo.txt	598589
 plugins/INWO/Read_Me.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/Read_Me.txt	818849
 plugins/INWO/bot.jpg	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/bot.jpg	-9381
 plugins/INWO/inwo-rules-12.pdf	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-INWO/main/high/inwo-rules-12.pdf	2702935
