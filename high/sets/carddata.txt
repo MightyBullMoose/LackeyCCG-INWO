@@ -693,7 +693,7 @@ Summit	Virtual	Summit,Master	X	Master	Plot
 The Nine Unknown Men	Virtual	The_Nine_Unknown_Men,Puppet	X	Puppet	Resource	Unique						
 War Crimes Trials	Virtual	War_Crimes_Trials,Master	X	Master	Plot							
 Fashion Designers	Fan	Fashion_Designers,Puppet	X	Puppet	Organization	Corporate, Weird, Fanatic	Media	4	7	1		
-Food & Drug Administration	Fan	Food_&_Drug_Administration,Puppet	X	Puppet	Organization	Conservative, Government	Science	3	5	2		
+Food & Drug Administration	Fan	Food_And_Drug_Administration,Puppet	X	Puppet	Organization	Conservative, Government	Science	3	5	2		
 Fox News Channel	Fan	Fox_News_Channel,Puppet	X	Puppet	Organization	Conservative, Corporate, Violent	Media	4	4	3		
 Hippies	Fan	Hippies,Puppet	X	Puppet	Organization	Liberal, Peaceful, Weird	Green	0/2	4	0		
 Inter-Dimensional Squirrel Agents	Fan	Inter-Dimensional_Squirrel_Agents,Puppet	X	Puppet	Organization	Fanatic	Magic, Secret	4/0*	3	3		
